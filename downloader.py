@@ -14,7 +14,7 @@ from urllib.request import Request, urlopen
 
 BASE_URL = "https://horaeng.com"
 POSTS_API = f"{BASE_URL}/wp-json/wp/v2/posts"
-DEFAULT_OUTPUT_DIR = Path("downloads") / "pdfs"
+DEFAULT_OUTPUT_DIR = Path("data") / "raw"
 START_YEAR = 2020
 
 EXAM_TITLE_RE = re.compile(r"(?P<year>20\d{2})년\s*(?P<month>\d{1,2})월\s*(?P<grade>고\s*[123])")
