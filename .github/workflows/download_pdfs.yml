@@ -25,10 +25,10 @@ jobs:
       - name: Run Python script
         run: |
           # main.py 파일명 및 옵션 경로 확인 후 변경 가능
-          python downloader.py --output-dir downloads/pdfs
+          python downloader.py --output-dir data/raw
 
       - name: Commit and Push downloaded files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: update new exam PDFs"
-          file_pattern: "downloads/pdfs/*.pdf"
+          file_pattern: "data/raw/*.pdf"
