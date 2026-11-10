@@ -72,6 +72,26 @@ class PdfLinks:
 # HTTP Client
 # ============================================================
 
+def quote_url_for_request(url: str) -> str:
+    """Percent-encode a URL for urllib.
+
+    urllib sends the request line as ASCII, so non-ASCII characters
+    (e.g. Korean file names) must be percent-encoded at request time.
+    Encoding here, not during link classification, keeps the raw
+    Korean words in hrefs available for classify_link. Existing
+    escapes are preserved by keeping "%" safe.
+    """
+
+    parsed = urlparse(url)
+
+    return urlunparse(
+        parsed._replace(
+            path=quote(parsed.path, safe="/%"),
+            query=quote(parsed.query, safe="=&%"),
+        )
+    )
+
+
 def http_get(
     url: str,
     *,
@@ -85,7 +105,7 @@ def http_get(
     for attempt in range(retries + 1):
 
         request = Request(
-            url,
+            quote_url_for_request(url),
             headers={"User-Agent": USER_AGENT},
         )
 
@@ -363,15 +383,7 @@ def normalize_download_url(
     if parsed.username or parsed.password:
         return None
 
-    # Percent-encode non-ASCII characters (e.g. Korean file names) so
-    # urllib can send the request line as ASCII. Existing escapes are
-    # preserved by keeping "%" safe.
-    return urlunparse(
-        parsed._replace(
-            path=quote(parsed.path, safe="/%"),
-            query=quote(parsed.query, safe="=&%"),
-        )
-    )
+    return absolute
 
 
 def _links_in_scope(
@@ -592,7 +604,7 @@ def download_pdf(
     try:
 
         request = Request(
-            url,
+            quote_url_for_request(url),
             headers={"User-Agent": USER_AGENT},
         )
 
