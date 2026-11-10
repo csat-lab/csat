@@ -505,28 +505,49 @@ def parse_english_pdfs_from_html(
             candidates.append(node)
 
     # --------------------------------------------------------
-    # 3. Validate complete pairs
+    # 3. Merge the pair across English scopes
     # --------------------------------------------------------
+
+    # Older posts list each English file in its own block
+    # (problem in one block, answer in another), so no single
+    # scope holds both links. Merge across all English-labelled
+    # scopes instead. Only links whose href or anchor text
+    # mentions English are accepted, so a problem link from
+    # another subject can never pair with an English answer
+    # link, and in-page anchors (e.g. "#답지") are excluded.
+
+    merged: dict[str, str] = {}
 
     for scope in candidates:
 
-        links = _links_in_scope(
-            scope,
-            post_url,
-        )
+        for anchor in scope.find_all("a", href=True):
 
-        if (
-            "problem" in links
-            and "answer" in links
-        ):
-
-            return PdfLinks(
-                problem=links["problem"],
-                answer=links["answer"],
+            href = normalize_download_url(
+                str(anchor["href"]),
+                post_url,
             )
 
-    # No cross-region fallback:
-    # avoiding incorrect problem/answer pairing.
+            if not href:
+                continue
+
+            text = anchor.get_text(" ", strip=True)
+
+            combined = f"{href} {text}".lower()
+
+            if "영어" not in combined and "english" not in combined:
+                continue
+
+            kind = classify_link(href, text)
+
+            if kind and kind not in merged:
+                merged[kind] = href
+
+    if "problem" in merged and "answer" in merged:
+
+        return PdfLinks(
+            problem=merged["problem"],
+            answer=merged["answer"],
+        )
 
     return PdfLinks(
         problem=None,
@@ -543,9 +564,12 @@ def build_filename(
     kind: str,
 ) -> str:
 
+    # No zero-padding: matches the file names already in data/raw
+    # (e.g. "2020년_3월_..."), so re-runs skip existing files
+    # instead of downloading duplicates under a second name.
     return (
         f"{exam.year}년_"
-        f"{exam.month:02d}월_"
+        f"{exam.month}월_"
         f"{exam.grade}_"
         f"수능영어_{kind}.pdf"
     )
