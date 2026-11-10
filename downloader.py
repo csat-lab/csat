@@ -15,7 +15,7 @@ from datetime import date
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, urljoin, urlparse, urlunparse
 from urllib.request import Request, urlopen
 
 from bs4 import BeautifulSoup
@@ -363,7 +363,15 @@ def normalize_download_url(
     if parsed.username or parsed.password:
         return None
 
-    return absolute
+    # Percent-encode non-ASCII characters (e.g. Korean file names) so
+    # urllib can send the request line as ASCII. Existing escapes are
+    # preserved by keeping "%" safe.
+    return urlunparse(
+        parsed._replace(
+            path=quote(parsed.path, safe="/%"),
+            query=quote(parsed.query, safe="=&%"),
+        )
+    )
 
 
 def _links_in_scope(
