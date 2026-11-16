@@ -110,7 +110,7 @@
 
 아직 남은 경우:
 
-- 해설 뜻은 확인되나 영어 형태가 덜 확실한 교정 7건은 적용하지 않았다.
+- 해설 뜻은 확인되나 영어 형태가 덜 확실한 교정 7건은 적용하지 않았다. 이후 원문·풀이 자료에서 영어 형태를 확인해 §16에서 7건 모두 수정했다.
   - 2020_M11_H1 42번: crucial → secondary / incidental
   - 2021_M3_H3 42번: proper → limited
   - 2021_M7_H3 42번: rigidity → variability
@@ -167,3 +167,15 @@
 - 2025_M6_H2 41번·42번: narrower → more (해설 더 좁아진→더 많은; more/greater 중 more로 결정)
 
 같은 해설 문서에서 §6의 판단 교정 2건이 명시 쌍으로 확인됐다: 2025_M6_H1 29번 ③ having → have, 2025_M6_H2 29번 ② has → have.
+
+### 16. G? 교정 7건 적용 (2026년 11월 16일)
+
+EBSi 공식 해설은 저장소 답지와 같은 한국어 뜻풀이뿐이라 영어 형태를 확정할 수 없어, 원문과 풀이·한줄해석·변형문제 자료에서 확인해 7건을 수정했다. 42번 교정은 공유 지문이라 41번에도 함께 적용했다.
+
+- 2020_M11_H1 41번·42번: crucial → secondary (Daniel L. Everett, How Language Began 원문 "are secondary to conversation")
+- 2021_M3_H3 41번·42번: proper → limited (교정 지문 인용 "seems a limited perspective")
+- 2021_M7_H3 41번·42번: rigidity → variability (교정 지문 인용 "immediacy and variability of content")
+- 2022_M6_H1 30번: ignoring → envying (원문 에세이 "end up envying how other people live", 올림포스 해설 일치)
+- 2022_M9_H1 41번·42번: encouraged → abandoned (변형문제 4곳 일치 "abandoned that habit")
+- 2022_M11_H1 41번·42번: easier → more difficult (한줄해석 2곳 일치 "was more difficult than he'd anticipated")
+- 2025_M7_H3 41번·42번: acceptable → unacceptable (한줄해석 "feel unacceptable", 최소 교체 반의어. incomprehensible 가능성도 있으나 unacceptable로 결정)
