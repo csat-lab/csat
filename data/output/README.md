@@ -129,3 +129,10 @@
 - 2023_M9_H1 29번: 무표시 `find them being given advice` → 원문 `find themselves being given advice` (④ `themselves` → `them` 교정 유지).
 - 2024_M9_H1 29번: 무표시 `where disallows them` → 원문 `which disallows them` (⑤ `which` → `where` 교정 유지).
 - 2026_M7_H3 29번: 무표시 `mirror that underlying` → 원문 `mirror those underlying` (⑤ `those` → `that` 교정 유지).
+
+### 12. 수정 패스 과적용 교정 (2026년 11월 16일)
+
+전수 감사 수정 패스에서 첫 등장 치환으로 잘못 적용된 2건을 원문대로 되돌렸다. 표시 구간의 교정 자체는 그대로 유지한다.
+
+- 2020_M6_H2 29번: 무표시 `knows what the hard part` → 원문 `knows that the hard part` (⑤ `that` → `what` 교정 유지).
+- 2024_M6_H2 29번: 무표시 `capacity for smile` → 원문 `capacity for smiling` (⑤ `smiling` → `smile` 교정 유지).
