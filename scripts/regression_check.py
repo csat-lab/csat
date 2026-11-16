@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Regression harness for the csat restoration pipeline (phase 1).
+Regression harness for the csat restoration pipeline (phase 2).
 
 Compares rebuilt *_restored.md files against the committed baseline files
 and reports, per file, which items differ. It never writes to the baseline
@@ -10,21 +10,44 @@ Item splitting is sequential: a `N. ` header only counts as an item
 boundary when N is exactly one more than the previous item number. This
 avoids phantom splits from numbered lists inside passages.
 
-Difference classification:
-- expected_format: items 36, 37, 40. The phase 1 port predates the format
-  decisions for these items (Q36/Q37 single joined block, Q40 passage
-  only), so diffs here are recorded, not treated as regressions.
-  Fixing them is phase 2 work.
-- content: every other differing item. Investigated in phase 2.
+Difference classification is structural only: every cause is computed
+from the two item texts and the item number, with no audit evidence and
+no grade assignment (grades live in the local triage tooling, not in
+this harness):
+
+- whitespace_only: equal after whitespace normalization.
+- image_only: equal once image references are stripped; only the
+  image refs differ (phase-3 image assignment).
+- graph_table: a Q25 graph item whose baseline table the rebuild
+  lacks (phase-3 graph tables).
+- notice_layout: a Q27/28 item with the same words modulo line
+  breaks, bullets, dashes, colons, and Hangul spacing.
+- spacing_only: equal once all whitespace is removed (column-break
+  word splits, particle spacing).
+- prompt_only: only the first (prompt) line differs.
+- small_word_diff: a few small token edits (a correction-queue
+  candidate or a wording difference; grade assignment needs audit
+  evidence and is not done here).
+- segment_order: a Q36/37/43/44/45 item whose diff is not explained
+  by the above (segment order or segment content).
+- other: anything else; must be investigated, never assumed benign.
+
+The expected_format/content qnum buckets from phase 1 are kept for
+continuity; the Q36/Q37/Q40 format decisions are implemented since
+phase 2, so those items are classified structurally like the rest.
 
 Exit code is always 0: this script reports, it does not gate.
 """
 import argparse
+import difflib
 import json
 import re
+from collections import Counter
 from pathlib import Path
 
 HEADER_RE = re.compile(r"(?m)^(\d{1,2})\. ")
+IMG_RE = re.compile(r"!\[image\]\(([^)]+)\)")
+BULLETS = set("⦁∙◈▪ㆍ⚫✓✔※•□·")
 EXPECTED_FORMAT_ITEMS = {36, 37, 40}
 
 
@@ -74,6 +97,53 @@ def first_line_diff(a_lines, b_lines):
     return None
 
 
+def _ws_norm(s):
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def classify_item(n, base_body, reb_body):
+    """Structural cause for one differing item (see module docstring)."""
+    if _ws_norm(base_body) == _ws_norm(reb_body):
+        return "whitespace_only"
+    b_ni = _ws_norm(IMG_RE.sub("", base_body))
+    r_ni = _ws_norm(IMG_RE.sub("", reb_body))
+    if b_ni == r_ni:
+        return "image_only"
+    prompt_b = base_body.splitlines()[0] if base_body.splitlines() else ""
+    if n == 25 or "도표" in prompt_b:
+        b_table = [l for l in base_body.splitlines() if l.lstrip().startswith("|")]
+        r_table = [l for l in reb_body.splitlines() if l.lstrip().startswith("|")]
+        if b_table and not r_table:
+            return "graph_table"
+    if n in (27, 28):
+        def bag(s):
+            s = re.sub(r"(?<=[가-힣]) (?=[가-힣])", "", IMG_RE.sub("", s))
+            toks = []
+            for t in _ws_norm(s).split(" "):
+                t = t.strip(":.,!?;\"”’'").strip("".join(BULLETS))
+                if t and t not in ("-", "‐", "–"):
+                    toks.append(t)
+            return Counter(toks)
+        if bag(base_body) == bag(reb_body):
+            return "notice_layout"
+    if re.sub(r"\s+", "", b_ni) == re.sub(r"\s+", "", r_ni):
+        return "spacing_only"
+    b_lines = [l for l in base_body.splitlines() if not IMG_RE.search(l)]
+    r_lines = [l for l in reb_body.splitlines() if not IMG_RE.search(l)]
+    if len(b_lines) == len(r_lines) and b_lines[1:] == r_lines[1:]:
+        return "prompt_only"
+    b_tok, r_tok = b_ni.split(" "), r_ni.split(" ")
+    sm = difflib.SequenceMatcher(None, b_tok, r_tok, autojunk=False)
+    ops = [o for o in sm.get_opcodes() if o[0] != "equal"]
+    if ops and len(ops) <= 3 and all(
+            o[0] in ("replace", "insert", "delete")
+            and (o[2] - o[1]) <= 3 and (o[4] - o[3]) <= 3 for o in ops):
+        return "small_word_diff"
+    if n in (36, 37, 43, 44, 45):
+        return "segment_order"
+    return "other"
+
+
 def compare_files(baseline_text, rebuild_text):
     """Compare one file pair. Returns a per-file result dict."""
     base_items, base_ok = split_items(baseline_text)
@@ -90,6 +160,7 @@ def compare_files(baseline_text, rebuild_text):
             "changed_items": [],
             "expected_format_items": [],
             "content_items": [],
+            "item_causes": {},
             "first_diff": (
                 {"item": None, "line": diff[0],
                  "baseline": diff[1][:200], "rebuild": diff[2][:200]}
@@ -97,15 +168,18 @@ def compare_files(baseline_text, rebuild_text):
             ),
         }
     changed = []
+    causes = {}
     for n in range(1, 46):
         if normalize(base_items[n]) != normalize(reb_items[n]):
             changed.append(n)
+            causes[n] = classify_item(n, base_items[n], reb_items[n])
     if not changed:
         return {
             "status": "identical",
             "changed_items": [],
             "expected_format_items": [],
             "content_items": [],
+            "item_causes": {},
             "first_diff": None,
         }
     expected = [n for n in changed if n in EXPECTED_FORMAT_ITEMS]
@@ -120,6 +194,7 @@ def compare_files(baseline_text, rebuild_text):
         "changed_items": changed,
         "expected_format_items": expected,
         "content_items": content,
+        "item_causes": causes,
         "first_diff": (
             {"item": first, "line": diff[0],
              "baseline": diff[1][:200], "rebuild": diff[2][:200]}
@@ -147,6 +222,11 @@ def build_markdown(report):
     lines.append(f"- Changed items total: {s['changed_items_total']} "
                  f"(expected format: {s['expected_format_items_total']}, "
                  f"content: {s['content_items_total']})")
+    lines.append("")
+    lines.append("## Changed items by structural cause")
+    lines.append("")
+    for cause, n in sorted(s["causes"].items()):
+        lines.append(f"- {cause}: {n}")
     lines.append("")
     lines.append("## Per-file results")
     lines.append("")
@@ -229,6 +309,9 @@ def main():
         "changed_items_total": sum(len(r["changed_items"]) for r in files.values()),
         "expected_format_items_total": sum(len(r["expected_format_items"]) for r in files.values()),
         "content_items_total": sum(len(r["content_items"]) for r in files.values()),
+        "causes": dict(sorted(Counter(
+            cause for r in files.values() for cause in r["item_causes"].values()
+        ).items())),
     }
     report = {
         "baseline_dir": str(baseline_dir),
@@ -251,6 +334,7 @@ def main():
     print(f"Changed items: {summary['changed_items_total']} "
           f"(expected format {summary['expected_format_items_total']}, "
           f"content {summary['content_items_total']})")
+    print("Causes: " + ", ".join(f"{k} {v}" for k, v in summary["causes"].items()))
     print(f"Only in rebuild: {summary['only_in_rebuild']}, "
           f"only in baseline: {summary['only_in_baseline']}")
     print(f"Reports: {output_dir / 'regression_report.json'}")
