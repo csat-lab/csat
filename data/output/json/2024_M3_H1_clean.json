@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 3,
     "grade": "고1",
-    "exam_title": "2024학년도 3월 고1 전국연합학력평가"
+    "exam_title": "2024학년도 3월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2024_M3_H1_restored.md",
+      "questions_pdf": "data/raw/2024년_3월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_3월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -165,9 +170,9 @@
       "original_type": "빈칸 추론",
       "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
       "original_points": 3,
-      "passage": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro-dissent. This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers. In the interviews, the featured leaders are asked about their management techniques, and regularly claim to continually encourage from more junior staffers. As Bot Pittman remarked in one of these conversations: “I want us to listen to these dissenters because they may intend to tell you why we can’t do something, but if you listen hard, what they’re really telling you is what you must do to get something done.”",
+      "passage": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro-dissent. This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers. In the interviews, the featured leaders are asked about their management techniques, and regularly claim to continually encourage internal protest from more junior staffers. As Bot Pittman remarked in one of these conversations: “I want us to listen to these dissenters because they may intend to tell you why we can’t do something, but if you listen hard, what they’re really telling you is what you must do to get something done.”",
       "original_summary": null,
-      "word_count": 134,
+      "word_count": 136,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,
@@ -279,7 +284,7 @@
       "original_type": "문장 삽입",
       "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
       "original_points": 2,
-      "passage": "Research in the 1980s and 1990s, however, demonstrated that the “tongue map” explanation of how we taste was, in fact, totally wrong. The tongue was mapped into separate areas where certain tastes were registered: sweetness at the tip, sourness on the sides, and bitterness at the back of the mouth. As it turns out, the map was a misinterpretation and mistranslation of research conducted in Germany at the turn of the twentieth century. Today, leading taste researchers believe that taste buds are not grouped according to specialty. Sweetness, saltiness, bitterness, and sourness can be tasted everywhere in the mouth, although they may be perceived at a little different intensities at different sites. Moreover, the mechanism at work is not place, but time. It’s not that you taste sweetness at the tip of your tongue, but rather that you register that perception first.",
+      "passage": "The tongue was mapped into separate areas where certain tastes were registered: sweetness at the tip, sourness on the sides, and bitterness at the back of the mouth. Research in the 1980s and 1990s, however, demonstrated that the “tongue map” explanation of how we taste was, in fact, totally wrong. As it turns out, the map was a misinterpretation and mistranslation of research conducted in Germany at the turn of the twentieth century. Today, leading taste researchers believe that taste buds are not grouped according to specialty. Sweetness, saltiness, bitterness, and sourness can be tasted everywhere in the mouth, although they may be perceived at a little different intensities at different sites. Moreover, the mechanism at work is not place, but time. It’s not that you taste sweetness at the tip of your tongue, but rather that you register that perception first.",
       "original_summary": null,
       "word_count": 142,
       "flags": {
@@ -298,7 +303,7 @@
       "original_type": "문장 삽입",
       "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
       "original_points": 2,
-      "passage": "Environmental factors can also determine how the animal will respond during the treatment. No two animals are alike. Animals from the same litter will display some of the same features, but will not be exactly the same as each other; therefore, they may not respond in entirely the same way during a healing session. For instance, a cat in a rescue center will respond very differently than a cat within a domestic home environment. In addition, animals that experience healing for physical illness will react differently than those accepting healing for emotional confusion. With this in mind, every healing session needs to be explored differently, and each healing treatment should be adjusted to suit the specific needs of the animal. You will learn as you go; healing is a constant learning process.",
+      "passage": "No two animals are alike. Animals from the same litter will display some of the same features, but will not be exactly the same as each other; therefore, they may not respond in entirely the same way during a healing session. Environmental factors can also determine how the animal will respond during the treatment. For instance, a cat in a rescue center will respond very differently than a cat within a domestic home environment. In addition, animals that experience healing for physical illness will react differently than those accepting healing for emotional confusion. With this in mind, every healing session needs to be explored differently, and each healing treatment should be adjusted to suit the specific needs of the animal. You will learn as you go; healing is a constant learning process.",
       "original_summary": null,
       "word_count": 132,
       "flags": {

@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 10,
     "grade": "고1",
-    "exam_title": "2024학년도 10월 고1 전국연합학력평가"
+    "exam_title": "2024학년도 10월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2024_M10_H1_restored.md",
+      "questions_pdf": "data/raw/2024년_10월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_10월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [

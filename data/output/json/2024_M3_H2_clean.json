@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 3,
     "grade": "고2",
-    "exam_title": "2024학년도 3월 고2 전국연합학력평가"
+    "exam_title": "2024학년도 3월 고2 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고2/2024_M3_H2_restored.md",
+      "questions_pdf": "data/raw/2024년_3월_고2_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_3월_고2_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -146,9 +151,9 @@
       "original_type": "빈칸 추론",
       "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "Dancers often push themselves to the limits of their physical capabilities. But that push is misguided if it is directed toward accomplishing something physically impossible. For instance, a tall dancer with long feet may wish to perform repetitive vertical jumps to fast music, pointing his feet while in the air and lowering his heels to the floor between jumps. That may be impossible no matter how strong the dancer is. But a short-footed dancer may have no trouble! Another dancer may be struggling to complete a half-turn in the air. Understanding the connection between a rapid turn rate and the alignment of the body close to the rotation axis tells her how to accomplish her turn successfully. In both of these cases, understanding and working within the imposed by nature and described by physical laws allows dancers to work efficiently, minimizing potential risk of injury.",
+      "passage": "Dancers often push themselves to the limits of their physical capabilities. But that push is misguided if it is directed toward accomplishing something physically impossible. For instance, a tall dancer with long feet may wish to perform repetitive vertical jumps to fast music, pointing his feet while in the air and lowering his heels to the floor between jumps. That may be impossible no matter how strong the dancer is. But a short-footed dancer may have no trouble! Another dancer may be struggling to complete a half-turn in the air. Understanding the connection between a rapid turn rate and the alignment of the body close to the rotation axis tells her how to accomplish her turn successfully. In both of these cases, understanding and working within the constraints imposed by nature and described by physical laws allows dancers to work efficiently, minimizing potential risk of injury.",
       "original_summary": null,
-      "word_count": 145,
+      "word_count": 146,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,
@@ -165,9 +170,9 @@
       "original_type": "빈칸 추론",
       "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "We must explore the relationship between children’s film production and consumption habits. The term “children’s film” implies ownership by children — their cinema — but films supposedly made for children have always been, particularly in commercial cinemas. The considerable crossover in audience composition for children’s films can be shown by the fact that, in 2007, eleven Danish children’s and youth films attracted 59 per cent of theatrical admissions, and in 2014, German children’s films comprised seven out of the top twenty films at the national box office. This phenomenon corresponds with a broader, international embrace of what is seemingly children’s culture among audiences of diverse ages. The old prejudice that children’s film is some other realm, separate from (and forever subordinate to) a more legitimate cinema for adults is not supported by the realities of consumption: children’s film is at the heart of contemporary popular culture.",
+      "passage": "We must explore the relationship between children’s film production and consumption habits. The term “children’s film” implies ownership by children — their cinema — but films supposedly made for children have always been consumed by audiences of all ages, particularly in commercial cinemas. The considerable crossover in audience composition for children’s films can be shown by the fact that, in 2007, eleven Danish children’s and youth films attracted 59 per cent of theatrical admissions, and in 2014, German children’s films comprised seven out of the top twenty films at the national box office. This phenomenon corresponds with a broader, international embrace of what is seemingly children’s culture among audiences of diverse ages. The old prejudice that children’s film is some other realm, separate from (and forever subordinate to) a more legitimate cinema for adults is not supported by the realities of consumption: children’s film is at the heart of contemporary popular culture.",
       "original_summary": null,
-      "word_count": 146,
+      "word_count": 152,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,
@@ -184,9 +189,9 @@
       "original_type": "빈칸 추론",
       "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
       "original_points": 3,
-      "passage": "Beethoven’s drive to create something novel is a reflection of his state of curiosity. Our brains experience a sense of reward when we create something new in the process of exploring something uncertain, such as a musical phrase that we’ve never played or heard before. When our curiosity leads to something novel, the resulting reward brings us a sense of pleasure. A number of investigators have modeled how curiosity influences musical composition. In the case of Beethoven, computer modeling focused on the thirty-two piano sonatas written after age thirteen revealed that the musical patterns found in all of Beethoven’s music decreased in later sonatas, while novel patterns, including patterns that were unique to a particular sonata, increased. In other words, Beethoven’s music as his curiosity drove the exploration of new musical ideas. Curiosity is a powerful driver of human creativity.",
+      "passage": "Beethoven’s drive to create something novel is a reflection of his state of curiosity. Our brains experience a sense of reward when we create something new in the process of exploring something uncertain, such as a musical phrase that we’ve never played or heard before. When our curiosity leads to something novel, the resulting reward brings us a sense of pleasure. A number of investigators have modeled how curiosity influences musical composition. In the case of Beethoven, computer modeling focused on the thirty-two piano sonatas written after age thirteen revealed that the musical patterns found in all of Beethoven’s music decreased in later sonatas, while novel patterns, including patterns that were unique to a particular sonata, increased. In other words, Beethoven’s music became less predictable over time as his curiosity drove the exploration of new musical ideas. Curiosity is a powerful driver of human creativity.",
       "original_summary": null,
-      "word_count": 140,
+      "word_count": 145,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,

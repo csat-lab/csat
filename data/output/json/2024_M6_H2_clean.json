@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 6,
     "grade": "고2",
-    "exam_title": "2024학년도 6월 고2 전국연합학력평가"
+    "exam_title": "2024학년도 6월 고2 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고2/2024_M6_H2_restored.md",
+      "questions_pdf": "data/raw/2024년_6월_고2_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_6월_고2_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 3,
-      "passage": "The built-in capacity for smile is proven by the remarkable observation that babies who are congenitally both deaf and blind, who have never seen a human face, also start to smile at around 2 months. However, smiling in blind babies eventually disappears if nothing is done to reinforce it. Without the right feedback, smiling dies out. But here’s a fascinating fact: blind babies will continue to smile if they are cuddled, bounced, nudged, and tickled by an adult ― anything to let them know that they are not alone and that someone cares about them. This social feedback encourages the baby to continue smiling. In this way, early experience operates with our biology to establish social behaviors. In fact, you don’t need the cases of blind babies to make the point. Babies with sight smile more at you when you look at them or, better still, smile back at them.",
+      "passage": "The built-in capacity for smiling is proven by the remarkable observation that babies who are congenitally both deaf and blind, who have never seen a human face, also start to smile at around 2 months. However, smiling in blind babies eventually disappears if nothing is done to reinforce it. Without the right feedback, smiling dies out. But here’s a fascinating fact: blind babies will continue to smile if they are cuddled, bounced, nudged, and tickled by an adult ― anything to let them know that they are not alone and that someone cares about them. This social feedback encourages the baby to continue smiling. In this way, early experience operates with our biology to establish social behaviors. In fact, you don’t need the cases of blind babies to make the point. Babies with sight smile more at you when you look at them or, better still, smile back at them.",
       "original_summary": null,
       "word_count": 150,
       "flags": {

@@ -3,7 +3,12 @@
     "year": 2022,
     "month": 9,
     "grade": "고1",
-    "exam_title": "2022학년도 9월 고1 전국연합학력평가"
+    "exam_title": "2022학년도 9월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2022_M9_H1_restored.md",
+      "questions_pdf": "data/raw/2022년_9월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2022년_9월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 3,
-      "passage": "The human brain, it turns out, have shrunk in mass by about 10 percent since it peaked in size 15,000-30,000 years ago. One possible reason is that many thousands of years ago humans lived in a world of dangerous predators where they had to have their wits about them at all times to avoid being killed. Today, we have effectively domesticated ourselves and many of the tasks of survival ― from avoiding immediate death to building shelters to obtaining food ― have been outsourced to the wider society. We are smaller than our ancestors too, and it is a characteristic of domestic animals that they are generally smaller than their wild cousins. None of this may mean we are dumber ― brain size is not necessarily an indicator of human intelligence ― but it may mean that our brains today are wired up differently, and perhaps more efficiently, than those of our ancestors.",
+      "passage": "The human brain, it turns out, has shrunk in mass by about 10 percent since it peaked in size 15,000-30,000 years ago. One possible reason is that many thousands of years ago humans lived in a world of dangerous predators where they had to have their wits about them at all times to avoid being killed. Today, we have effectively domesticated ourselves and many of the tasks of survival ― from avoiding immediate death to building shelters to obtaining food ― have been outsourced to the wider society. We are smaller than our ancestors too, and it is a characteristic of domestic animals that they are generally smaller than their wild cousins. None of this may mean we are dumber ― brain size is not necessarily an indicator of human intelligence ― but it may mean that our brains today are wired up differently, and perhaps more efficiently, than those of our ancestors.",
       "original_summary": null,
       "word_count": 153,
       "flags": {
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "In a society that rejects the consumption of insects there are some individuals who overcome this rejection, but most will continue with this attitude. It may be very difficult to convince an entire society that insects are totally suitable for consumption. However, there are examples in which this reversal of attitudes about certain foods has happened to an entire society. Several examples in the past 120 years from European-American society are: considering lobster a luxury food instead of a food for servants and prisoners; considering sushi a safe and delicious food; and considering pizza not just a food for the rural poor of Sicily. In Latin American countries, where insects are already consumed, a portion of the population hates their consumption and associates it with poverty. There are also examples of people who have had the habit of consuming them and encouraged that habit due to shame, and because they do not want to be categorized as poor or uncivilized. According to Esther Katz, an anthropologist, if the consumption of insects as a food luxury is to be promoted, there would be more chances that some individuals who do not present this habit overcome ideas under which they were educated. And this could also help to revalue the consumption of insects by those people who already eat them.",
+      "passage": "In a society that rejects the consumption of insects there are some individuals who overcome this rejection, but most will continue with this attitude. It may be very difficult to convince an entire society that insects are totally suitable for consumption. However, there are examples in which this reversal of attitudes about certain foods has happened to an entire society. Several examples in the past 120 years from European-American society are: considering lobster a luxury food instead of a food for servants and prisoners; considering sushi a safe and delicious food; and considering pizza not just a food for the rural poor of Sicily. In Latin American countries, where insects are already consumed, a portion of the population hates their consumption and associates it with poverty. There are also examples of people who have had the habit of consuming them and abandoned that habit due to shame, and because they do not want to be categorized as poor or uncivilized. According to Esther Katz, an anthropologist, if the consumption of insects as a food luxury is to be promoted, there would be more chances that some individuals who do not present this habit overcome ideas under which they were educated. And this could also help to revalue the consumption of insects by those people who already eat them.",
       "original_summary": null,
       "word_count": 218,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

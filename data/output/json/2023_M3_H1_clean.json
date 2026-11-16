@@ -3,7 +3,12 @@
     "year": 2023,
     "month": 3,
     "grade": "고1",
-    "exam_title": "2023학년도 3월 고1 전국연합학력평가"
+    "exam_title": "2023학년도 3월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2023_M3_H1_restored.md",
+      "questions_pdf": "data/raw/2023년_3월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2023년_3월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 3,
-      "passage": "The most noticeable human characteristic projected onto animals is that they can talk in human language. Physically, animal cartoon characters and toys made after animals is also most often deformed in such a way as to resemble humans. This is achieved by showing them with humanlike facial features and deformed front legs to resemble human hands. In more recent animated movies the trend has been to show the animals in a more “natural” way. However, they still use their front legs like human hands (for example, lions can pick up and lift small objects with one paw), and they still talk with an appropriate facial expression. A general strategy that is used to make the animal characters more emotionally appealing, both to children and adults, is to give them enlarged and deformed childlike features.",
+      "passage": "The most noticeable human characteristic projected onto animals is that they can talk in human language. Physically, animal cartoon characters and toys made after animals are also most often deformed in such a way as to resemble humans. This is achieved by showing them with humanlike facial features and deformed front legs to resemble human hands. In more recent animated movies the trend has been to show the animals in a more “natural” way. However, they still use their front legs like human hands (for example, lions can pick up and lift small objects with one paw), and they still talk with an appropriate facial expression. A general strategy that is used to make the animal characters more emotionally appealing, both to children and adults, is to give them enlarged and deformed childlike features.",
       "original_summary": null,
       "word_count": 134,
       "flags": {

@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 3,
     "grade": "고3",
-    "exam_title": "2024학년도 3월 고3 전국연합학력평가"
+    "exam_title": "2024학년도 3월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2024_M3_H3_restored.md",
+      "questions_pdf": "data/raw/2024년_3월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_3월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -260,7 +265,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "Today, historic ideas about integrating nature and urban/suburban space find expression in various interpretations of sustainable urban planning. But Landscape Urbanists find that these designs do not prioritize the natural environment and often involve diverting streams and disrupting natural wetlands. Still others, such as those advocating for “just sustainabilities” or “complete streets,” find that both approaches are overly idealistic and neither pays enough attention to the realities of social dynamics and systemic inequality. However, critics claim that Landscape Urbanists prioritize aesthetic and ecological concerns over human needs. In contrast, New Urbanism is an approach that was popularized in the 1980s and promotes walkable streets, compact design, and mixed-use developments. However, the role of social justice in these approaches remains highly controversial. For example, Landscape Urbanism is a relatively recent planning approach that advocates for native habitat designs that include diverse species and landscapes that require very low resource use.",
+      "passage": "Today, historic ideas about integrating nature and urban/suburban space find expression in various interpretations of sustainable urban planning. However, the role of social justice in these approaches remains highly controversial. For example, Landscape Urbanism is a relatively recent planning approach that advocates for native habitat designs that include diverse species and landscapes that require very low resource use. However, critics claim that Landscape Urbanists prioritize aesthetic and ecological concerns over human needs. In contrast, New Urbanism is an approach that was popularized in the 1980s and promotes walkable streets, compact design, and mixed-use developments. But Landscape Urbanists find that these designs do not prioritize the natural environment and often involve diverting streams and disrupting natural wetlands. Still others, such as those advocating for “just sustainabilities” or “complete streets,” find that both approaches are overly idealistic and neither pays enough attention to the realities of social dynamics and systemic inequality.",
       "original_summary": null,
       "word_count": 149,
       "flags": {

@@ -3,7 +3,12 @@
     "year": 2023,
     "month": 9,
     "grade": "고1",
-    "exam_title": "2023학년도 9월 고1 전국연합학력평가"
+    "exam_title": "2023학년도 9월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2023_M9_H1_restored.md",
+      "questions_pdf": "data/raw/2023년_9월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2023년_9월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 2,
-      "passage": "There is a reason the title “Monday Morning Quarterback” exists. Just read the comments on social media from fans discussing the weekend’s games, and you quickly see how many people believe they could play, coach, and manage sport teams more successfully than those on the field. This goes for the boardroom as well. Students and professionals with years of training and specialized degrees in sport business may also find them being given advice on how to do their jobs from friends, family, or even total strangers without any expertise. Executives in sport management have decades of knowledge and experience in their respective fields. However, many of them face criticism from fans and community members telling them how to run their business. Very few people tell their doctor how to perform surgery or their accountant how to prepare their taxes, but many people provide feedback on how sport organizations should be managed.",
+      "passage": "There is a reason the title “Monday Morning Quarterback” exists. Just read the comments on social media from fans discussing the weekend’s games, and you quickly see how many people believe they could play, coach, and manage sport teams more successfully than those on the field. This goes for the boardroom as well. Students and professionals with years of training and specialized degrees in sport business may also find themselves being given advice on how to do their jobs from friends, family, or even total strangers without any expertise. Executives in sport management have decades of knowledge and experience in their respective fields. However, many of them face criticism from fans and community members telling them how to run their business. Very few people tell their doctor how to perform surgery or their accountant how to prepare their taxes, but many people provide feedback on how sport organizations should be managed.",
       "original_summary": null,
       "word_count": 151,
       "flags": {

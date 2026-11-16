@@ -3,7 +3,12 @@
     "year": 2022,
     "month": 7,
     "grade": "고3",
-    "exam_title": "2022학년도 7월 고3 전국연합학력평가"
+    "exam_title": "2022학년도 7월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2022_M7_H3_restored.md",
+      "questions_pdf": "data/raw/2022년_7월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2022년_7월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
