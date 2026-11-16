@@ -1,11 +1,18 @@
+# 수정안 (2026-11-16):
+# 1. 경로 필터: data/output/*.md 는 학년 하위 폴더(고1/고2/고3)에 닿지 않으므로 **/*.md 로 수정.
+# 2. workflow_run 트리거 추가: 파싱 워크플로의 봇 커밋은 GITHUB_TOKEN이라 push 트리거를
+#    깨우지 못하므로, 파싱 완료 뒤 자동 검증을 위해 workflow_run으로 연결한다.
 name: Verify Restored Markdown
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Parse exam PDFs with kordoc"]
+    types: [completed]
   push:
     paths:
       - "data/raw/md/*.md"
-      - "data/output/*.md"
+      - "data/output/**/*.md"
       - "scripts/verify_restoration.py"
 
 permissions:
@@ -43,4 +50,3 @@ jobs:
           else
             echo "Creating new issue..."
             gh issue create --title "$ISSUE_TITLE" --body-file /tmp/verify_issue_body.md
-          fi
