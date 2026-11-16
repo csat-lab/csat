@@ -1,116 +1,169 @@
-# data/raw/ PDF를 kordoc으로 파싱해 data/raw/md/에 원본 md를 만드는 워크플로.
-#
-# 설치: GitHub 웹에서 .github/workflows/parse-pdfs.yml 로 새 파일을 만들거나,
-#       로컬 git으로 같은 경로에 넣고 push한다.
-# 실행: Actions 탭 -> "Parse exam PDFs with kordoc" -> Run workflow.
-# 출력: data/raw/md/<PDF 파일명>.md (이미 md가 있으면 건너뛰고, force 입력 시 다시 파싱)
-# 주의: 결과물은 원문 파싱본이다. data/output/ 복원본은 별도 파이프라인 결과물.
+import difflib
+import os
+import re
+from pathlib import Path
 
-name: Parse exam PDFs with kordoc
+RAW_DIR = Path("data/raw/md")
+OUT_DIR = Path("data/output")
+SUMMARY_PATH = os.environ.get("GITHUB_STEP_SUMMARY")
+GITHUB_OUTPUT_PATH = os.environ.get("GITHUB_OUTPUT")
+ISSUE_BODY_PATH = Path("/tmp/verify_issue_body.md")
 
-on:
-  workflow_dispatch:
-    inputs:
-      pattern:
-        description: "파일명 부분 문자열 (비우면 전체 PDF)"
-        required: false
-        default: ""
-        type: string
-      force:
-        description: "이미 md가 있는 PDF도 다시 파싱"
-        required: false
-        default: false
-        type: boolean
-  # 매주 다운로드 뒤 자동 파싱을 원하면 아래 주석을 해제한다.
-  # workflow_run:
-  #   workflows: ["Download Horaeng English Exam PDFs"]
-  #   types: [completed]
 
-permissions:
-  contents: write
+def normalize_text(text: str) -> str:
+    """마크다운 문법, 여백, 줄바꿈 차이를 정규화하여 순수 텍스트 비교 준비"""
+    text = re.sub(r"^---\n.*?\n---\n", "", text, flags=re.DOTALL)
+    text = re.sub(r"[#*>`_\-\[\]()]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
-concurrency:
-  group: kordoc-parse
-  cancel-in-progress: false
 
-jobs:
-  parse:
-    runs-on: ubuntu-latest
-    timeout-minutes: 360
-    steps:
-      - uses: actions/checkout@v4
+def extract_question_numbers(text: str) -> set[int]:
+    """영어 영역 문항 번호(18~45번) 추출"""
+    matches = re.findall(r"(?:^|\s)(1[89]|[23]\d|4[0-5])\.", text)
+    return {int(m) for m in matches}
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "22"
 
-      - name: Install kordoc
-        run: |
-          npm install -g kordoc@4.24.47
-          # 이미지 OCR용 onnxruntime-node를 kordoc 폴더 안에 설치
-          (cd "$(npm root -g)/kordoc" && npm install onnxruntime-node@^1.24.0)
-          kordoc --version
+def calculate_token_recall(raw_norm: str, out_norm: str) -> float:
+    """원본(raw)의 단어들이 복원본(output)에 유실 없이 보존되었는지 계산 (0~100%)"""
+    raw_words = re.findall(r"[A-Za-z0-9가-힣]+", raw_norm.lower())
+    out_words = set(re.findall(r"[A-Za-z0-9가-힣]+", out_norm.lower()))
+    if not raw_words:
+        return 0.0
+    preserved = sum(1 for w in raw_words if w in out_words)
+    return (preserved / len(raw_words)) * 100
 
-      - name: Select PDFs to parse
-        id: select
-        env:
-          INPUT_PATTERN: ${{ inputs.pattern }}
-          INPUT_FORCE: ${{ inputs.force }}
-        run: |
-          mkdir -p data/raw/md
-          : > /tmp/to_parse.txt
-          skipped=0
-          for pdf in data/raw/*.pdf; do
-            [ -f "$pdf" ] || continue
-            # %PDF 매직 바이트가 없는 파일(HTML 오기 등)은 건너뛴다
-            if ! head -c 4 "$pdf" | grep -q "%PDF"; then
-              echo "skip (not a PDF): $pdf"; skipped=$((skipped+1)); continue
-            fi
-            stem="$(basename "$pdf" .pdf)"
-            if [ -n "$INPUT_PATTERN" ]; then
-              case "$stem" in *"$INPUT_PATTERN"*) ;; *) continue;; esac
-            fi
-            if [ "$INPUT_FORCE" != "true" ] && [ -f "data/raw/md/$stem.md" ]; then
-              skipped=$((skipped+1)); continue
-            fi
-            printf '%s\0' "$pdf" >> /tmp/to_parse.txt
-          done
-          count=$(tr -cd '\0' < /tmp/to_parse.txt | wc -c)
-          echo "count=$count" >> "$GITHUB_OUTPUT"
-          echo "skipped=$skipped" >> "$GITHUB_OUTPUT"
-          echo "To parse: $count, skipped: $skipped"
 
-      - name: Parse with kordoc
-        if: steps.select.outputs.count != '0'
-        run: |
-          # --jobs 2: 러너 4코어 기준 OCR 메모리 여유를 둔 값. 느리면 4까지 올려도 된다.
-          # --ocr: 텍스트층 없는 스캔/이미지 페이지만 OCR (모델 약 18MB 첫 실행 시 다운로드).
-          # 2단 시험지에서 표 감지가 읽기 순서를 뒤집을 경우 --no-tables 추가를 검토한다.
-          xargs -0 -a /tmp/to_parse.txt kordoc --jobs 2 --ocr -d data/raw/md
-          echo "Parsed files: $(ls data/raw/md/*.md 2>/dev/null | wc -l)"
+def set_github_output(name: str, value: str) -> None:
+    if GITHUB_OUTPUT_PATH:
+        with open(GITHUB_OUTPUT_PATH, "a", encoding="utf-8") as f:
+            f.write(f"{name}={value}\n")
 
-      - name: Commit parsed markdown
-        # 중간에 일부 파일이 실패하더라도 그전까지 파싱된 결과물은 안전하게 저장
-        if: always() && steps.select.outputs.count != '0'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw/md
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Parse exam PDFs with kordoc ($(date -u +%Y-%m-%d))"
-            git pull --rebase -X ours
-            git push
-          fi
 
-      - name: Summary
-        if: always()
-        run: |
-          {
-            echo "## kordoc 파싱 결과"
-            echo ""
-            echo "- 파싱 대상: ${{ steps.select.outputs.count }}개"
-            echo "- 건너뜀: ${{ steps.select.outputs.skipped }}개"
-            echo "- data/raw/md/*.md 총: $(ls data/raw/md/*.md 2>/dev/null | wc -l)개"
-          } >> "$GITHUB_STEP_SUMMARY"
+def verify_all() -> None:
+    if not RAW_DIR.exists():
+        print("❌ `data/raw/md` 디렉터리가 존재하지 않습니다.")
+        set_github_output("has_issues", "false")
+        return
+
+    raw_files = sorted(RAW_DIR.glob("*.md"))
+    if not raw_files:
+        print("⚠️ `data/raw/md`에 비교할 `.md` 파일이 없습니다.")
+        set_github_output("has_issues", "false")
+        return
+
+    results = []
+    missing_outputs = []
+    low_quality_files = []
+
+    for raw_path in raw_files:
+        out_path = OUT_DIR / raw_path.name
+        if not out_path.exists():
+            missing_outputs.append(raw_path.name)
+            continue
+
+        raw_text = raw_path.read_text(encoding="utf-8", errors="ignore")
+        out_text = out_path.read_text(encoding="utf-8", errors="ignore")
+
+        raw_norm = normalize_text(raw_text)
+        out_norm = normalize_text(out_text)
+
+        recall = calculate_token_recall(raw_norm, out_norm)
+        similarity = difflib.SequenceMatcher(None, raw_norm, out_norm).ratio() * 100
+        len_ratio = (len(out_norm) / len(raw_norm) * 100) if raw_norm else 0.0
+
+        raw_q = extract_question_numbers(raw_text)
+        out_q = extract_question_numbers(out_text)
+        missing_q = sorted(raw_q - out_q)
+
+        if recall < 85.0 or len_ratio < 50.0 or missing_q:
+            status = "⚠️ 확인 필요"
+            low_quality_files.append(
+                {
+                    "name": raw_path.name,
+                    "recall": recall,
+                    "similarity": similarity,
+                    "len_ratio": len_ratio,
+                    "missing_q": ", ".join(map(str, missing_q)) if missing_q else "-",
+                }
+            )
+        else:
+            status = "✅ 정상"
+
+        results.append(
+            {
+                "name": raw_path.name,
+                "status": status,
+                "recall": recall,
+                "similarity": similarity,
+                "len_ratio": len_ratio,
+                "missing_q": ", ".join(map(str, missing_q)) if missing_q else "-",
+            }
+        )
+
+    # 1. Summary용 전체 리포트 생성
+    summary_lines = [
+        "## 📊 수능 영어 원문 복원율 검증 리포트",
+        "",
+        f"- **전체 원본 파일 (`data/raw/md`)**: {len(raw_files)}개",
+        f"- **복원 완료 파일 (`data/output`)**: {len(results)}개",
+        f"- **복원본 미생성 파일**: {len(missing_outputs)}개",
+        f"- **주의/확인 필요 파일**: {len(low_quality_files)}개",
+        "",
+    ]
+
+    if missing_outputs:
+        summary_lines.append("### ❌ `data/output/`에 없는 파일 목록")
+        for name in missing_outputs:
+            summary_lines.append(f"- `{name}`")
+        summary_lines.append("")
+
+    if results:
+        summary_lines.extend(
+            [
+                "### 📋 파일별 상세 복원율",
+                "",
+                "| 상태 | 파일명 | 원문 보존율(Recall) | 구조 유사도 | 길이 비율 | 누락 의심 문항 |",
+                "| :---: | :--- | :---: | :---: | :---: | :---: |",
+            ]
+        )
+        for r in results:
+            summary_lines.append(
+                f"| {r['status']} | `{r['name']}` | **{r['recall']:.1f}%** | "
+                f"{r['similarity']:.1f}% | {r['len_ratio']:.1f}% | {r['missing_q']} |"
+            )
+
+    report = "\n".join(summary_lines)
+    print(report)
+
+    if SUMMARY_PATH:
+        with open(SUMMARY_PATH, "a", encoding="utf-8") as f:
+            f.write("\n" + report + "\n")
+
+    # 2. 문제가 있는 파일만 추려서 GitHub Issue 본문 생성
+    has_issues = bool(low_quality_files or missing_outputs)
+    set_github_output("has_issues", "true" if has_issues else "false")
+    set_github_output("issue_count", str(len(low_quality_files) + len(missing_outputs)))
+
+    if has_issues:
+        issue_lines = [
+            "원문 복원 파이프라인 검증 중 **원문 보존율 저하(85% 미만), 문항 누락, 또는 미생성 파일**이 감지되었습니다.",
+            "",
+        ]
+        if low_quality_files:
+            issue_lines.extend(
+                [
+                    "### ⚠️ 품질 확인 필요 파일",
+                    "",
+                    "| 파일명 | 원문 보존율 | 구조 유사도 | 길이 비율 | 누락 의심 문항 |",
+                    "| :--- | :---: | :---: | :---: | :---: |",
+                ]
+            )
+            for item in low_quality_files:
+                issue_lines.append(
+                    f"| `{item['name']}` | **{item['recall']:.1f}%** | "
+                    f"{item['similarity']:.1f}% | {item['len_ratio']:.1f}% | {item['missing_q']} |"
+                )
+            issue_lines.append("")
+
+        if missing_outputs
