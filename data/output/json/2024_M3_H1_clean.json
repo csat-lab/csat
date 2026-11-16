@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2024,
+    "month": 3,
+    "grade": "고1",
+    "exam_title": "2024학년도 3월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2024-M3-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Magic is what we all wish for to happen in our life. Do you love the movie Cinderella like me? Well, in real life, you can also create magic. Here’s the trick. Write down all the real-time challenges that you face and deal with. Just change the challenge statement into positive statements. Let me give you an example here. If you struggle with getting up early in the morning, then write a positive statement such as “I get up early in the morning at 5:00 am every day.” Once you write these statements, get ready to witness magic and confidence. You will be surprised that just by writing these statements, there is a shift in the way you think and act. Suddenly you feel more powerful and positive.",
+      "original_summary": null,
+      "word_count": 128,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 push animal senses into Aristotelian buckets가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Consider the seemingly simple question How many senses are there? Around 2,370 years ago, Aristotle wrote that there are five, in both humans and animals — sight, hearing, smell, taste, and touch. However, according to the philosopher Fiona Macpherson, there are reasons to doubt it. For a start, Aristotle missed a few in humans: the perception of your own body which is different from touch and the sense of balance which has links to both touch and vision. Other animals have senses that are even harder to categorize. Many vertebrates have a different sense system for detecting odors. Some snakes can detect the body heat of their prey. These examples tell us that “senses cannot be clearly divided into a limited number of specific kinds,” Macpherson wrote in The Senses. Instead of trying to push animal senses into Aristotelian buckets, we should study them for what they are.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When we think of leaders, we may think of people such as Abraham Lincoln or Martin Luther King, Jr. If you consider the historical importance and far-reaching influence of these individuals, leadership might seem like a noble and high goal. But like all of us, these people started out as students, workers, and citizens who possessed ideas about how some aspect of daily life could be improved on a larger scale. Through diligence and experience, they improved upon their ideas by sharing them with others, seeking their opinions and feedback and constantly looking for the best way to accomplish goals for a group. Thus we all have the potential to be leaders at school, in our communities, and at work, regardless of age or experience.",
+      "original_summary": null,
+      "word_count": 125,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Crop rotation is the process in which farmers change the crops they grow in their fields in a special order. For example, if a farmer has three fields, he or she may grow carrots in the first field, green beans in the second, and tomatoes in the third. The next year, green beans will be in the first field, tomatoes in the second field, and carrots will be in the third. In year three, the crops will rotate again. By the fourth year, the crops will go back to their original order. Each crop enriches the soil for the next crop. This type of farming is sustainable because the soil stays healthy.",
+      "original_summary": null,
+      "word_count": 112,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Working around the whole painting, rather than concentrating on one area at a time, will mean you can stop at any point and the painting can be considered “finished.” Artists often find it difficult to know when to stop painting, and it can be tempting to keep on adding more to your work. It is important to take a few steps back from the painting from time to time to assess your progress. Putting too much into a painting can spoil its impact and leave it looking overworked. If you find yourself struggling to decide whether you have finished, take a break and come back to it later with fresh eyes. Then you can decide whether any areas of your painting would benefit from further refinement.",
+      "original_summary": null,
+      "word_count": 126,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "It would be hard to overstate how important meaningful work is to human beings — work that provides a sense of fulfillment and empowerment. Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and count their employment as one of their greatest sources of joy and pride. Sonya Lyubomirsky, professor of psychology at the University of California, has conducted numerous workplace studies showing that when people are more fulfilled on the job, they not only produce higher quality work and a greater output, but also generally earn higher incomes. Those most satisfied with their work are also much more likely to be happier with their lives overall. For her book Happiness at Work, researcher Jessica Pryce-Jones conducted a study of 3,000 workers in seventy-nine countries, finding that those who took greater satisfaction from their work were 150 percent more likely to have a happier life overall.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "The rate of speed at which one is traveling will greatly determine the ability to process detail in the environment. In evolutionary terms, human senses are adapted to the speed at which humans move through space under their own power while walking. Our ability to distinguish detail in the environment is therefore ideally suited to movement at speeds of perhaps five miles per hour and under. The fastest users of the street, motorists, therefore have a much more limited ability to process details along the street ― a motorist simply has little time or ability to appreciate design details. On the other hand, pedestrian travel, being much slower, allows for the appreciation of environmental detail. Joggers and bicyclists fall somewhere in between these polar opposites; while they travel faster than pedestrians, their rate of speed is ordinarily much slower than that of the typical motorist.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Every species has certain climatic requirements — what degree of heat or cold it can endure, for example. When the climate changes, the places that satisfy those requirements change, too. Species are forced to follow. All creatures are capable of some degree of movement. Even creatures that appear immobile, like trees and barnacles, are capable of dispersal at some stage of their life — as a seed, in the case of the tree, or as a larva, in the case of the barnacle. A creature must get from the place it is born — often occupied by its parent — to a place where it can survive, grow, and reproduce. From fossils, scientists know that even creatures like trees moved with surprising speed during past periods of climate change.",
+      "original_summary": null,
+      "word_count": 129,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "No respectable boss would say, “I make it a point to discourage my staff from speaking up, and I maintain a culture that prevents disagreeing viewpoints from ever getting aired.” If anything, most bosses even say that they are pro-dissent. This idea can be found throughout the series of conversations with corporate, university, and nonprofit leaders, published weekly in the business sections of newspapers. In the interviews, the featured leaders are asked about their management techniques, and regularly claim to continually encourage from more junior staffers. As Bot Pittman remarked in one of these conversations: “I want us to listen to these dissenters because they may intend to tell you why we can’t do something, but if you listen hard, what they’re really telling you is what you must do to get something done.”",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One of the most striking characteristics of a sleeping animal or person is that they do not respond normally to environmental stimuli. If you open the eyelids of a sleeping mammal the eyes will not see normally — they are functionally blind. Some visual information apparently gets in, but it is not normally processed as it is shortened or weakened; same with the other sensing systems. Stimuli are registered but not processed normally and they fail to wake the individual. Perceptual disengagement probably serves the function of protecting sleep, so some authors do not count it as part of the definition of sleep itself. But as sleep would be impossible without it, it seems essential to its definition. Nevertheless, many animals (including humans) use the intermediate state of drowsiness to derive some benefits of sleep without total perceptual disengagement.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A number of research studies have shown how experts in a field often experience difficulties when introducing newcomers to that field. For example, in a genuine training situation, Dr Pamela Hinds found that people expert in using mobile phones were remarkably less accurate than novice phone users in judging how long it takes people to learn to use the phones. Experts can become insensitive to how hard a task is for the beginner, an effect referred to as the ‘curse of knowledge’. Dr Hinds was able to show that as people acquired the skill, they then began to underestimate the level of difficulty of that skill. Her participants even underestimated how long it had taken themselves to acquire that skill in an earlier session. Knowing that experts forget how hard it was for them to learn, we can understand the need to look at the learning process through students’ eyes, rather than making assumptions about how students ‘should be’ learning.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "A group of psychologists studied individuals with severe mental illness who experienced weekly group music therapy, including singing familiar songs and composing original songs. - The results showed that the group music therapy improved the quality of participants’ life, with those participating in a greater number of sessions experiencing the greatest benefits. - Focusing on singing, another group of psychologists reviewed articles on the efficacy of group singing as a mental health treatment for individuals living with a mental health condition in a community setting. The findings showed that, when people with mental health conditions participated in a choir, their mental health and wellbeing significantly improved. The negative effects of music were greater than the psychologists expected. Group singing provided enjoyment, improved emotional states, developed a sense of belonging and enhanced self-confidence.",
+      "original_summary": null,
+      "word_count": 132,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In many sports, people realized the difficulties and even impossibilities of young children participating fully in many adult sport environments. They found the road to success for young children is unlikely if they play on adult fields, courts or arenas with equipment that is too large, too heavy or too fast for them to handle while trying to compete in adult-style competition. Common sense has prevailed: different sports have made adaptations for children As examples, baseball has T ball, football has flag football and junior soccer uses a smaller and lighter ball and (sometimes) a smaller field. All have junior competitive structures where children play for shorter time periods and often in smaller teams In a similar way, tennis has adapted the court areas, balls and rackets to make them more appropriate for children under 10. The adaptations are progressive and relate to the age of the child",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "With no horses available, the Inca empire excelled at delivering messages on foot. The messengers were stationed on the royal roads to deliver the Inca king’s orders and reports coming from his lands. Called Chasquis, they lived in groups of four to six in huts, placed from one to two miles apart along the roads They were all young men and especially good runners who watched the road in both directions. If they caught sight of another messenger coming, they hurried out to meet them. The Inca built the huts on high ground, in sight of one another When a messenger neared the next hut, he began to call out and repeated the message three or four times to the one who was running out to meet him. The Inca empire could relay messages 1,000 miles (1,610 km) in three or four days under good conditions",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Research in the 1980s and 1990s, however, demonstrated that the “tongue map” explanation of how we taste was, in fact, totally wrong. The tongue was mapped into separate areas where certain tastes were registered: sweetness at the tip, sourness on the sides, and bitterness at the back of the mouth. As it turns out, the map was a misinterpretation and mistranslation of research conducted in Germany at the turn of the twentieth century. Today, leading taste researchers believe that taste buds are not grouped according to specialty. Sweetness, saltiness, bitterness, and sourness can be tasted everywhere in the mouth, although they may be perceived at a little different intensities at different sites. Moreover, the mechanism at work is not place, but time. It’s not that you taste sweetness at the tip of your tongue, but rather that you register that perception first.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Environmental factors can also determine how the animal will respond during the treatment. No two animals are alike. Animals from the same litter will display some of the same features, but will not be exactly the same as each other; therefore, they may not respond in entirely the same way during a healing session. For instance, a cat in a rescue center will respond very differently than a cat within a domestic home environment. In addition, animals that experience healing for physical illness will react differently than those accepting healing for emotional confusion. With this in mind, every healing session needs to be explored differently, and each healing treatment should be adjusted to suit the specific needs of the animal. You will learn as you go; healing is a constant learning process.",
+      "original_summary": null,
+      "word_count": 132,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The mind has parts that are known as the conscious mind and the subconscious mind. The subconscious mind is very fast to act and doesn’t deal with emotions. It deals with memories of your responses to life, your memories and recognition. However, the conscious mind is the one that you have more control over. You think. You can choose whether to carry on a thought or to add emotion to it and this is the part of your mind that lets you down frequently because — fueled by emotions — you make the wrong decisions time and time again. When your judgment is clouded by emotions, this puts in biases and all kinds of other negativities that hold you back. Scared of spiders? Scared of the dark? There are reasons for all of these fears, but they originate in the conscious mind. They only become real fears when the subconscious mind records your reactions.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Norms are everywhere, defining what is “normal” and guiding our interpretations of social life at every turn. As a simple example, there is a norm in Anglo society to say Thank you to strangers who have just done something to help, such as open a door for you, point out that you’ve just dropped something, or give you directions. There is no law that forces you to say Thank you. But if people don’t say Thank you in these cases it is marked. People expect that you will say it. You become responsible. Failing to say it will be both surprising and worthy of criticism. Not knowing the norms of another community is the central problem of cross-cultural communication. To continue the Thank you example, even though another culture may have an expression that appears translatable (many don’t), there may be different norms for its usage, for example, such that you should say Thank you only when the cost someone has caused is considerable. In such a case it would sound ridiculous (i.e., unexpected, surprising, and worthy of criticism) if you were to thank someone for something so minor as holding a door open for you.",
+      "original_summary": null,
+      "word_count": 196,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

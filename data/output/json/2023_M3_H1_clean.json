@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2023,
+    "month": 3,
+    "grade": "고1",
+    "exam_title": "2023학년도 3월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2023-M3-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It is difficult for any of us to maintain a constant level of attention throughout our working day. We all have body rhythms characterised by peaks and valleys of energy and alertness. You will achieve more, and feel confident as a benefit, if you schedule your most demanding tasks at times when you are best able to cope with them. If you haven’t thought about energy peaks before, take a few days to observe yourself. Try to note the times when you are at your best. We are all different. For some, the peak will come first thing in the morning, but for others it may take a while to warm up.",
+      "original_summary": null,
+      "word_count": 112,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 The divorce of the hands from the head가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "If we adopt technology, we need to pay its costs. Thousands of traditional livelihoods have been pushed aside by progress, and the lifestyles around those jobs removed. Hundreds of millions of humans today work at jobs they hate, producing things they have no love for. Sometimes these jobs cause physical pain, disability, or chronic disease. Technology creates many new jobs that are certainly dangerous. At the same time, mass education and media train humans to avoid low-tech physical work, to seek jobs working in the digital world. The divorce of the hands from the head puts a stress on the human mind. Indeed, the sedentary nature of the best-paying jobs is a health risk ─ for body and mind.",
+      "original_summary": null,
+      "word_count": 119,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When students are starting their college life, they may approach every course, test, or learning task the same way, using what we like to call “the rubber-stamp approach.” Think about it this way: Would you wear a tuxedo to a baseball game? A colorful dress to a funeral? A bathing suit to religious services? Probably not. You know there’s appropriate dress for different occasions and settings. Skillful learners know that “putting on the same clothes” won’t work for every class. They are flexible learners. They have different strategies and know when to use them. They know that you study for multiple-choice tests differently than you study for essay tests. And they not only know what to do, but they also know how to do it.",
+      "original_summary": null,
+      "word_count": 125,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "As the social and economic situation of countries got better, wage levels and working conditions improved. Gradually people were given more time off. At the same time, forms of transport improved and it became faster and cheaper to get to places. England’s industrial revolution led to many of these changes. Railways, in the nineteenth century, opened up now famous seaside resorts such as Blackpool and Brighton. With the railways came many large hotels. In Canada, for example, the new coast-to-coast railway system made possible the building of such famous hotels as Banff Springs and Chateau Lake Louise in the Rockies. Later, the arrival of air transport opened up more of the world and led to tourism growth.",
+      "original_summary": null,
+      "word_count": 117,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Success can lead you off your intended path and into a comfortable rut. If you are good at something and are well rewarded for doing it, you may want to keep doing it even if you stop enjoying it. The danger is that one day you look around and realize you’re so deep in this comfortable rut that you can no longer see the sun or breathe fresh air; the sides of the rut have become so slippery that it would take a superhuman effort to climb out; and, effectively, you’re stuck. And it’s a situation that many working people worry they’re in now. The poor employment market has left them feeling locked in what may be a secure, or even well-paying — but ultimately unsatisfying — job.",
+      "original_summary": null,
+      "word_count": 128,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The most noticeable human characteristic projected onto animals is that they can talk in human language. Physically, animal cartoon characters and toys made after animals is also most often deformed in such a way as to resemble humans. This is achieved by showing them with humanlike facial features and deformed front legs to resemble human hands. In more recent animated movies the trend has been to show the animals in a more “natural” way. However, they still use their front legs like human hands (for example, lions can pick up and lift small objects with one paw), and they still talk with an appropriate facial expression. A general strategy that is used to make the animal characters more emotionally appealing, both to children and adults, is to give them enlarged and deformed childlike features.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "The major philosophical shift in the idea of selling came when industrial societies became more affluent, more competitive, and more geographically spread out during the 1940s and 1950s. This forced business to develop closer relations with buyers and clients, which in turn made business realize that it was not enough to produce a quality product at a reasonable price. In fact, it was equally essential to deliver products that customers actually wanted. Henry Ford produced his best-selling T-model Ford in one color only (black) in 1908, but in modern societies this was no longer possible. The modernization of society led to a marketing revolution that destroyed major the view that production would create its own demand. Customers, and the desire to meet their diverse and often complex needs, became the focus of business.",
+      "original_summary": null,
+      "word_count": 133,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "People differ in how quickly they can reset their biological clocks to overcome jet lag, and the speed of recovery depends on the direction of travel. Generally, it’s easier to fly westward and lengthen your day than it is to fly eastward and shorten it. This east-west difference in jet lag is sizable enough to have an impact on the performance of sports teams. Studies have found that teams flying westward perform significantly better than teams flying eastward in professional baseball and college football. A more recent study of more than 46,000 Major League Baseball games found additional evidence that eastward travel is tougher than westward travel.",
+      "original_summary": null,
+      "word_count": 107,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "If you want the confidence that comes from achieving what you set out to do each day, then it’s important to understand how long things are going to take. Over-optimism about what can be achieved within a certain time frame is a problem. So work on it. Make a practice of estimating the amount of time needed alongside items on your ‘things to do’ list, and learn by experience when tasks take a greater or lesser time than expected. Give attention also to fitting the task to the available time. There are some tasks that you can only set about if you have a significant amount of time available. There is no point in trying to gear up for such a task when you only have a short period available. So schedule the time you need for the longer tasks and put the short tasks into the spare moments in between.",
+      "original_summary": null,
+      "word_count": 151,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In Lewis Carroll’s Through the Looking-Glass, the Red Queen takes Alice on a race through the countryside. They run and they run, but then Alice discovers that they’re still under the same tree that they started from. The Red Queen explains to Alice: “here, you see, it takes all the running you can do, to keep in the same place.” Biologists sometimes use this Red Queen Effect to explain an evolutionary principle. If foxes evolve to run faster so they can catch more rabbits, then only the fastest rabbits will live long enough to make a new generation of bunnies that run even faster — in which case, of course, only the fastest foxes will catch enough rabbits to thrive and pass on their genes. Even though they might run, the two species just stay in place.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Everything in the world around us was finished in the mind of its creator before it was started. The houses we live in, the cars we drive, and our clothing ⸻ all of these began with an idea. Each idea was then studied, refined and perfected before the first nail was driven or the first piece of cloth was cut. Long before the idea was turned into a physical reality, the mind had clearly pictured the finished product. The human being designs his or her own future through much the same process. We begin with an idea about how the future will be. Over a period of time we refine and perfect the vision. Before long, our every thought, decision and activity are all working in harmony to bring into existence what we have mentally concluded about the future.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Whose story it is affects what the story is. Change the main character, and the focus of the story must also change. If we look at the events through another character’s eyes, we will interpret them differently. We’ll place our sympathies with someone new. When the conflict arises that is the heart of the story, we will be praying for a different outcome. Consider, for example, how the tale of Cinderella would shift if told from the viewpoint of an evil stepsister. We know Cinderella’s kingdom does not exist, but we willingly go there anyway. Gone with the Wind is Scarlett O’Hara’s story, but what if we were shown the same events from the viewpoint of Rhett Butler or Melanie Wilkes?",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In the Old Stone Age, small bands of 20 to 60 people wandered from place to place in search of food. Once people began farming, they could settle down near their farms. As a result, towns and villages grew larger. Living in communities allowed people to organize themselves more efficiently. They could divide up the work of producing food and other things they needed. While some workers grew crops, others built new houses and made tools. Village dwellers also learned to work together to do a task faster. For example, toolmakers could share the work of making stone axes and knives. By working together, they could make more tools in the same amount of time.",
+      "original_summary": null,
+      "word_count": 115,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Natural processes form minerals in many ways. For example, hot melted rock material, called magma, cools when it reaches the Earth’s surface, or even if it’s trapped below the surface. As magma cools, its atoms lose heat energy, move closer together, and begin to combine into compounds. During this process, atoms of the different compounds arrange themselves into orderly, repeating patterns. The type and amount of elements present in a magma partly determine which minerals will form. Also, the size of the crystals that form depends partly on how rapidly the magma cools. When magma cools slowly, the crystals that form are generally large enough to see with the unaided eye. This is because the atoms have enough time to move together and form into larger crystals. When magma cools rapidly, the crystals that form will be small. In such cases, you can’t easily see individual mineral crystals.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "All carbohydrates are basically sugars. Complex carbohydrates are the good carbohydrates for your body. These complex sugar compounds are very difficult to break down and can trap other nutrients like vitamins and minerals in their chains. As they slowly break down, the other nutrients are also released into your body, and can provide you with fuel for a number of hours. Bad carbohydrates, on the other hand, are simple sugars. Because their structure is not complex, they are easy to break down and hold few nutrients for your body other than the sugars from which they are made. Your body breaks down these carbohydrates rather quickly and what it cannot use is converted to fat and stored in the body.",
+      "original_summary": null,
+      "word_count": 120,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "People commonly make the mistaken assumption that because a person has one type of characteristic, then they automatically have other characteristics which go with it. In one study, university students were given descriptions of a guest lecturer before he spoke to the group. Half the students received a description containing the word ‘warm’, the other half were told the speaker was ‘cold’. The guest lecturer then led a discussion, after which the students were asked to give their impressions of him. As expected, there were large differences between the impressions formed by the students, depending upon their original information of the lecturer. It was also found that those students who expected the lecturer to be warm tended to interact with him more. This shows that different expectations not only affect the impressions we form but also our behaviour and the relationship which is formed.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "To help decide what’s risky and what’s safe, who’s trustworthy and who’s not, we look for social evidence. From an evolutionary view, following the group is almost always positive for our prospects of survival. “If everyone’s doing it, it must be a sensible thing to do,” explains famous psychologist and best selling writer of Influence, Robert Cialdini. While we can frequently see this today in product reviews, even subtler cues within the environment can signal trustworthiness. Consider this: when you visit a local restaurant, are they busy? Is there a line outside or is it easy to find a seat? It is a hassle to wait, but a line can be a powerful cue that the food’s tasty, and these seats are in demand. More often than not, it’s good to adopt the practices of those around you.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M3-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Chess masters shown a chess board in the middle of a game for 5 seconds with 20 to 30 pieces still in play can immediately reproduce the position of the pieces from memory. Beginners, of course, are able to place only a few. Now take the same pieces and place them on the board randomly and the difference is much reduced. The expert’s advantage is only for familiar patterns — those previously stored in memory. Faced with unfamiliar patterns, even when it involves the same familiar domain, the expert’s advantage disappears. The beneficial effects of familiar structure on memory have been observed for many types of expertise, including music. People with musical training can reproduce short sequences of musical notation more accurately than those with no musical training when notes follow conventional sequences, but the advantage is much reduced when the notes are ordered randomly. Expertise also improves memory for sequences of movements. Experienced ballet dancers are able to repeat longer sequences of steps than less experienced dancers, and they can repeat a sequence of steps making up a routine better than steps ordered randomly. In each case, memory range is increased by the ability to recognize familiar sequences and patterns.",
+      "original_summary": null,
+      "word_count": 201,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

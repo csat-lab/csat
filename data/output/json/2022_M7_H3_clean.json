@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 7,
+    "grade": "고3",
+    "exam_title": "2022학년도 7월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M7-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Placing value on and investing in experiences provides us with a greater sense of vitality. Our experiences make us feel alive and give us greater opportunities to grow. Any time you consider purchasing a new possession, stop yourself and think about what kind of experience it will give you. Ask yourself: How much joy will this bring me? Will the joy be temporary or long-lasting? Will the purchase be something I can share with others? If it becomes clear the purchase will provide only short-term benefit to you, think about an experience you could purchase instead that would provide you with longer-term benefits. For instance, if you have your eye on a new pair of shoes for $150, ask yourself what kind of experience you could enjoy for that same amount. Maybe you’d enjoy a concert with friends or a dinner cruise during the summer. Once you think of an experience you’d enjoy, seriously consider diverting the money for the purchase from possession to experience.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 this civilization of leisure was, in reality, a Trojan horse가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "It seemed like a fair deal: we would accept new technologies, which would modify our habits and oblige us to adjust to certain changes, but in exchange we would be granted relief from the burden of work, more security, and above all, the freedom to pursue our desires. The sacrifice was worth the gain; there would be no regrets. Yet it has become apparent that this civilization of leisure was, in reality, a Trojan horse. Its swelling flanks hid the impositions of a new type of enslavement. The automatons are not as autonomous as advertised. They need us. Those computers that were supposed to do our calculations for us instead demand our attention: for ten hours a day, we are glued to their screens. Our communications monopolize our time. Time itself is accelerating. The complexity of the system overwhelms us. And leisure is often a costly distraction.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Giving honest information may be particularly relevant to integrity because honesty is so fundamental in discussions of trustworthiness. Unfortunately, leaders are often reluctant to tell the truth. During times of crisis and change, business leaders are often faced with the challenge of either telling an uncomfortable truth, remaining silent, or downplaying the severity of the situation. There are plenty of other situations in which, in the short term, it may be more comfortable not to tell the truth to followers. Ultimately, however, even dishonesty that was meant to protect employee morale will eventually be exposed, undermining trustworthiness at a time when commitment to the organization is most vital. Even concerted efforts at secrecy can backfire, as employees may simply “fill in the gaps” in their understanding with their own theories about the leader’s behavior. Therefore, leaders need to take steps to explain the true reasons for their decisions to those individuals affected by it, leaving less room for negative interpretations of leader behavior.",
+      "original_summary": null,
+      "word_count": 163,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "From your brain’s perspective, your body is just another source of sensory input. Sensations from your heart and lungs, your metabolism, your changing temperature, and so on, are like ambiguous blobs. These purely physical sensations inside your body have no objective psychological meaning. Once your concepts enter the picture, however, those sensations may take on additional meaning. If you feel an ache in your stomach while sitting at the dinner table, you might experience it as hunger. If flu season is just around the corner, you might experience that same ache as nausea. If you are a judge in a courtroom, you might experience the ache as a gut feeling that the defendant cannot be trusted. In a given moment, in a given context, your brain uses concepts to give meaning to internal sensations as well as to external sensations from the world, all simultaneously. From an aching stomach, your brain constructs an instance of hunger, nausea, or mistrust.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "On an antelope’s skull, the eye sockets are situated on the side of the head. This is because this animal spends a lot of its time with its head bent down to eat a low‑nutrient food: grass. While the animal is busy grazing, there will be predators out stalking for their food, so the antelope needs the greatest possible range of vision so that it has the maximum chance of seeing its predator and making an escape. With the eye sockets at the back of the head and on the side, it can see nearly 360° around itself. The eye of the antelope is also at the back of its head, giving it a long nose. If the eyes were at the front of the skull, vision would be obscured by long grass, so its long nose also gives an evolutionary advantage.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The spider chart, also called a radar chart, is a form of line graph. It helps the researcher to represent their data in a chart that shows the relative size of a response on one scale for interrelated variables. Like the bar chart, the data needs to have one scale which is common to all variables. The spider chart is drawn with the variables spanning the chart, creating a spider web. An example of this is seen in a research study looking at self-reported confidence in year 7 students across a range of subjects taught in their first term in secondary school. The researcher takes the responses from a sample group and calculates the mean to plot on the spider chart. The spider chart allows the researcher to easily compare and contrast the confidence level in different subjects for the sample group. The chart, like the pie chart, can then be broken down for different groups of students within the study to elicit further analysis of findings.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "In poorer countries many years of fast growth may be necessary to bring living standards up to acceptable levels. But growth is the means to achieve desired goals, not the end in itself. In the richer world the whole idea of growth ─ at least as conventionally measured ─ may need to be revised. In economies where services dominate, goods and services tailored to our individual needs will be what determine the advance of our societies. These could be anything from genome-specific medicines to personalized care or tailored suits. That is different from more and more stuff, an arms race of growth. Instead, it means improvements in quality, something that GDP is ill equipped to measure. Some fifty years ago one US economist contrasted what he called the “cowboy” economy, bent on production, exploitation of resources, and pollution, with the “spaceman” economy, in which quality and complexity replaced “throughput” as the measure of success. The move from manufacturing to services and from analog to digital is the shift from cowboy to spaceman. But we are still measuring the size of the lasso.",
+      "original_summary": null,
+      "word_count": 182,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "There is a difference between a newsworthy event and news. A newsworthy event will not necessarily become news, just as news is often about an event that is not, in itself, newsworthy. We can define news as an event that is recorded in the news media, regardless of whether it is about a newsworthy event. The very fact of its transmission means that it is regarded as news, even if we struggle to understand why that particular story has been selected from all the other events happening at the same time that have been ignored. News selection is subjective so not all events seen as newsworthy by some people will make it to the news. All journalists are familiar with the scenario where they are approached by someone with the words ‘I’ve got a great story for you’. For them, it is a major news event, but for the journalist it might be something to ignore.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Infants’ preference for looking at new things is so strong that psychologists began to realize that they could use it as a test of infants’ visual discrimination, and even their memory. Could an infant tell the difference between two similar images? Between two similar shades of the same color? Could an infant recall having seen something an hour, a day, a week ago? The inbuilt attraction to novel images held the answer. If the infant’s gaze lingered, it suggested that the infant could tell that a similar image was nonetheless different in some way. If the infant, after a week without seeing an image, didn’t look at it much when it was shown again, the infant must be able at some level to remember having seen it the week before. In most cases, the results revealed that infants were more cognitively capable earlier than had been previously assumed. The visual novelty drive became, indeed, one of the most powerful tools in psychologists’ toolkit, unlocking a host of deeper insights into the capacities of the infant mind.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Imagine there are two habitats, a rich one containing a lot of resources and a poor one containing few, and that there is no territoriality or fighting, so each individual is free to exploit the habitat in which it can achieve the higher pay-off, measured as rate of consumption of resource. With no competitors, an individual would simply go to the better of the two habitats and this is what we assume the first arrivals will do. But what about the later arrivals? As more competitors occupy the rich habitat, the resource will be depleted, and so less profitable for further newcomers. Eventually a point will be reached where the next arrivals will do better by occupying the poorer quality habitat where, although the resource is in shorter supply, there will be less competition. Thereafter, the two habitats should be filled so that the profitability for an individual is the same in each one. In other words, competitors should adjust their distribution in relation to habitat quality so that each individual enjoys the same rate of acquisition of resources.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Neither Einstein’s relativity nor Bach’s fugues are such stuff as survival is made on. Yet each is a perfect example of human capacities that were essential to our having prevailed. The link between scientific aptitude and solving real-world challenges may be more apparent, but minds that reason with analogy and metaphor, minds that represent with color and texture, minds that imagine with melody and rhythm are minds that cultivate a more flourishing cognitive landscape. Which is all just to say that the arts may well have been vital for developing the flexibility of thought and fluency of intuition that our relatives needed to fashion the spear, to invent cooking, to harness the wheel, and, later, to write the Mass in B Minor and, later still, to crack our rigid perspective on space and time. Across hundreds of thousands of years, artistic endeavors may have been the playground of human cognition, providing a safe arena for training our imaginative capacities and infusing them with a potent faculty for innovation.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Some forms of energy are more versatile in their usefulness than others. For example, we can use electricity for a myriad of applications, whereas the heat from burning coal is currently used mostly for stationary applications like generating power. When we turn the heat from burning coal into electricity, a substantial amount of energy is lost due to the inefficiency of the process. But we are willing to accept that loss because coal is relatively cheap, and it would be difficult and inconvenient to use burning coal directly to power lights, computers, and refrigerators. Finding an economical way to use coal to produce carbon fibers will help revitalize rural communities suffering from the decline in coal production. In effect, we put a differing value on different forms of energy, with electricity at the top of the value ladder, liquid and gaseous fuels in the middle, and coal or firewood at the bottom. Solar and wind technologies have an advantage in that they produce high-value electricity directly.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "It raises much less reactance to tell people what to do than to tell them what not to do. Therefore, advocating action should lead to higher compliance than prohibiting action. For example, researchers have a choice of how to debrief research participants in an experiment involving some deception or omission of information. Often researchers attempt to commit the participant to silence, saying “Please don’t tell other potential participants that feedback from the other person was false.” This is a prescription that is rife with danger, failing to provide an implementation rule and raising reactance. Much better is to say, “To help make sure that other people provide answers as useful as yours have been, when people ask you about this study, please tell them that you and another person answered some questions about each other.” Similarly, I once saw a delightful and unusual example of this principle at work in an art gallery. A fragile acrylic sculpture had a sign at the base saying, “Please touch with your eyes.” The command was clear, yet created much less reactance in me than “Don’t touch!” would have.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "One common strategy and use of passive misdirection in the digital world comes through the use of repetition. This digital misdirection strategy relies on the fact that online users utilizing web browsers to visit websites have quickly learned that the most basic ubiquitous navigational action is to click on a link or button presented to them on a website. This action is repeated over and over to navigate their web browsers to the desired web page or action until it becomes an almost immediate, reflexive action. Malicious online actors take advantage of this behavior to distract the user from carefully examining the details of the web page that might tip off the user that there is something amiss about the website. The website is designed to focus the user’s attention on the action the malicious actor wants them to take (e.g., click a link) and to draw their attention away from any details that might suggest to the user that the website is not what it appears to be on the surface.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Earliest indications of the need for inspiration for fashion direction are possibly evidenced by a number of British manufacturers visiting the United States in around 1825 where they were much inspired by lightweight wool blend fabrics produced for outerwear. The ready‑to‑wear sector was established much earlier in America than in Britain and with it came new challenges. Previously garments were custom‑made by skilled individuals who later became known as or recognized as being fashion designers. These handmade garments that are now accepted as being the fashion garments of that time were only made for those with the means to pay for them. The lesser‑privileged mass market wore homemade and handed down garments. Later, by the end of the industrial revolution, fashion was more readily available and affordable to all classes. By now designers worked predominately within factories and no longer designed for individuals but for mass markets. Thus the direct communication link between the designer and client no longer existed and designers had to rely on anticipating the needs and desires of the new fashion consumer.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Most dreaming occurs during REM sleep. REM stands for Rapid Eye Movement, a stage of sleep discovered by Professor Nathaniel Kleitman at the University of Chicago in 1958. Along with a medical student, Eugene Aserinsky, he noted that when people are sleeping, they exhibit rapid eye movement, as if they were “looking” at something. Ongoing research by Kleitman and Aserinsky concluded that it was during this period of rapid eye movement that people dream, yet their minds are as active as someone who is awake. Interestingly enough, studies have found that along with rapid eye movement, our heart rates increase and our respiration is also elevated — yet our bodies do not move and are basically paralyzed due to a nerve center in the brain that keeps our bodies motionless besides some occasional twitches and jerks. This is why it is difficult to wake up from or scream out during a nightmare. To sum it up, during the REM dream state, your mind is busy but your body is at rest.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "There is no question that losing weight is hard. According to one calculation, you must walk 35 miles or jog for seven hours to lose just one pound. One big problem with exercise is that we don’t track it very scrupulously. A study in America found that people overestimated the number of calories they burned in a workout by a factor of four. They also then consumed, on average, about twice as many calories as they had just burned off. As Daniel Lieberman noted in The Story of the Human Body, a worker on a factory floor will in a year expend about 175,000 more calories than a desk worker — equivalent to more than sixty marathons. That’s pretty impressive, but here’s a reasonable question: how many factory workers look as if they run a marathon every six days? To be cruelly blunt, not many. That’s because most of them, like most of the rest of us, replace all those burnt calories, and then some, when they are not working.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M7-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Posts that hold up signs, street lights, and utility lines need to be strong and durable enough to withstand winds, storms, tsunamis, and earthquakes. Every so often, though, these same posts are called upon to do something crucial but fundamentally at odds with their everyday function: they need to break easily on impact. If hit by a fast-moving vehicle, posts need to come apart in just the right way in order to reduce damage and save lives. Engineers have spent a lot of time attempting to resolve this apparent paradox. One of the ways to get robust posts to break properly is called a “slip base” system. Instead of using a single continuous post, a slip base approach joins two separate posts close to ground level using a connector plate. This joint allows the pair to break apart at an intended juncture. It works basically like this: a lower post is put in the ground, then an upper post is attached to it using breakaway bolts. These bolts are made to fracture or dislodge when the post gets hit hard enough, so the upper post gets knocked over while the lower post passes safely under the moving vehicle. When everything works as designed, such posts can also help slow down a vehicle and minimize damage. Subsequent infrastructure repair becomes easier as well — in many cases, a new upper post can simply be bolted onto the undamaged base post below it, which requires less material and work. The critical plate-to-plate connections underpinning slip systems can be obvious to the naked eye or tucked away under plate covers.",
+      "original_summary": null,
+      "word_count": 267,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

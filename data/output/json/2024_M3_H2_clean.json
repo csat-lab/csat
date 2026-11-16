@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2024,
+    "month": 3,
+    "grade": "고2",
+    "exam_title": "2024학년도 3월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2024-M3-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Too many times people, especially in today’s generation, expect things to just happen overnight. When we have these false expectations, it tends to discourage us from continuing to move forward. Because this is a high tech society, everything we want has to be within the parameters of our comfort and convenience. If it doesn’t happen fast enough, we’re tempted to lose interest. So many people don’t want to take the time it requires to be successful. Success is not a matter of mere desire; you should develop patience in order to achieve it. Have you fallen prey to impatience? Great things take time to build.",
+      "original_summary": null,
+      "word_count": 105,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 we were still taping bricks to accelerators가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "If you had wanted to create a “self-driving” car in the 1950s, your best option might have been to strap a brick to the accelerator. Yes, the vehicle would have been able to move forward on its own, but it could not slow down, stop, or turn to avoid barriers. Obviously not ideal. But does that mean the entire concept of the self-driving car is not worth pursuing? No, it only means that at the time we did not yet have the tools we now possess to help enable vehicles to operate both autonomously and safely. This once-distant dream now seems within our reach. It is much the same story in medicine. Two decades ago, we were still taping bricks to accelerators. Today, we are approaching the point where we can begin to bring some appropriate technology to bear in ways that advance our understanding of patients as unique individuals. In fact, many patients are already wearing devices that monitor their conditions in real time, which allows doctors to talk to their patients in a specific, refined, and feedback-driven way that was not even possible a decade ago.",
+      "original_summary": null,
+      "word_count": 188,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We tend to overrate the impact of new technologies in part because older technologies have become absorbed into the furniture of our lives, so as to be almost invisible. Take the baby bottle. Here is a simple implement that has transformed a fundamental human experience for vast numbers of infants and mothers, yet it finds no place in our histories of technology. This technology might be thought of as a classic time-shifting device, as it enables mothers to exercise more control over the timing of feeding. It can also function to save time, as bottle feeding allows for someone else to substitute for the mother’s time. Potentially, therefore, it has huge implications for the management of time in everyday life, yet it is entirely overlooked in discussions of high-speed society.",
+      "original_summary": null,
+      "word_count": 130,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Empathy is frequently listed as one of the most desired skills in an employer or employee, although without specifying exactly what is meant by empathy. Some businesses stress cognitive empathy, emphasizing the need for leaders to understand the perspective of employees and customers when negotiating deals and making decisions. Others stress affective empathy and empathic concern, emphasizing the ability of leaders to gain trust from employees and customers by treating them with real concern and compassion. When some consultants argue that successful companies foster empathy, what that translates to is that companies should conduct good market research. In other words, an “empathic” company understands the needs and wants of its customers and seeks to fulfill those needs and wants. When some people speak of design with empathy, what that translates to is that companies should take into account the specific needs of different populations — the blind, the deaf, the elderly, non-English speakers, the color-blind, and so on — when designing products.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The most prevalent problem kids report is that they feel like they need to be accessible at all times. Because technology allows for it, they feel an obligation. It’s easy for most of us to relate — you probably feel the same pressure in your own life! It is really challenging to deal with the fact that we’re human and can’t always respond instantly. For a teen or tween who’s still learning the ins and outs of social interactions, it’s even worse. Here’s how this behavior plays out sometimes: Your child texts one of his friends, and the friend doesn’t text back right away. Now it’s easy for your child to think, “This person doesn’t want to be my friend anymore!” So he texts again, and again, and again — “blowing up their phone.” This can be stress-inducing and even read as aggressive. But you can see how easily this could happen.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "For years, many psychologists have held strongly to the belief that the key to addressing negative health habits is to change behavior. This, more than values and attitudes, is the part of personality that is easiest to change. Ingestive habits such as smoking, drinking and various eating behaviors are the most common health concerns targeted for behavioral changes. Process-addiction behaviors (workaholism, shopaholism, and the like) fall into this category as well. Mental imagery combined with power of suggestion was taken up as the premise of behavioral medicine to help people change negative health behaviors into positive ones. Although this technique alone will not produce changes, when used alongside other behavior modification tactics and coping strategies, behavioral changes have proved effective for some people. What mental imagery does is reinforce a new desired behavior. Repeated use of images reinforces the desired behavior more strongly over time.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Emotion socialization — learning from other people about emotions and how to deal with them — starts early in life and plays a foundational role for emotion regulation development. Although extra-familial influences, such as peers or media, gain in importance during adolescence, parents remain the primary socialization agents. For example, their own responses to emotional situations serve as a role model for emotion regulation, increasing the likelihood that their children will show similar reactions in comparable situations. Parental practices at times when their children are faced with emotional challenges also impact emotion regulation development. Whereas direct soothing and directive guidance of what to do are beneficial for younger children, they may intrude on adolescents’ autonomy striving. In consequence, adolescents might pull away from, rather than turn toward, their parents in times of emotional crisis, unless parental practices are adjusted. More suitable in adolescence is indirect support of autonomous emotion regulation, such as through interest in, as well as awareness and nonjudgmental acceptance of, adolescents’ emotional experiences, and being available when the adolescent wants to talk.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Dancers often push themselves to the limits of their physical capabilities. But that push is misguided if it is directed toward accomplishing something physically impossible. For instance, a tall dancer with long feet may wish to perform repetitive vertical jumps to fast music, pointing his feet while in the air and lowering his heels to the floor between jumps. That may be impossible no matter how strong the dancer is. But a short-footed dancer may have no trouble! Another dancer may be struggling to complete a half-turn in the air. Understanding the connection between a rapid turn rate and the alignment of the body close to the rotation axis tells her how to accomplish her turn successfully. In both of these cases, understanding and working within the imposed by nature and described by physical laws allows dancers to work efficiently, minimizing potential risk of injury.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We must explore the relationship between children’s film production and consumption habits. The term “children’s film” implies ownership by children — their cinema — but films supposedly made for children have always been, particularly in commercial cinemas. The considerable crossover in audience composition for children’s films can be shown by the fact that, in 2007, eleven Danish children’s and youth films attracted 59 per cent of theatrical admissions, and in 2014, German children’s films comprised seven out of the top twenty films at the national box office. This phenomenon corresponds with a broader, international embrace of what is seemingly children’s culture among audiences of diverse ages. The old prejudice that children’s film is some other realm, separate from (and forever subordinate to) a more legitimate cinema for adults is not supported by the realities of consumption: children’s film is at the heart of contemporary popular culture.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Beethoven’s drive to create something novel is a reflection of his state of curiosity. Our brains experience a sense of reward when we create something new in the process of exploring something uncertain, such as a musical phrase that we’ve never played or heard before. When our curiosity leads to something novel, the resulting reward brings us a sense of pleasure. A number of investigators have modeled how curiosity influences musical composition. In the case of Beethoven, computer modeling focused on the thirty-two piano sonatas written after age thirteen revealed that the musical patterns found in all of Beethoven’s music decreased in later sonatas, while novel patterns, including patterns that were unique to a particular sonata, increased. In other words, Beethoven’s music as his curiosity drove the exploration of new musical ideas. Curiosity is a powerful driver of human creativity.",
+      "original_summary": null,
+      "word_count": 140,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Technologists are always on the lookout for quantifiable metrics. Measurable inputs to a model are their lifeblood, and like a social scientist, a technologist needs to identify concrete measures, or “proxies,” for assessing progress. This need for quantifiable proxies produces a bias toward measuring things that are easy to quantify. But simple metrics can take us further away from the important goals we really care about, which may require complicated metrics or be extremely difficult, or perhaps impossible, to reduce to any measure. And when we have imperfect or bad proxies, we can easily fall under the illusion that we are solving for a good end without actually making genuine progress toward a worthy solution. The problem of proxies results in technologists frequently substituting what is measurable for what is meaningful. As the saying goes, “Not everything that counts can be counted, and not everything that can be counted counts.”",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "We are the only species that seasons its food, deliberately altering it with the highly flavored plant parts we call herbs and spices. It’s quite possible that our taste for spices has an evolutionary root. Many spices have antibacterial properties — in fact, common seasonings such as garlic, onion, and oregano inhibit the growth of almost every bacterium tested. And the cultures that make the heaviest use of spices — think of the garlic and black pepper of Thai food, the ginger and coriander of India, the chili peppers of Mexico — come from warmer climates, where bacterial spoilage is a bigger issue. The changing climate can have a significant impact on the production and availability of spices, influencing their growth patterns and ultimately affecting global spice markets. In contrast, the most lightly spiced cuisines — those of Scandinavia and northern Europe — are from cooler climates. Our uniquely human attention to flavor, in this case the flavor of spices, turns out to have arisen as a matter of life and death.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Development of the human body from a single cell provides many examples of the structural richness that is possible when the repeated production of random variation is combined with nonrandom selection. All phases of body development from embryo to adult exhibit random activities at the cellular level, and body formation depends on the new possibilities generated by these activities coupled with selection of those outcomes that satisfy previously built-in criteria. Always new structure is based on old structure, and at every stage selection favors some cells and eliminates others. The survivors serve to produce new cells that undergo further rounds of selection. Except in the immune system, cells and extensions of cells are not genetically selected during development, but rather, are positionally selected. Those in the right place that make the right connections are stimulated, and those that don't are eliminated. This process is much like sculpting. A natural consequence of the strategy is great variability from individual to individual at the cell and molecular levels, even though large-scale structures are quite similar.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In order to bring the ever-increasing costs of home care for elderly and needy persons under control, managers of home care providers have introduced management systems. These systems specify tasks of home care workers and the time and budget available to perform these tasks. Electronic reporting systems require home care workers to report on their activities and the time spent, thus making the distribution of time and money visible and, in the perception of managers, controllable. This, in the view of managers, has contributed to the resolution of the problem. The home care workers, on the other hand, may perceive their work not as a set of separate tasks to be performed as efficiently as possible, but as a service to be provided to a client with whom they may have developed a relationship. This includes having conversations with clients and enquiring about the person's well-being. Restricted time and the requirement to report may be perceived as obstacles that make it impossible to deliver the service that is needed. If the management systems are too rigid, this may result in home care workers becoming overloaded and demotivated.",
+      "original_summary": null,
+      "word_count": 187,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "It is a common assumption that most vagrant birds are ultimately doomed, aside from the rare cases where individuals are able to reorientate and return to their normal ranges. In turn, it is also commonly assumed that vagrancy itself is a relatively unimportant biological phenomenon. This is undoubtedly true for the majority of cases, as the most likely outcome of any given vagrancy event is that the individual will fail to find enough resources, and/or be exposed to inhospitable environmental conditions, and perish. However, there are many lines of evidence to suggest that vagrancy can, on rare occasions, dramatically alter the fate of populations, species or even whole ecosystems. Despite being infrequent, these events can be extremely important when viewed at the timescales over which ecological and evolutionary processes unfold. The most profound consequences of vagrancy relate to the establishment of new breeding sites, new migration routes and wintering locations. Each of these can occur through different mechanisms, and at different frequencies, and they each have their own unique importance.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Intuition can be great, but it ought to be hard-earned. Experts, for example, are able to think on their feet because they've invested thousands of hours in learning and practice: their intuition has become data-driven. Only then are they able to act quickly in accordance with their internalized expertise and evidence-based experience. Yet most people are not experts, though they often think they are. Most of us, especially when we interact with others on social media, act with expert-like speed and conviction, offering a wide range of opinions on global crises, without the substance of knowledge that supports it. And thanks to AI, which ensures that our messages are delivered to an audience more inclined to believing it, our delusions of expertise can be reinforced by our personal filter bubble. We have an interesting tendency to find people more open-minded, rational, and sensible when they think just like us.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The fast-growing, tremendous amount of data, collected and stored in large and numerous data repositories, has far exceeded our human ability for understanding without powerful tools. As a result, data collected in large data repositories become “data tombs” — data archives that are hardly visited. Important decisions are often made based not on the information–rich data stored in data repositories but rather on a decision maker’s instinct, simply because the decision maker does not have the tools to extract the valuable knowledge hidden in the vast amounts of data. Efforts have been made to develop expert system and knowledge-based technologies, which typically rely on users or domain experts to manually input knowledge into knowledge bases. However, this procedure is likely to cause biases and errors and is extremely costly and time consuming. The widening gap between data and information calls for the systematic development of tools that can turn data tombs into “golden nuggets” of knowledge.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M3-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It’s untrue that teens can focus on two things at once — what they’re doing is shifting their attention from one task to another. In this digital age, teens wire their brains to make these shifts very quickly, but they are still, like everyone else, paying attention to one thing at a time, sequentially. Common sense tells us multitasking should increase brain activity, but Carnegie Mellon University scientists using the latest brain imaging technology find it doesn’t. As a matter of fact, they discovered that multitasking actually decreases brain activity. Neither task is done as well as if each were performed individually. Fractions of a second are lost every time we make a switch, and a person’s interrupted task can take 50 percent longer to finish, with 50 percent more errors. Turns out the latest brain research supports the old advice “one thing at a time.” It’s not that kids can’t do some tasks simultaneously. But if two tasks are performed at once, one of them has to be familiar. Our brains perform a familiar task on “automatic pilot” while really paying attention to the other one. That’s why insurance companies consider talking on a cell phone and driving to be as dangerous as driving while drunk — it’s the driving that goes on “automatic pilot” while the conversation really holds our attention. Our kids may be living in the Information Age but our brains have not been redesigned yet.",
+      "original_summary": null,
+      "word_count": 240,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2023,
+    "month": 10,
+    "grade": "고3",
+    "exam_title": "2023학년도 10월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2023-M10-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The chemists Hans Ebel, Claus Bliefert, and William Russey note: “It goes without saying that scientists need to be skillful readers. Extensive reading is the principal key to expanding one’s knowledge and keeping up with developments in a discipline. However, what is often overlooked here is that scientists are also obliged to be skillful writers. Only the researcher who is competent in the art of written communication can play an active and effective role in contributing to science.” From the perspective of readability, moreover, scientists should always write with a reader-centered mentality; even in the act of writing they must be mindful of the act of reading. It would be beneficial for them to understand how readers read in order to improve their writing.",
+      "original_summary": null,
+      "word_count": 124,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 squeeze economies into a test tube가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Physicians and other natural scientists test their theories using controlled experiments. Macroeconomists, however, have no laboratories and little ability to run economy-wide experiments of any kind. Granted, they can study different economies around the world, but each economy is unique, so comparisons are tricky. Controlled experiments also provide the natural sciences with something seldom available to economists — the chance, or serendipitous, discovery (such as penicillin). Macroeconomists studying the U.S. economy have only one patient, so they can’t introduce particular policies in a variety of alternative settings. You can’t squeeze economies into a test tube. Cries of “Eureka!” are seldom heard from macroeconomists. An economy consisting of hundreds of millions of individual actors is a complicated thing. As Nobel Prize-winning physicist Murray Gell-Mann once observed, “Think how hard physics would be if particles could think.”",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Imagine a movie where nothing but terrible things happen. But, in the end, everything works out. Everything is resolved. A sufficiently happy ending can change the meaning of all the previous events. They can all be viewed as worthwhile, given that ending. Now imagine another movie. A lot of things are happening. They’re all exciting and interesting. But there are a lot of them. Ninety minutes in, you start to worry. “This is a great movie,” you think, “but there are a lot of things going on. I sure hope the filmmaker can pull it all together.” But that doesn’t happen. Instead, the story ends, suddenly, unresolved, or something facile and clichéd occurs. You leave deeply annoyed and unsatisfied — failing to notice that you were fully engaged and enjoying the movie almost the whole time you were in the theatre. The present can change the past, and the future can change the present.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Just as today some jobs are better than others, so would they have been in early societies with their blossoming towns and eventually cities, with some roles more dangerous and some having more plentiful access to food or other resources. The archeological record shows that soon after the appearance of towns, agriculture, and surpluses, some burials start to look different from others. Some individuals are buried with more precious goods (metals, weapons, and maybe even art), some are in group graves and some by themselves, and still others don’t even seem to be buried at all. The bones from the burials start to show us differences as well — chemical and isotope analyses of teeth and long bones reveal that some members of groups were getting more protein or minerals than others; some have more evidence of diseases and greater physical injuries from their labors. Early on these differences are small, but by 5,000 to 7,000 years ago they are becoming quite pronounced.",
+      "original_summary": null,
+      "word_count": 163,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When you break up with a partner or close friend, the natural response (after having a good cry, obviously) is to blame yourself. You wonder what you did wrong and what you might have done differently. Bonds can help us reach a more balanced perspective; there are some bonds that were simply never meant to last, even if they played an essential role in your evolution to this point. Perhaps the most valuable thing is to know that seeing bonds break doesn’t have to break us. In chemistry, by definition, a change in the atomic bonding is not just the end of one state, but the beginning of another: creating the space for new bonding potential. The same is true for us as humans. It might take a cup of warm milk to reset us and give us comfort after a relationship has broken down. But however many bonds we see come apart, we will always retain one of our most human abilities: to connect afresh, find new friends and love again.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Dr. Joseph Bell was a professor of medicine at the University of Edinburgh. His students were amazed by his astonishing powers of observation. He seemed able to determine what patients did for a living, or what illness they might have, simply by glancing in their direction. One time he concluded that a patient had walked across a golf course on the way to the doctor, simply by looking at his shoes. One of Bell’s students was particularly impressed with his teacher’s abilities. He filled up notebooks with examples of what he called Bell’s “eerie trick of spotting details.” The student eventually went into practice himself outside London. When business was slow he filled his spare moments by writing stories. He took Dr. Bell’s powers of perception, and gave them to a character of his own making — a character who made the young doctor, Arthur Conan Doyle, famous around the world. And so the professor who made even the most complex diagnosis seem “elementary” became the inspiration for fiction’s greatest detective, Sherlock Holmes.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Technology has historically distinguished the way music is produced. In a live jazz concert a bass player can provide the audience with a ten-minute jam session but is unable to do so if making a record. Time and space limits on early discs made this liberalized performance style impossible. Often, pieces would be separated into a number of discs leading to a lack of continuity. In addition to length, musicians had to take into account how the machinery recorded and absorbed their sound. Especially in the early days of recording, human voices as well as instruments were often distorted once recorded. To prevent such distortion, it was up to the musician to alter the sound to accommodate the recording technology that was just coming into existence. Jazz musicians and orchestras almost molded their works around recording parameters. Many musicians were receptive to the limitations and benefits of technology and created their records accordingly. The recording limitations began to filter into stage performance. Musicians were restricted to three-minute songs in the recording studio and they soon kept their songs to that length on stage too.",
+      "original_summary": null,
+      "word_count": 184,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "There’s reason to worry that an eyes-on-the-prize mentality could be a mistake. Lots of research shows that we tend to be over-confident about how easy it is to be self-disciplined. This is why so many of us optimistically buy expensive gym memberships when paying per-visit fees would be cheaper, register for online classes we’ll never complete, and purchase family-size chips on discount to trim our monthly snack budget, only to consume every last crumb in a single sitting. We think “future me” will be able to make good choices, but too often “present me” gives in to temptation. People have a remarkable ability to ignore their own failures. Even when we flounder again and again, many of us manage to maintain a rosy optimism about our ability to do better next time rather than learning from our past mistakes. We cling to fresh starts and other reasons to stay upbeat, which may help us get out of bed in the morning but can prevent us from approaching change in the smartest possible way.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The way we perceive the colors of the rainbow, and the universe in general, is influenced by the words we use to describe them. This is not limited to visual perception but also applies to smell, taste, touch, our perception of time and countless other human experiences. A wine or Scotch connoisseur, for example, has a much richer vocabulary at their disposal to describe the fullness, finish, flavors and aroma of the drink, which in turn improves their ability to recognize and remember subtle differences of which a non-expert may be unaware. Similarly, a chef or perfumer has at their disposal labels for flavors and smells that allow them to perceive, differentiate among, prepare and remember subtle variations. The labels that we have at our disposal influence how we see the world around us. Regardless of where you place the limits of linguistic effects on cognition, there is evidence that at least some of the things that we perceive and remember differ depending on what labels we use.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "A connection with ancestors, especially remote ones, is useful for getting a wide-angled, philosophical view of life. Whereas our immediate ancestors are notably skilled at helping us with the “little pictures,” namely the particular, the trees — say, a problem with a boss — our remote ones are best for seeing the “Big Picture,” namely the general, the forest — say, the meaning of our job. As modern people rush around blowing small problems out of proportion, thus contributing to a global anxiety epidemic, ancestral spirits have a broader perspective that can calm the disquieted soul. When it comes to a trivial problem, for example, they’ll just tell us, “This too will pass.” They appreciate how rapidly and often things change. According to American anthropologist Richard Katz, for instance, Fijians say that from the ancestral viewpoint whatever looks unfortunate may turn out to be fortunate after all: “What may seem to be a horrible outcome... is seen in another light by the ancestors.” The ancestors, it might be said, keep their heads when everyone around them is losing theirs.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One of the criticisms of Stoicism by modern translators and teachers is the amount of repetition. Marcus Aurelius, for example, has been dismissed by academics as not being original because his writing resembles that of other, earlier Stoics. This criticism misses the point. Even before Marcus’s time, Seneca was well aware that there was a lot of borrowing and overlap among the philosophers. That’s because real philosophers weren’t concerned with authorship, but only what worked. More important, they believed that what was said mattered less than what was done. And this is true now as it was then. You’re welcome to take all of the words of the great philosophers and use them to your own liking (they’re dead; they don’t mind). Feel free to make adjustments and improvements as you like. Adapt them to the real conditions of the real world. The way to prove that you truly understand what you speak and write, that you truly are original, is to put them into practice.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Several common themes were found in the highly creative individuals regarding their early experiences and education. In early childhood their families accorded them a great deal of respect and allowed them to explore on their own and develop a strong sense of personal autonomy. There was also a lack of extreme emotional closeness with parents. There was little evidence of intensely negative experiences; for example there was, relative to the times in which they lived, very little physical punishment for transgressions. Nor, on the positive side, was there evidence of extremely intense bonds of the sort that can smother independence. There was more competition among brothers and sisters for parental love in nuclear families than in extended families. On balance, for those who would grow up to be highly creative, relationships with parents were relatively easy and, in later life, pleasant and friendly rather than intensely intimate.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Shakespeare wrote, “What’s in a name? That which we call a rose by any other name would smell as sweet.” According to Stanford University psychology professor Lera Boroditsky, that’s not necessarily so. Focusing on the grammatical gender differences between German and Spanish, Boroditsky’s work indicates that the gender our language assigns to a given noun influences us to subconsciously give that noun characteristics of the grammatical gender. Take the word bridge. In German, bridge (die brücke) is a feminine noun; in Spanish, bridge (el puente) is a masculine noun. Boroditsky found that when asked to describe a bridge, native German speakers used words like beautiful, elegant, slender. When native Spanish speakers were asked the same question, they used words like strong, sturdy, towering. This worked the other way around as well. The word key is masculine in German and feminine in Spanish. When asked to describe a key, native German speakers used words like jagged, heavy, hard, metal. Spanish speakers used words like intricate, golden, lovely.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Our perception always involves some imagination. It is more similar to painting than to photography. And, according to the confirmation effect, we blindly trust the reality we construct. You will see that the majority of us are quite ignorant about what lies around us. This is not so puzzling. The most extraordinary fact is that we completely disregard this ignorance. This is best witnessed in visual illusions, which we perceive with full confidence, as if there were no doubt that we are portraying reality faithfully. One interesting way of discovering this — in a simple game that can be played at any moment — is the following. Whenever you are with another person, ask him or her to close their eyes, and start asking questions about what is nearby — not very particular details but the most striking elements of the scene. What is the color of the wall? Is there a table in the room? Does that man have a beard?",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "How can we help students manage cognitive load as they learn to perform complex tasks? One method that has proved effective in research studies is to support some aspects of a complex task while students perform the entire task. For example, Swelter and Cooper demonstrated this with students learning to solve problems in a variety of quantitative fields from statistics to physics. They found that when students were given typical word problems, it was possible for them to solve the problems without actually learning much. This is because the problems themselves were sufficiently demanding that students had no cognitive resources available to learn from what they did. But when students were given “worked-examples” (such as pre-solved problems) placed between problems to solve, studying the worked-examples freed up cognitive resources that allowed students to see the key features of the problem and to analyze the steps and reasons behind problem-solving moves. The researchers found this improved students’ performance on subsequent problem solving. This result, called the worked-example effect, is one example of a process called scaffolding, by which instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.",
+      "original_summary": null,
+      "word_count": 195,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Utilitarian ethics argues that all action should be directed toward achieving the greatest total amount of happiness for the largest number of people. Utilitarian ethics assumes that all actions can be evaluated in terms of their moral worth, and so the desirability of an action is determined by its resulting hedonistic consequences. This is a consequentialist creed, assuming that the moral value and desirability of an action can be determined from its likely outcomes. Jeremy Bentham suggested that the value of hedonistic outcomes can be quantitatively assessed, so that the value of consequent pleasure can be derived by multiplying its intensity and its duration. In contrast, the other major advocate of utilitarianism, John Stuart Mill, argued for a more qualitative approach, assuming that there can be different subjective levels of pleasure. Higher-quality pleasures are more desirable than lower-quality pleasures. Less sophisticated creatures (like pigs!) have an easier access to the simpler pleasures, but more sophisticated creatures like humans have the capacity to access higher pleasures and should be motivated to seek those.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Music has no past; it exists only at the moment when it happens, and no two performances are identical. This is music’s greatest asset because it brings out the essential ‘now’ without implications of a past and a potential future. Thus, Stravinsky pointed out that only through music are we able to ‘realize the present.’ Musical ‘meaning’ cannot be separated from the act of presentation. However, the necessity of present-ing music — making it present here and now, without which it will not be music at all — does not sit easily with a concept of education that rests mainly upon received factual knowledge and which, by tradition, uses the past to make sense of the present. If we want music to have a role in general education, it would seem logical to acknowledge this difference and give prominence to activities that will involve all pupils working directly with music. Yet, in spite of numerous attempts to develop a more musical music curriculum for the majority of school pupils, the emphasis is still on pupils absorbing factual information about music.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M10-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The domination of nature is a familiar trope in environmental ethics and environmental political theory. Its history is tied more broadly to the rise of modern science, philosophy, and politics. The effort to understand the causal relations that govern the physical world so as to intervene in these relations in ways that could, as Francis Bacon put it, “ameliorate the human condition,” marked the beginning of modernity in the West. For a long time, the “domination of nature” referred to this effort to understand and control the nonhuman environment, and it was seen as a clearly good thing. This effort made possible new technologies and rising economic prosperity, promised an end to many forms of human suffering, and demonstrated the triumph of reason over ignorance and superstition. Its costs began to be visible with industrialization in the nineteenth century, which generated obvious environmental damage and caused among many people a sense of alienation from the land and the more-than-human communities composing it. One sees a growing unease about these costs in novels of the era such as Mary Shelley’s Frankenstein (1818), in poems like Wordsworth’s “Michael” (1800) and later Whitman’s Leaves of Grass (1855), and in the early nature writing of Thoreau’s Walden (1854). Yet systematic, critical analysis of the domination of nature as a problem came into its own only with the environmental studies movement in the 1970s. Since then, the trope has come to have a broadly negative meaning, with the domination of nature being viewed as harmful and illegitimate, as well as dangerous to human interests.",
+      "original_summary": null,
+      "word_count": 259,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

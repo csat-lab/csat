@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2023,
+    "month": 6,
+    "grade": "고2",
+    "exam_title": "2023학년도 6월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2023-M6-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The introduction of new technologies clearly has both positive and negative impacts for sustainable development. Good management of technological resources needs to take them fully into account. Technological developments in sectors such as nuclear energy and agriculture provide examples of how not only environmental benefits but also risks to the environment or human health can accompany technological advances. New technologies have profound social impacts as well. Since the industrial revolution, technological advances have changed the nature of skills needed in workplaces, creating certain types of jobs and destroying others, with impacts on employment patterns. New technologies need to be assessed for their full potential impacts, both positive and negative.",
+      "original_summary": null,
+      "word_count": 109,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 have entirely lost our marbles가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "North America’s native cuisine met the same unfortunate fate as its native people, save for a few relics like the Thanksgiving turkey. Certainly, we still have regional specialties, but the Carolina barbecue will almost certainly have California tomatoes in its sauce, and the Louisiana gumbo is just as likely to contain Indonesian farmed shrimp. If either of these shows up on a fast-food menu with lots of added fats or HFCS, we seem unable either to discern or resist the corruption. We have yet to come up with a strong set of generalized norms, passed down through families, for savoring and sensibly consuming what our land and climate give us. We have, instead, a string of fad diets convulsing our bookstores and bellies, one after another, at the scale of the national best seller. Nine out of ten nutritionists view this as evidence that we have entirely lost our marbles.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Perhaps, the advent of Artificial Intelligence (AI) in the workplace may bode well for Emotional Intelligence (EI). As AI gains momentum and replaces people in jobs at every level, predictions are, there will be a premium placed on people who have high ability in EI. The emotional messages people send and respond to while interacting are, at this point, far beyond the ability of AI programs to mimic. As we get further into the age of the smart machine, it is likely that sensing and managing emotions will remain one type of intelligence that puzzles AI. This means people and jobs involving EI are safe from being taken over by machines. In a survey, almost three out of four executives see EI as a “must-have” skill for the workplace in the future as the automatizing of routine tasks bumps up against the impossibility of creating effective AI for activities that require emotional skill.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Education must focus on the trunk of the tree of knowledge, revealing the ways in which the branches, twigs, and leaves all emerge from a common core. Tools for thinking stem from this core, providing a common language with which practitioners in different fields may share their experience of the process of innovation and discover links between their creative activities. When the same terms are employed across the curriculum, students begin to link different subjects and classes. If they practice abstracting in writing class, if they work on abstracting in painting or drawing class, and if, in all cases, they call it abstracting, they begin to understand how to think beyond disciplinary boundaries. They see how to transform their thoughts from one mode of conception and expression to another. Linking the disciplines comes naturally when the terms and tools are presented as part of a universal imagination.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "New words and expressions emerge continually in response to new situations, ideas and feelings. The Oxford English Dictionary publishes supplements of new words and expressions that have entered the language. Some people deplore this kind of thing and see it as a drift from correct English. But it was only in the eighteenth century that any attempt was made to formalize spelling and punctuation of English at all. The language we speak in the twenty-first century would be virtually unintelligible to Shakespeare, and so would his way of speaking to us. Alvin Toffler estimated that Shakespeare would probably only understand about 250,000 of the 450,000 words in general use in the English language now. In other words, so to speak, if Shakespeare were to materialize in London today he would understand, on average, only five out of every nine words in our vocabulary.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Research psychologists often work with self-report data, made up of participants’ verbal accounts of their behavior. This is the case whenever questionnaires, interviews, or personality inventories are used to measure variables. Self-report methods can be quite useful. They take advantage of the fact that people have a unique opportunity to observe themselves full-time. However, self-reports can be plagued by several kinds of distortion. One of the most problematic of these distortions is the social desirability bias, which is a tendency to give socially approved answers to questions about oneself. Subjects who are influenced by this bias work overtime trying to create a favorable impression, especially when subjects are asked about sensitive issues. For example, many survey respondents will report that they voted in an election or gave to a charity when in fact it is possible to determine that they did not.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Over the past several decades, there have been some agreements to reduce the debt of poor nations, but other economic challenges (like trade barriers) remain. Nontariff trade measures, such as quotas, subsidies, and restrictions on exports, are increasingly prevalent and may be enacted for policy reasons having nothing to do with trade. However, they have a discriminatory effect on exports from countries that lack the resources to comply with requirements of nontariff measures imposed by rich nations. For example, the huge subsidies that rich nations give to their farmers make it very difficult for farmers in the rest of the world to compete with them. Another example would be domestic health or safety regulations, which, though not specifically targeting imports, could impose significant costs on foreign manufacturers seeking to conform to the importer’s market. Industries in developing markets may have more difficulty absorbing these additional costs.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In the course of his research on business strategy and the environment, Michael Porter noticed a peculiar pattern: Businesses seemed to be profiting from regulation. He also discovered that the stricter regulations were prompting more innovation than the weaker ones. The Dutch flower industry provides an illustration. For many years, the companies producing Holland’s world-renowned tulips and other cut flowers were also contaminating the country’s water and soil with fertilizers and pesticides. In 1991, the Dutch government adopted a policy designed to cut pesticide use in half by 2000 ― a goal they ultimately achieved. Facing increasingly strict regulation, greenhouse growers realized they had to develop new methods if they were going to maintain product quality with fewer pesticides. In response, they shifted to a cultivation method that circulates water in closed-loop systems and grows flowers in a rock wool substrate. The new system not only reduced the pollution released into the environment; it also increased profits by giving companies greater control over growing conditions.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "It’s hard to pay more for the speedy but highly skilled person, simply because there’s less effort being observed. Two researchers once did a study in which they asked people how much they would pay for data recovery. They found that people would pay a little more for a greater quantity of rescued data, but what they were most sensitive to was the number of hours the technician worked. When the data recovery took only a few minutes, willingness to pay was low, but when it took more than a week to recover the same amount of data, people were willing to pay much more. Think about it: They were willing to pay more for the slower service with the same outcome. Fundamentally, when we value effort over outcome, we’re paying for incompetence. Although it is actually irrational, we feel more rational, and more comfortable, paying for incompetence.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In adolescence many of us had the experience of falling under the sway of a great book or writer. We became entranced by the novel ideas in the book, and because we were so open to influence, these early encounters with exciting ideas sank deeply into our minds and became part of our own thought processes, affecting us decades after we absorbed them. Such influences enriched our mental landscape, and in fact our intelligence depends on the ability to absorb the lessons and ideas of those who are older and wiser. Just as the body tightens with age, however, so does the mind. And just as our sense of weakness and vulnerability motivated the desire to learn, so does our creeping sense of superiority slowly close us off to new ideas and influences. Some may advocate that we all become more skeptical in the modern world, but in fact a far greater danger comes from the increasing closing of the mind that burdens us as individuals as we get older, and seems to be burdening our culture in general.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Many people look for safety and security in popular thinking. They figure that if a lot of people are doing something, then it must be right. It must be a good idea. If most people accept it, then it probably represents fairness, equality, compassion, and sensitivity, right? Not necessarily. Popular thinking said the earth was the center of the universe, yet Copernicus studied the stars and planets and proved mathematically that the earth and the other planets in our solar system revolved around the sun. Popular thinking said surgery didn’t require clean instruments, yet Joseph Lister studied the high death rates in hospitals and introduced antiseptic practices that immediately saved lives. Popular thinking said that women shouldn’t have the right to vote, yet people like Emmeline Pankhurst and Susan B. Anthony fought for and won that right. We must always remember there is a huge difference between acceptance and intelligence. People may say that there’s safety in numbers, but that’s not always true.",
+      "original_summary": null,
+      "word_count": 163,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Before getting licensed to drive a cab in London, a person has to pass an incredibly difficult test with an intimidating name — “The Knowledge.” The test involves memorizing the layout of more than 20,000 streets in the Greater London area — a feat that involves an incredible amount of memory resources. In fact, fewer than 50 percent of the people who sign up for taxi driver training pass the test, even after spending two or three years studying for it! And as it turns out, the brains of London cabbies are different from non-cab-driving humans in ways that reflect their herculean memory efforts. In other words, they must hold a full driving license, issued by the Driver and Vehicle Licensing Authority, for at least a year. In fact, the part of the brain that has been most frequently associated with spatial memory, the tail of the sea horse-shaped brain region called the hippocampus, is bigger than average in these taxi drivers.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "When evaluating a policy, people tend to concentrate on how the policy will fix some particular problem while ignoring or downplaying other effects it may have. Economists often refer to this situation as The Law of Unintended Consequences. For instance, suppose that you impose a tariff on imported steel in order to protect the jobs of domestic steelworkers. If you impose a high enough tariff, their jobs will indeed be protected from competition by foreign steel companies. But an unintended consequence is that the jobs of some autoworkers will be lost to foreign competition. Why? The tariff that protects steelworkers raises the price of the steel that domestic automobile makers need to build their cars. As a result, domestic automobile manufacturers have to raise the prices of their cars, making them relatively less attractive than foreign cars. Raising prices tends to reduce domestic car sales, so some domestic autoworkers lose their jobs.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Species that are found in only one area are called endemic species and are especially vulnerable to extinction. They exist on islands and in other unique small areas, especially in tropical rain forests where most species are highly specialized. One example is the brilliantly colored golden toad once found only in a small area of lush rain forests in Costa Rica’s mountainous region. Despite living in the country’s well-protected Monteverde Cloud Forest Reserve, by 1989, the golden toad had apparently become extinct. Much of the moisture that supported its rain forest habitat came in the form of moisture-laden clouds blowing in from the Caribbean Sea. But warmer air from global climate change caused these clouds to rise, depriving the forests of moisture, and the habitat for the golden toad and many other species dried up. The golden toad appears to be one of the first victims of climate change caused largely by global warming.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "The fundamental nature of the experimental method is manipulation and control. Scientists manipulate a variable of interest, and see if there’s a difference. At the same time, they attempt to control for the potential effects of all other variables. The importance of controlled experiments in identifying the underlying causes of events cannot be overstated. In the real-uncontrolled-world, variables are often correlated. For example, people who take vitamin supplements may have different eating and exercise habits than people who don’t take vitamins. As a result, if we want to study the health effects of vitamins, we can’t merely observe the real world, since any of these factors (the vitamins, diet, or exercise) may affect health. Rather, we have to create a situation that doesn’t actually occur in the real world. That’s just what scientific experiments do. They try to separate the naturally occurring relationship in the world by manipulating one specific variable at a time, while holding everything else constant.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Why do people in the Mediterranean live longer and have a lower incidence of disease? Some people say it’s because of what they eat. Their diet is full of fresh fruits, fish, vegetables, whole grains, and nuts. Individuals in these cultures drink red wine and use great amounts of olive oil. Why is that food pattern healthy? One reason is that they are eating a palette of colors. More and more research is surfacing that shows us the benefits of the thousands of colorful “phytochemicals” (phyto=plant) that exist in foods. These healthful, non‑nutritive compounds in plants provide color and function to the plant and add to the health of the human body. Each color connects to a particular compound that serves a specific function in the body. For example, if you don’t eat purple foods, you are probably missing out on anthocyanins, important brain protection compounds. Similarly, if you avoid green‑colored foods, you may be lacking chlorophyll, a plant antioxidant that guards your cells from damage.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "People behave in highly predictable ways when they experience certain thoughts. When they agree, they nod their heads. So far, no surprise, but according to an area of research known as “proprioceptive psychology,” the process also works in reverse. Get people to behave in a certain way and you cause them to have certain thoughts. The idea was initially controversial, but fortunately it was supported by a compelling experiment. Participants in a study were asked to fixate on various products moving across a large computer screen and then indicate whether the items appealed to them. Some of the items moved vertically (causing the participants to nod their heads while watching), and others moved horizontally (resulting in a side-to-side head movement). Participants preferred vertically moving products without being aware that their “yes” and “no” head movements had played a key role in their decisions.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M6-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Events or experiences that are out of ordinary tend to be remembered better because there is nothing competing with them when your brain tries to access them from its storehouse of remembered events. In other words, the reason it can be difficult to remember what you ate for breakfast two Thursdays ago is that there was probably nothing special about that Thursday or that particular breakfast ― consequently, all your breakfast memories combine together into a sort of generic impression of a breakfast. Your memory merges similar events not only because it’s more efficient to do so, but also because this is fundamental to how we learn things ― our brains extract abstract rules that tie experiences together. This is especially true for things that are routine. If your breakfast is always the same ― cereal with milk, a glass of orange juice, and a cup of coffee for instance ― there is no easy way for your brain to extract the details from one particular breakfast. Ironically, then, for behaviors that are routinized, you can remember the generic content of the behavior (such as the things you ate, since you always eat the same thing), but particulars to that one instance can be very difficult to call up (such as the sound of a garbage truck going by or a bird that passed by your window) unless they were especially distinctive. On the other hand, if you did something unique that broke your routine ― perhaps you had leftover pizza for breakfast and spilled tomato sauce on your dress shirt ― you are more likely to remember it.",
+      "original_summary": null,
+      "word_count": 269,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

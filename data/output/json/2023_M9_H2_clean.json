@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2023,
+    "month": 9,
+    "grade": "고2",
+    "exam_title": "2023학년도 9월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2023-M9-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Managers frequently try to play psychologist, to “figure out” why an employee has acted in a certain way. Empathizing with employees in order to understand their point of view can be very helpful. However, when dealing with a problem area, in particular, remember that it is not the person who is bad, but the actions exhibited on the job. Avoid making suggestions to employees about personal traits they should change; instead suggest more acceptable ways of performing. For example, instead of focusing on a person’s “unreliability,” a manager might focus on the fact that the employee “has been late to work seven times this month.” It is difficult for employees to change who they are; it is usually much easier for them to change how they act.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 forward “thinking”이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "I suspect fungi are a little more forward “thinking” than their larger partners. Among trees, each species fights other species. Let’s assume the beeches native to Central Europe could emerge victorious in most forests there. Would this really be an advantage? What would happen if a new pathogen came along that infected most of the beeches and killed them? In that case, wouldn’t it be more advantageous if there were a certain number of other species around ― oaks, maples, or firs ― that would continue to grow and provide the shade needed for a new generation of young beeches to sprout and grow up? Diversity provides security for ancient forests. Because fungi are also very dependent on stable conditions, they support other species underground and protect them from complete collapse to ensure that one species of tree doesn’t manage to dominate.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It’s remarkable that positive fantasies help us relax to such an extent that it shows up in physiological tests. If you want to unwind, you can take some deep breaths, get a massage, or go for a walk ― but you can also try simply closing your eyes and fantasizing about some future outcome that you might enjoy. But what about when your objective is to make your wish a reality? The last thing you want to be is relaxed. You want to be energized enough to get off the couch and lose those pounds or find that job or study for that test, and you want to be motivated enough to stay engaged even when the inevitable obstacles or challenges arise. The principle of “Dream it. Wish it. Do it.” does not hold true, and now we know why: in dreaming it, you undercut the energy you need to do it. You put yourself in a temporary state of complete happiness, calmness ― and inactivity.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "If cooking is as central to human identity, biology, and culture as the biological anthropologist Richard Wrangham suggests, it stands to reason that the decline of cooking in our time would have serious consequences for modern life, and so it has. Are they all bad? Not at all. The outsourcing of much of the work of cooking to corporations has relieved women of what has traditionally been their exclusive responsibility for feeding the family, making it easier for them to work outside the home and have careers. It has headed off many of the domestic conflicts that such a large shift in gender roles and family dynamics was bound to spark. It has relieved other pressures in the household, including longer workdays and overscheduled children, and saved us time that we can now invest in other pursuits. It has also allowed us to diversify our diets substantially, making it possible even for people with no cooking skills and little money to enjoy a whole different cuisine. All that’s required is a microwave.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "As you may already know, what and how you buy can be political. To whom do you want to give your money? Which companies and corporations do you value and respect? Be mindful about every purchase by carefully researching the corporations that are taking our money to decide if they deserve our support. Do they have a record of polluting the environment, or do they have fair-trade practices and an end-of-life plan for the products they make? Are they committed to bringing about good in the world? For instance, my family has found a company producing recycled, plastic-packaging-free toilet paper with a social conscience. They contribute 50 percent of their profits to the construction of toilets around the world, and we’re genuinely happy to spend our money on this special toilet paper each month. Remember that the corporate world is built on consumers, so as a consumer you have the power to vote with your wallet and encourage companies to embrace healthier and more sustainable practices with every purchase you choose to make.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "There is little doubt that we are driven by the sell-by date. Once an item is past that date it goes into the waste stream, further increasing its carbon footprint. Remember those items have already travelled hundreds of miles to reach the shelves and once they go into waste they start a new carbon mile journey. But we all make our own judgement about sell-by dates; those brought up during the Second World War are often scornful of the terrible waste they believe such caution encourages. The manufacturer of the food has a view when making or growing something that by the time the product reaches the shelves it has already been travelling for so many days and possibly many miles. The manufacturer then decides that a product can reasonably be consumed within say 90 days and 90 days minus so many days for travelling gives the sell-by date. But whether it becomes toxic is something each individual can decide. It would seem to make sense not to buy large packs of perishable goods but non-perishable items may become cost-effective.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "The “jolt” of caffeine does wear off. Caffeine is removed from your system by an enzyme within your liver, which gradually degrades it over time. Based in large part on genetics, some people have a more efficient version of the enzyme that degrades caffeine, allowing the liver to rapidly clear it from the bloodstream. These rare individuals can drink an espresso with dinner and fall fast asleep at midnight without a problem. Others, however, have a slower-acting version of the enzyme. It takes far longer for their system to eliminate the same amount of caffeine. As a result, they are very sensitive to caffeine’s effects. One cup of tea or coffee in the morning will last much of the day, and should they have a second cup, even early in the afternoon, they will find it difficult to fall asleep in the evening. Aging also alters the speed of caffeine clearance: the older we are, the longer it takes our brain and body to remove caffeine, and thus the more sensitive we become in later life to caffeine’s sleep-disrupting influence.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Rebels may think they’re rebels, but clever marketers influence them just like the rest of us. Saying, “Everyone is doing it” may turn some people off from an idea. These people will look for alternatives, which (if cleverly planned) can be exactly what a marketer or persuader wants you to believe. If I want you to consider an idea, and know you strongly reject popular opinion in favor of maintaining your independence and uniqueness, I would present the majority option first, which you would reject in favor of my actual preference. We are often tricked when we try to maintain a position of defiance. People use this reversal to make us independently” choose an option which suits their purposes. Some brands have taken full effect of our defiance towards the mainstream and positioned themselves as rebels; which has created even stronger brand loyalty.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A typical soap opera creates an abstract world, in which a highly complex web of relationships connects fictional characters that exist first only in the minds of the program’s creators and are then recreated in the minds of the viewer. If you were to think about how much human psychology, law, and even everyday physics the viewer must know in order to follow and speculate about the plot, you would discover it is considerable — at least as much as the knowledge required to follow and speculate about a piece of modern mathematics, and in most cases, much more. Yet viewers follow soap operas with ease. How are they able to cope with such abstraction? Because, of course, the abstraction is built on an extremely familiar framework. The characters in a soap opera and the relationships between them are very much like the real people and relationships we experience every day. The abstraction of a soap opera is only a step removed from the real world. The mental “training” required to follow a soap opera is provided by our everyday lives.",
+      "original_summary": null,
+      "word_count": 181,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "As always happens with natural selection, bats and their prey have been engaged in a life-or-death sensory arms race for millions of years. It’s believed that hearing in moths arose specifically in response to the threat of being eaten by bats. (Not all insects can hear.) Over millions of years, moths have evolved the ability to detect sounds at ever higher frequencies, and, as they have, the frequencies of bats’ vocalizations have risen, too. Some moth species have also evolved scales on their wings and a fur-like coat on their bodies; both act as “acoustic camouflage,” by absorbing sound waves in the frequencies emitted by bats, thereby preventing those sound waves from bouncing back. The B-2 bomber and other “stealth” aircraft have fuselages made of materials that do something similar with radar beams.",
+      "original_summary": null,
+      "word_count": 133,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Much of human thought is designed to screen out information and to sort the rest into a manageable condition. The inflow of data from our senses could create an overwhelming chaos, especially given the enormous amount of information available in culture and society. Out of all the sensory impressions and possible information, it is vital to find a small amount that is most relevant to our individual needs and to organize that into a usable stock of knowledge. Expectancies accomplish some of this work, helping to screen out information that is irrelevant to what is expected, and focusing our attention on clear contradictions. The processes of learning and memory are marked by a steady elimination of information. People notice only a part of the world around them. Then, only a fraction of what they notice gets processed and stored into memory. And only part of what gets committed to memory can be retrieved.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "The irony of early democracy in Europe is that it thrived and prospered precisely because European rulers for a very long time were remarkably weak. For more than a millennium after the fall of Rome, European rulers lacked the ability to assess what their people were producing and to levy substantial taxes based on this. The most striking way to illustrate European weakness is to show how little revenue they collected. For this reason, tax collectors in Europe were able to collect a huge amount of revenue and therefore had a great influence on how society should function. Europeans would eventually develop strong systems of revenue collection, but it took them an awfully long time to do so. In medieval times, and for part of the early modern era, Chinese emperors and Muslim caliphs were able to extract much more of economic production than any European ruler with the exception of small city-states.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fastfood restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn’t account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that’s pretty close to our vision of a perfect good — and no other market structure delivers that outcome.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Architects might say a machine can never design an innovative or impressive building because a computer cannot be “creative.” Yet consider the Elbphilharmonie, a new concert hall in Hamburg, which contains a remarkably beautiful auditorium composed of ten thousand interlocking acoustic panels. It is the sort of space that makes one instinctively think that only a human being — and a human with a remarkably refined creative sensibility, at that — could design something so aesthetically impressive. Yet the auditorium was, in fact, designed algorithmically, using a technique known as “parametric design.” The architects gave the system a set of criteria, and it generated a set of possible designs for the architects to choose from. Similar software has been used to design lightweight bicycle frames and sturdier chairs, among much else. Are these systems behaving “creatively”? No, they are using lots of processing power to blindly generate varied possible designs, working in a very different way from a human being.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "The brain is a high-energy consumer of glucose, which is its fuel. Although the brain accounts for merely 3 percent of a person’s body weight, it consumes 20 percent of the available fuel. Your brain can’t store fuel, however, so it has to “pay as it goes.” Since your brain is incredibly adaptive, it economizes its fuel resources. Thus, during a period of high stress, it shifts away from the analysis of the nuances of a situation to a singular and fixed focus on the stressful situation at hand. You don’t sit back and speculate about the meaning of life when you are stressed. Instead, you devote all your energy to trying to figure out what action to take. Sometimes, however, this shift from the higher-thinking parts of the brain to the automatic and reflexive parts of the brain can lead you to do something too quickly, without thinking.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Much research has been carried out on the causes of engagement, an issue that is important from both a theoretical and practical standpoint: identifying the drivers of work engagement may enable us to manipulate or influence it. The causes of engagement fall into two major camps: situational and personal. The most influential situational causes are job resources, feedback and leadership, the latter, of course, being responsible for job resources and feedback. Indeed, leaders influence engagement by giving their employees honest and constructive feedback on their performance, and by providing them with the necessary resources that enable them to perform their job well. It is, however, noteworthy that although engagement drives job performance, job performance also drives engagement. In other words, when employees are able to do their jobs well — to the point that they match or exceed their own expectations and ambitions — they will engage more, be proud of their achievements, and find work more meaningful. This is especially evident when people are employed in jobs that align with their values.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In 2006, researchers conducted a study on the motivations for helping after the September 11th terrorist attacks against the United States. In the study, they found that individuals who gave money, blood, goods, or other forms of assistance because of other-focused motives (giving to reduce another’s discomfort) were almost four times more likely to still be giving support one year later than those whose original motivation was to reduce personal distress. This effect likely stems from differences in emotional arousal. The events of September 11th emotionally affected people throughout the United States. Those who gave to reduce their own distress reduced their emotional arousal with their initial gift, discharging that emotional distress. However, those who gave to reduce others’ distress did not stop empathizing with victims who continued to struggle long after the attacks.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M9-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In England in the 1680s, it was unusual to live to the age of fifty. This was a period when knowledge was not spread widely, there were few books and most people could not read. As a consequence, knowledge passed down through the oral traditions of stories and shared experiences. And since older people had accumulated more knowledge, the social norm was that to be over fifty was to be wise. This social perception of age began to shift with the advent of new technologies such as the printing press. Over time, as more books were printed, literacy increased, and the oral traditions of knowledge transfer began to fade. With the fading of oral traditions, the wisdom of the old became less important and as a consequence being over fifty was no longer seen as signifying wisdom. We are living in a period when the gap between chronological and biological age is changing fast and where social norms are struggling to adapt. In a video produced by the AARP (formerly the American Association of Retired Persons), young people were asked to do various activities ‘just like an old person’. When older people joined them in the video, the gap between the stereotype and the older people’s actual behaviour was striking. It is clear that in today’s world our social norms need to be updated quickly.",
+      "original_summary": null,
+      "word_count": 225,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

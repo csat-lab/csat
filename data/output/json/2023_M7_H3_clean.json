@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2023,
+    "month": 7,
+    "grade": "고3",
+    "exam_title": "2023학년도 7월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2023-M7-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Leaving behind technology during intentional time alone is essential for the cognitive benefits, neurological repair, and spiritual clarity that are the gifts of solitude. Multiple studies show that anxiety is markedly reduced, and we gain benefits similar to solitude, not by simply turning our phones off but by having them not physically with us. If a phone is essential for safety during time alone, then turn off alerts, cover the screen — just tape paper right over it — and keep it somewhere that is terribly inconvenient to access. I am always surprised by how long it takes me to give up the impulse to reach for my phone, often for no reason at all, other than to “just check.” Check what? Always it is something that can do without me for the moment. It is important that we allow ourselves time to free our minds from even the possibility of constant connectivity, to “normalize deactivation,” as herbalist Sophia Rose puts it, allowing our overstimulated neuronal connections to rest and reassemble.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 production and marketing이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Humans already have a longer period of protected immaturity — a longer childhood — than any other species. Across species, a long childhood is correlated with an evolutionary strategy that depends on flexibility, intelligence, and learning. There is a developmental division of labor. Children get to learn freely about their particular environment without worrying about their own survival — caregivers look after that. Adults use what they learned as children to mate, hunt, and generally succeed as grown-ups in that environment. Children are the R&D (research and development) department of the human species. We grown-ups are production and marketing. We start out as brilliantly flexible but helpless and dependent babies, great at learning everything but terrible at doing just about anything. We end up as much less flexible but much more efficient and effective adults, not so good at learning but terrific at planning and acting.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In order to be successful and equitable, ecosystem management must be linked to poverty reduction. Urban infrastructure projects need to address the trade-offs between conservation, livelihoods, and equitable distribution of resources. Historically there has been tension when conservation models that create protected areas are perceived as inaccessible to communities. Often, these models are implemented at the expense of poor and marginalized residents and users of resources from the areas. Social, economic, and environmental development programs have become obstacles to sustainable development because there is no balance between the need to protect ecosystem services and the desire to use resources to address community needs. Communities need to be allowed to identify and negotiate their own options and to increase their flexibility to cope with unexpected change.",
+      "original_summary": null,
+      "word_count": 125,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "For those of any age with an existing network of friendships built up in the three-dimensional world, social networking sites can be a happy extension of communication, along with email, video calls, or phone calls, when face-to-face time together just isn’t possible. The danger comes when a fake identity is both tempting and possible through relationships that are not based on real, three-dimensional interaction, and/or when the most important things in your life are the secondhand lives of others rather than personal experiences. Living in the context of the screen might suggest false norms of desirable lifestyles full of friends and parties. As ordinary human beings follow the activities of these golden individuals, self-esteem will inevitably drop; yet the constant narcissistic obsession with the self and its inadequacies will dominate. We can imagine a vicious circle where the more your identity is harmed as a result of social networking and the more inadequate you feel, the greater the appeal of a medium where you don’t need to communicate with people face-to-face.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Melody is one of the primary ways that our expectations are controlled by composers. Music theorists have identified a principle called gap fill; in a sequence of tones, if a melody makes a large leap, either up or down, the next note should change direction. A typical melody includes a lot of stepwise motion, that is, adjacent tones in the scale. If the melody makes a big leap, theorists describe a tendency for the melody to “want” to return to the jumping-off point; this is another way to say that our brains expect that the leap was only temporary, and tones that follow need to bring us closer and closer to our starting point, or harmonic “home.” In “Over the Rainbow,” the melody begins with one of the largest leaps we’ve ever experienced in a lifetime of music listening: an octave. This is a strong schematic violation, and so the composer rewards and soothes us by bringing the melody back toward home again, but not by too much because he wants to continue to build tension. The third note of this melody fills the gap.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "The intelligence of monkeys pales in comparison with that of our closest relatives, the great apes: orangutans, gorillas, chimpanzees, and bonobos, whose brains are twice as large relative to their body weight. Most primatologists believe the apes acquired their larger brains to help them communicate with and manipulate their peers. And they certainly do exhibit complex social interactions within their group; they seem capable of feeling empathy, have a self-image, and exhibit a degree of consciousness as they can recognize themselves in a mirror. But this “social hypothesis” does not explain why it was the great apes that became so clever, rather than monkeys or a group of terrestrial mammals. Nor does it explain why orangutans, who seldom encounter their neighbors, are so intelligent. It seems likely that some other factor must have been in play that caused apes to become more intelligent in the first place, and which could subsequently have enabled some members of the group to develop high-level sociality.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "The consequences of the mechanical breakdown of food by cooking are profound. Both the stiffness and toughness of the food is drastically reduced, making mechanical processing far easier. The forces your teeth need to apply to break up the food are lower, and the food releases its cell contents far more easily. The optimal tooth shape for breaking up the food also changes. Rather than needing thick, flat plates that can apply large compression forces to grind up tough materials and crush hard ones, it is better to have molars with pointed ends to cut through the softer food. It loosens at much smaller forces and breaks up far more quickly. Modern hunter-gatherers spend far less time chewing their food even than apes that eat relatively soft fruit; they chew for less than an hour a day compared with five or six hours for chimpanzees. This frees up plenty of time for other tasks, such as looking after the fire, making a permanent camp, toolmaking, or further foraging.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Learning is constructive, not destructive. This means we don’t replace mental models ― we simply expand upon them. To understand what I mean, think back to your childhood. There was likely a time when you believed in Santa Claus; your mental model accepted him and your predictions accounted for his existence. At some point, however, you came to recognize he was fictitious and you updated your mental model accordingly. At that moment, you didn’t suddenly forget everything about Santa Claus. To this day, you can still recognize him, speak of him and embrace young children’s belief in him. In other words, you didn’t destroy your old mental model, you simply added new information to it. By building upon old mental models we are able to maintain ties to the past, foster a deeper understanding of concepts and develop an ever-expanding pool of information to draw upon in order to continually adapt to an ever-evolving world.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A commonality between conceptual and computer art was the suppression of authorial presence. Conceptual artists decoupled the relationship between the art object and artist by mitigating all personal signs of invention. The artist became detached from the idea of personalized draftsmanship by installing a predetermined system ― a type of instruction for another to follow. That way there was, as Sol LeWitt states, no “dependence on the skill of the artist as a craftsman.” Effectively any person could carry out the instructions. The same process was at work in computer art, where artists devised a predetermined drawing algorithm for the computer automaton to carry out the instruction. The human agent initiated the conceptual form, and a machine actuated it. Likewise, the computer artwork lacked any autographic mark, trace of spontaneity, or artistic authenticity. The plotter arm would replace the human arm in the production process.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Innate behaviors used for finding food, such as grazing, scavenging, or hunting, are more dependent on learning than behaviors used to consume food. Mating, nesting, eating, and prey-killing behaviors tend to be governed more by instinct. The greater dependence on learning to find food makes animals in the wild more flexible and able to adapt to a variety of environments. Behaviors used to kill or consume food can be the same in any environment. Ernst Mayr, an evolutionary biologist, called these different behavioral systems “open” or “closed” to the effects of experience. A lion hunting her prey is an example of an open system. The hunting female lion recognizes her prey from a distance and approaches it carefully. Charles Herrick, a neurobiologist, wrote, “the details of the hunt vary every time she hunts. Therefore no combination of simple reflex arcs laid down in the nervous system will be adequate to meet the infinite variations of the requirements for obtaining food.”",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The revolution’s victorious party can claim to have resolved the fundamental anomalies of the old paradigm and to have renewed the prospects for successful research governed by shared assumptions. Indeed, the new community typically rewrites the textbooks, and retells its own history, to reflect this point of view. But from the standpoint of the losers, or even of those who look on impartially, such rewritings might seem to mark change without any genuine claim to progress, because there is no neutral standard by which to assess the merits of the change. The resulting body of knowledge is in any case not cumulative, since much of what was previously known (or merely believed) had to be excluded without ever having been conclusively refuted. One likewise cannot plausibly talk about revolutionary reconstitutions of science as aiming toward truth, for similarly, there can be no impartial formulation of standards for its assessment. The available justification of scientific knowledge after revolutions, couched in new terms according to newly instituted standards, may well be sufficient, but perhaps only because these standards and terms are now inevitably our own.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "The written word is the obvious, and easiest, place to start when exploring local history, if only to see what has already been written on the subject. Local history books have been written for centuries and are very variable in quality. These books will certainly not mention your ancestor by name unless they played a particularly prominent part in the development of the locality in question. However, they do provide information about how a place changed over time, who the major personalities were and the significant events that occurred there; or at least those selected by the author for inclusion. If the author is writing from his personal experiences, he must be allowed to spend more energy on adding creative twists to a story that already exists. Unless a book is extremely large or the district chosen is very small, then the author must choose very carefully what he is to include and their priorities may not be the same as all their readers. It is well worth reading some or preferably all of the books written about a locality that your ancestors lived in.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The desire to see and interact with animals, shaped as it is by popular culture, can be a motivating factor for travel, but negative perceptions of certain animals can perform an entirely opposite role in discouraging people from visiting some destinations. The harmful effects of animals on tourism experiences has been the subject of analysis in a small number of studies, but deaths or injuries caused by animals to tourists are tiny in comparison to other causes such as drowning and vehicular accidents. Nevertheless, the possibility that they might encounter a dangerous animal such as shark or snake or catch a disease such as malaria is sufficient to stop at least some tourists from visiting destinations where such threats exist. Sometimes this fear is turned into a marketing opportunity. For example, there are a variety of t-shirt and tea towel designs which celebrate the dangerous animals that can be encountered in Australia. This is a whimsical reconfiguration of the perceived threat that these animals pose to some tourists considering travel to this country.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In the course of acquiring a language, children are exposed to only a finite set of utterances. Yet they come to use and understand an infinite set of sentences. This has been referred to as the creative aspect of language use. This ‘creativity’ does not refer to the ability to write poetry or novels but rather the ability to produce and understand an unlimited set of new sentences never spoken or heard previously. The precise linguistic input children receive differs from child to child; no two children are exposed to exactly the same set of utterances. Yet, they all arrive at pretty much the same grammar. The input that children get is haphazard in the sense that caretakers do not talk to their children to illustrate a particular point of grammar. Yet, all children develop systematic knowledge of a language. Thus, despite the severe limitations and variation in the input children receive, and also in their personal circumstances, they all develop a rich and uniform system of linguistic knowledge. The knowledge attained goes beyond the input in various ways.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Often time, or lack of time, plays an important role in the purchase of everyday products. Milica Milosavljevic and his coworkers conducted an experiment looking at the relationship between visual salience and the decision to purchase. They showed subjects 15 different food items on fMRI, such as those we find in a candy vending machine at the train station, that is, bars, chips, fruity items, etc. These were rated by the subjects on a scale of 1–15 according to “favorite snack” to “don’t like at all.” They were then presented in varying brightness and time, with subjects always having to make a choice between two products. The result was that we don’t always buy what we like best, but when things have to happen quickly, we tend to go for the product that catches our eye the most. If we are also distracted because we are talking to someone, on the phone, or our thoughts are elsewhere at the moment, our actual preference for a product falls further into the background and visual conspicuousness comes to the fore. Colors play an important role in this.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "If we look at contemporary British ‘culture’ we will probably quickly conclude that sport is an important part of the culture. In other words, it is something that many people in the society share and value. In addition, we would also probably conclude that the most ‘important’ sport within British culture is football. We would ‘know’ this from the evidence that on a daily basis there is a significant amount of ‘cultural’ activity all focused on football in terms of the amount of people who play it, watch it, read about it and talk about it. However, within British society not everybody would see football as ‘their’ game. It could be argued from looking at their ‘cultural’ activities and habits, that people from a middle-class background seem to prefer rugby over football, or that more women play netball than football. Equally, if you went to the USA and were talking about ‘football’, most people would assume you were talking about American football rather than soccer. From this we can conclude that different cultures produce different ways of understanding, or evaluating, human activities such as sport.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "As a social species, should we not all be synchronized and therefore awake at the same time to promote maximal human interactions? Perhaps not. Humans likely evolved to co-sleep as families or even whole tribes, not alone or as couples. Appreciating this evolutionary context, the benefits of such genetically programmed variation in sleep/wake timing preferences can be understood. The night people in the group would not be going to sleep until one or two a.m., and not waking until nine or ten a.m. The morning people, on the other hand, would have retired for the night at nine p.m. and woken at five a.m. Consequently, the group as a whole is only collectively vulnerable (i.e., every person asleep) for just four rather than eight hours, despite everyone still getting the chance for eight hours of sleep. That’s potentially a 50 percent increase in survival fitness. Mother Nature would never pass on a biological trait — here, the useful variability in when individuals within a collective tribe go to sleep and wake up — that could enhance the survival safety and thus fitness of a species by this amount. And so she hasn’t.",
+      "original_summary": null,
+      "word_count": 192,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2023-M7-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Generalization promotes cognitive economy, so that we don’t focus on particulars that don’t matter. The great Russian neuropsychologist Alexander Luria studied a patient, Solomon Shereshevsky, with a memory impairment that was the opposite of what we usually hear about ― Solomon didn’t have amnesia, the loss of memories; he had what Luria called hypermnesia (we might say that his superpower was superior memory). His supercharged memory allowed him to perform amazing feats, such as repeating speeches word for word that he had heard only once, or complex mathematical formulas, long sequences of numbers, and poems in foreign languages he didn’t even speak. Before you think that having such a fantastic memory would be great, it came with a cost: Solomon wasn’t able to form abstractions because he remembered every detail as distinct. He had particular trouble identifying people. From a neurocognitive standpoint, every time you see a face, it is likely that it looks at least slightly different from the last time ― you’re viewing it at a different angle and distance than before, and you might be encountering a different expression. While you’re interacting with a person, their face goes through a parade of expressions. Because your brain can generalize, you see all of these different manifestations of the face as belonging to the same person. Solomon couldn’t do that. As he explained to Luria, recognizing his friends and colleagues was nearly impossible because “everyone has so many faces.”",
+      "original_summary": null,
+      "word_count": 240,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

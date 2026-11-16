@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 6,
+    "grade": "고2",
+    "exam_title": "2022학년도 6월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M6-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In the rush towards individual achievement and recognition, the majority of those who make it forget their humble beginnings. They often forget those who helped them on their way up. If you forget where you came from, if you neglect those who were there for you when things were tough and slow, then your success is valueless. No one can make it up there without the help of others. There are parents, friends, advisers, and coaches that help. You need to be grateful to all of those who helped you. Gratitude is the glue that keeps you connected to others. It is the bridge that keeps you connected with those who were there for you in the past and who are likely to be there in the end. Relationships and the way you treat others determine your real success.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 ‘give away the house’가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "For companies interested in delighting customers, exceptional value and service become part of the overall company culture. For example, year after year, Pazano ranks at or near the top of the hospitality industry in terms of customer satisfaction. The company’s passion for satisfying customers is summed up in its credo, which promises that its luxury hotels will deliver a truly memorable experience. Although a customer-centered firm seeks to deliver high customer satisfaction relative to competitors, it does not attempt to maximize customer satisfaction. A company can always increase customer satisfaction by lowering its price or increasing its services. But this may result in lower profits. Thus, the purpose of marketing is to generate customer value profitably. This requires a very delicate balance: the marketer must continue to generate more customer value and satisfaction but not ‘give away the house’.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The problem with simply adopting any popular method of parenting is that it ignores the most important variable in the equation: the uniqueness of your child. So, rather than insist that one style of parenting will work with every child, we might take a page from the gardener’s handbook. Just as the gardener accepts, without question or resistance, the plant’s requirements and provides the right conditions each plant needs to grow and flourish, so, too, do we parents need to custom-design our parenting to fit the natural needs of each individual child. Although that may seem difficult, it is possible. Once we understand who our children really are, we can begin to figure out how to make changes in our parenting style to be more positive and accepting of each child we’ve been blessed to parent.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In the movie Groundhog Day, a weatherman played by Bill Murray is forced to re-live a single day over and over again. Confronted with this seemingly endless loop, he eventually rebels against living through the same day the same way twice. He learns French, becomes a great pianist, befriends his neighbors, helps the poor. Why do we cheer him on? Because we don’t want perfect predictability, even if what’s on repeat is appealing. Surprise engages us. It allows us to escape autopilot. It keeps us awake to our experience. In fact, the neurotransmitter systems involved in reward are tied to the level of surprise: rewards delivered at regular, predictable times yield a lot less activity in the brain than the same rewards delivered at random unpredictable times. Surprise gratifies.",
+      "original_summary": null,
+      "word_count": 129,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A building is an inanimate object, but it is not an inarticulate one. Even the simplest house always makes a statement, one expressed in brick and stone, in wood and glass, rather than in words — but no less loud and obvious. When we see a rusting trailer surrounded by weeds and abandoned cars, or a brand-new mini-mansion with a high wall, we instantly get a message. In both of these cases, though in different accents, it is “Stay Out of Here.” It is not only houses, of course, that communicate with us. All kinds of buildings — churches, museums, schools, hospitals, restaurants, and offices — speak to us silently. Sometimes the statement is deliberate. A store or restaurant can be designed so that it welcomes mostly low-income or high-income customers. Buildings tell us what to think and how to act, though we may not register their messages consciously.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Even though institutions like the World Bank use wealth to differentiate between “developed” and “developing” countries, they also agree that development is more than economic growth. “Development” can also include the social and environmental changes that are caused by or accompany economic growth, some of which are positive and thus may be negative. Awareness has grown — and continues to grow — that the question of how economic growth is affecting people and the planet needs to be addressed. Countries are slowly learning that it is cheaper and causes much less suffering to try to reduce the harmful effects of an economic activity or project at the beginning, when it is planned, than after the damage appears. To do this is not easy and is always imperfect. But an awareness of the need for such an effort indicates a greater understanding and moral concern than did the previous widespread attitude that focused only on creating new products and services.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "The most advanced military jets are fly‑by‑wire: They are so unstable that they require an automated system that can sense and act more quickly than a human operator to maintain control. Our dependence on smart technology has led to a paradox. As technology improves, it becomes more reliable and more efficient, and human operators depend on it even more. Eventually they lose focus, become distracted, and check out, leaving the system to run on its own. In the most extreme case, piloting a massive airliner could become a passive occupation, like watching TV. This is fine until something unexpected happens. The unexpected reveals the value of humans; what we bring to the table is the flexibility to handle new situations. Machines aren’t collaborating in pursuit of a joint goal; they are merely serving as tools. So when the human operator gives up oversight, the system is more likely to have a serious accident.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Followers can be defined by their position as subordinates or by their behavior of going along with leaders’ wishes. But followers also have power to lead. Followers empower leaders as well as vice versa. This has led some leadership analysts like Ronald Heifetz to avoid using the word followers and refer to the others in a power relationship as “citizens” or “constituents.” Heifetz is correct that too simple a view of followers can produce misunderstanding. In modern life, most people wind up being both leaders and followers, and the categories can become quite fluid. Our behavior as followers changes as our objectives change. If I trust your judgment in music more than my own, I may follow your lead on which concert we attend (even though you may be formally my subordinate in position). But if I am an expert on fishing, you may follow my lead on where we fish, regardless of our formal positions or the fact that I followed your lead on concerts yesterday.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Color is an interpretation of wavelengths, one that only exists internally. And it gets stranger, because the wavelengths we’re talking about involve only what we call “visible light”, a spectrum of wavelengths that runs from red to violet. But visible light constitutes only a tiny fraction of the electromagnetic spectrum — less than one ten-trillionth of it. All the rest of the spectrum — including radio waves, microwaves, X-rays, gamma rays, cell phone conversations, wi-fi, and so on — all of this is flowing through us right now, and we’re completely unaware of it. This is because we don’t have any specialized biological receptors to pick up on these signals from other parts of the spectrum. The slice of reality that we can see is limited by our biology.",
+      "original_summary": null,
+      "word_count": 129,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "What is unusual about journalism as a profession is its lack of independence. In theory, practitioners in the classic professions, like medicine or the clergy, contain the means of production in their heads and hands, and therefore do not have to work for a company or an employer. They can draw their income directly from their clients or patients. Because the professionals hold knowledge, moreover, their clients are dependent on them. Journalists hold knowledge, but it is not theoretical in nature; one might argue that the public depends on journalists in the same way that patients depend on doctors, but in practice a journalist can serve the public usually only by working for a news organization, which can fire her or him at will. Journalists’ income depends not on the public, but on the employing news organization, which often derives the large majority of its revenue from advertisers.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In most of the world, capitalism and free markets are accepted today as constituting the best system for allocating economic resources and encouraging economic output. Nations have tried other systems, such as socialism and communism, but in many cases they have either switched wholesale to or adopted aspects of free markets. Despite the widespread acceptance of the free-market system, markets are rarely left entirely free. Government involvement takes many forms, ranging from the enactment and enforcement of laws and regulations to direct participation in the economy through entities like the U.S.’s mortgage agencies. Perhaps the most important form of government involvement, however, comes in the attempts of central banks and national treasuries to control and affect the ups and downs of economic cycles.",
+      "original_summary": null,
+      "word_count": 123,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Inflationary risk refers to uncertainty regarding the future real value of one’s investments. Say, for instance, that you hold $100 in a bank account that has no fees and accrues no interest. If left untouched there will always be $100 in that bank account. If you keep that money in the bank for a year, during which inflation is 100 percent, you’ve still got $100. Only now, if you take it out and put it in your wallet, you’ll only be able to purchase half the goods you could have bought a year ago. In other words, if inflation increases faster than the amount of interest you are earning, this will decrease the purchasing power of your investments over time. It would be very useful to know in advance what would happen to your firm’s total revenue if you increased your product’s price. That’s why we differentiate between nominal value and real value.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Touch receptors are spread over all parts of the body, but they are not spread evenly. Most of the touch receptors are found in your fingertips, tongue, and lips. On the tip of each of your fingers, for example, there are about five thousand separate touch receptors. In other parts of the body there are far fewer. In the skin of your back, the touch receptors may be as much as 2 inches apart. You can test this for yourself. Have someone poke you in the back with one, two, or three fingers and try to guess how many fingers the person used. If the fingers are close together, you will probably think it was only one. But if the fingers are spread far apart, you can feel them individually. Yet if the person does the same thing on the back of your hand (with your eyes closed, so that you don’t see how many fingers are being used), you probably will be able to tell easily, even when the fingers are close together.",
+      "original_summary": null,
+      "word_count": 174,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One interesting feature of network markets is that “history matters.” A famous example is the QWERTY keyboard used with your computer. You might wonder why this particular configuration of keys, with its awkward placement of the letters, became the standard. The QWERTY keyboard in the 19th century was developed in the era of manual typewriters with physical keys. The keyboard was designed to keep frequently used keys (like E and O) physically separated in order to prevent them from jamming. By the time the technology for electronic typing evolved, millions of people had already learned to type on millions of QWERTY typewriters. Replacing the QWERTY keyboard with a more efficient design would have been both expensive and difficult to coordinate. Thus, the placement of the letters stays with the obsolete QWERTY on today’s English-language keyboards.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "One way of measuring temperature occurs if an object is hot enough to visibly glow, such as a metal poker that has been left in a fire. The color of a glowing object is related to its temperature: as the temperature rises, the object is first red and then orange, and finally it gets white, the “hottest” color. The relation between temperature and the color of a glowing object is useful to astronomers. The color of stars is related to their temperature, and since people cannot as yet travel the great distances to the stars and measure their temperature in a more precise way, astronomers rely on their color. This temperature is of the surface of the star, the part of the star which is emitting the light that can be seen. The interior of the star is at a much higher temperature, though it is concealed. But the information obtained from the color of the star is still useful.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "The holy grail of the first wave of creativity research was a personality test to measure general creativity ability, in the same way that IQ measured general intelligence. A person’s creativity score should tell us his or her creative potential in any field of endeavor, just like an IQ score is not limited to physics, math, or literature. But by the 1970s, psychologists realized there was no such thing as a general “creativity quotient.” Creative people aren’t creative in a general, universal way; they’re creative in a specific sphere of activity, a particular domain. We don’t expect a creative scientist to also be a gifted painter. A creative violinist may not be a creative conductor, and a creative conductor may not be very good at composing new works. Psychologists now know that creativity is domain specific.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The great irony of performance psychology is that it teaches each sportsman to believe, as far as he is able, that he will win. No man doubts. No man indulges his inner skepticism. That is the logic of sports psychology. But only one man can win. That is the logic of sport. Note the difference between a scientist and an athlete. Doubt is a scientist’s stock in trade. Progress is made by focusing on the evidence that refutes a theory and by improving the theory accordingly. Skepticism is the rocket fuel of scientific advance. But doubt, to an athlete, is poison. Progress is made by ignoring the evidence; it is about creating a mindset that is immune to doubt and uncertainty. Just to reiterate: From a rational perspective, this is nothing less than crazy. Why should an athlete convince himself he will win when he knows that there is every possibility he will lose? Because, to win, one must proportion one’s belief, not to the evidence, but to whatever the mind can usefully get away with.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M6-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Common sense suggests that discussion with others who express different opinions should produce more moderate attitudes for everyone in the group. Surprisingly, this is not always the case. In group polarization, a period of discussion pushes group members to take more extreme positions in the direction that they were already inclined to prefer. Group polarization does not reverse the direction of attitudes, but rather accentuates the attitudes held at the beginning. Two pressures appear to push individuals to take more extreme positions following a group discussion. First, conformity and desire for affiliation contribute to group polarization. If the majority of a group is leaning in a particular direction, what could be a better way of fitting in than agreeing with that majority, and maybe even taking its argument one step farther? There is also a tendency for like-minded people to affiliate with one another, which can provide reinforcement for existing opinions, increase people’s confidence in those opinions, lead to the discovery of new reasons for those opinions and counterarguments to opposing views, and reduce exposure to conflicting ideas. Second, exposure to discussion on a topic introduces new reasons for maintaining an attitude. If you are already opposed to gun control and you listen to additional arguments supporting your position, you might end up more opposed than you were originally.",
+      "original_summary": null,
+      "word_count": 219,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

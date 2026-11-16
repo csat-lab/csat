@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2024,
+    "month": 7,
+    "grade": "고3",
+    "exam_title": "2024학년도 7월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2024-M7-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Walk into a bookstore and you’ll see some authors have a whole shelf. Authors with just one book are hard to find and it’s the same for digital shelf-space. Look at the most loved and top-selling authors and they all have a lot of books. One book is not enough to build a career as a fiction author if that is a goal of yours. So, don’t obsess over that one book, consider it just the beginning, and get writing on the next one. Of course, first-time authors don’t want to hear this! I certainly didn’t when I put my first book out. I’ve tried every single marketing tool possible and I still continue to experiment with new forms. But after 27 books, writing more books is what I personally keep coming back to as the best marketing tool and the best way to increase my income as a writer. Because every time a new book comes out, more readers discover the backlist. You also have another chance to ‘break out’.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 the breadcrumbs of the conversation이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "In improv, the actors have no control of the conversation or the direction it takes. They can only react to the other actors’ words or nonverbal communication. Because of this, the actors become experts at reading body language and reading between the lines of what is said. If they are unable to do this, they are left in the dark and the performance crumbles. This applies to our daily conversations, but we’re usually too self-centered to notice. Just like the improv actors become adept at picking up on the breadcrumbs of the conversation, we need to do the same. When people want to talk about something specific, rarely will they come out and just say it. 99 percent of people won’t say, “Hey, let’s talk about my dog now. So....” Instead, they will hint at it. When they bring up a topic unprompted, or ask questions about it, they want to talk about it. Sometimes, when the other person seems to not pick up on these signals, they will keep redirecting the conversation to that specific topic. If they seem excited whenever the topic comes up, they want to talk about it.",
+      "original_summary": null,
+      "word_count": 192,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The relevance of science in understanding organizational behavior can start with asking this question: Why do good managers make bad decisions? Too often managers make mistakes when it comes to fostering conditions that inspire positive outcomes in the workplace, such as performance, satisfaction, team cohesion, and ethical behavior. Why does this happen? Part of the reason is that rather than relying on a clearly validated set of scientific discoveries, managers use less reliable sources of insight such as gut feel, intuition, the latest trend, what a highly paid consultant might say, or what is being done in another company. Like most of us, managers tend to rely on their own strengths and experiences when making choices about how to get the best from others. But what works for one manager may not work for another. In the absence of a scientific approach, managers tend to make mistakes, offer ill-conceived incentives, misinterpret employee behavior, and fail to account for the many possible explanations for why employees might perform poorly.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Natural disasters and aging are two problems that societies have been dealing with for all of human history. Governments must respond to both, but their dynamics are entirely different and this has profound consequences for the nature of the response. Simply by plotting the aging slope, policy makers go a long way toward understanding the problem: People get older at a constant and reliable rate. There can be disagreements over how to solve the aging problem (this is political complexity), but the nature of the problem is never in dispute. Plotting the number of people killed in natural disasters does very little to advance understanding of this problem other than emphasizing the randomness of natural disasters. Preparing a policy response is, therefore, much easier in some areas than in others. When inputs are reliable and easy to predict, it greatly facilitates information processing and allows for anticipatory problem-solving. When problems are causally complex and multivariate, determining the appropriate response is a reactionary endeavor.",
+      "original_summary": null,
+      "word_count": 163,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A scholar Eve Tuck urges researchers to move away from what she calls “damage-based research,” or “research that operates, even benevolently, from a theory of change that establishes harm or injury in order to achieve reparation.” Citing studies in education that sought to increase resources for marginalized youths by documenting the “illiteracies” of indigenous youths and youths of color, Tuck explains that damage-based research is a popular mechanism by which “pain and loss are documented in order to obtain particular political or material gains.” While damage-based studies have proven successful in attaining political or material gains in the form of funding, attention, and increased awareness related to the struggles of marginalized communities, Tuck points researchers to the ongoing violence damage-based research inflicts on marginalized communities, even under benevolent or perceivably beneficial circumstances. Among the many issues associated with damage-based research are the underlying assumptions this type of work makes and sustains about marginalized people; namely, that marginalized communities lack communication, civility, intellect, desires, assets, innovation, and ethics.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "When we assess potential, we make the cardinal error of focusing on starting points — the abilities that are immediately visible. In a world obsessed with innate talent, we assume the people with the most promise are the ones who stand out right away. But high achievers vary dramatically in their initial aptitudes. If we judge people only by what they can do on day one, their potential remains hidden. You can’t tell where people will land from where they begin. With the right opportunity and motivation to learn, anyone can build the skills to achieve greater things. Potential is not a matter of where you start, but of how far you travel. We need to focus less on starting points and more on distance traveled. For every Mozart who makes a big splash early, there are multiple Bachs who ascend slowly and bloom late. They’re not born with invisible superpowers; most of their gifts are homegrown or homemade.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "The outcomes of want-should conflicts are affected not only by what we think our future self will choose but also by how close we feel to our future self. Want-should conflicts fundamentally involve tradeoffs between options that satisfy the present self’s desires (wants) and options that benefit the future self (shoulds). As a result, when we do not feel psychologically connected to our future self, we should be less interested in taking actions to benefit this self and thus shy away from should options. Indeed, an emerging stream of research suggests that people are more impatient the more disconnected they feel from their future self. For example, people prefer smaller-sooner rewards over larger-later rewards at a higher rate when they anticipate experiencing life-changing events (rather than events that are unlikely to change their identityand beliefs), since life-changing events induce a greater disassociation between their image of their present self and their image of their future self. More generally, when people are told that their identity will change considerably over time, they are more likely to accept immediate benefits (wants) and forsake larger deferred benefits (shoulds). On the other hand, farsighted decision making can be facilitated by making people feel closer to their future self.",
+      "original_summary": null,
+      "word_count": 204,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Motivation doesn’t have to be accidental. For example, you don’t have to wait for hours until a certain song that picks up your spirits comes on the radio. You can control what songs you hear. If there are certain songs that always lift you up, make a mix of those songs and have it ready to play in your car. Go through all of your music and create a “greatest motivational hits” playlist for yourself. Use the movies, too. How many times do you leave a movie feeling inspired and ready to take on the world? Whenever that happens, put the name of the movie in a special notebook that you might label “the right buttons.” Six months to a year later, you can watch the movie and get the same inspired feeling. Most movies that inspire us are even better the second time around. You have much more control over your environment than you realize. You can begin programming yourself consciously to be more and more focused and motivated.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We are less forgiving of technical sound mistakes than we are of visual ones. We notice and dislike breaks in audio, defects in audio, and static in audio. A bit less so for things on the visual side. For example, if a video has some scan lines in it, within a short period, you will start to ignore them. If the visual signal streams in 1080 instead of 4k, eventually you’ll get used to it. However, if there is static in the audio, you will want to shut it off rather than endure the whole program. Or if the audio continues to drop out, you also will barely be able to tolerate it. In fact, probably more than any other aspect of filmmaking, it is via the audio that people determine silently to themselves, “Good, professional quality” or “low-budget student production” as soon as the film begins. These reactions are not just from seasoned filmmakers and educators, but the instinctual, natural reaction of all audiences.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Businesses are realizing that the way they operate and the impact they have on the environment greatly impacts their ability to maintain customers. Transitioning from a linear way of producing products to a circular one won’t be necessary only from an environmental perspective, but from a social and economic perspective as well. To minimize the negative impact on the environment, businesses will need to adjust the relationship they have with customers to maximize the value of the products they create. Rather than businesses viewing success as the number of products made per year, they will instead base their bottom line on the number of products kept in use per year. Though waste certainly creates a demand for companies to continue selling new products, eliminating waste doesn’t have to eliminate demand. By prolonging the ownership of a product rather than selling it, new business opportunities emerge in the world of maintenance and repair. Though eliminating waste minimizes the need for new products, it certainly increases the need to service existing products. The circular economy will demand that new business models focus on maintaining products rather than on making new products.",
+      "original_summary": null,
+      "word_count": 189,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The term Mother Tree comes from forestry. It has been clear for centuries that tree parents play such an important role in raising their offspring that they can be compared to human parents. A mother tree identifies which neighboring seedlings are hers using her roots. She then, via delicate connections, supports the seedlings with a solution of sugar, a process similar to a human mother nursing her child. Shade provided by parents is another form of care, as it curbs the growth of youngsters living under their crowns. Without the shade and exposed to full sunlight, the young trees would shoot up and expand the width of their trunks so quickly they’d be exhausted after just a century or two. If, however, the young trees stand strong in the shadows for decades — or even centuries — they can live to a great age. Shade means less sunlight and therefore considerably less sugar. The slow pace of life gently imposed by the mother tree is no accident, as generations of foresters have observed. To this day, they talk of what is known in German as erzieherischer Schatten or “instructive shade.”",
+      "original_summary": null,
+      "word_count": 190,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 3,
+      "passage": "In a context in which the cultural obligation to produce the self as a distinctive, authentic individual is difficult to fulfill, the burdensome work of individualizing the self is turned over increasingly to algorithms. The “personalization” that is promised on every front — in the domains of search, shopping, health, news, advertising, learning, music, and entertainment ― depends on ever more refined algorithmic constructions of individuality. As it becomes more difficult to produce our digital selves as unique individuals, we are increasingly being produced as unique individuals from the outside. When AI algorithms learn more about our identities, it becomes essential to safeguard this information and ensure that individuals have control and consent over the data collected about them. Individuality is redefined from a cultural practice and reflexive project to an algorithmic process. Our unique selfhood is no longer something for which we are wholly responsible; it is algorithmically guaranteed.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Technocracy can be thought to influence technological decision-making in one of two ways. An idealized science and technology replaces politics and technical experts become the decision-makers, planning and organizing societies according to whatever scientific principles the evidence supports. This form of technocracy is rarely found in practice. In contrast, a more moderate form in which experts advise and politicians decide is found in many democratic societies. Also called the ‘decisionist model’, this form of technocracy institutionalizes a division of labour based on the distinction between facts and values and allows specialist experts to wield significant power. This is because policy-makers work within the constraints set by the experts and choose from the options those experts provide. The technocratic element is clear: experts set the agenda and political judgements are parasitic on the judgements of experts.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Land use change can be good or bad for the climate. Plants use photosynthesis to convert carbon dioxide from the air and water to carbohydrates. Those carbohydrates provide the energy plants need to live, and the building blocks for plant growth, as well as food for animals and microorganisms. In healthy ecosystems the plants pull more carbon out of the atmosphere than they, and the animals and microorganisms that consume them, need. That extra carbon is stored in living biomass like tree trunks and soil bacteria and fungi, and as carbon compounds in the soil. But when actions like deforestation or plowing severely disturb a plant community, the remaining plants cannot photosynthesize enough to feed themselves, plus all the animals and microorganisms that depend on them. In those conditions microorganisms consume carbon that has been stored in the soil and in plants and animals, and respire that stored carbon back to atmosphere as CO2. If the original ecosystem was a forest, much of the carbon stored in the trees may also be converted to CO2 through burning.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Prosocial behavior — that is, behavior that is intended to help another person — can be motivated by two different pathways, according to Daniel Batson at the University of Kansas. One pathway, the egoistic pathway, is largely self-focused: we provide help if the rewards to us outweigh the costs. This pathway is the one that is operating if we hand a homeless person a dollar to make ourselves feel better. Doing so costs us very little — only a dollar — and the reward of doing so — avoiding the guilt we’d feel from simply walking by — is greater. But according to Batson’s hypothesis, there is another pathway, which is other-focused — it’s motivated by a genuine desire to help the other person, even if we incur a cost for doing so. Following this pathway, we act altruistically when we feel empathy for a person and can truly imagine a situation from their perspective. This ability to see the world from someone else’s perspective can lead us to help, even if there are considerable costs.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Our behaviour can be modified externally without there being strong personal motivation. Everything from our supermarket shopping and online browsing choices are examples of how our actions are shaped without our conscious choice or motivation. However, when processes police us but fail to truly influence us, we do not continue with the behaviours after the processes are removed. This is passive engagement rather than ownership. A better way in which we can be externally supported to take action is by having friends who encourage us. You may not be sold on going vegan, but yet give veganism a try at the start of the year because some of your friends suggest you do it together. Without the anchor of intrinsic motivation however, even a small bump in the road may reset you back; we may go back to eating meat in February when the social support has disappeared. Resonance helps us connect to our internal motivation to change rather than being ‘pushed’ from the outside, and in turn helps us form a habit, where our self-concept makes a shift from ‘someone who does not like cycling’ to ‘someone who cycles’.",
+      "original_summary": null,
+      "word_count": 190,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Communication is decisively influenced by how the partners define their relationship with each other at every moment of the communication process. If the communication is symmetrical, this means that both communication partners strive for equality and interact accordingly. They behave as mirror images of each other, so to speak. Strength is mirrored with strength, weakness is mirrored with weakness, or hardness is mirrored with hardness, etc. Complementary communication shows a matching difference in behaviour. It is not a matter of up and down, strong and weak, or good and bad, but of matching and expected difference. Such complementary relationships occur between teachers and students, mother and child, or managers and employees, etc. What the expectations are in such relationships depends, among other things, on the cultural background. If the expectations of complementarity are not met, communication breakdowns occur. For example, if an older person in Japan is not treated with a certain respect by a younger person, this circumstance can significantly impair communication or even make it impossible.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M7-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We have seen a clear rise in something called ‘shrinkflation’. A basket of products is measured for inflation by price, not by volume or weight. If the products shrink in size but the price stays the same, technically no price increase has occurred. But people aren’t stupid, they know what that means. You can see this in everything from the reduced amount of cereal in a box to smaller-sized chocolate bars. You can see it in the form of ever-larger apertures in toothpaste tubes and powders of various sorts. The purpose of these changes is to make the consumer use up the product faster and to pay more per weight. Toilet paper and paper towel rolls have ever-larger tube centres and ever-fewer sheets, while the price remains the same. There are fewer potato crisps in the bag and cookies in the box. Bottles of liquids such as perfumes have ever-larger dimples on the bottom that displace the product and create the illusion of more inside than there is. Shrinkflation is not restricted to retail products. Apartments are shrinking, too. Micro apartments are smaller than anything we lived in before but cost more per square foot. Shrinkflation is a signal that tells us that companies are facing higher costs. It is a signal that price pressures are starting to build.",
+      "original_summary": null,
+      "word_count": 219,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

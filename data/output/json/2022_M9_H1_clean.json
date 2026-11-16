@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 9,
+    "grade": "고1",
+    "exam_title": "2022학년도 9월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M9-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Experts on writing say, “Get rid of as many words as possible.” Each word must do something important. If it doesn’t, get rid of it. Well, this doesn’t work for speaking. It takes more words to introduce, express, and adequately elaborate an idea in speech than it takes in writing. Why is this so? While the reader can reread, the listener cannot rehear. Speakers do not come equipped with a replay button. Because listeners are easily distracted, they will miss many pieces of what a speaker says. If they miss the crucial sentence, they may never catch up. This makes it necessary for speakers to talk longer about their points, using more words on them than would be used to express the same idea in writing.",
+      "original_summary": null,
+      "word_count": 126,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 fire a customer가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Is the customer always right? When customers return a broken product to a famous company, which makes kitchen and bathroom fixtures, the company nearly always offers a replacement to maintain good customer relations. Still, “there are times you’ve got to say ‘no,’” explains the warranty expert of the company, such as when a product is undamaged or has been abused. Entrepreneur Lauren Thorp, who owns an e-commerce company, says, “While the customer is ‘always’ right, sometimes you just have to fire a customer.” When Thorp has tried everything to resolve a complaint and realizes that the customer will be dissatisfied no matter what, she returns her attention to the rest of her customers, who she says are “the reason for my success.”",
+      "original_summary": null,
+      "word_count": 122,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A recent study from Carnegie Mellon University in Pittsburgh, called “When Too Much of a Good Thing May Be Bad,” indicates that classrooms with too much decoration are a source of distraction for young children and directly affect their cognitive performance. Being visually overstimulated, the children have a great deal of difficulty concentrating and end up with worse academic results. On the other hand, if there is not much decoration on the classroom walls, the children are less distracted, spend more time on their activities, and learn more. So it’s our job, in order to support their attention, to find the right balance between excessive decoration and the complete absence of it.",
+      "original_summary": null,
+      "word_count": 112,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "For creatures like us, evolution smiled upon those with a strong need to belong. Survival and reproduction are the criteria of success by natural selection, and forming relationships with other people can be useful for both survival and reproduction. Groups can share resources, care for sick members, scare off predators, fight together against enemies, divide tasks so as to improve efficiency, and contribute to survival in many other ways. In particular, if an individual and a group want the same resource, the group will generally prevail, so competition for resources would especially favor a need to belong. Belongingness will likewise promote reproduction, such as by bringing potential mates into contact with each other, and in particular by keeping parents together to care for their children, who are much more likely to survive if they have more than one caregiver.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many people make a mistake of only operating along the safe zones, and in the process they miss the opportunity to achieve greater things. They do so because of a fear of the unknown and a fear of treading the unknown paths of life. Those that are brave enough to take those roads less travelled are able to get great returns and derive major satisfaction out of their courageous moves. Being overcautious will mean that you will miss attaining the greatest levels of your potential. You must learn to take those chances that many people around you will not take, because your success will flow from those bold decisions that you will take along the way.",
+      "original_summary": null,
+      "word_count": 116,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The human brain, it turns out, have shrunk in mass by about 10 percent since it peaked in size 15,000-30,000 years ago. One possible reason is that many thousands of years ago humans lived in a world of dangerous predators where they had to have their wits about them at all times to avoid being killed. Today, we have effectively domesticated ourselves and many of the tasks of survival ― from avoiding immediate death to building shelters to obtaining food ― have been outsourced to the wider society. We are smaller than our ancestors too, and it is a characteristic of domestic animals that they are generally smaller than their wild cousins. None of this may mean we are dumber ― brain size is not necessarily an indicator of human intelligence ― but it may mean that our brains today are wired up differently, and perhaps more efficiently, than those of our ancestors.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "It is widely believed that certain herbs somehow magically improve the work of certain organs, and “cure” specific diseases as a result. Such statements are unscientific and groundless. Sometimes herbs appear to work, since they tend to increase your blood circulation in an aggressive attempt by your body to eliminate them from your system. That can create a temporary feeling of a high, which makes it seem as if your health condition has improved. Also, herbs can have a placebo effect, just like any other method, thus helping you feel better. Whatever the case, it is your body that has the intelligence to regain health, and not the herbs. How can herbs have the intelligence needed to direct your body into getting healthier? That is impossible. Try to imagine how herbs might come into your body and intelligently fix your problems. If you try to do that, you will see how impossible it seems. Otherwise, it would mean that herbs are more intelligent than the human body, which is truly hard to believe.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "We worry that the robots are taking our jobs, but just as common a problem is that the robots are taking our judgment. In the large warehouses so common behind the scenes of today’s economy, human ‘pickers’ hurry around grabbing products off shelves and moving them to where they can be packed and dispatched. In their ears are headpieces: the voice of ‘Jennifer’, a piece of software, tells them where to go and what to do, controlling the smallest details of their movements. Jennifer breaks down instructions into tiny chunks, to minimise error and maximise productivity ― for example, rather than picking eighteen copies of a book off a shelf, the human worker would be politely instructed to pick five. Then another five. Then yet another five. Then another three. Working in such conditions reduces people to machines made of flesh. Rather than asking us to think or adapt, the Jennifer unit takes over the thought process and treats workers as an inexpensive source of some visual processing and a pair of opposable thumbs.",
+      "original_summary": null,
+      "word_count": 174,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The prevailing view among developmental scientists is that people are active contributors to their own development. People are influenced by the physical and social contexts in which they live, but they also play a role in influencing their development by interacting with, and changing, those contexts. Even infants influence the world around them and construct their own development through their interactions. Consider an infant who smiles at each adult he sees; he influences his world because adults are likely to smile, use “baby talk,” and play with him in response. The infant brings adults into close contact, making one-on-one interactions and creating opportunities for learning. By engaging the world around them, thinking, being curious, and interacting with people, objects, and the world around them, individuals of all ages are “ manufacturers of their own development.”",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The demand for freshness can have hidden environmental costs. While freshness is now being used as a term in food marketing as part of a return to nature, the demand for year-round supplies of fresh produce such as soft fruit and exotic vegetables has led to the widespread use of hot houses in cold climates and increasing reliance on total quality control ― management by temperature control, use of pesticides and computer/satellite-based logistics. The demand for freshness has also contributed to concerns about food wastage. Use of ‘best before’, ‘sell by’ and ‘eat by’ labels has legally allowed institutional waste. Campaigners have exposed the scandal of over-production and waste. Tristram Stuart, one of the global band of anti-waste campaigners, argues that, with freshly made sandwiches, over-ordering is standard practice across the retail sector to avoid the appearance of empty shelf space, leading to high volumes of waste when supply regularly exceeds demand.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In the studies of Colin Cherry at the Massachusetts Institute for Technology back in the 1950s, his participants listened to voices in one ear at a time and then through both ears in an effort to determine whether we can listen to two people talk at the same time. One ear always contained a message that the listener had to repeat back (called “shadowing”) while the other ear included people speaking. The trick was to see if you could totally focus on the main message and also hear someone talking in your other ear. Cleverly, Cherry found it was impossible for his participants to know whether the message in the other ear was spoken by a man or woman, in English or another language, or was even comprised of real words at all! In other words, people could not process two pieces of information at the same time.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "The fast-paced evolution of Information and Communication Technologies (ICTs) has radically transformed the dynamics and business models of the tourism and hospitality industry. This leads to new levels/forms of competitiveness among service providers and transforms the customer experience through new services. Creating unique experiences and providing convenient services to customers leads to satisfaction and, eventually, customer loyalty to the service provider or brand (i.e., hotels). In particular, the most recent technological boost received by the tourism sector is represented by mobile applications. Increasing competitiveness among service providers does not necessarily mean promoting quality of customer services. Indeed, empowering tourists with mobile access to services such as hotel reservations, airline ticketing, and recommendations for local attractions generates strong interest and considerable profits.",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "With nearly a billion hungry people in the world, there is obviously no single cause. However, far and away the biggest cause is poverty. Seventy-nine percent of the world’s hungry live in nations that are net exporters of food. How can this be? The reason people are hungry in those countries is that the products produced there can be sold on the world market for more than the local citizens can afford to pay for them. In the modern age you do not starve because you have no food, you starve because you have no money. So the problem really is that food is, in the grand scheme of things, too expensive and many people are too poor to buy it. The answer will be in continuing the trend of lowering the cost of food.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Most people have a perfect time of day when they feel they are at their best, whether in the morning, evening, or afternoon. Some of us are night owls, some early birds, and others in between may feel most active during the afternoon hours. If you are able to organize your day and divide your work, make it a point to deal with tasks that demand attention at your best time of the day. However, if the task you face demands creativity and novel ideas, it’s best to tackle it at your “worst” time of day! So if you are an early bird, make sure to attack your creative task in the evening, and vice versa for night owls. When your mind and body are less alert than at your “peak” hours, the muse of creativity awakens and is allowed to roam more freely. In other words, when your mental machinery is loose rather than standing at attention, the creativity flows.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Television is the number one leisure activity in the United States and Europe, consuming more than half of our free time. We generally think of television as a way to relax, tune out, and escape from our troubles for a bit each day. While this is true, there is increasing evidence that we are more motivated to tune in to our favorite shows and characters when we are feeling lonely or have a greater need for social connection. Television watching does satisfy these social needs to some extent, at least in the short run. Unfortunately, it is also likely to “crowd out” other activities that produce more sustainable social contributions to our social well-being. The more television we watch, the less likely we are to volunteer our time or to spend time with people in our social networks. In other words, the more time we make for Friends, the less time we have for friends in real life.",
+      "original_summary": null,
+      "word_count": 158,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "We often associate the concept of temperature with how hot or cold an object feels when we touch it. In this way, our senses provide us with a qualitative indication of temperature. Our senses, however, are unreliable and often mislead us. For example, if you stand in bare feet with one foot on carpet and the other on a tile floor, the tile feels colder than the carpet even though both are at the same temperature. The two objects feel different because tile transfers energy by heat at a higher rate than carpet does. Your skin “measures” the rate of energy transfer by heat rather than the actual temperature. What we need is a reliable and reproducible method for measuring the relative hotness or coldness of objects rather than the rate of energy transfer. Scientists have developed a variety of thermometers for making such quantitative measurements.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "My colleagues and I ran an experiment testing two different messages meant to convince thousands of resistant alumni to make a donation. One message emphasized the opportunity to do good: donating would benefit students, faculty, and staff. The other emphasized the opportunity to feel good: donors would enjoy the warm glow of giving. The two messages were equally effective: in both cases, 6.5 percent of the unwilling alumni ended up donating. Then we combined them, because two reasons are better than one. Except they weren’t. When we put the two reasons together, the giving rate dropped below 3 percent. Each reason alone was more than twice as effective as the two combined. The audience was already skeptical. When we gave them different kinds of reasons to donate, we triggered their awareness that someone was trying to persuade them ― and they shielded themselves against it.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In a society that rejects the consumption of insects there are some individuals who overcome this rejection, but most will continue with this attitude. It may be very difficult to convince an entire society that insects are totally suitable for consumption. However, there are examples in which this reversal of attitudes about certain foods has happened to an entire society. Several examples in the past 120 years from European-American society are: considering lobster a luxury food instead of a food for servants and prisoners; considering sushi a safe and delicious food; and considering pizza not just a food for the rural poor of Sicily. In Latin American countries, where insects are already consumed, a portion of the population hates their consumption and associates it with poverty. There are also examples of people who have had the habit of consuming them and encouraged that habit due to shame, and because they do not want to be categorized as poor or uncivilized. According to Esther Katz, an anthropologist, if the consumption of insects as a food luxury is to be promoted, there would be more chances that some individuals who do not present this habit overcome ideas under which they were educated. And this could also help to revalue the consumption of insects by those people who already eat them.",
+      "original_summary": null,
+      "word_count": 218,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": true,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

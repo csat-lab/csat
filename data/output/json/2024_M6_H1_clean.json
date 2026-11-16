@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2024,
+    "month": 6,
+    "grade": "고1",
+    "exam_title": "2024학년도 6월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2024-M6-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Having a messy room can add up to negative feelings and destructive thinking. Psychologists say that having a disorderly room can indicate a disorganized mental state. One of the professional tidying experts says that the moment you start cleaning your room, you also start changing your life and gaining new perspective. When you clean your surroundings, positive and good atmosphere follows. You can do more things efficiently and neatly. So, clean up your closets, organize your drawers, and arrange your things first, then peace of mind will follow.",
+      "original_summary": null,
+      "word_count": 88,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 luxury real estate가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "The soil of a farm field is forced to be the perfect environment for monoculture growth. This is achieved by adding nutrients in the form of fertilizer and water by way of irrigation. During the last fifty years, engineers and crop scientists have helped farmers become much more efficient at supplying exactly the right amount of both. World usage of fertilizer has tripled since 1969, and the global capacity for irrigation has almost doubled; we are feeding and watering our fields more than ever, and our crops are loving it. Unfortunately, these luxurious conditions have also excited the attention of certain agricultural undesirables. Because farm fields are loaded with nutrients and water relative to the natural land that surrounds them, they are desired as luxury real estate by every random weed in the area.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When it comes to helping out, you don’t have to do much. All you have to do is come around and show that you care. If you notice someone who is lonely, you could go and sit with them. If you work with someone who eats lunch all by themselves, and you go and sit down with them, they will begin to be more social after a while, and they will owe it all to you. A person’s happiness comes from attention. There are too many people out in the world who feel like everyone has forgotten them or ignored them. Even if you say hi to someone passing by, they will begin to feel better about themselves, like someone cares.",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We often try to make cuts in our challenges and take the easy route. When taking the quick exit, we fail to acquire the strength to compete. We often take the easy route to improve our skills. Many of us never really work to achieve mastery in the key areas of life. These skills are key tools that can be useful to our career, health, and prosperity. Highly successful athletes don’t win because of better equipment; they win by facing hardship to gain strength and skill. They win through preparation. It’s the mental preparation, winning mindset, strategy, and skill that set them apart. Strength comes from struggle, not from taking the path of least resistance. Hardship is not just a lesson for the next time in front of us. Hardship will be the greatest teacher we will ever have in life.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Your behaviors are usually a reflection of your identity. What you do is an indication of the type of person you believe that you are ― either consciously or nonconsciously. Research has shown that once a person believes in a particular aspect of their identity, they are more likely to act according to that belief. For example, people who identified as “being a voter” were more likely to vote than those who simply claimed “voting” was an action they wanted to perform. Similarly, the person who accepts exercise as the part of their identity doesn’t have to convince themselves to train. Doing the right thing is easy. After all, when your behavior and your identity perfectly match, you are no longer pursuing behavior change. You are simply acting like the type of person you already believe yourself to be.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The hunter-gatherer lifestyle, which can be described as “natural” to human beings, appears to have had much to recommend it. Examination of human remains from early hunter-gatherer societies has suggested that our ancestors enjoyed abundant food, obtainable without excessive effort, and suffered very few diseases. If this is true, it is not clear why so many humans settled in permanent villages and developed agriculture, growing crops and domesticating animals: cultivating fields was hard work, and it was in farming villages that epidemic diseases first took root. Whatever its immediate effect on the lives of humans, the development of settlements and agriculture undoubtedly led to a high increase in population density. This period, known as the New Stone Age, was a major turning point in human development, opening the way to the growth of the first towns and cities, and eventually leading to settled “civilizations.”",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Many human and non-human animals save commodities or money for future consumption. This behavior seems to reveal a preference of a delayed reward over an immediate one: the agent gives up some immediate pleasure in exchange for a future one. Thus the discounted value of the future reward should be greater than the un-discounted value of the present one. However, in some cases the agent does not wait for the envisioned occasion but uses their savings prematurely. For example, early in the year an employee might set aside money to buy Christmas presents but then spend it on a summer vacation instead. Such cases could be examples of weakness of will. That is, the agents may judge or resolve to spend their savings in a certain way for the greatest benefit but then act differently when temptation for immediate pleasure appears.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The costs of interruptions are well-documented. Martin Luther King Jr. lamented them when he described “that lovely poem that didn’t get written because someone knocked on the door.” Perhaps the most famous literary example happened in 1797 when Samuel Taylor Coleridge started writing his poem Kubla Khan from a dream he had but then was visited by an unexpected guest. For Coleridge, by coincidence, the untimely visitor came at a particularly bad time. He forgot his inspiration and left the work unfinished. While there are many documented cases of sudden disruptions that have had significant consequences for professionals in critical roles such as doctors, nurses, control room operators, stock traders, and pilots, they also impact most of us in our everyday lives, slowing down work productivity and generally increasing stress levels.",
+      "original_summary": null,
+      "word_count": 131,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "There’s a lot of scientific evidence demonstrating that focused attention leads to the reshaping of the brain. In animals rewarded for noticing sound (to hunt or to avoid being hunted for example), we find much larger auditory centers in the brain. In animals rewarded for sharp eyesight, the visual areas are larger. Brain scans of violinists provide more evidence, showing dramatic growth and expansion in regions of the cortex that represent the left hand, which has to finger the strings precisely, often at very high speed. Other studies have shown that the hippocampus, which is vital for spatial memory, is enlarged in taxi drivers. The point is that the physical architecture of the brain changes according to where we direct our attention and what we practice doing.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "How did the human mind evolve? One possibility is that competition and conflicts with other human tribes caused our brains to evolve the way they did. A human tribe that could out-think its enemies, even slightly, possessed a vital advantage. The ability of your tribe to imagine and predict where and when a hostile enemy tribe might strike, and plan accordingly, gives your tribe a significant military advantage. The human mind became a weapon in the struggle for survival, a weapon far more decisive than any before it. And this mental advantage was applied, over and over, within each succeeding generation. The tribe that could out-think its opponents was more likely to succeed in battle and would then pass on the genes responsible for this mental advantage to its offspring. You and I are the descendants of the winners.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "To find the hidden potential in teams, instead of brainstorming, we’re better off shifting to a process called brainwriting. The initial steps are solo. You start by asking everyone to generate ideas separately. Next, you pool them and share them anonymously among the group. To preserve independent judgment, each member evaluates them on their own. Only then does the team come together to select and refine the most promising options. By developing and assessing ideas individually before choosing and elaborating them, teams can surface and advance possibilities that might not get attention otherwise. This brainwriting process makes sure that all ideas are brought to the table and all voices are brought into the conversation. It is especially effective in groups that struggle to achieve collective intelligence.",
+      "original_summary": null,
+      "word_count": 126,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Simply giving employees a sense of agency ― a feeling that they are in control, that they have genuine decision-making authority ― can radically increase how much energy and focus they bring to their jobs. One 2010 study at a manufacturing plant in Ohio, for instance, carefully examined assembly-line workers who were empowered to make small decisions about their schedules and work environment. They designed their own uniforms and had authority over shifts while all the manufacturing processes and pay scales stayed the same. - It led to decreased efficiency because their decisions were not uniform or focused on meeting organizational goals. - Within two months, productivity at the plant increased by 20 percent, with workers taking shorter breaks and making fewer mistakes. Giving employees a sense of control improved how much self-discipline they brought to their jobs.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "As businesses shift some core business activities to digital, such as sales, marketing, or archiving, it is assumed that the impact on the environment will be less negative. However, digital business activities can still threaten the environment. In some cases, the harm of digital businesses can be even more hazardous. A few decades ago, offices used to have much more paper waste since all documents were paper based When workplaces shifted from paper to digital documents, invoices, and emails, it was a promising step to save trees. However, the cost of the Internet and electricity for the environment is neglected. A recent Wired report declared that most data centers’ energy source is fossil fuels When we store bigger data on clouds, increased carbon emissions make our green clouds gray. The carbon footprint of an email is smaller than mail sent via a post office, but still, it causes four grams of CO₂, and it can be as much as 50 grams if the attachment is big",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Problems often arise if an exotic species is suddenly introduced to an ecosystem. Britain’s red and grey squirrels provide a clear example. When the grey arrived from America in the 1870s, both squirrel species competed for the same food and habitat, which put the native red squirrel populations under pressure. The grey had the edge because it can adapt its diet; it is able, for instance, to eat green acorns, while the red can only digest mature acorns. Within the same area of forest, grey squirrels can destroy the food supply before red squirrels even have a bite. Greys can also live more densely and in varied habitats, so have survived more easily when woodland has been destroyed. As a result, the red squirrel has come close to extinction in England.",
+      "original_summary": null,
+      "word_count": 131,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Growing crops forced people to stay in one place. Hunter-gatherers typically moved around frequently, and they had to be able to carry all their possessions with them every time they moved. In particular, mothers had to carry their young children. As a result, hunter-gatherer mothers could have only one baby every four years or so, spacing their births so that they never had to carry more than one child at a time. Farmers, on the other hand, could live in the same place year after year and did not have to worry about transporting young children long distances. Societies that settled down in one place were able to shorten their birth intervals from four years to about two. This meant that each woman could have more children than her hunter-gatherer counterpart, which in turn resulted in rapid population growth among farming communities. An increased population was actually an advantage to agricultural societies, because farming required large amounts of human labor.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Spending time as children allows animals to learn about their environment. Without childhood, animals must rely more fully on hardware, and therefore be less flexible. Among migratory bird species, those that are born knowing how, when, and where to migrate — those that are migrating entirely with instructions they were born with — sometimes have very inefficient migration routes. These birds, born knowing how to migrate, don’t adapt easily. So when lakes dry up, forest becomes farmland, or climate change pushes breeding grounds farther north, those birds that are born knowing how to migrate keep flying by the old rules and maps. By comparison, birds with the longest childhoods, and those that migrate with their parents, tend to have the most efficient migration routes. Childhood facilitates the passing on of cultural information, and culture can evolve faster than genes. Childhood gives flexibility in a changing world.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Over the last several decades, scholars have developed standards for how best to create, organize, present, and preserve digital information for future generations. What has remained neglected for the most part, however, are the needs of people with disabilities. As a result, many of the otherwise most valuable digital resources are useless for people who are deaf or hard of hearing, as well as for people who are blind, have low vision, or have difficulty distinguishing particular colors. While professionals working in educational technology and commercial web design have made significant progress in meeting the needs of such users, some scholars creating digital projects all too often fail to take these needs into account. This situation would be much improved if more projects embraced the idea that we should always keep the largest possible audience in mind as we make design decisions, ensuring that our final product serves the needs of those with disabilities as well as those without.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2024-M6-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "All humans, to an extent, seek activities that cause a degree of pain in order to experience pleasure, whether this is found in spicy food, strong massages, or stepping into a too-cold or too-hot bath. The key is that it is a ‘safe threat’. The brain perceives the stimulus to be painful but ultimately non-threatening. Interestingly, this could be similar to the way humor works: a ‘safe threat’ that causes pleasure by playfully violating norms. We feel uncomfortable, but safe. In this context, where survival is clearly not in danger, the desire for pain is actually the desire for a reward, not suffering or punishment. This reward-like effect comes from the feeling of mastery over the pain. The closer you look at your chilli-eating habit, the more remarkable it seems. When the active ingredient of chillies — capsaicin — touches the tongue, it stimulates exactly the same receptor that is activated when any of these tissues are burned. Knowing that our body is firing off danger signals, but that we are actually completely safe, produces pleasure. All children start off hating chilli, but many learn to derive pleasure from it through repeated exposure and knowing that they will never experience any real harm. Interestingly, seeking pain for the pain itself appears to be uniquely human. The only way scientists have trained animals to have a preference for chilli or to self-harm is to have the pain always directly associated with a pleasurable reward.",
+      "original_summary": null,
+      "word_count": 243,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

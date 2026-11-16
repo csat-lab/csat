@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 9,
+    "grade": "고2",
+    "exam_title": "2022학년도 9월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M9-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We usually take time out only when we really need to switch off, and when this happens we are often overtired, sick, and in need of recuperation. Me time is complicated by negative associations with escapism, guilt, and regret as well as overwhelm, stress, and fatigue. All these negative connotations mean we tend to steer clear of it. Well, I am about to change your perception of the importance of me time, to persuade you that you should view it as vital for your health and wellbeing. Take this as permission to set aside some time for yourself! Our need for time in which to do what we choose is increasingly urgent in an overconnected, overwhelmed, and overstimulated world.",
+      "original_summary": null,
+      "word_count": 119,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 the innocent messenger who falls before a firing line이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Perhaps worse than attempting to get the bad news out of the way is attempting to soften it or simply not address it at all. This “Mum Effect” — a term coined by psychologists Sidney Rosen and Abraham Tesser in the early 1970s — happens because people want to avoid becoming the target of others’ negative emotions. We all have the opportunity to lead change, yet it often requires of us the courage to deliver bad news to our superiors. We don’t want to be the innocent messenger who falls before a firing line. When our survival instincts kick in, they can override our courage until the truth of a situation gets watered down. “The Mum Effect and the resulting filtering can have devastating effects in a steep hierarchy,” writes Robert Sutton, an organizational psychologist. “What starts out as bad news becomes happier and happier as it travels up the ranks ― because after each boss hears the news from his or her subordinates, he or she makes it sound a bit less bad before passing it up the chain.”",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Most parents think that if our child would just “behave,” we could stay calm as parents. The truth is that managing our own emotions and actions is what allows us to feel peaceful as parents. Ultimately we can’t control our children or the obstacles they will face ― but we can always control our own actions. Parenting isn’t about what our child does, but about how we respond. In fact, most of what we call parenting doesn’t take place between a parent and child but within the parent. When a storm brews, a parent’s response will either calm it or trigger a full‐scale tsunami. Staying calm enough to respond constructively to all that childish behavior ― and the stormy emotions behind it ― requires that we grow, too. If we can use those times when our buttons get pushed to reflect, not just react, we can notice when we lose equilibrium and steer ourselves back on track. This inner growth is the hardest work there is, but it’s what enables you to become a more peaceful parent, one day at a time.",
+      "original_summary": null,
+      "word_count": 182,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We have already seen that learning is much more efficient when done at regular intervals: rather than cramming an entire lesson into one day, we are better off spreading out the learning. The reason is simple: every night, our brain consolidates what it has learned during the day. This is one of the most important neuroscience discoveries of the last thirty years: sleep is not just a period of inactivity or a garbage collection of the waste products that the brain accumulated while we were awake. Quite the contrary: while we sleep, our brain remains active; it runs a specific algorithm that replays the important events it recorded during the previous day and gradually transfers them into a more efficient compartment of our memory.",
+      "original_summary": null,
+      "word_count": 124,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "From the earliest times, healthcare services have been recognized to have two equal aspects, namely clinical care and public healthcare. In classical Greek mythology, the god of medicine, Asklepios, had two daughters, Hygiea and Panacea. The former was the goddess of preventive health and wellness, or hygiene, and the latter the goddess of treatment and curing. In modern times, the societal ascendancy of medical professionalism has caused treatment of sick patients to overshadow those preventive healthcare services provided by the less heroic figures of sanitary engineers, biologists, and governmental public health officers. Nevertheless, the quality of health that human populations enjoy is attributable less to surgical dexterity, innovative pharmaceutical products, and bioengineered devices than to the availability of public sanitation, sewage management, and services which control the pollution of the air, drinking water, urban noise, and food for human consumption. The human right to the highest attainable standard of health depends on public healthcare services no less than on the skills and equipment of doctors and hospitals.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "By noticing the relation between their own actions and resultant external changes, infants develop self‐efficacy, a sense that they are agents of the perceived changes. Although infants can notice the effect of their behavior on the physical environment, it is in early social interactions that infants most readily perceive the consequence of their actions. People have perceptual characteristics that virtually assure that infants will orient toward them. They have visually contrasting and moving faces. They produce sound, provide touch, and have interesting smells. In addition, people engage with infants by exaggerating their facial expressions and inflecting their voices in ways that infants find fascinating. But most importantly, these antics are responsive to infants’ vocalizations, facial expressions, and gestures; people vary the pace and level of their behavior in response to infant actions. Consequentially, early social interactions provide a context where infants can easily notice the effect of their behavior.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "Adam Smith pointed out that specialization, where each of us focuses on one specific skill, leads to a general improvement of everybody’s well‐being. The idea is simple and powerful. By specializing in just one activity ― such as food raising, clothing production, or home construction ― each worker gains mastery over the particular activity. Specialization makes sense, however, only if the specialist can subsequently trade his or her output with the output of specialists in other lines of activity. It would make no sense to produce more food than a household needs unless there is a market outlet to exchange that excess food for clothing, shelter, and so forth. At the same time, without the ability to buy food on the market, it would not be possible to be a specialist home builder or clothing maker, since it would be necessary to farm for one’s own survival. Thus Smith realized that the division of labor is limited by the extent of the market, whereas the extent of the market is determined by the degree of specialization.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "It is not the peasant’s goal to produce the highest possible time‐averaged crop yield, averaged over many years. If your time‐averaged yield is marvelously high as a result of the combination of nine great years and one year of crop failure, you will still starve to death in that one year of crop failure before you can look back to congratulate yourself on your great time‐averaged yield. Instead, the peasant’s aim is to make sure to produce a yield above the starvation level in every single year, even though the time‐averaged yield may not be highest. That’s why field scattering may make sense. If you have just one big field, no matter how good it is on the average, you will starve when the inevitable occasional year arrives in which your one field has a low yield. But if you have many different fields, varying independently of each other, then in any given year some of your fields will produce well even when your other fields are producing poorly.",
+      "original_summary": null,
+      "word_count": 169,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "There are several reasons why support may not be effective. One possible reason is that receiving help could be a blow to self‐esteem. A recent study by Christopher Burke and Jessica Goren at Lehigh University examined this possibility. According to the threat to self‐esteem model, help can be perceived as supportive and loving, or it can be seen as threatening if that help is interpreted as implying incompetence. According to Burke and Goren, support is especially likely to be seen as threatening if it is in an area that is self‐relevant or self‐defining — that is, in an area where your own success and achievement are especially important. Receiving help with a self‐relevant task can make you feel bad about yourself, and this can undermine the potential positive effects of the help. For example, if your self‐concept rests, in part, on your great cooking ability, it may be a blow to your ego when a friend helps you prepare a meal for guests because it suggests that you’re not the master chef you thought you were.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "As well as making sense of events through narratives, historians in the ancient world established the tradition of history as a(n) source of moral lessons and reflections. The history writing of Livy or Tacitus, for instance, was in part designed to examine the behavior of heroes and villains, meditating on the strengths and weaknesses in the characters of emperors and generals, providing exemplars for the virtuous to imitate or avoid. This continues to be one of the functions of history. French chronicler Jean Froissart said he had written his accounts of chivalrous knights fighting in the Hundred Years’ War “so that brave men should be inspired thereby to follow such examples.” Today, historical studies of Lincoln, Churchill, Gandhi, or Martin Luther King, Jr. perform the same function.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Psychologist Christopher Bryan finds that when we shift our emphasis from behavior to character, people evaluate choices differently. His team was able to cut cheating in half: instead of “Please don’t cheat,” they changed the appeal to “Please don’t be a cheater.” When you’re urged not to cheat, you can do it and still see an ethical person in the mirror. But when you’re told not to be a cheater, the act casts a shadow; immorality is tied to your identity, making the behavior much less attractive. Cheating is an isolated action that gets evaluated with the logic of consequence: Can I get away with it? Being a cheater evokes a sense of self, triggering the logic of appropriateness: What kind of person am I, and who do I want to be? In light of this evidence, Bryan suggests that we should embrace nouns more thoughtfully. “Don’t Drink and Drive” could be rephrased as: “Don’t Be a Drunk Driver.” The same thinking can be applied to originality. When a child draws a picture, instead of calling the artwork creative, we can say “You are creative.”",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Taking a stand is important because you become a beacon for those individuals who are your people, your tribe, and your audience. When you raise your viewpoint up like a flag, people know where to find you; it becomes a rallying point. Displaying your perspective lets prospective (and current) customers know that you don’t just sell your products or services. The best marketing is never just about selling a product or service, but about taking a stand — showing an audience why they should believe in what you’re marketing enough to want it at any cost, simply because they agree with what you’re doing. If you want to retain your existing customers, you need to create ways that a customer can feel like another member of the team, participating in the process of product development. Products can be changed or adjusted if they aren’t functioning, but rallying points align with the values and meaning behind what you do.",
+      "original_summary": null,
+      "word_count": 158,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty‐six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One benefit of reasons and arguments is that they can foster humility. If two people disagree without arguing, all they do is yell at each other. No progress is made. Both still think that they are right. In contrast, if both sides give arguments that articulate reasons for their positions, then new possibilities open up. One of the arguments gets refuted — that is, it is shown to fail. In that case, the person who depended on the refuted argument learns that he needs to change his view. That is one way to achieve humility — on one side at least. Another possibility is that neither argument is refuted. Both have a degree of reason on their side. Even if neither person involved is convinced by the other’s argument, both can still come to appreciate the opposing view. They also realize that, even if they have some truth, they do not have the whole truth. They can gain humility when they recognize and appreciate the reasons against their own view.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Adaptation involves changes in a population, with characteristics that are passed from one generation to the next. This is different from acclimation — an individual organism's changes in response to an altered environment. For example, if you spend the summer outside, you may acclimate to the sunlight: your skin will increase its concentration of dark pigments that protect you from the sun. This is a temporary change, and you won't pass the temporary change on to future generations. However, the capacity to produce skin pigments is inherited. For populations living in intensely sunny environments, individuals with a good ability to produce skin pigments are more likely to thrive, or to survive, than people with a poor ability to produce pigments, and that trait becomes increasingly common in subsequent generations. If you look around, you can find countless examples of adaptation. The distinctive long neck of a giraffe, for example, developed as individuals that happened to have longer necks had an advantage in feeding on the leaves of tall trees.",
+      "original_summary": null,
+      "word_count": 169,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "On any day of the year, the tropics and the hemisphere that is experiencing its warm season receive much more solar radiation than do the polar regions and the colder hemisphere. Averaged over the course of the year, the tropics and latitudes up to about 40° receive more total heat than they lose by radiation. Latitudes above 40° receive less total heat than they lose by radiation. This inequality produces the necessary conditions for the operation of a huge, global‐scale engine that takes on heat in the tropics and gives it off in the polar regions. Its working fluid is the atmosphere, especially the moisture it contains. Air is heated over the warm earth of the tropics, expands, rises, and flows away both northward and southward at high altitudes, cooling as it goes. It descends and flows toward the equator again from more northerly and southerly latitudes.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Greenwashing involves misleading a consumer into thinking a good or service is more environmentally friendly than it really is. Greenwashing ranges from making environmental claims required by law, and therefore irrelevant (CFC‐free for example), to puffery (exaggerating environmental claims) to fraud. Researchers have shown that claims on products are often too vague or misleading. Some products are labeled “chemical‐free,” when the fact is everything contains chemicals, including plants and animals. Products with the highest number of misleading or unverifiable claims were laundry detergents, household cleaners, and paints. Environmental advocates agree there is still a long way to go to ensure shoppers are adequately informed about the environmental impact of the products they buy. The most common reason for greenwashing is to attract environmentally conscious consumers. Many consumers do not find out about the false claims until after the purchase. Therefore, greenwashing may increase sales in the short term. However, this strategy can seriously backfire when consumers find out they are being deceived.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M9-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The driver of FOMO (the fear of missing out) is the social pressure to be at the right place with the right people, whether it’s from a sense of duty or just trying to get ahead, we feel obligated to attend certain events for work, for family and for friends. This pressure from society combined with FOMO can wear us down. According to a recent survey, 70 percent of employees admit that when they take a vacation, they still don’t disconnect from work. Our digital habits, which include constantly checking emails, and social media timelines, have become so firmly established, it is nearly impossible to simply enjoy the moment, along with the people with whom we are sharing these moments. JOMO (the joy of missing out) is the emotionally intelligent antidote to FOMO and is essentially about being present and being content with where you are at in life. You do not need to compare your life to others but instead, practice tuning out the background noise of the “shoulds” and “wants” and learn to let go of worrying whether you are doing something wrong. JOMO allows us to live life in the slow lane, to appreciate human connections, to be intentional with our time, to practice saying “no,” to give ourselves “tech‐free breaks,” and to give ourselves permission to acknowledge where we are and to feel emotions. Instead of constantly trying to keep up with the rest of society, JOMO allows us to be who we are in the present moment. When you free up that competitive and anxious space in your brain, you have so much more time, energy, and emotion to conquer your true priorities.",
+      "original_summary": null,
+      "word_count": 278,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}
