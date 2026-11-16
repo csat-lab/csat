@@ -119,3 +119,13 @@
   - 2022_M11_H1 42번: easier → harder
   - 2025_M7_H3 42번: acceptable → incomprehensible
 - 답지가 정답표 이미지뿐이라 해설이 없는 4건은 확정할 수 없었다: 2025_M6_H1 30번·42번, 2025_M6_H2 30번·42번.
+
+### 11. 기준선 과적용 교정 (2026년 11월 16일)
+
+재구축 대조에서, 기존 복원 파일 5곳이 29번 교정을 밑줄 친 표시 구간이 아닌 무표시 단어까지 바꿔 둔 것으로 확인되어 원문대로 되돌렸다. 표시 구간의 교정 자체는 그대로 유지한다.
+
+- 2022_M9_H1 29번: 무표시 `have shrunk` → 원문 `has shrunk` (③ `has been outsourced` → `have been outsourced` 교정 유지).
+- 2023_M3_H1 29번: 무표시 `is also most often deformed` → 원문 `are also most often deformed` (⑤ `are to give` → `is to give` 교정 유지).
+- 2023_M9_H1 29번: 무표시 `find them being given advice` → 원문 `find themselves being given advice` (④ `themselves` → `them` 교정 유지).
+- 2024_M9_H1 29번: 무표시 `where disallows them` → 원문 `which disallows them` (⑤ `which` → `where` 교정 유지).
+- 2026_M7_H3 29번: 무표시 `mirror that underlying` → 원문 `mirror those underlying` (⑤ `those` → `that` 교정 유지).
