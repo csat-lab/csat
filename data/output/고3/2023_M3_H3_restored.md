@@ -221,7 +221,7 @@ According to the principle of social proof, one way individuals determine approp
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Aristotle explains that the Good for human beings consists in eudaimoniā (a Greek word combining eu meaning “good” with daimon meaning “spirit,” and most often translated as “happiness”). Whereas he had argued in a purely formal way that the Good was that to which we all aim, he now gives a more substantive answer: that this universal human goal is happiness. However, he is quick to point out that this conclusion is still somewhat formal since different people have different views about what happiness is.
+Aristotle explains that the Good for human beings consists in eudaimoniā (a Greek word combining eu meaning “good” with daimon meaning “spirit,” and most often translated as “happiness”). Whereas he had argued in a purely formal way that the Good was that to which we all aim, he now gives a more substantive answer: that this universal human goal is happiness. However, he is quick to point out that this conclusion is still somewhat formal since different people have different views about what happiness is. Some people say it is worldly enjoyment while others say it is eternal salvation. Aristotle’s theory will turn out to be “naturalistic” in that it does not depend on any theological or metaphysical knowledge. It does not depend on knowledge of God or of metaphysical and universal moral norms. It depends only on knowledge of human nature and other worldly and social realities. For him it is the study of human nature and worldly existence that will disclose the relevant meaning of the notion of eudaimoniā.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
