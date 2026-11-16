@@ -1,0 +1,116 @@
+# data/raw/ PDF를 kordoc으로 파싱해 data/raw/md/에 원본 md를 만드는 워크플로.
+#
+# 설치: GitHub 웹에서 .github/workflows/parse-pdfs.yml 로 새 파일을 만들거나,
+#       로컬 git으로 같은 경로에 넣고 push한다.
+# 실행: Actions 탭 -> "Parse exam PDFs with kordoc" -> Run workflow.
+# 출력: data/raw/md/<PDF 파일명>.md (이미 md가 있으면 건너뛰고, force 입력 시 다시 파싱)
+# 주의: 결과물은 원문 파싱본이다. data/output/ 복원본은 별도 파이프라인 결과물.
+
+name: Parse exam PDFs with kordoc
+
+on:
+  workflow_dispatch:
+    inputs:
+      pattern:
+        description: "파일명 부분 문자열 (비우면 전체 PDF)"
+        required: false
+        default: ""
+        type: string
+      force:
+        description: "이미 md가 있는 PDF도 다시 파싱"
+        required: false
+        default: false
+        type: boolean
+  # 매주 다운로드 뒤 자동 파싱을 원하면 아래 주석을 해제한다.
+  workflow_run:
+    workflows: ["Download Horaeng English Exam PDFs"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kordoc-parse
+  cancel-in-progress: false
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install kordoc
+        run: |
+          npm install -g kordoc@4.24.47
+          # 이미지 OCR용 onnxruntime-node를 kordoc 폴더 안에 설치
+          (cd "$(npm root -g)/kordoc" && npm install onnxruntime-node@^1.24.0)
+          kordoc --version
+
+      - name: Select PDFs to parse
+        id: select
+        env:
+          INPUT_PATTERN: ${{ inputs.pattern }}
+          INPUT_FORCE: ${{ inputs.force }}
+        run: |
+          mkdir -p data/raw/md
+          : > /tmp/to_parse.txt
+          skipped=0
+          for pdf in data/raw/*.pdf; do
+            [ -f "$pdf" ] || continue
+            # %PDF 매직 바이트가 없는 파일(HTML 오기 등)은 건너뛴다
+            if ! head -c 4 "$pdf" | grep -q "%PDF"; then
+              echo "skip (not a PDF): $pdf"; skipped=$((skipped+1)); continue
+            fi
+            stem="$(basename "$pdf" .pdf)"
+            if [ -n "$INPUT_PATTERN" ]; then
+              case "$stem" in *"$INPUT_PATTERN"*) ;; *) continue;; esac
+            fi
+            if [ "$INPUT_FORCE" != "true" ] && [ -f "data/raw/md/$stem.md" ]; then
+              skipped=$((skipped+1)); continue
+            fi
+            printf '%s\0' "$pdf" >> /tmp/to_parse.txt
+          done
+          count=$(tr -cd '\0' < /tmp/to_parse.txt | wc -c)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "skipped=$skipped" >> "$GITHUB_OUTPUT"
+          echo "To parse: $count, skipped: $skipped"
+
+      - name: Parse with kordoc
+        if: steps.select.outputs.count != '0'
+        run: |
+          # --jobs 2: 러너 4코어 기준 OCR 메모리 여유를 둔 값. 느리면 4까지 올려도 된다.
+          # --ocr: 텍스트층 없는 스캔/이미지 페이지만 OCR (모델 약 18MB 첫 실행 시 다운로드).
+          # 2단 시험지에서 표 감지가 읽기 순서를 뒤집을 경우 --no-tables 추가를 검토한다.
+          xargs -0 -a /tmp/to_parse.txt kordoc --jobs 2 --ocr -d data/raw/md
+          echo "Parsed files: $(ls data/raw/md/*.md 2>/dev/null | wc -l)"
+
+      - name: Commit parsed markdown
+        # 중간에 일부 파일이 실패하더라도 그전까지 파싱된 결과물은 안전하게 저장
+        if: always() && steps.select.outputs.count != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw/md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Parse exam PDFs with kordoc ($(date -u +%Y-%m-%d))"
+            git pull --rebase -X ours
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## kordoc 파싱 결과"
+            echo ""
+            echo "- 파싱 대상: ${{ steps.select.outputs.count }}개"
+            echo "- 건너뜀: ${{ steps.select.outputs.skipped }}개"
+            echo "- data/raw/md/*.md 총: $(ls data/raw/md/*.md 2>/dev/null | wc -l)개"
+          } >> "$GITHUB_STEP_SUMMARY"
