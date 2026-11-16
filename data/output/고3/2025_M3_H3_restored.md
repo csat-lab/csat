@@ -219,7 +219,7 @@ In both the arts and the sciences, an aesthetics of simplicity facilitates the p
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-Cultural storage and transmission require humans to accomplish the work of storing knowledge and passing it on to the next generation by means other than DNA. To that end, humans developed techniques of memorization, of transmitting knowledge through education and by using external memory devices.
+Cultural storage and transmission require humans to accomplish the work of storing knowledge and passing it on to the next generation by means other than DNA. To that end, humans developed techniques of memorization, of transmitting knowledge through education and by using external memory devices. The Chauvet cave was such a device, a place that humans returned to generation after generation, cooperating on a project that none of them could have accomplished alone. Each generation of artists learned techniques and continued the work of previous ones, preserving and improving what their predecessors had worked on. Despite advances in technology, there is a limit in restoring damaged cave paintings, leaving us puzzled about what those paintings really were. For us, the idea that humans might work on a single system of caves for thousands of years in the same style is almost unimaginable. But these early humans were highly conscious of the importance of storing and preserving knowledge and of passing down ideas.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

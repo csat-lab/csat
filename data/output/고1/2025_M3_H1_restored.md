@@ -238,7 +238,7 @@ Plants can communicate, although not in the same way we do. Some express their d
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it’s essential for the author to establish a positive relationship between a protagonist and the audience.
+What does it mean for a character to be a hero as opposed to a villain? In artistic and entertainment descriptions, it’s essential for the author to establish a positive relationship between a protagonist and the audience. - In order for tragedy or misfortune to draw out an emotional response in viewers, the character must be adjusted so as to be recognizable as either friend or enemy. - Likewise, the line between friends and enemies is not clear in reality. Whether the portrayal is fictional or documentary, we must feel that the protagonist is someone whose actions benefit us; the protagonist is, or would be, a worthy companion or valued ally. Violent action films are often filled with dozens of incidental deaths of minor characters that draw out little response in the audience. In order to feel strong emotions, the audience must be emotionally invested in a character as either ally or enemy.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 

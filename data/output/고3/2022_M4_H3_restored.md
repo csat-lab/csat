@@ -225,7 +225,7 @@ Imagine some mutation appears which makes animals spontaneously die at the age o
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-What characterizes philosophy and science in early modern Europe and marks a break from earlier traditions is the concern to tailor theories to evidence rather than authority or tradition.
+What characterizes philosophy and science in early modern Europe and marks a break from earlier traditions is the concern to tailor theories to evidence rather than authority or tradition. Galileo Galilei, Francis Bacon, René Descartes, and others formulated explanations of the heavens, of the natural world around them, and of human nature and society not by appealing to the proclamations of earlier thinkers. Nor were religious principles and ecclesiastic dogma their guiding lights. Rather, they took their lead from reason ― what some thinkers called “the light of nature” ― and experience. The fierce debates on the superiority of reason or experience continued, but all serious thinkers ultimately abandoned experience in the development of modern science and philosophy. Whether they proceeded according to the logic of deduction or through the analysis of empirical data, the modern scientific method they developed consists in testing theories according to reason and in light of the available evidence.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

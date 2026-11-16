@@ -251,7 +251,7 @@ When scientists make an important new discovery or experimentally prove some hyp
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories.
+In the 1930s, the British psychologist Sir Frederic Bartlett asked people to listen to folktales from other countries and then recall these stories at a later date. As you might guess, unfamiliar stories were not remembered as well as familiar stories. Surprisingly, however, errors in memory were not random. Rather, subjects often rewrote similar parts of the stories in their own minds — particularly the parts that made the least sense to them. To attract a wide audience, stories should focus on topics that interest many people. Bartlett concluded that when facing problems, humans draw upon mental schemata, or shelves of stored knowledge in our brains, to fill in any minor gaps in our memories. Therefore, remembering is an imaginative process that involves building upon past experiences.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 

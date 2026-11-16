@@ -215,7 +215,7 @@ A $100 gift card to use at local shops - The winner will be announced on our web
 
 29. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]
 
-It would be hard to overstate how important meaningful work is to human beings — work that provides a sense of fulfillment and empowerment. Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and to count their employment as one of their greatest sources of joy and pride. Sonya Lyubomirsky, professor of psychology at the University of California, has conducted numerous workplace studies showing that when people are more fulfilled on the job, they not only produce higher quality work and a greater output, but also generally earn higher incomes. Those most satisfied with their work are also much more likely to be happier with their lives overall. For her book Happiness at Work, researcher Jessica Pryce-Jones conducted a study of 3,000 workers in seventy-nine countries, finding that those who took greater satisfaction from their work were 150 percent more likely to have a happier life overall.
+It would be hard to overstate how important meaningful work is to human beings — work that provides a sense of fulfillment and empowerment. Those who have found deeper meaning in their careers find their days much more energizing and satisfying, and count their employment as one of their greatest sources of joy and pride. Sonya Lyubomirsky, professor of psychology at the University of California, has conducted numerous workplace studies showing that when people are more fulfilled on the job, they not only produce higher quality work and a greater output, but also generally earn higher incomes. Those most satisfied with their work are also much more likely to be happier with their lives overall. For her book Happiness at Work, researcher Jessica Pryce-Jones conducted a study of 3,000 workers in seventy-nine countries, finding that those who took greater satisfaction from their work were 150 percent more likely to have a happier life overall.
 
 30. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은? [3점]
 
@@ -239,7 +239,7 @@ A number of research studies have shown how experts in a field often experience 
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-A group of psychologists studied individuals with severe mental illness who experienced weekly group music therapy, including singing familiar songs and composing original songs.
+A group of psychologists studied individuals with severe mental illness who experienced weekly group music therapy, including singing familiar songs and composing original songs. - The results showed that the group music therapy improved the quality of participants’ life, with those participating in a greater number of sessions experiencing the greatest benefits. - Focusing on singing, another group of psychologists reviewed articles on the efficacy of group singing as a mental health treatment for individuals living with a mental health condition in a community setting. The findings showed that, when people with mental health conditions participated in a choir, their mental health and wellbeing significantly improved. The negative effects of music were greater than the psychologists expected. Group singing provided enjoyment, improved emotional states, developed a sense of belonging and enhanced self-confidence.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

@@ -222,7 +222,7 @@ Predator-prey interactions must eventually end in death: one becomes dinner or t
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-The ideal person, at least according to an economist, would always make decisions that will result in them gaining the most utility. This “ideal” is called rational choice theory, which is defined as the theory that people will always make the choice that maximizes their own individual satisfaction when given different options under scarcity.
+The ideal person, at least according to an economist, would always make decisions that will result in them gaining the most utility. This “ideal” is called rational choice theory, which is defined as the theory that people will always make the choice that maximizes their own individual satisfaction when given different options under scarcity. “Scarcity” here means that there is a limited quantity of goods ― which, since we live on a planet with finite resources, is always true in real life. The best choices, which are the ones that lead to the best outcomes, should therefore come from a prediction of which choice would provide the best utility. The ideal rational decision maker would be so consistent in being able to carry out this process that we would be able to create a mathematical model that successfully predicts their decisions based on utility. People are likely to rely more on social value rather than on the pursuit of maximum utility when making a decision. This would involve a complete lack of emotions, biases, or external influences.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

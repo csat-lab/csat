@@ -192,7 +192,7 @@ The idea that people selectively expose themselves to news content has been arou
 
 30. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?
 
-Prior to the Industrial Revolution, the quantity of freight transported between nations was negligible by contemporary standards. For instance, during the Middle Ages, the totality of French imports via the Saint-Gothard Passage would not fill a freight train. The amount of freight transported by the Venetian fleet, which dominated Mediterranean trade, would not fill a modern container ship. The volume, but not the speed, of trade improved under mercantilism, notably for maritime transportation. In spite of all, distribution capacities were very limited and speeds slow. For example, a stagecoach going through the English countryside in the sixteenth century had an average speed of 2 miles per hour; moving one ton of cargo 30 miles inland in the United States by the late eighteenth century was as costly as moving it across the Atlantic. The inland transportation system was thus very limited. By the late eighteenth century, canal systems started to emerge in Europe. They permitted the large movements of bulk freight inland and expanded regional trade. Maritime and riverine transportation were consequently the outdated modes of the pre-industrial era.
+Prior to the Industrial Revolution, the quantity of freight transported between nations was negligible by contemporary standards. For instance, during the Middle Ages, the totality of French imports via the Saint-Gothard Passage would not fill a freight train. The amount of freight transported by the Venetian fleet, which dominated Mediterranean trade, would not fill a modern container ship. The volume, but not the speed, of trade improved under mercantilism, notably for maritime transportation. In spite of all, distribution capacities were very limited and speeds slow. For example, a stagecoach going through the English countryside in the sixteenth century had an average speed of 2 miles per hour; moving one ton of cargo 30 miles inland in the United States by the late eighteenth century was as costly as moving it across the Atlantic. The inland transportation system was thus very limited. By the late eighteenth century, canal systems started to emerge in Europe. They permitted the large movements of bulk freight inland and expanded regional trade. Maritime and riverine transportation were consequently the dominant modes of the pre-industrial era.
 
 31. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. [3점]
 
@@ -212,7 +212,7 @@ The designer in the Age of Algorithms poses a threat to American jurisprudence b
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-While we believe we hold the power to raise our children, the reality is that our children hold the power to raise us into the parents they need us to become.
+While we believe we hold the power to raise our children, the reality is that our children hold the power to raise us into the parents they need us to become. For this reason, the parenting experience isn’t one of parent versus child but of parent with child. The road to wholeness sits in our children’s lap, and all we need do is take a seat. As our children show us our way back to our own essence, they become our greatest awakeners. This means that how much we pay attention to awakening our children’s minds can make a difference in their lives. If we fail to hold their hand and follow their lead as they guide us through the gateway of increased consciousness, we lose the chance to walk toward our own enlightenment.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

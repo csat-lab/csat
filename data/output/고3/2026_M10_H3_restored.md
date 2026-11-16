@@ -205,7 +205,7 @@ Ice Hockey Club Recruitment
 
 29. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?
 
-Deduction makes us feel safe: If and when we know all the elements of the problem situation and how they hang together, then we can confidently deduce the outcome. This is rationality at its most unassailable. In professional practice, this type of thinking expresses itself in the belief that we can produce “logical” strategies and blueprints, or the claim to base ourselves on “best practices” and “evidence-based interventions.” But this gold standard of pure logic can only be achieved in a closed world, in in which we are absolutely sure we know all the elements of the problem situation and completely understand all the relationships at play beforehand. In the real world, this never happens — and when it does, we are talking about quite uninteresting, mechanical, routine reasoning. In practice, all problems are messy. Yet it is tempting to claim that we have used deduction in dealing with a problem; this claim to pure rationality is so strong that we don’t even have to defend the result. It is “logical,” after all.
+Deduction makes us feel safe: If and when we know all the elements of the problem situation and how they hang together, then we can confidently deduce the outcome. This is rationality at its most unassailable. In professional practice, this type of thinking expresses itself in the belief that we can produce “logical” strategies and blueprints, or the claim to base ourselves on “best practices” and “evidence-based interventions.” But this gold standard of pure logic can only be achieved in a closed world, in which we are absolutely sure we know all the elements of the problem situation and completely understand all the relationships at play beforehand. In the real world, this never happens — and when it does, we are talking about quite uninteresting, mechanical, routine reasoning. In practice, all problems are messy. Yet it is tempting to claim that we have used deduction in dealing with a problem; this claim to pure rationality is so strong that we don’t even have to defend the result. It is “logical,” after all.
 
 30. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은? [3점]
 
@@ -229,7 +229,7 @@ Commercial culture — generating the stories, images, and sounds that mattered 
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-Research with patients with damage to the hippocampus has indicated that conscious memory of events and motor learning are separate neurological systems.
+Research with patients with damage to the hippocampus has indicated that conscious memory of events and motor learning are separate neurological systems. A patient with hippocampal damage can learn a motor task and get better with practice, but each time he practices he will have no conscious memory of doing the task. The motor circuits become trained, but damage to the hippocampus prevents the formation of new conscious memories. Therefore, the motor circuits learn a new task, such as solving a simple mechanical puzzle, but the person does not remember seeing or doing the puzzle. This suggests that repetitive practice with the puzzle can help stimulate undamaged brain tissues to recover lost cognitive functions, thereby offering a therapeutic solution for hippocampal damage. With repeated practice, the person gets better and better at it, but each time the puzzle is presented, he says he has never seen it before.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 

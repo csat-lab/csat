@@ -217,7 +217,7 @@ In A Theory of Adaptation, Linda Hutcheon argues that “An adaptation is not va
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-According to the principle of social proof, one way individuals determine appropriate behavior for themselves in a situation is to examine the behavior of others there — especially similar others.
+According to the principle of social proof, one way individuals determine appropriate behavior for themselves in a situation is to examine the behavior of others there — especially similar others. It is through social comparison with these referent others that people validate the correctness of their opinions and decisions. Consequently, people tend to behave as their friends and peers have behaved. Because the critical source of information within the principle of social proof is the responses of referent others, compliance tactics that employ this information should be especially effective in collectivistically oriented nations and persons. That is, where the individualized self is both the focus and the standard, one’s own behavioral history should be heavily weighted in subsequent behavior. Some evidence in this regard comes from a study showing that advertisements that promoted group benefits were more persuasive in Korea (a collectivistic society) than in the United States (an individualistic society).
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

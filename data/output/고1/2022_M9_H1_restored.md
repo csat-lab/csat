@@ -223,7 +223,7 @@ The human brain, it turns out, have shrunk in mass by about 10 percent since it 
 
 30. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은? [3점]
 
-It is widely believed that certain herbs somehow magically improve the work of certain organs, and “cure” specific diseases as a result. Such statements are unscientific and groundless. Sometimes herbs appear to work, since they tend to increase your blood circulation in an aggressive attempt by your body to eliminate them from your system. That can create a temporary feeling of a high, which makes it seem as if your health condition has improved. Also, herbs can have a placebo effect, just like any other method, thus helping you feel better. Whatever the case, it is your body that has the intelligence to regain health, and not the herbs. How can herbs have the intelligence needed to direct your body into getting healthier? That is impossible. Try to imagine how herbs might come into your body and intelligently fix your problems. If you try to do that, you will see how impossible it seems. Otherwise, it would mean that herbs are less intelligent than the human body, which is truly hard to believe.
+It is widely believed that certain herbs somehow magically improve the work of certain organs, and “cure” specific diseases as a result. Such statements are unscientific and groundless. Sometimes herbs appear to work, since they tend to increase your blood circulation in an aggressive attempt by your body to eliminate them from your system. That can create a temporary feeling of a high, which makes it seem as if your health condition has improved. Also, herbs can have a placebo effect, just like any other method, thus helping you feel better. Whatever the case, it is your body that has the intelligence to regain health, and not the herbs. How can herbs have the intelligence needed to direct your body into getting healthier? That is impossible. Try to imagine how herbs might come into your body and intelligently fix your problems. If you try to do that, you will see how impossible it seems. Otherwise, it would mean that herbs are more intelligent than the human body, which is truly hard to believe.
 
 31. 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. [3점]
 
@@ -243,7 +243,7 @@ In the studies of Colin Cherry at the Massachusetts Institute for Technology bac
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-The fast-paced evolution of Information and Communication Technologies (ICTs) has radically transformed the dynamics and business models of the tourism and hospitality industry.
+The fast-paced evolution of Information and Communication Technologies (ICTs) has radically transformed the dynamics and business models of the tourism and hospitality industry. This leads to new levels/forms of competitiveness among service providers and transforms the customer experience through new services. Creating unique experiences and providing convenient services to customers leads to satisfaction and, eventually, customer loyalty to the service provider or brand (i.e., hotels). In particular, the most recent technological boost received by the tourism sector is represented by mobile applications. Increasing competitiveness among service providers does not necessarily mean promoting quality of customer services. Indeed, empowering tourists with mobile access to services such as hotel reservations, airline ticketing, and recommendations for local attractions generates strong interest and considerable profits.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 

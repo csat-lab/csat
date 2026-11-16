@@ -227,7 +227,7 @@ One of the criticisms of Stoicism by modern translators and teachers is the amou
 
 35. 다음 글에서 전체 흐름과 관계 없는 문장은?
 
-Several common themes were found in the highly creative individuals regarding their early experiences and education. In early childhood their families accorded them a great deal of respect and allowed them to explore on their own and develop a strong sense of personal autonomy.
+Several common themes were found in the highly creative individuals regarding their early experiences and education. In early childhood their families accorded them a great deal of respect and allowed them to explore on their own and develop a strong sense of personal autonomy. There was also a lack of extreme emotional closeness with parents. There was little evidence of intensely negative experiences; for example there was, relative to the times in which they lived, very little physical punishment for transgressions. Nor, on the positive side, was there evidence of extremely intense bonds of the sort that can smother independence. There was more competition among brothers and sisters for parental love in nuclear families than in extended families. On balance, for those who would grow up to be highly creative, relationships with parents were relatively easy and, in later life, pleasant and friendly rather than intensely intimate.
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
