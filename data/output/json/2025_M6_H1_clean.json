@@ -3,7 +3,12 @@
     "year": 2025,
     "month": 6,
     "grade": "고1",
-    "exam_title": "2025학년도 6월 고1 전국연합학력평가"
+    "exam_title": "2025학년도 6월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2025_M6_H1_restored.md",
+      "questions_pdf": "data/raw/2025년_6월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2025년_6월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -127,12 +132,12 @@
       "original_type": "어휘 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
       "original_points": 2,
-      "passage": "It is natural for people to observe happenings and then seek explanations for why those happenings occurred. But sometimes the reasoning is wrong because of one or more misconceptions. One of these is the ecological fallacy, where an argument claims that there is a causal relationship between two things merely because they occur together. For example, in the 1950s it was found that crime rates were the highest in neighborhoods where immigrants were most numerous. Some people used this “co‐occurrence” to argue that immigrants were a cause of crime. But a careful analysis of this situation revealed that immigrants were forced to live in neighborhoods where crime rates were already low; they could not afford more expensive housing in safer neighborhoods. Immigrants themselves committed very few of the crimes. Unless you analyze the claim carefully, you would misinterpret the relationship and thereby construct a faulty belief.",
+      "passage": "It is natural for people to observe happenings and then seek explanations for why those happenings occurred. But sometimes the reasoning is wrong because of one or more misconceptions. One of these is the ecological fallacy, where an argument claims that there is a causal relationship between two things merely because they occur together. For example, in the 1950s it was found that crime rates were the highest in neighborhoods where immigrants were most numerous. Some people used this “co‐occurrence” to argue that immigrants were a cause of crime. But a careful analysis of this situation revealed that immigrants were forced to live in neighborhoods where crime rates were already high; they could not afford more expensive housing in safer neighborhoods. Immigrants themselves committed very few of the crimes. Unless you analyze the claim carefully, you would misinterpret the relationship and thereby construct a faulty belief.",
       "original_summary": null,
       "word_count": 146,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "Paying with plastic fundamentally changes the way we spend money, altering the calculus of our financial decisions. When you buy something with cash, the purchase involves an actual loss — your wallet is literally lighter. Credit cards, however, make the purchase abstract, so that you don’t really feel the downside of spending money. Brain-imaging experiments suggest that paying with credit cards actually reduces activity in the insula, a brain region associated with negative feelings. As George Loewenstein, a neuroeconomist at Carnegie Mellon, says, “The nature of credit cards ensures that your brain is anesthetized against the pain of payment.” Spending money doesn’t feel bad, so you spend more money. Consider this experiment: Drazen Prelec and Duncan Simester, two business professors at MIT, organized a real-life, sealed-bid auction for tickets to a Boston Celtics game. Half the participants in the auction were informed that they had to pay with cash; the other half were told they had to pay with credit cards. Prelec and Simester then averaged the bids for the two different groups. It turns out that the average credit card bid was twice as high as the average cash bid. When people used their credit cards, their bids were much more careful. They no longer felt the need to limit their expenses.",
+      "passage": "Paying with plastic fundamentally changes the way we spend money, altering the calculus of our financial decisions. When you buy something with cash, the purchase involves an actual loss — your wallet is literally lighter. Credit cards, however, make the purchase abstract, so that you don’t really feel the downside of spending money. Brain-imaging experiments suggest that paying with credit cards actually reduces activity in the insula, a brain region associated with negative feelings. As George Loewenstein, a neuroeconomist at Carnegie Mellon, says, “The nature of credit cards ensures that your brain is anesthetized against the pain of payment.” Spending money doesn’t feel bad, so you spend more money. Consider this experiment: Drazen Prelec and Duncan Simester, two business professors at MIT, organized a real-life, sealed-bid auction for tickets to a Boston Celtics game. Half the participants in the auction were informed that they had to pay with cash; the other half were told they had to pay with credit cards. Prelec and Simester then averaged the bids for the two different groups. It turns out that the average credit card bid was twice as high as the average cash bid. When people used their credit cards, their bids were much more reckless. They no longer felt the need to limit their expenses.",
       "original_summary": null,
       "word_count": 213,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

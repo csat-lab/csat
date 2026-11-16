@@ -3,7 +3,12 @@
     "year": 2025,
     "month": 3,
     "grade": "고2",
-    "exam_title": "2025학년도 3월 고2 전국연합학력평가"
+    "exam_title": "2025학년도 3월 고2 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고2/2025_M3_H2_restored.md",
+      "questions_pdf": "data/raw/2025년_3월_고2_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2025년_3월_고2_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [

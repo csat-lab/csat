@@ -3,7 +3,12 @@
     "year": 2025,
     "month": 10,
     "grade": "고3",
-    "exam_title": "2025학년도 10월 고3 전국연합학력평가"
+    "exam_title": "2025학년도 10월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2025_M10_H3_restored.md",
+      "questions_pdf": "data/raw/2025년_10월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2025년_10월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -260,7 +265,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "In everyday life, most people think that media effects are things that show up during a media exposure or immediately afterward. This is an example of a media message triggering an immediate effect — a buying behavior — on you. But let’s say you did not click on the buy now button to buy the product; does this mean there was no media effect? Perhaps, but also perhaps not. Of course some effects do show up immediately, but other effects may take a long time to manifest themselves. Let’s say you see an ad for a product on a website and you click on a buy now button to buy that product. If you continually expose yourself to ads in the media, you may gradually over time come to believe that you have more needs than you really have and that all of those needs can be easily satisfied by buying particular products. This is a long-term effect on what you believe; it cannot be attributed to any one media exposure but instead gradually builds up in a steady drip-drip-drip manner over time.",
+      "passage": "In everyday life, most people think that media effects are things that show up during a media exposure or immediately afterward. Of course some effects do show up immediately, but other effects may take a long time to manifest themselves. Let’s say you see an ad for a product on a website and you click on a buy now button to buy that product. This is an example of a media message triggering an immediate effect — a buying behavior — on you. But let’s say you did not click on the buy now button to buy the product; does this mean there was no media effect? Perhaps, but also perhaps not. If you continually expose yourself to ads in the media, you may gradually over time come to believe that you have more needs than you really have and that all of those needs can be easily satisfied by buying particular products. This is a long-term effect on what you believe; it cannot be attributed to any one media exposure but instead gradually builds up in a steady drip-drip-drip manner over time.",
       "original_summary": null,
       "word_count": 183,
       "flags": {

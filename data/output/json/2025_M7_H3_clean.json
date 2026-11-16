@@ -3,7 +3,12 @@
     "year": 2025,
     "month": 7,
     "grade": "고3",
-    "exam_title": "2025학년도 7월 고3 전국연합학력평가"
+    "exam_title": "2025학년도 7월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2025_M7_H3_restored.md",
+      "questions_pdf": "data/raw/2025년_7월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2025년_7월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "The speed at which we form language can carry almost as much meaning as the words we say. Silence is not neutral or meaningless. If a job applicant hesitates too long before responding to a difficult question in a job interview, for example, we may think the applicant is at a loss for words because of being unprepared. We might interpret an awkward silence following a confession of love as indication that the addressee does not feel the same way. Other non-verbal cues may help inform our interpretation of these silences. This is also a factor when we communicate online or via text. Most modern messaging services and apps tell us when a message has been read by its recipient, and so an uneasy type of silence can arise when we know the recipient has read our message but, for whatever reason, has not responded. This is often referred to as leaving somebody ‘on read’ and is generally considered rude in online communication. Compared to face-to-face silences, where one can still read the other person’s expressions or body language, these online silences feel acceptable and can be even more hurtful if sensitive or difficult topics are involved. For instance, a romantic interest leaving an invitation for a second date ‘on read’ might be even more disheartening than a flat-out rejection in many cases. Social media has created a new kind of anxiety for humans. Waiting for a response makes us insecure. As such, we are pressured by social media to respond quickly.",
+      "passage": "The speed at which we form language can carry almost as much meaning as the words we say. Silence is not neutral or meaningless. If a job applicant hesitates too long before responding to a difficult question in a job interview, for example, we may think the applicant is at a loss for words because of being unprepared. We might interpret an awkward silence following a confession of love as indication that the addressee does not feel the same way. Other non-verbal cues may help inform our interpretation of these silences. This is also a factor when we communicate online or via text. Most modern messaging services and apps tell us when a message has been read by its recipient, and so an uneasy type of silence can arise when we know the recipient has read our message but, for whatever reason, has not responded. This is often referred to as leaving somebody ‘on read’ and is generally considered rude in online communication. Compared to face-to-face silences, where one can still read the other person’s expressions or body language, these online silences feel unacceptable and can be even more hurtful if sensitive or difficult topics are involved. For instance, a romantic interest leaving an invitation for a second date ‘on read’ might be even more disheartening than a flat-out rejection in many cases. Social media has created a new kind of anxiety for humans. Waiting for a response makes us insecure. As such, we are pressured by social media to respond quickly.",
       "original_summary": null,
       "word_count": 252,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

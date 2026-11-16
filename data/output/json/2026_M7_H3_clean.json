@@ -3,7 +3,12 @@
     "year": 2026,
     "month": 7,
     "grade": "고3",
-    "exam_title": "2026학년도 7월 고3 전국연합학력평가"
+    "exam_title": "2026학년도 7월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2026_M7_H3_restored.md",
+      "questions_pdf": "data/raw/2026년_7월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2026년_7월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 2,
-      "passage": "To date, the focus of much of the research in medicine and the health sciences has understandably been on disease processes. Research on the physiological mechanisms linking mind and body has also focused primarily on the negative consequences of factors such as stress, trauma and ageing. Whereas a large body of research exists detailing the relationship between functioning of the brain and that of systems such as the autonomic, endocrine and immune systems, most of this research has focused on negative outcomes. It is becoming clear that well-being and ill-being may have biological, psychological, social and spiritual causes that are only partially overlapping and attempting to understand the body during states of wellness rather than under conditions of illness is essentially a paradigm shift in thinking. The positive health construct points to the intriguing possibility that the physiological mechanisms underlying thriving may be unique and may not merely mirror that underlying disease and illness. For example, the impact of well-being on secretion patterns of such hormones as cortisol, serotonin and oxytocin is not just the opposite to that of stress and distress.",
+      "passage": "To date, the focus of much of the research in medicine and the health sciences has understandably been on disease processes. Research on the physiological mechanisms linking mind and body has also focused primarily on the negative consequences of factors such as stress, trauma and ageing. Whereas a large body of research exists detailing the relationship between functioning of the brain and that of systems such as the autonomic, endocrine and immune systems, most of this research has focused on negative outcomes. It is becoming clear that well-being and ill-being may have biological, psychological, social and spiritual causes that are only partially overlapping and attempting to understand the body during states of wellness rather than under conditions of illness is essentially a paradigm shift in thinking. The positive health construct points to the intriguing possibility that the physiological mechanisms underlying thriving may be unique and may not merely mirror those underlying disease and illness. For example, the impact of well-being on secretion patterns of such hormones as cortisol, serotonin and oxytocin is not just the opposite to that of stress and distress.",
       "original_summary": null,
       "word_count": 182,
       "flags": {
@@ -260,7 +265,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 3,
-      "passage": "As forests are destroyed, we not only lose valuable habitats for countless plant and animal species, but we also contribute to climate change, diminish the Earth’s natural carbon sink, and disrupt the delicate balance of ecosystems. From satellite imaging to machine learning algorithms, these tools have enabled researchers, conservationists, and governmental organizations to monitor, manage, and reduce deforestation on an unprecedented scale. One of the key technologies that have revolutionized efforts against deforestation is remote sensing. Recognizing the severity of deforestation, it has become essential to employ various technologies to combat this destructive phenomenon. In recent years, advancements in technology have offered new and innovative ways to tackle deforestation. Satellites equipped with high-resolution sensors can provide a bird’s-eye view of large areas to detect deforestation in real-time. These satellite images allow experts to identify illegal logging activities, encroachments on protected lands, and areas at risk for deforestation.",
+      "passage": "As forests are destroyed, we not only lose valuable habitats for countless plant and animal species, but we also contribute to climate change, diminish the Earth’s natural carbon sink, and disrupt the delicate balance of ecosystems. Recognizing the severity of deforestation, it has become essential to employ various technologies to combat this destructive phenomenon. In recent years, advancements in technology have offered new and innovative ways to tackle deforestation. From satellite imaging to machine learning algorithms, these tools have enabled researchers, conservationists, and governmental organizations to monitor, manage, and reduce deforestation on an unprecedented scale. One of the key technologies that have revolutionized efforts against deforestation is remote sensing. Satellites equipped with high-resolution sensors can provide a bird’s-eye view of large areas to detect deforestation in real-time. These satellite images allow experts to identify illegal logging activities, encroachments on protected lands, and areas at risk for deforestation.",
       "original_summary": null,
       "word_count": 147,
       "flags": {

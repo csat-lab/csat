@@ -3,7 +3,12 @@
     "year": 2025,
     "month": 6,
     "grade": "고2",
-    "exam_title": "2025학년도 6월 고2 전국연합학력평가"
+    "exam_title": "2025학년도 6월 고2 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고2/2025_M6_H2_restored.md",
+      "questions_pdf": "data/raw/2025년_6월_고2_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2025년_6월_고2_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -127,12 +132,12 @@
       "original_type": "어휘 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
       "original_points": 3,
-      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. A look through the history of oil price fluctuations disproves this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. Conversely, there has never been much concern with oil price decreases following an excess in its supply.",
+      "passage": "Low oil prices are a good thing, because it means lower energy costs of production for the majority of industries, not least the automobile and the logistics industries. Firms directly benefit from the decrease in their costs of production and provision of services. This has the effect of stimulating the aggregate supply and provides a stimulus for growth. Conversely, a sudden rise in oil prices due to a shrink in oil production is never good news, even though it definitely gives a big boost to the energy sector. A look through the history of oil price fluctuations confirms this notion, as this has been the subject of much economic research. Following an oil price jump of 10 per cent due to a contraction in supply, an economy (as typified by the US economy) typically sees its output (GDP) slowed by close to 1 percentage point. For a $15 trillion economy, that is a loss of $150 billion in potential wealth or economic growth. Conversely, there has never been much concern with oil price decreases following an excess in its supply.",
       "original_summary": null,
       "word_count": 180,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. People who choose Paris complain that it doesn’t have the ocean and those who choose Hawaii regret that it doesn’t have the museums. Psychologist Barry Schwartz calls this the ‘tyranny of choice’ because rather than providing freedom, it actually constrains our decision‐making. He argues that narrower choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. Having made the choice, we then start to regret, wondering whether it was the right one.",
+      "passage": "Shoppers confronted with the choice of thirty different varieties of gourmet chocolates are more likely to walk away without buying any, compared with when they are presented with only half a dozen choices. If employees are given a free trip to Paris, they are happy. If you give them a free trip to Hawaii, they are happy. But if you offer them the choice between the two destinations, they are less happy, no matter what they choose. Why might choice be so disruptive? The reason is that choice forces us to make comparisons and acknowledge relative disadvantages. People who choose Paris complain that it doesn’t have the ocean and those who choose Hawaii regret that it doesn’t have the museums. Psychologist Barry Schwartz calls this the ‘tyranny of choice’ because rather than providing freedom, it actually constrains our decision‐making. He argues that more choice increases unhappiness because we worry that we are going to make the wrong decision and so we get stressed about trying to process all the comparisons in an effort to get it right. This both increases our fear of making the wrong choice and raises expectations that we should be able to get the best choice. Having made the choice, we then start to regret, wondering whether it was the right one.",
       "original_summary": null,
       "word_count": 216,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

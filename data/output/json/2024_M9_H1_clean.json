@@ -3,7 +3,12 @@
     "year": 2024,
     "month": 9,
     "grade": "고1",
-    "exam_title": "2024학년도 9월 고1 전국연합학력평가"
+    "exam_title": "2024학년도 9월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2024_M9_H1_restored.md",
+      "questions_pdf": "data/raw/2024년_9월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2024년_9월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 2,
-      "passage": "From an organizational viewpoint, one of the most fascinating examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own biased and prejudiced perspective. A department and its members will acquire “tunnel vision” where disallows them to see things as others see them. The very structure of organizations can create conflict. The choice of whether the structure is “mechanistic” or “organic” can have a profound influence on conflict management. A mechanistic structure has a vertical hierarchy with many rules, many procedures, and many levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is less centralized and spread across the plane of the organization.",
+      "passage": "From an organizational viewpoint, one of the most fascinating examples of how any organization may contain many different types of culture is to recognize the functional operations of different departments within the organization. The varying departments and divisions within an organization will inevitably view any given situation from their own biased and prejudiced perspective. A department and its members will acquire “tunnel vision” which disallows them to see things as others see them. The very structure of organizations can create conflict. The choice of whether the structure is “mechanistic” or “organic” can have a profound influence on conflict management. A mechanistic structure has a vertical hierarchy with many rules, many procedures, and many levels of management involved in decision making. Organic structures are more horizontal in nature, where decision making is less centralized and spread across the plane of the organization.",
       "original_summary": null,
       "word_count": 141,
       "flags": {
