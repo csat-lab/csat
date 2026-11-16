@@ -1,0 +1,154 @@
+# 복원본 md를 만드는 워크플로 (1단계: 드라이런 전용).
+#
+# 설치: GitHub 웹에서 .github/workflows/restore.yml 로 새 파일을 만들거나,
+#       로컬 git으로 같은 경로에 넣고 push한다. (Muse GitHub App에는
+#       Workflows 권한이 없어 MCP로는 만들 수 없다.)
+# 실행: 파싱 워크플로 완료 뒤 자동 실행, 또는 Actions 탭에서 수동 실행.
+# 출력: 아티팩트만 올린다 (드라이런 복원본, 회귀 보고서, 로그). 커밋하지 않는다.
+# 1단계에서는 dry_run 입력이 false이면 실패로 끝난다. 커밋 단계는 4단계에서
+# 추가한다.
+#
+# 단계: 준비(prepare.py) -> 복원 드라이런(build.py --dry-run) ->
+# 구조 검증(verify_structure.py) -> 회귀 검사(regression_check.py).
+
+name: Restore exam markdown
+
+on:
+  workflow_dispatch:
+    inputs:
+      stems:
+        description: "대상 줄기 목록 (공백 구분, 비우면 전체). 예: 2026_03_H3"
+        required: false
+        default: ""
+        type: string
+      dry_run:
+        description: "드라이런만 지원한다 (false이면 실패)"
+        required: false
+        default: true
+        type: boolean
+  workflow_run:
+    workflows: ["Parse exam PDFs with kordoc"]
+    types: [completed]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: csat-restore
+  cancel-in-progress: false
+
+jobs:
+  restore:
+    # 수동 실행은 항상, workflow_run은 파싱 성공 시에만 실행
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      RESTORE_WORK: ${{ runner.temp }}/restore-work
+      RESTORE_DRYRUN: ${{ runner.temp }}/restore-dryrun
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install kordoc
+        run: |
+          npm install -g kordoc@4.24.47
+          # 이미지 OCR용 onnxruntime-node를 kordoc 폴더 안에 설치 (파싱 워크플로와 동일)
+          (cd "$(npm root -g)/kordoc" && npm install onnxruntime-node@^1.24.0)
+          kordoc --version
+
+      - name: Check poppler-utils
+        run: |
+          missing=0
+          for tool in pdftotext pdfinfo pdfimages; do
+            if ! command -v "$tool" >/dev/null 2>&1; then
+              echo "error: $tool not found; poppler-utils is required"
+              missing=1
+            fi
+          done
+          if [ "$missing" = 1 ]; then
+            echo "Install poppler-utils (e.g. sudo apt-get install -y poppler-utils) and re-run."
+            exit 1
+          fi
+          echo "poppler-utils OK: $(pdftotext -v 2>&1 | head -1)"
+
+      - name: Install Pillow
+        run: pip install Pillow
+
+      - name: Refuse non-dry-run
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run == false
+        run: |
+          echo "error: this workflow is dry-run only in phase 1 (no commit step yet)."
+          exit 1
+
+      - name: Prepare parses
+        env:
+          INPUT_STEMS: ${{ inputs.stems }}
+        run: |
+          mkdir -p "$RESTORE_WORK"
+          if [ -n "$INPUT_STEMS" ]; then
+            # shellcheck disable=SC2086: stems are intentionally word-split
+            python3 scripts/prepare.py --work-dir "$RESTORE_WORK" --only $INPUT_STEMS
+          else
+            python3 scripts/prepare.py --work-dir "$RESTORE_WORK"
+          fi
+
+      - name: Dry-run restore
+        env:
+          INPUT_STEMS: ${{ inputs.stems }}
+        run: |
+          if [ -n "$INPUT_STEMS" ]; then
+            # shellcheck disable=SC2086: stems are intentionally word-split
+            python3 scripts/build.py --work-dir "$RESTORE_WORK" --dry-run --dry-run-dir "$RESTORE_DRYRUN" --only $INPUT_STEMS
+          else
+            python3 scripts/build.py --work-dir "$RESTORE_WORK" --dry-run --dry-run-dir "$RESTORE_DRYRUN"
+          fi
+
+      - name: Verify structure
+        run: |
+          python3 scripts/verify_structure.py --input-dir "$RESTORE_DRYRUN" --report "$RESTORE_WORK/verify_log.json"
+
+      - name: Regression check
+        run: |
+          python3 scripts/regression_check.py --baseline-dir data/output --rebuild-dir "$RESTORE_DRYRUN" --output-dir "$RESTORE_WORK/regression"
+
+      - name: Upload dry-run results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: restore-dryrun
+          path: |
+            ${{ runner.temp }}/restore-dryrun
+            ${{ runner.temp }}/restore-work/regression
+            ${{ runner.temp }}/restore-work/restoration_log.json
+            ${{ runner.temp }}/restore-work/verify_log.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## 복원 드라이런 결과"
+            echo ""
+            if [ -f "$RESTORE_WORK/regression/regression_report.json" ]; then
+              python3 - "$RESTORE_WORK/regression/regression_report.json" <<'PY'
+          import json, sys
+          s = json.load(open(sys.argv[1]))["summary"]
+          print(f"- 비교 파일: {s['compared']}개 (동일 {s['identical']}개, 변경 {s['changed']}개, 구조 불일치 {s['structure_mismatch']}개)")
+          print(f"- 변경 문항: {s['changed_items_total']}개 (예상 형식 {s['expected_format_items_total']}개, 내용 {s['content_items_total']}개)")
+          print(f"- 기준선에만 있음 (이번 실행에서 안 지음): {s['only_in_baseline']}개")
+          PY
+            else
+              echo "- 회귀 보고서가 없습니다. 앞 단계를 확인하세요."
+            fi
+            echo ""
+            echo "- 드라이런 출력과 보고서는 아티팩트(restore-dryrun)에서 확인하세요. 커밋은 하지 않았습니다."
+          } >> "$GITHUB_STEP_SUMMARY"
