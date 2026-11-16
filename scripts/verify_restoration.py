@@ -9,6 +9,19 @@ SUMMARY_PATH = os.environ.get("GITHUB_STEP_SUMMARY")
 GITHUB_OUTPUT_PATH = os.environ.get("GITHUB_OUTPUT")
 ISSUE_BODY_PATH = Path("/tmp/verify_issue_body.md")
 
+# 원본 문제지 파싱 파일명: 2020년_6월_고1_수능영어_문제.md
+# 대응 복원본: data/output/고1/2020_M6_H1_restored.md (학년 폴더, 월 0패딩 없음)
+RAW_NAME_RE = re.compile(r"^(\d{4})년_(\d{1,2})월_고([123])_수능영어_문제\.md$")
+
+
+def restored_path_for(raw_name: str) -> Path | None:
+    """원본 문제지 파일명에 대응하는 복원본 경로. 정답 파일 등 짝이 없는 이름은 None."""
+    m = RAW_NAME_RE.match(raw_name)
+    if not m:
+        return None
+    year, month, grade = m.group(1), int(m.group(2)), m.group(3)
+    return OUT_DIR / f"고{grade}" / f"{year}_M{month}_H{grade}_restored.md"
+
 
 def normalize_text(text: str) -> str:
     """마크다운 문법, 여백, 줄바꿈 차이를 정규화하여 순수 텍스트 비교 준비"""
@@ -55,9 +68,14 @@ def verify_all() -> None:
     results = []
     missing_outputs = []
     low_quality_files = []
+    skipped_files = []
 
     for raw_path in raw_files:
-        out_path = OUT_DIR / raw_path.name
+        out_path = restored_path_for(raw_path.name)
+        if out_path is None:
+            # 정답(해설) 파싱 파일 등 복원본 짝이 없는 파일은 비교에서 제외
+            skipped_files.append(raw_path.name)
+            continue
         if not out_path.exists():
             missing_outputs.append(raw_path.name)
             continue
@@ -109,6 +127,7 @@ def verify_all() -> None:
         f"- **복원 완료 파일 (`data/output`)**: {len(results)}개",
         f"- **복원본 미생성 파일**: {len(missing_outputs)}개",
         f"- **주의/확인 필요 파일**: {len(low_quality_files)}개",
+        f"- **비교 제외 파일 (정답 등)**: {len(skipped_files)}개",
         "",
     ]
 
@@ -166,4 +185,19 @@ def verify_all() -> None:
                 )
             issue_lines.append("")
 
-        if missing_outputs
+        if missing_outputs:
+            issue_lines.extend(
+                [
+                    "### ❌ 복원본 미생성 파일",
+                    "",
+                ]
+            )
+            for name in missing_outputs:
+                issue_lines.append(f"- `{name}`")
+            issue_lines.append("")
+
+        ISSUE_BODY_PATH.write_text("\n".join(issue_lines), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    verify_all()
