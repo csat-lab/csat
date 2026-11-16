@@ -8,6 +8,10 @@ on:
       - "data/output/*.md"
       - "scripts/verify_restoration.py"
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   verify:
     runs-on: ubuntu-latest
@@ -19,4 +23,24 @@ jobs:
           python-version: "3.12"
 
       - name: Run restoration verification
+        id: verify
         run: python scripts/verify_restoration.py
+
+      - name: Create or update GitHub Issue on quality warning
+        if: steps.verify.outputs.has_issues == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_COUNT: ${{ steps.verify.outputs.issue_count }}
+        run: |
+          ISSUE_TITLE="[자동 검증] 원문 복원 품질 확인 필요 (${ISSUE_COUNT}건)"
+          # 이미 열려 있는 동일한 제목 패턴의 이슈가 있는지 확인
+          EXISTING_ISSUE=$(gh issue list --state open --search "[자동 검증] 원문 복원 품질 확인 필요 in:title" --json number --jq '.[0].number')
+
+          if [ -n "$EXISTING_ISSUE" ]; then
+            echo "Updating existing issue #$EXISTING_ISSUE..."
+            gh issue edit "$EXISTING_ISSUE" --title "$ISSUE_TITLE" --body-file /tmp/verify_issue_body.md
+            gh issue comment "$EXISTING_ISSUE" --body "🔄 최신 커밋(${{ github.sha }}) 검증 결과로 본문이 업데이트되었습니다."
+          else
+            echo "Creating new issue..."
+            gh issue create --title "$ISSUE_TITLE" --body-file /tmp/verify_issue_body.md
+          fi
