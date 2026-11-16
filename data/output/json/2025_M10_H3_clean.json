@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 10,
+    "grade": "고3",
+    "exam_title": "2025학년도 10월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2025-M10-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "You probably have quirks in your own memory and feedback loop: the past negative experiences that feel bigger than they should, or the positive affirmations that we can over-interpret. The important thing is to take some conscious control over a process that otherwise proceeds unconsciously, robbing us of complete ownership of how we think about life situations and make decisions. If you are struggling to commit to a relationship because your last one was difficult, you need to remember that your previous one does not define you; the weighting of that may be too heavy in your feedback loop, inhibiting your ability to judge the new relationship on its merits. We need to think about why we feel a certain way, whether that is uncertain or over-confident, and try to locate the root of that emotion in the previous experiences that have filled our memory banks and conditioned our feedback loops.",
+      "original_summary": null,
+      "word_count": 151,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 I am a general, my soldiers are the keys.가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "One consequence of the hierarchical organization of action is that when we reach for a cup of coffee, we do not need to consciously activate the sequence of muscles to send our arm and hand out toward the cup. Instead, most action plans are made at a higher level — we want to taste the coffee, and our arm, hand, and mouth coordinate to make it so. This means that in a skilled task such as playing the piano, there is a delicate ballet between conscious plans unfolding further up the hierarchy (choosing how fast to play, or how much emphasis to put on particular passages) and the automatic and unconscious aspects of motor control that send our fingers toward the right keys at just the right time. When watching a concert pianist at work, it seems as though their hands and fingers have a life of their own, while the pianist glides above it all, issuing commands from on high. As the celebrated pianist Vladimir Horowitz declared, “I am a general, my soldiers are the keys.”",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Our yearning for belonging is so hardwired that we often try to acquire it by any means possible, including trying to fit in and working hard for approval and acceptance. Not only are these efforts hollow substitutes for belonging, but they are the greatest barriers to belonging. When we work to fit in and be accepted, our “belonging” is unstable. If we do or say something that’s true to who we are but outside the expectations or rules of the group, we risk everything. If people don’t really know who we are and what we believe or think, there’s no true belonging. Because we can feel belonging only if we have the courage to share our most authentic selves with people, our sense of belonging can never be greater than our level of self-acceptance. We can never truly belong if we are betraying ourselves, our ideals, or our values in the process. That is why it’s a mistake to think that belonging is passive and simply about joining or “going along” with others. It’s not.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Places today have become exhibitions of themselves. Through heavy investment in architecture, art, design, exhibition space, landscaping and various kinds of redevelopment towns, cities and countryside pronounce their possession of various cultural values — such as unchanging nature, the historic past, the dynamic future, multiculturalism, fun and pleasure, artistic creativity or simply stylishness. These cultural values have come to be seen as a place’s identity, the possession of which is key to the important task of attracting visitors. And this identity is expected to be easily accessed by those visitors or, to use a currently favoured term in urban design, to be legible. Places whose identity seems inaccessible, confusing or contradictory do not present themselves as destinations. They do not, in other words, seem visitable. An identity that is not pointed to in the form of well-restored or beautifully designed buildings, artworks, shopping plazas, streets, walkways or gardens does not compose itself into a view nor offer itself as an ‘experience’. To avoid such a fate, places should ‘make the most of themselves’. In this way, they can find their niche in the new cultural economy of visitability.",
+      "original_summary": null,
+      "word_count": 188,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "For most people, the word “property” just refers to “stuff”: land, yes, but also the structures on that land, as well as physical possessions and even intangibles like ideas or radio frequencies. If you can own it, or claim some kind of right to it, it’s property. But sociologists and anthropologists have observed that in human societies, property rights systems aren’t really about “stuff”; they’re about people. More specifically, a property right isn’t a relationship between a person and an object, it’s an agreement between people about the object. And these agreements aren’t limited to written deeds and titles, or other property laws in a society. Becher explained that a sociologist like herself “would see property as a kind of social agreement. Property rights certainly exist in writing, in law, and that’s part of what they are. But they’re really only real to the extent that we respect them. [So, property rights are, in a sense,] claims that people make that get respected by others. So they’re always social.”",
+      "original_summary": null,
+      "word_count": 169,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The physical act of movement in the morning is not just beneficial for the body — it serves as a powerful stimulant for the brain, awakening it from the stillness of sleep and preparing it for the demands of the day. This awakening goes beyond physical health; it plays a critical role in enhancing cognitive function, particularly in the realms of creativity and imagination. One of the key mechanisms through which this occurs is increased blood flow to the hippocampus, a part of the brain responsible for memory, learning, and the creation of new ideas. The hippocampus, often described as the brain’s center for imagination and memory consolidation, thrives on the increased oxygenation and nutrients provided by physical movement. Studies published in journals highlight the positive effects of regular morning exercise on cognitive flexibility and creative thinking, confirming that exercise not only promotes physical health but also stimulates neural plasticity — the brain’s ability to reorganize itself by forming new neural connections. This adaptability is essential for creative thought, as it allows individuals to approach problems from new angles, make novel associations, and think more differently.",
+      "original_summary": null,
+      "word_count": 186,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "Information is an important ingredient for good decision-making. And so, a variety of guardrails exist that shape what information is available. For instance, in the United States, corporate disclosure laws limit what a company’s executives can share publicly and when. Share too much information and you risk being fined. In other contexts, the reverse is true, and one is required to make public certain information. Pharmaceutical companies need to disclose possible side effects for the drugs they manufacture and the food industry needs to put nutritional labels on most of their products. Sometimes, such a l’obligation d’information, as the French call it poetically, may apply to a company’s clients. Insurance policies are an example. The insured is typically under a duty to disclose material facts that affect the risk to the insurer. In a similar way, the state itself makes available a wide variety of information to help individuals make better decisions. Laws are made public so that citizens can obey them, at least in democratic states. Public registers, such as for corporations or landownership, help people decide whether to engage in a business transaction.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "As a general rule, when the individuals of a population encounter a new environmental stress, some individuals in the population will die prematurely and some individuals will survive. If the reason for their survival (such as a slightly enhanced ability or trait) can be passed on to their offspring (that is, it’s genetically encoded), then the next generation should be better able to withstand the newly encountered environmental stress, and the population overall will be less susceptible to it. Therefore, the key to the ability of a population to survive by adaptation lies in the rapidity with which the next generation, the more resistant generation, is produced by the survivors of this generation. It follows that those species capable of producing a new generation very quickly should be better able to respond to a stress very quickly. Those species that require more time for reproduction will be slower to adapt to the stress because of the additional time needed for them to produce stress-tolerant offspring.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The digital age has brought remarkable advancements in communication. A message that might have taken weeks to deliver by mail can now be sent in seconds. Yet, in this shift toward efficiency, we’ve lost something essential: the richness of face-to-face interaction. Think about it — when you communicate through a text or email, you’re missing out on nonverbal cues like facial expressions, tone of voice, and body language. These elements carry emotional weight, helping us to interpret meaning and intent. Without them, our understanding of others’ emotions is often incomplete, leading to confusion and frustration. Take, for instance, a short reply to an email: “Okay.” Depending on the context, the sender’s intention might be neutral, annoyed, or even sarcastic. But without vocal inflections or facial expressions to guide us, we are left guessing. This is why digital communication requires heightened emotional awareness — not only to express ourselves effectively but also to decode the emotions behind the words we receive.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Our epistemic relation to self-determination is open to error and, thus, subjective. Turning oneself into an agent of a particular kind by conceiving of oneself as that type of agent does not suffice to make it the case that one actually is that type of agent. Just imagine someone who believes himself to be a natural born tango dancer. He has watched many videos about tango dancing and practices dancing by himself for many years. Having prepared himself for a glorious entrance on the international scene, he travels to Buenos Aires and shows up at Maldita Milonga to show his skills. Unbeknownst to him, though, his dancing (if dancing it be) does not even remotely resemble tango, and nothing he does on stage can be recognized as tango dancing. Hence, while he conceived of himself as a tango dancer and did many things in light of that self-conception (including buying a ticket to Buenos Aires, dressing up, consuming hours of tango videos, reading books about tango, learning Spanish, etc.), he failed at meeting some of the minimal norms of actually being a tango dancer at all.",
+      "original_summary": null,
+      "word_count": 186,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "What makes social attention distinct, and more far-reaching than many other forms of social connection, is that it can live outside of the actual relationships we have. You can’t have a relationship with a celebrity unless you know him and he knows you. But a celebrity can be the object of your social attention. And this kind of one-sided social attention isn’t something trivial or secondary, but an enormous part of our lives. In tenth grade, you can spend most of your waking hours daydreaming about a high school senior you have a crush on. As an adult, you might find yourself having imaginary arguments in your head with a certain media personality. Think for a moment of the pantheon of strangers we have in our heads that we put our social attention on — from athletes we root for or jeer, to celebrities, to people whose struggle we encounter in the news. An enormous part of our social attention falls upon people who do not know us at all.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "We often use the word ignorance to denote a primitive or foolish set of beliefs. In fact, I would say that “explanation” is often primitive or foolish, and the recognition of ignorance is the beginning of scientific discourse. When we admit that something is unknown and inexplicable, then we admit also that it is worthy of investigation. David Helfand, the astronomer, traces how our view of the wind evolved from the primitive to the scientific: first “the wind is angry,” followed by “the wind god is angry,” and finally “the wind is a measurable form of energy.” The first two statements provide a complete explanation but are clearly ignorant; the third shows our ignorance (we can’t predict or alter the weather yet) but is surely less ignorant. It is undeniable that ignorance stands as the greatest barrier to scientific discovery and thus it fails to function as a support to scientists. Explanation rather than ignorance is the hallmark of intellectual narrowness.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Some propositions about lotteries are extremely likely to be true. Consider the proposition ‘any given ticket in a ten-million ticket lottery is a losing ticket’. Despite being overwhelmingly likely to be true, many philosophers think that such propositions, based on probabilities alone, are different from other propositions we regularly rely upon. It’s been popular to suppose, for instance, that we don’t know that we have lost the lottery just by reflecting on how unlikely winning is. This is puzzling, because there are many things we take ourselves to know even though we presumably have more than a one-in-ten-million chance of being wrong. For example, you might know you will attend a meeting later, even though occasionally meetings get cancelled unexpectedly — and surely more frequently than one-in-ten-million meetings! If we want to avoid conceding that the scope of our knowledge is much more limited than usually supposed, there must be some difference between the probabilistic evidence we have about the lottery and evidence for regular things that we do know.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In everyday life, most people think that media effects are things that show up during a media exposure or immediately afterward. This is an example of a media message triggering an immediate effect — a buying behavior — on you. But let’s say you did not click on the buy now button to buy the product; does this mean there was no media effect? Perhaps, but also perhaps not. Of course some effects do show up immediately, but other effects may take a long time to manifest themselves. Let’s say you see an ad for a product on a website and you click on a buy now button to buy that product. If you continually expose yourself to ads in the media, you may gradually over time come to believe that you have more needs than you really have and that all of those needs can be easily satisfied by buying particular products. This is a long-term effect on what you believe; it cannot be attributed to any one media exposure but instead gradually builds up in a steady drip-drip-drip manner over time.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Since its invention at the end of the nineteenth century, the automobile remained a machine that had to be controlled by a human driver. Without human control of steering wheel, gas pedal and brakes none of the billions of miles could have been traversed by the billions of cars in the world: A car always needed the driving skills of a human to fulfill its function. Without a driver, it would have been only an immobile artifact, left to stand still in its parking lot. In the early years of motoring, this necessity of a human driver was not seen as a barrier. Manual driving promised to fulfill the human dream of individual mobility and freedom, of self-guidance, of autonomy. But with the emerging mass automobility in the first decades of the twentieth century, the negative effects of human agency behind the steering wheel — accidents for example — became a serious topic of concern. It is no surprise that the fantasy of a self-driving car, a car that can navigate without a human driver, can be dated to this period.",
+      "original_summary": null,
+      "word_count": 181,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "That the brain had limitations on the amount of information processing it could handle was not news to psychologists. Indeed, about 15 years earlier, Miller showed this with his famous paper on the limited capacity of short-term memory. What was novel was the connection between categorization and stereotyping, and that categorization was an inevitable aspect of human cognition. At any given second, there are hundreds, even thousands, of different stimuli that can be perceived in our immediate environment. If we had to constantly think carefully about every one of those stimuli (or even a small subset thereof), in order to understand its nature and function, we would never get anything done! Instead, we learn about different stimuli, and tend to group them in terms of common features, attributes, or functions. This categorization process then becomes so well practiced as to become automatic, and it frees up our consciousness to attend to things that are novel in our environment, or to our current task. Thus, categorization helps us reduce the complexity of the stimuli in our social environment.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Cinema and law share the same subjects and audience. Rather than an abstract desire for truth as a value in itself, the law deals with the messiness of human relations. Both disciplines struggle with what it means to be human and try to communicate to us something about our existence; both are human artifacts directed at man. Indeed, foundational to law is its anxiety about human nature: man desires freedom but is simultaneously too violent to exist in a state of nature without a regime of commands and prohibitions. However, there is also an important difference here that makes a study of the interaction between cinema and law interesting: while cinema expresses man’s affective life, the law keeps it in check. It tries to ensure that we are not overwhelmed and destroyed by our desires and drives. The law obsessively tries to suppress affects, fearing the horror of their consequences, whereas cinema introduces us to our affects, often forcing us to identify the most unbearable ones in ourselves.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Few pick up a novel and criticize it because the situations it describes and the people it contains never existed in real life. Perhaps even when we should criticize fiction for giving us inaccurate or biased views of the state of the world, it generally escapes our scorn. It’s only fiction, we say. But of course fiction is more than just something made up. If it were only that, we would not bother engaging with it, and it would not occupy such a large part of our lives. Humans are drawn to fiction, to invented stories, in a way unique among animals. If we think about this, it may seem odd — why should we be interested in reading or watching on screen a story that never happened, and in many cases that could never happen, the travails of people who never existed and could never exist? Why do we enjoy this? What do we get out of it? We’re not learning anything about the world, we’re not gaining any kind of useful experience that will help us navigate our lives more effectively, we’re not learning any new skill or developing any new material. Most of us of course will argue that there is a great deal of value in engaging with fiction and other kinds of art, even though these things may teach us nothing about the world or generate art-independent skills. After all, we spend significant amounts of our time engaging with such fiction. It is no surprise that films, television and sports, video games, novels, and the like, are billion-dollar industries.",
+      "original_summary": null,
+      "word_count": 264,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 3,
+    "grade": "고1",
+    "exam_title": "2026학년도 3월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2026-M3-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "There is simply no better way to influence or stir an audience — instantly, powerfully, authentically — than by opening up to them with a personal story or anecdote. To be clear: I’m not saying you need to tell them long stories about your family vacations or show them baby pictures from the stage. I’m saying that you can share a key biographical detail, or an emotion that you’re feeling in the moment, or a self-deprecating joke. It is a tried-and-tested way of bonding with an audience of strangers — and of laying the groundwork for you to then persuade them. The harsh reality is that people won’t bond with your arguments in a vacuum, but they will, says speech coach Bas van den Beld, “bond with you” — the person making those arguments. By sharing a revealing story or a personal flaw, you allow audience members a way to identify with you.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 steal the shade from our descendants가 다음 글에 서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "We are now at a point of unprecedented genetic, cultural, and environmental power as a species, and we are linked to nearly every other person on Earth. We are embodied individuals trapped within limited time, but we are also networked data streams, memories, and influencers, and part of a grander humanity. Our decisions today have far-reaching impacts that place a responsibility on us to become good ancestors, to take the long view and time travel forward to imagine the well-being of billions of people whose lives will be lived in the world we are currently making. Centuries ago, leaders of the native North American Iroquois people created “seven generation stewardship,” instructing people to consider the impact of every decision on their children, seven generations into the future. In the precious few decades that Earth is ours, while we enjoy the gardens planted by our ancestors, we must not steal the shade from our descendants.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Despite learned eating behaviors that are formed in early childhood and inborn biological differences, taste preferences can be changed throughout our lives due to neuroplasticity, our brain’s amazing adaptability: There is far more flexibility in our food behaviors than most think, even as we age. This is terrific news for adventurous eaters who want to expand their dinner menu — it’s a big, tasty world out there! — but it’s amazing news for those eager to break poor diet habits. Just as kids gradually learn to like nutritious foods, so, too, can adults readjust their taste. Many who switch from processed grain foods like white bread and white rice to whole grain types, for instance, gradually learn to prefer the nutty flavors and chewy textures. Repeated exposure — and a willingness to change — is the key.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Conformity in the teenage years has been studied by putting young people in situations where they are asked to make a choice or decision where that appears to go against what everyone else in the group is saying. The fascinating thing about the results of these studies is that conformity is not spread equally across all age groups. Thus, the willingness to go along with others reaches a peak around the age of 14. After that, this tendency decreases, so that by 16 or 17, young people are much more able to disagree with the group and to stand up for their own opinion. This is an important finding. It demonstrates that the influence of the peer group is not the same across all ages. As young people mature, they become more resilient, and more able to defend their opinions as individuals.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Habits aren’t bad. We need them to survive. Understanding how the brain uses habits, and how you can work with them, is essential for business. One question to ask is, are you really trying to break a habit, or would you do better by attaching to another one (known as temptation bundling)? Wharton professor Katy Milkman led a research project called Holding the Hunger Games Hostage at the Gym, where participants could only have access to their audio devices while at the gym. This uses a tempting habit — listening to that awesome audiobook — and combines it with a habit people would like to build, but may otherwise feel forced to put off, like exercising. The participants whose devices were “held hostage” were 51 percent more likely to visit the gym. And the really amazing thing is what happened after it was over: nearly two-thirds opted to pay to have gym-only access for their devices!",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "A conceptual model is an explanation, usually highly simplified, of how something works. It doesn’t have to be complete or even accurate as long as it is useful. The files, folders, and icons you see displayed on a computer screen help people create the conceptual model of documents and folders inside the computer, or of apps or applications on the screen. In fact, there are no folders inside the computer — those are effective conceptualizations designed to make them easier to use. Sometimes these depictions can add to the confusion, however. When reading e-mail or visiting a website, the material appears to be on the device, for that is where it is displayed and used. But in fact, in many cases the actual material is “in the cloud,” located on some distant machine. The conceptual model is of one, coherent image, whereas it may actually consist of parts, each located on different machines that could be almost anywhere in the world.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "The principal transportation mode in the developing world, even in large cities, is still walking because of constraints on the resources needed to operate extensive transit systems. People cover long distances on foot every day and expend human energy that they can hardly spare. Walking under those conditions is an unavoidable burden that consumes productive capability. In North America and Western Europe, however, the attitude and policies are just the opposite: walking is efficient, healthful, and natural. We should do more of it — almost everybody agrees — and some of the current trends should be reversed. Ironically, among the most popular exercise machines in health clubs and in homes are tread-mills that simulate walking, which could be otherwise accomplished with a transport purpose on the street.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Just like how other rooms in your home can cause anxiety when filled with too much stuff, the same is true for kids. If the play space houses every single toy that has ever been purchased for them since birth, they may not be able to express their feelings, but they can feel overwhelmed by so much stuff. This reminds us of how women look in their closets packed full of clothes and think, I have nothing to wear. Revision helps everyone see what they have and use what they own. When there’s too much to see, too much to step over, and too much input, kids have a hard time making a choice. Streamlining a play space is so important. You want your kids to feel inspired and imaginative in the room — not overcome with indecision.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Students often mistake familiarity with true mastery, creating a dangerous “illusion of competence” where recognizing information feels like genuine knowledge, but they struggle when asked to recall or apply it independently. This cognitive bias, strengthened by passive study methods, leads learners to overestimate their understanding. Teaching materials (even informally or imaginatively) actively counters this illusion by requiring deep processing, active recall, structured organization, and revealing gaps in knowledge. It introduces powerful methods like teaching imaginary students, peer-teaching in study groups, employing the Feynman Technique, and writing explanations for others. Ultimately, adopting the teacher mindset transforms surface familiarity into real mastery, exposing and filling gaps in knowledge and ensuring solid, reliable understanding.",
+      "original_summary": null,
+      "word_count": 111,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "From around 3000 BC, the Sumerian officials would mark their lists of goods on clay tablets. If they wanted to record five fish, they would mark five pictures of a fish. Their first great intellectual leap came from separating the number from the object they were counting. In other words, they would represent five fish with a numeral for the number five alongside a symbol for the fish. If they wanted to describe five of something else, they realized they could keep the same numeral and trade the object symbol for a cow, or a jar of oil, or whatever else they were interested in. The Sumerians had developed the idea of an emancipated number, existing in its own right and independent of whatever it is being used to count. It is easy to take the emancipated number for granted as it is so deeply set into modern thought, but to the earliest civilizations it was intellectually new and extremely powerful.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The emphasis on learning from the ingroup takes little account of individuals. Amazingly, while we may dislike some of the people in our ingroup, we still copy them. Wilks, Kirby, and Nielsen studied copying behavior in the context of observing how to open a puzzle box. Ingroups and outgroups were distinguished in a minimal way, using simple color coding of wristbands. The children did not simply like all members of their ingroup; they disliked those who behaved in an antisocial fashion. Indeed, they liked these antisocial ingroup members less than the prosocial members of an outgroup. Still, their dislike did not affect their tendency to copy ingroup behavior more closely than outgroup behavior. This overimitation reveals that we are not copying in order to learn how to open a box most efficiently. We want to learn how to do it in the proper way — in other words, conforming to the rules and conventions of the ingroup. This will be appropriately demonstrated even by antisocial ingroup members.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "The “set point theory” concept is that your body has a stable quantity of fat cells by the time you are an adult. The more weight you carried in your childhood and your teenage years, the more fat cells you will have as an adult. These fat cells then become “fuller” or “thinner” as you gain and lose weight as an adult. The set point is the trigger in these cells that will send a message to your brain saying that your fat cells are getting too thin and that you must eat more. Different people’s fat cells will have different set points, and the strength of the message is affected by the number of cells. Some researchers report that fat cells can release hormones and other chemicals that could help treat a disease. Thus a person with lots of fat cells and a high set point will battle with a strong desire for food when dieting.",
+      "original_summary": null,
+      "word_count": 157,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Initially the catchphrase “less is more” had a simple meaning. First mentioned in Robert Browning’s poem “Andrea del Sarto,” it suggests that everything simple is better and more beautiful than the complex and tangled. Nowadays this phrase is heard often — maybe even too often. But it’s important to recognize that the way of thinking that lies behind these words slowly extinguishes certain habits from our daily life. For example, think about the heavy, massive radio receivers that existed back in the day. Over time, many of their buttons became viewed as “extra” and were removed, and with each reduction these devices eventually developed into the phones in our pockets. The scale of the object became smaller, and the functions of the buttons got lost in the three-dot menus and multilayered folders of our phones.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We first need to understand the short but hidden history behind the plastics industry and how it became deeply rooted in our daily lives. Before plastic, people lived more sustainably, with far fewer waste problems than we face today. However, after the invention of plastic, its rapid adoption during World War II, and its explosion into consumer goods, plastic was everywhere. The growing industry came to symbolize the convenience and prosperity of the American dream. This dream came with a price. Over time, people began to notice the environmental impact, and the early seeds of today’s environmental movement were planted. However, the plastics industry was quick to counter these concerns, launching campaigns that presented recycling as the solution to all our problems. They pushed the idea that pollution was the fault of consumers, not the corporations flooding the market with plastic.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "As Kuhn proposed, our propositions about the world are embedded within paradigms, roughly a network of interrelated commitments to a particular theory, a conception of a subject matter, and methodological practices. Thus, when scientists undertake research, they do so from within a specific paradigm. Even the most exacting measurements are only sensible from within that paradigm. For example, a look into a microscope tells you nothing unless you are already informed about the nature of the instrument and what you are supposed to be looking at. Thus, what we call major progress in science is not a movement from a less to a more accurate paradigm. Rather, it is a horizontal shift from one ‘way of seeing the world’ to another. For Kuhn, ‘the scientist with a new paradigm sees differently from the way he had seen before.’",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Making two visits to one of our cold greenhouses — one at dawn after a below-zero night, and the other a few hours later — provides a striking introduction to the winter harvest. During the dawn visit all the crops are frozen solid. Raising the inner covers, which is difficult because they too are frozen, reveals a sight of hard, frost-coated leaves bleak enough to convince anyone that this idea is foolish. Yet a few hours later, after the sun has warmed the greenhouses above freezing, the second visit presents a miraculous contrast. Under the inner covers are closely spaced rows of vigorous, healthy leaves that stretch the length of the greenhouse. The leaf colors in different shades of greens, reds, maroons, and yellows stand bright against the dark soil. It looks like a never-ending spring.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하려 한다. 빈칸 (A), (B) 에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Parenting experts say children need to learn independence and resilience. But cities and suburbs don’t offer safe walk and bike routes to school, malls kick teenagers out on the weekends, and free time disappears under a spreadsheet of activities. All of those “musts” take more of the parents’ time or money to navigate, because the child can’t do it on their own. As Darby Saxbe, a clinical psychologist, recently wrote in the New York Times, “underparenting requires structural change.” Unlike most political experts, she’s not just talking about economic policies like family leave and government-supported childcare. She’s talking about actual physical structures, and the cultural change required to populate them. We need to “build back our tolerance for children in public spaces,” she writes, “and create safe environments where lightly supervised kids can move around freely.”",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It’s fair to say that patience has a terrible name. For one thing, the prospect of doing anything that you’ve been told will require patience simply seems unattractive. More specifically, though, it’s disturbingly passive. It is the virtue that has traditionally been urged upon housewives, while their husbands led more exciting lives outside the home; or on racial minorities, told to wait just a few more decades for their full civil rights. The talented but self-effacing employee who “waits patiently” for a promotion, we tend to feel, will be waiting a long time: she ought to be trumpeting her achievements instead. In all such cases, patience is a way of psychologically accommodating yourself to a lack of power, an attitude intended to help you to resign yourself to your lowly position, in theoretical hopes of better days to come. But as society accelerates, something shifts. In more and more contexts, patience becomes a form of power. In a world geared for hurry, the capacity to resist the urge to hurry — to allow things to take the time they take — is a way to gain purchase on the world, to do the work that counts, and to derive satisfaction from the doing itself, instead of putting off all your fulfillment to the future.",
+      "original_summary": null,
+      "word_count": 214,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

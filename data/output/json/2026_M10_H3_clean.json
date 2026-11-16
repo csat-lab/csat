@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 10,
+    "grade": "고3",
+    "exam_title": "2026학년도 10월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2026-M10-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Did you know that shadows are the color of the sky? That counterintuitive reality reminds us that preconceived notions, bias, and prejudice color our view of the world. One profound habit of thinking individuals is to first acknowledge their biases and then intentionally overcome them. Asking challenging questions can help. Passionately argue an issue from the opposite point of view, and ask probing and difficult questions that challenge your original stance. Be brutally honest and see what’s actually there rather than what’s expected. Get in the habit of asking, “Do I really know?” and refuse to accept assertions blindly. Challenge everything and everyone — including your teachers. Don’t be intimidated. You are the best authority on what you don’t understand — trust yourself: don’t be afraid to ask the questions you need to ask, and be brave enough to change your thinking when you uncover a blind spot.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 “develops the photograph” of the original text가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "All the philosophical dilemmas about whether translation “reflects” or instead “transforms” what’s in the original need to be swept aside. This is exactly the dichotomy that Merleau-Ponty’s account of perception is trying to free us from: are we “seeing” objects or “constituting” them? Neither, because we perceive things in a world we live in and have the power to transform: a chair is something we can go sit in; a mug is something we can pick up. One of Merleau-Ponty’s many great metaphors is that perception neither finds the world nor creates it: it reveals it, which he expresses using the term révélateur, the developing fluid for photographs in a darkroom. The act of seeing develops what’s in the world, like developing a photograph. Likewise, a translation “develops the photograph” of the original text. Translators don’t simply “recognize” what’s there, but nor are we “changing” it into anything it isn’t already, though we can be more or less aggressively interventionist in our darkroom. As a translator I take up the affordances of the original, moving through its world and constantly invited to respond in certain ways.",
+      "original_summary": null,
+      "word_count": 186,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In some ways, we are more eager to track down and recover knowledge from the distant past than ever. New storage technologies make it possible to preserve texts, images, and music at minimal cost, and social media have made it simpler to share this stored content more widely than ever before. Never have previously produced cultural artifacts and practices been as readily available to as many people as they are now. Yet, amid this digital abundance of cultural content, older file formats, websites, and entire databases are becoming unreadable at a frightening speed, raising the question of whether we’re really so much better at preserving the past than our ancestors were. And while the technologies of cultural storage and distribution have changed, the laws governing how culture works — how it is preserved, transmitted, exchanged, and recovered — haven’t. The interplay of preservation and destruction, of loss and recovery, of error and adaptation continues unabated in a world that has put almost all human cultures in constant contact.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We use space, eye contact, and touch to communicate positive and negative attitudes toward others. These signals can reflect and regulate the intimacy in a relationship. In one interesting application of this idea, researchers found that nonverbal intimacy regulation even occurs when people interact with others via avatars in online environments. As in face-to-face encounters, people typically respond to decreased distances by compensating with reduced gaze. But we should keep in mind what communication scholar Mark Knapp has pointed out: These stereotypical immediacy behaviors — close distances, eye contact, touch, body lean, and so forth — are more evident during the early stages of intimacy than they are during later stages. When people become comfortable with each other, they may become more selective in their use of nonverbal immediacy signals, using them during a personal crisis, after a fight, on special occasions, at particular social gatherings, and the like. They may also adopt other more idiosyncratic ways of showing their affection — a unique gesture or a special touch, for instance — and they may feel less obliged overall to display their affections in public.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In many situations, corporate moral decisions do not entail a trade-off: doing the right thing is sometimes good for business. Legal scholar Lucian Bebchuk calls this type of reasoning “instrumental stakeholderism.” Making stakeholders (customers, the community, employees, and so on) happy, even if it costs a little, may be in the interest of shareholders. For Bebchuk, such situations do not pose a challenge to economist Milton Friedman’s view that managers should aim at maximizing profits. Giving an extra week of paid vacation or long maternity leave may help attract the most talented young college graduates. Sourcing inputs responsibly may appeal to millennial consumers who are concerned with the environment. Being more environmentally conscious than what current standards require might give a leading edge if one anticipates that regulations will become tighter in the near term. Morality can be seen in such cases as an instrument for (current and long-term) profits, not necessarily as a goal for its own sake.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "Deduction makes us feel safe: If and when we know all the elements of the problem situation and how they hang together, then we can confidently deduce the outcome. This is rationality at its most unassailable. In professional practice, this type of thinking expresses itself in the belief that we can produce “logical” strategies and blueprints, or the claim to base ourselves on “best practices” and “evidence-based interventions.” But this gold standard of pure logic can only be achieved in a closed world, in which we are absolutely sure we know all the elements of the problem situation and completely understand all the relationships at play beforehand. In the real world, this never happens — and when it does, we are talking about quite uninteresting, mechanical, routine reasoning. In practice, all problems are messy. Yet it is tempting to claim that we have used deduction in dealing with a problem; this claim to pure rationality is so strong that we don’t even have to defend the result. It is “logical,” after all.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "At the base of the status hierarchy among performers are cover bands, which are often accorded little critical artistic weight. Reliance on someone else’s material concedes that you have nothing of your own to say. However, playing covers fulfills aesthetic, educational and economic roles. Some covers take the original recording as a starting point and modify or reinvent it creatively. Bands starting out rely on cover versions for a large part of their repertoire out of necessity, mastering them as part of a learning process. Even ‘original’ performers will usually play a few covers. The distinction between ‘cover’ and ‘original’ is important, since upward career mobility is directly tied to notions of originality. Learning such songs is part of the apprenticeship process in acquiring musicianship through engaging with a musical tradition. An example is the development of ‘rock’ in England in the 1960s through local bands covering imported copies of American rhythm and blues hits. Cover songs are literally music to the ears of the managers of pubs and the like, as they are tapping into a proven product that the audience can identify with. For each new generation of listeners, a ‘good’ song is a good song.",
+      "original_summary": null,
+      "word_count": 198,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Almost all generalizations that political philosophers have made about the nature of human beings are wrong. If there is anything we know about human nature in all of its history, art, literature, and the sciences, it is that traits vary. Graph the distribution of human beings from the number who exhibit extreme self-interest to those who exhibit extreme self-sacrifice, and you will have variation. Do the same with intelligence, rationality, brutishness, aggressiveness, or whatever feature you want, and you will find a range, with the exceptional numbering in the very few, and most of us somewhere in the middle. We are no more selfish than we are selfless, nor more brutish than we are refined. We are no more disposed to live in a large-scale society than we are inclined to live in familial tribes. We are mostly, in almost all respects that explain our behaviors and dispositions, in the middle of a spectrum. Very few behavioral or psychological traits are categorically universal to humankind, at least if the sciences are to be believed.",
+      "original_summary": null,
+      "word_count": 174,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Reflective customer service chatbots employ self-assessment methodologies to continuously improve their ability to provide effective and satisfactory responses to users. By introspecting on past conversations, these chatbots can identify patterns, strengths, weaknesses, and areas for improvement, enabling them to refine their knowledge base, response strategies, and overall interaction capabilities. One key aspect of self-assessment is the ability to analyze the outcomes of past conversations. Chatbots can review user feedback, sentiment analysis, and conversation metrics to measure the success or failure of their responses. For instance, a chatbot might identify conversations where users expressed frustration or dissatisfaction through negative sentiment or low satisfaction ratings. By reflecting on these instances, the chatbot can pinpoint potential issues, such as misunderstandings, inadequate information, or inappropriate tone or language. Conversely, the chatbot can also analyze conversations that went well, where users expressed satisfaction or gratitude for the provided solutions. By studying the characteristics of these successful interactions, the chatbot can reinforce effective response strategies, identify best practices, and replicate them in future conversations.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The biggest obstacle for AI in real-world settings is that most human tasks aren’t nearly as tidy in their rules and boundaries. Those “gray areas” (like driving on busy city streets) are where AI tools often falter. Despite years of expert forecasts of their imminent arrival, we don’t yet have self-driving cars that can safely replace human drivers, other than in controlled settings. That’s why some driverless taxis created chaos on the streets of San Francisco. Despite years of optimistic predictions, many AI tools cannot yet be trusted in open-world environments, where the human stakes are high, and failure means real, permanent loss. AI performance in these areas can still improve, as the size of AI models grows, and they are trained on more human driving data. But they will improve only by mirroring more of the patterns found in our intelligent performances, as we cope with a world that no data set can ever contain.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Commercial culture — generating the stories, images, and sounds that mattered most to the public — pushed folk culture practices underground. People still composed and sang songs and amateur writers still scribbled verse. At the same time, grassroots fan communities emerged in response to mass media content. Some media scholars hold on to the useful distinction between mass culture (a category of production) and popular culture (a category of consumption). They argue that popular culture is what happens to the materials of mass culture when they get into the hands of consumers, when a song played on the radio becomes so associated with a particularly romantic evening that two young lovers decide to call it “our song,” or when a fan becomes so fascinated with a particular television series that it inspires her to write original stories about its characters. In other words, popular culture is what happens as mass culture gets pulled back into folk culture. The culture industries never really had to confront the existence of this alternative cultural economy because, for the most part, it existed behind closed doors and its products circulated only among a small circle of friends and neighbors.",
+      "original_summary": null,
+      "word_count": 195,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Research with patients with damage to the hippocampus has indicated that conscious memory of events and motor learning are separate neurological systems. A patient with hippocampal damage can learn a motor task and get better with practice, but each time he practices he will have no conscious memory of doing the task. The motor circuits become trained, but damage to the hippocampus prevents the formation of new conscious memories. Therefore, the motor circuits learn a new task, such as solving a simple mechanical puzzle, but the person does not remember seeing or doing the puzzle. This suggests that repetitive practice with the puzzle can help stimulate undamaged brain tissues to recover lost cognitive functions, thereby offering a therapeutic solution for hippocampal damage. With repeated practice, the person gets better and better at it, but each time the puzzle is presented, he says he has never seen it before.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In social cognition, the perceiver is interested in attributes such as intelligence, trustworthiness, love, aggressiveness, or humour. Individuals have no sensory receptors for these attributes, which refer to distal entities that have to be inferred from more proximal cues, and sometimes have no objective existence at all. For example, we cannot directly observe the “aggressiveness” of a particular person. We can observe whether the person is hitting someone, and we may use this observation to infer aggressiveness. Because these kinds of attributes cannot be directly observed, their assessment requires far more constructive processing than the assessment of size or colour. To make social judgments, individuals must go beyond the information given far more than when judging inanimate objects. One may argue that even basic perceptions such as colour and size require a considerable degree of inference. However, in most cases, it is the social judgments that require far more inferential processes, and it is precisely this large proportion of constructive processes that makes social cognition a specific and unique process.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The seamless conjoining of all our sensory information into a single, integrated experience is no easy task and to achieve it, the brain relies on a little trickery. For instance, it has to compensate for discrepancies in the time it takes to process the different senses: vision, being so data rich, takes a fraction longer than the other senses. That’s why even in the twenty-first century we begin sprint finals with a starting pistol, rather than traffic lights. The fact that a pistol is used isn’t about tradition; it’s simply because athletes, like the rest of us, are slightly slower to react to the light than the sound. Our sensory synchronisation is only possible because the brain imposes slight lags on different senses to make everything line up. Moreover, everything we experience has already happened by the time we register it. To keep up with the real world and to compensate for this slight delay, the brain has to predict movements. If it didn’t, we’d be hopelessly out of sync.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Homo sapiens as a species is defined by its genome. Unlike a digital document that can be flawlessly copied, again and again, without a single character missing or out of place, genomes are subject to random mutations and copying errors as the information is passed from parents to offspring. This comes on top of the genetic lottery as we inherit about half of our dad’s genes and half of our mom’s, but which of our dad’s genes and which of our mom’s genes we inherit is random, like a deck of shuffled cards. We all carry variants of nature’s instruction manual for who we can become — differing in roughly one out of every thousand nucleotides. These “copying errors” are not a bug but a feature, as offspring with diverse genomes are the raw material shaped by the forces of evolution by natural selection. Some may be better adapted to a particular ecological niche, while most are either neutral or do worse. The former will have a higher chance, and the latter a lower one, of surviving and therefore passing on their genome to the next generation.",
+      "original_summary": null,
+      "word_count": 187,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Science is the study of things that can be observed or measured in our material reality. We have built the modern world on a set of processes that we call the scientific method that advance our understanding of the nature of that reality. Metaphysics, on the other hand, is the study of the things that lie outside of that material reality, such as the nature of the mind, consciousness, being, causality, and, well, pretty much everything we wonder about but don’t have a scientific way to investigate. The line between the two is fuzzy, and it shifts as science solves old mysteries and uncovers new ones. But it would be a mistake to say that scientific truths are the only ones we can ever know for certain. Rather, they are the only ones we can prove — a very different thing. In point of fact, the vast majority of what you know cannot be scientifically proven. The old reporter’s adage, “If your mother says she loves you, check it out,” is funny because you can’t check it out, but you can obviously know it to be true.",
+      "original_summary": null,
+      "word_count": 187,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Social norms are so pervasive and so deeply embedded in our performative muscle memory that we typically engage in them without even thinking. When someone greets us and asks, “How are you?,” we tend to respond automatically with something along the lines of “I’m OK” or “Not bad.” The response is hardly ever “You know, I’m having a pretty awful day, and I’m really worried because there is talk of layoffs happening at my job,” even though that may be the case. This degree of transparency upon greeting someone is typically perceived as socially awkward. The list of social norms within a given community or society is ever growing and ever changing as community members negotiate what is acceptable behavior based on the standing beliefs and ideologies of the collective. During this process, new rules are constructed and enforced to establish expectations for community members. Social norms could easily be reduced to practicing “good behavior,” but it’s much more than that. Social norms are the means by which social cohesion is achieved. And we navigate these rules, and thousands more like them, every single day.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M10-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Music allows several individuals to produce sounds together. Notably, only humans can synchronize their movements (including vocalizations) flexibly in a group to an external pulse. This ability is possibly the simplest cognitive function that just separates us from animals, which would make music the decisive evolutionary step of the Homo sapiens. Animals have “song” and “drumming”, but gorillas do not drum in synchrony, and whales do not sing in unison. Making music together in a group, that is, joint synchronized action, is a powerful elicitor of social bonding. Comparable to Robin Dunbar’s vocal grooming hypothesis, music might have replaced manual grooming as the main mechanism for social bonding during human evolution. Dunbar’s hypothesis is based on the observation that, similar to manual grooming, human language plays a key role in building and maintaining affiliative bonds and group cohesion. This process is supposedly driven by increased group size, which increases the number of social relationships an individual needs to maintain and monitor. Once the number of relationships becomes too large, an individual can no longer maintain its social networks with tactile interactions alone, and selection will favor alternative mechanisms such as talking to several individuals at the same time. However, many more individuals can make music in a group, and thus establish and foster social relationships. This makes music the more obvious candidate to maintain social networks, and increase social cohesion in large groups. Thus a musical grooming hypothesis seems at least as likely to explain the emergence of music as a vocal grooming hypothesis for the emergence of language.",
+      "original_summary": null,
+      "word_count": 259,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

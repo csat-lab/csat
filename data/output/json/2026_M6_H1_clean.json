@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 6,
+    "grade": "고1",
+    "exam_title": "2026학년도 6월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2026-M6-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Remember how you learned to drive or cook? You practiced while someone coached you, reminding you what to do until you were able to coach yourself and then, eventually, do it automatically. Children learn values much the same way. They practice different kinds of behavior, while, you, as coach, help focus their attention on what is important and on fine-tuning important skills. You support them with your praise, encouragement and gentle reminders. If you don’t coach your child, she will find her coaches elsewhere and be guided by the values of the media, her peers and anyone else who captures her interest. So, step up to the plate, don’t be afraid and help your child learn how to be a good person, step by step.",
+      "original_summary": null,
+      "word_count": 125,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 shop for words가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "A classical ideal of truth and knowledge is the concept of a market for ideas: as thinking individuals, we encounter competing ideas, we evaluate them for their best fit to reality, and then let the best and brightest facts form the basis of our beliefs. That would be the scientist’s way, in theory at least. But in practice, most of the time we are in a market for justifications. We shop for words not because they contain ideas, but because they contain stories about ideas. Often we are not seeking statements as facts to help us figure out what we should believe. Usually we already know what we believe. What we seek are statements to justify those beliefs ― the lawyer’s way. Language might be good for this function but we can use it to do better. By treating language with greater respect, we can achieve more than simple self-defense.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Suppose you have been working on the solution to a challenging technological problem for many years. Let’s also suppose that you have been paying attention to whatever else you have encountered that might be related to the problem. In that case, chances are that creative solutions to the problem could suddenly pop up in your mind when you are relaxed. Such “eureka moments” (when great insights lead to discovery or invention) often take place at unexpected times. To enhance spontaneous creativity, therefore, one must pay attention to the things that could potentially lead to valuable outcomes. This does not mean that you must narrow down your interest to one specific topic. On the contrary, breadth of experience is the key to creativity. If your experience is limited to a narrow range of topics, then the scope of your imagination will likewise be narrow, which would be harmful to creativity.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Shame is about who we are, and guilt is about our behaviors. We feel guilty when we hold up something we’ve done or failed to do against the kind of person we want to be. It’s an uncomfortable feeling, but one that’s helpful. When we apologize for something we’ve done, make amends to others, or change a behavior that we don’t feel good about, guilt is most often the motivator. Guilt is just as powerful as shame, but its effect is often positive while shame often is destructive. When we see people apologize, make amends, or replace negative behaviors with more positive ones, guilt is often the motivator, not shame. In fact, in my research, I found that shame corrodes the part of us that believes we can change and do better.",
+      "original_summary": null,
+      "word_count": 132,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Let’s look at what is occurring in your brain when scrolling on social media, a quick dopamine activity. You open your social media apps and immediately you notice you feel really good, your dopamine levels increase incredibly fast and pleasure is experienced in your brain. The challenge this creates is as with everything in our universe: as the laws of physics explain, ‘what goes up, must come down’. Your brain and body are always seeking something called ‘homeostasis’, which simply means balance. With this in mind, when dopamine levels increase incredibly fast when scrolling social media, the brain then thinks, ‘Wow, how are my dopamine levels so high?’ In order to achieve homeostasis, or balance, the dopamine then has to quickly drop an equal amount below your baseline level in order to rebalance, making you feel even worse than before you started scrolling.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Literature, in its essence, is a testament to the enduring power of human creativity and expression. It transcends time and space, connecting us with the thoughts and emotions of people from all walks of life, across centuries and cultures. Despite the rise of new technologies and the ever-changing landscape of media, literature has retained its relevance and significance as a timeless art form. One reason for literature’s enduring power is its ability to capture and convey the complexities of the human experience. Through the written word, authors have the unique ability to explore the depths of human emotion, the nuances of relationships, and the challenges and triumphs of the human spirit. Literature allows us to see ourselves reflected in the pages of a book, to empathize with characters different from ourselves, and to gain a deeper understanding of the human condition.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "A viewfinder is a piece of card with a hole cut through it in the middle, which can be used to isolate a part of a picture or object. It allows us to concentrate on one small part or area without being distracted by the whole of what can be seen. It is a useful tool that can help children focus or organise their observation and drawing. It can support hesitant children by giving a boundary to what they are looking at and it can help children who find it hard to keep track of where and what they are looking at, by bringing them back to the same area each time they look and look back. When you are making viewfinders for use with the children you are supporting, take into consideration the size of the card. You need enough card around the hole to block out the rest of the visual information from the child’s field of vision, but it should not be too big and unwieldy.",
+      "original_summary": null,
+      "word_count": 169,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Our world is not just interconnected, but ever-changing, even if we can’t sense it. While you’re reading this, you’re changing. You’re aging (a minute amount, thankfully), but the neural networks in your brain are also imperceptibly changing as you perceive each word. Crucially, even when we’re seemingly not doing anything of note, events are taking place outside your immediate surroundings that will change your life in the future, though you won’t realize it yet. Heraclitus, the ancient Greek philosopher, rightly pointed out, “No man ever steps in the same river twice. For it’s not the same river and he’s not the same man.” To that, Cratylus, a student of Heraclitus, added that we are not mere passive observers. When you step in a river, you change it. Nothing is static. Even microscopic changes add up over time.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Do you always study in the same spot? Don’t. If you study in different places, that helps create variety, and that rich experience can reinforce what you are learning. When several college students told us they did school work in different places rather than in some favorite nook, that habit reflected the research on learning. Numerous experiments have found that if learners simply study in at least two different places, they are more likely to recall the material. In one of the first such trials, two different groups studied a list of words. Some students returned to the same room twice while their counterparts spent the same amount of time divided between two locations. When asked to recall as many words on the list as possible, those who had moved around did far better. Variety creates rich association, even when those connections form in the background, totally outside of what we are consciously thinking.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Talking about what something smells like is the most basic way of talking about our olfactory experience, and even this most basic way of talking about smells is challenging. There are no words in the English language to describe smells in the same way in which “blue” or “green” describe colors. Instead, to talk about how something smells, we talk about the source of the odor. Things smell “flowery,” “fruity,” or “fishy.” Furthermore, even the most familiar odors are difficult to identify when they are not experienced in their usual context. In one experiment the majority of participants was unable to name very common odors like beer, urine, roses, or motor oil. Obviously, even those who couldn’t name any of these odors would drink the beer but not the urine or the motor oil. This is how evolution has shaped our brain: We respond to odors correctly in many different ways, but we are not well-equipped to talk about them.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A particularly powerful way in which human beings adapt and adjust to their circumstances is by changing behaviors in light of the consequences that they yield. For instance, a child who gets praised by her teacher for doing an exercise correctly is likely to continue doing the exercise in that way. A dancer who feels that a particular conditioning exercise is not giving any results is likely to give that exercise up in favor of another one that seems more promising. In general, we tend to do things that bring us some kind of benefit or act in ways that help us avoid some kind of problem, discomfort, or disadvantage. We also tend to do fewer things (or stop doing things) that lead to problems, discomfort, or disadvantages, and we tend to avoid acting in ways that do not bring any benefit or reward.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "It is evident through various case studies that adopting digital minimalism can lead to improved mental health outcomes. For instance, a study conducted by researchers at Stanford University found that participants who limited their use of social media and digital devices reported lower levels of stress, anxiety, and depression. By reducing the constant stream of information and notifications, individuals were able to focus more on meaningful interactions and activities that promoted wellbeing. Additionally, participants reported relying on social media to get information for their purchasing decisions. In another case, a corporate professional struggling with burnout and insomnia implemented digital minimalism techniques, such as setting boundaries for phone usage and practicing mindfulness. As a result, he experienced improved sleep quality, reduced stress levels, and a newfound sense of calm and clarity.",
+      "original_summary": null,
+      "word_count": 130,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "During the Ice Age, not only was the planet much colder, with ice sheets covering much of what we call the northern hemisphere today, but, crucially, it was much drier. In Ireland, we often associate the cold with the wet but if it is really cold, there is far less evaporation, fewer clouds, and less rain. Our world in the Ice Age was cold and dry, meaning it was difficult for plants to grow. In this type of climate, farming isn’t an option: it’s too risky to depend on any one piece of land to produce the energy you need. As the temperature rose and the ice caps melted, we experienced a sudden explosion of life. The world got warmer and wetter, and people started to live around places where they could make food grow most intensively. This didn’t happen overnight; it probably took thousands of years, with hunter-gatherers foraging and hunting, while doing a little side hustle in farming.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The big difference between working and long-term memory is that we are explicitly aware of the information in working memory, but we are not able to directly access the information in our long-term memory. We access long-term memory by bringing the information into working memory. For example, right now you are not aware of all the actors you have ever seen. They are stored in your long-term memory outside your consciousness. However, if I asked you to list all the actors, you would use your working memory to retrieve them one by one and reel them off. Your working memory can access your long-term memory and bring those memories to awareness. But remember it has a limit of seven items or chunks. Each actor would be an item. Try and hold all the actors you know in your explicit awareness. You might try to visualize a large group of them. But you still would only be aware of a few actors at any one time.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "If you gesture while describing an event, do you think you’ll be able to recall that event better than if you don’t gesture? We had adults watch videos of toy objects, animals, and people performing various, sometimes odd, actions: a chicken sliding to a policeman, a jogger bending down to touch his toes, a fence swinging shut on its own. We then tested the adults’ memories of these events immediately after the descriptions and three weeks later. Adults who were told to gesture while describing the events remembered more than adults who were told not to gesture, particularly several weeks later. To see if we’d get the same effects if people gestured on their own, we did the study again, but this time we gave the adults no instructions about gesture. We found the same patterns: people remembered items on which they had gestured spontaneously better than items on which they had not gestured. Producing gesture along with speech makes the information encoded in that speech memorable.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Approximately 15-20% of global greenhouse gas emissions are caused by degradation and deforestation. Trees play a huge role in the carbon cycle. They convert the CO2 in the air to oxygen through the process of photosynthesis, and consequently, they are viewed as a natural regulator of carbon dioxide. The existence of a larger amount of trees will no doubt lead to the reduced presence of carbon dioxide in the atmosphere and the increased existence of oxygen. Unfortunately, deforestation is preventing this process from being fully accomplished. And with half of the Earth’s forests gone, the amount of carbon dioxide is progressively rising. With more carbon dioxide in the atmosphere, more of the sun’s radiation is being reflected back to Earth instead of being released into space, and this is causing the planet’s average temperature to rise. Accordingly, deforestation is a major issue when it comes to global warming.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We go out in the world every day and make decisions about what is safe or not and what is appropriate or not. It is what psychologist Joseph LeDoux has suggested is an unconscious “danger detector” that determines whether or not something or someone is safe before we can even begin to consciously make a determination. When the object, animal, or person is assessed to be dangerous, a fear response, which has been called “fight or flight,” occurs. On a conscious level we may correct a mistake in this “danger detector” when we notice it, but often, of course, we simply begin to generate reasons for why it was accurate in the first place. We are generally convinced that our decisions are “rational,” but in reality, most human decisions are made emotionally, and then we collect or generate the facts to justify these decisions. When we see something or someone who “feels” dangerous, we have already launched into action internally before we have even started “thinking.”",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M6-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Commercial businesses aim for predictability and certainty, especially when it comes to product quality. But predictability and certainty are not always valued in the sporting world, especially when it comes to the delivery of professional sport competitions. From a spectator’s perspective the sport experience is better experienced when unpredictable. Sport events actually depend on that unpredictability in order to attract people to the game. When the results of games cannot be predicted, attendances at sporting contests are likely to be higher, as are the profits of leagues. However, the absence of predictability also leads to significant variability in the quality of sporting performances. Many factors can contribute to the variability of the sport product, including the weather, player injuries, the venue, the quality of the opponents, the closeness of the scores and even the size of the crowd. A cricket match can be exhilarating, boring or even frustrating, but fans still have to pay the same price. Sport marketers may attempt to overcome this by ‘improving’ the product in systematic ways, such as including a star player, offering premium seating or providing other forms of entertainment and inviting facilities. The uncertain nature of sport contests is just one element of a total experience, although it is an important element for financial success.",
+      "original_summary": null,
+      "word_count": 212,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

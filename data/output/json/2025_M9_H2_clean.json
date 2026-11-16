@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 9,
+    "grade": "고2",
+    "exam_title": "2025학년도 9월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2025-M9-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "“Tactics” is a term drawn from military usage. Strategies are plans of action directing a military force when attacking another, and tactics are responses to conditions on the ground. In this vein, time is imposed on us by our cultures, by the technologies that have regimented time down to the nanosecond, and by its own finite nature and the fact that we’re going to live only so long. In response, we must develop tactics for dealing with time and waiting. These aren’t tactics to eliminate waiting; instead, these are tactics for teaching us how to learn from the seams. These tactics have the potential to reorient us in profound ways, transforming our perspectives on our wait times. Such renewed perspectives transform waiting from a burden to a springboard toward things like creativity, social critique, or reflection on our inner state and the state of our relationships.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 swimming alongside the boat가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Mirror neurons are the hardware of empathy, and so what would make more sense than to look and see which animals possess these cells? And this is exactly where modern research now stands: all researchers know so far is that apes possess mirror neurons. We still need to test to see which other species are like us in this respect. Scientists often publicly speculate that we can probably expect surprises here, too. They assume that all animals that live in herds or large groups possess similar brain mechanisms, because social units function only if individuals can see things from the perspective of others in the group and feel what they are feeling. I can see a goldfish waving its fin at us. As an animal that travels around in a tightly-knit group, it’s on board with this idea ― or at least swimming alongside the boat.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The future of work depends on two forces: a harmful substituting force and a helpful complementing one. Many tales have a hero and a villain fighting each other for dominance, but in our story, technology plays both roles at once, displacing workers while simultaneously raising the demand for their efforts elsewhere in the economy. This interaction helps explain why past worries about automation were misplaced: our ancestors had predicted the wrong winner in that fight, underestimating quite how powerful the complementing force would prove to be or simply ignoring that factor altogether. It also helps to explain why economists have traditionally been dismissive of the idea of technological unemployment: there appeared to be firm limits to the substituting force, leaving lots of tasks that could not be performed by machines, and a growing demand for human beings to do them instead.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It’s conceivable that in a world where solar panels are incredibly expensive and there’s an extreme collapse in the cost of launching objects to space, you might want to maximize your energy per panel by putting them above the atmosphere. But panels are cheap, and even if we assume pretty steep drops in the cost of space launch, the numbers don’t add up. This becomes especially clear when you start to think about maintenance. Try to imagine acres upon acres of glass panels in space, regularly hit by intense radiation and bits of space debris while enduring the extreme heat of constant sunlight. They’ll have to be repaired and cared for either by astronauts or an army of advanced robots. Solar panels in Australia can be cleaned by a teenager with a spray bottle and a cloth.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Everything in the world exists on a continuum, whether in speed, size, or any other possible descriptor you could think of. Still, we create and mindlessly adopt sharp distinctions, and those distinctions change lives far more dramatically than marginal differences ever do. Indeed, all differences are arbitrary, but drawing hard lines between categories hides this arbitrariness and can be severely damaging. I call this resulting damage “the borderline effect.” The examples are endless. Someone’s IQ is 69 and someone else’s is 70 ― but only the score of 70 is deemed to be within the range of normal. We don’t have to be statisticians to know there is not a meaningful difference between 69 and 70. Yet once the person with the lower score is labeled “cognitively impaired,” his or her life will unfold differently than the person with a one-point advantage.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "All human cultures mark the passing of time by the differences they observe in the world around them. Our choice of which differences to mark depends firstly on what we can observe and secondly on what is important in our lives. How we mark the differences ― the shapes of our calendars and our rituals ― depends on the connections we make between those two things. In the agricultural society of pre-modern Europe, where higher latitudes make the seasons easily observable, it was natural to monitor the solar cycle. Conversely, among the largely nomadic peoples of Arabia, for whom seasonal changes were less significant, the lunar calendar was a more sensible choice. That did not make it inevitable that Islam would use a lunar calendar and Roman Christianity a solar one, but political and religious decisions were made from options limited by geography and lifestyle, filtered through tradition.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Although empathy is widely praised by scholars and public figures, not everyone is an empathy booster. Critics of empathy argue that empathy will not save us from interpersonal and intergroup conflict. In fact, they argue, empathy makes such conflicts worse. These critics maintain that empathy can be exhausting and lead to burnout or insensitivity to suffering. They argue that we tend to empathize strongly with our in-group and resist empathizing with out-groups, and even enjoy the suffering of out-groups in competitive or threatening contexts. Thus, the prescription for more empathy is often counterproductive in cases of conflict. Empathy, they argue, can further encourage conflict and force us into an us vs. them mentality. Finally, even when we try to empathize with others who are dissimilar from us or in unfamiliar contexts, sometimes we are unable to accurately empathize with their experiences, causing further misunderstandings and frustration. Critics of empathy argue that we should give up on empathy and employ other tools in pursuit of social harmony, e.g., rational compassion or moral emotions like fear, anger, and shame.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Paradoxically, it’s uncertainty that makes us feel most alive. Think of events that shake you out of your everyday routine: maybe attending a family wedding, making a big presentation, or going somewhere you’ve never been. It’s on those occasions that time seems to slow down a little, and you feel more fully engaged. The same holds true if the experience is risky, like mountain climbing or parasailing. Your senses are sharper. You notice more. Thanks to the release of a feel-good chemical in the brain called dopamine, you get a greater rush of pleasure from chance encounters with people than planned meetings. Good news, financial rewards, and gifts are more enjoyable if they are surprises. It’s why the most popular television shows and movies are the ones with unexpected plot twists and astonishing endings.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A great strength of the market mechanism is that there are incentives for individuals to reveal their knowledge through their behavior. This stands in contrast to many strategic situations ― for example, in political negotiations ― in which it is wise not to let the other side know what one’s true preferences or production capacities are. A perfectly competitive market that clears on the spot leaves no room for such strategies. If prices are not sticky ― as many models assume ― individuals adapt their behavior instantaneously, whenever their preferences or the circumstances change. They stop buying items that do not satisfy their needs and stop selling items that do not provide them with optimal gains, maybe switching to the production of other items. If they have motivational problems, for example, falling into denial about the fact that there is no demand for their products, markets reveal to them, sometimes in quite brutal ways, that they better accept this fact.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Dictionary definitions are constantly revised to keep up with our changing uses and knowledge. In Roman times, “addicts” were people who were unable to pay their debts and gave themselves as slaves to their creditors. The word eventually came to be associated with drug dependency: one becomes a slave to one’s addiction. The word “husband” originally referred to being a homeowner; it had nothing to do with being married. But because owning your own property made it more likely you’d find a mate, the word eventually came to mean a male who has been wed. On November 5th, 1605, Guy Fawkes tried to blow up the British Parliament. He was captured and put to death. Loyalists burned his effigy, which they nicknamed the “guy.” Centuries later, the word lost its negative connotation and a musical named Guys and Dolls ran on Broadway. In American slang, bad means good, cool means great, and wicked means excellent. If you could transport yourself one hundred years into the future, you’d find yourself confused by your great-grandchildren’s speech because language itself is an ever-changing reflection of human invention.",
+      "original_summary": null,
+      "word_count": 184,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The term “anchoring” was introduced by Roland Barthes who observed that text is often used next to images (his focus was on photographs) to confine meaning. Of all possible literal or implied interpretations an image could elicit, text would point the viewer towards a desired, specific direction. In advertising, as Barthes argues, the symbolic message does not guide identification but interpretation. The viewer is not asked to recognize what they see but to understand why they see it and what it means to them. By combining images with text, advertising produces symbolic meaning that is accurate and specific on the one hand, richer on the other, thus adding depth and eliminating breadth of rational and emotional interpretations. The headline or tagline of an ad directs the reader through the intended meanings of the image, so that the reader avoids some and receives others. It “remote-controls” the reader towards a meaning chosen in advance.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "According to Einstein’s theory, a large mass like the Sun ‘bends’ spacetime. Newton’s theory makes no such prediction. This bending of spacetime leads to phenomena such as ‘gravitational lensing’ where the light of distant stars appears to be in different locations when they pass by a large mass like the Sun. We don’t normally see this lensing because stars aren’t visible during the day when the Sun is out, but a solar eclipse in 1919 allowed scientists to observe what the Sun’s gravity was doing to the light from distant stars. The stars around the Sun appeared to have moved from their normal positions in the night sky. Despite the consistent efforts to confirm the precise orbit of planets within our solar system, observational schedules were often disrupted by local weather phenomena. The shift was much larger than Newton’s theory predicted, but exactly in the positions predicted by Einstein’s theory.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We’re naturally wired to organize the world into a hierarchy. We do this to help make sense of the world, maintain our beliefs, and generally feel better. But when someone infringes on our place in the world and our understanding of how it works, we react without thinking. When someone cuts you off on the highway and road rage kicks in, that’s your unconscious mind saying, “Who are you to cut me off?” You’re reacting to a threat to your inherent sense of hierarchy. On the road we are all equals. We’re all supposed to play by the same rules. Cutting someone off violates those rules and implies higher status. Or consider when you get frustrated with your kids and end an argument with “Because I said so.” (Or the office equivalent: “Because I’m the boss.”) In these moments you’ve stopped thinking and regressed to your biological tendencies of reaffirming the hierarchy.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Once a nail is hammered in, it is friction that holds it in place. Friction is the force that arises when two surfaces are sliding, or trying to slide, against each other. If you try to pull apart two blocks of wood that have been nailed together, the wood fibers grip the shaft of the nail. The nail feels a force trying to rip it apart along its length, and we call that force tension. Your experiment can now fail in one of two ways ― either the nail stretches and splits in half because the tension force is too large for the nail, or the nail comes loose because the friction force is overcome. The force it would take to stretch the nail is much larger than the friction forces on the surface, so we don’t have to worry too much about the former. It’s the friction with which we need to concern ourselves.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "The traditional bank manager in the 1950s was usually a respected pillar of the community, a cautious, careful sort of person who probably went to bed early and didn’t drink too much. But from the 1970s a new kind of banker appeared ― loud, flashy, and arrogant. These bankers loved taking big risks. They wanted to get rich quick and blow their money on fast cars and expensive champagne. They made their money through what’s called ‘speculation’. Normally, people buy things because they want to use them, such as wheat to make bread and petrol to run the car. But when people speculate, they buy things even when they have no interest in using them. They might buy a load of wheat simply because they think that its price is going to rise when a drought is predicted in wheat-growing areas. If their guess is right, they later sell the wheat for a profit.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Paper’s mechanical properties lend themselves to folding and bending. The cellulose fibers of which it is made can be partially snapped in the area of maximum bend, allowing a permanent crease to form, while sufficient fibers remain undamaged for the material not to crack and fall apart. Indeed, in this state it pretty much maintains its ability to resist being pulled apart, but it can also be torn easily and accurately along the crease if a point of weakness ― a small, initial tear ― is opened up. This winning combination of mechanical properties allows it to assume the shape of any object through creasing and folding ― hence the art of origami. There are very few materials as good: metal foils can hold a crease, but control of the crease is somewhat more difficult. Plastic sheeting doesn’t tend to hold a crease at all, unless it is very soft, in which case it lacks the rigidity required of a good wrapping material. So it is its ability to hold a crease while remaining stiff that makes paper uniquely suited to this purpose.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Mother cats can tell which kittens belong to them ― when litters are mixed up they use their kittens’ scent to distinguish them from offspring of other mothers. Despite this, when faced with a selection of kittens who have wandered from the nest, her own and others that aren’t hers, a mother cat doesn’t appear to favor her own offspring when retrieving them. The reason for this is uncertain, although distress vocalizations from kittens that are lost from their nest are known to be very powerful, so it may just be hard for the mother to resist retrieving them, regardless of whether they are hers. In the wild, a squeaking kitten out in the open is likely to attract predators, which is bad news for any other kittens around it. A rapid rescue of any crying kitten would be a good strategy to prevent them from drawing unwanted attention.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M9-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many animals pursue a mixed strategy of accumulating both body fat and food, which leads one to ask, “What are the relative advantages and disadvantages of these two forms of energy storage?” Maximum fat deposition increases with body mass whereas maximum food storage is not constrained by body size. This means that animals, especially small animals, can accumulate much greater energy reserves in the form of stored food than they can in the form of body fat. Further, stored food is more economical than body fat because fat contributes to body mass, and metabolic rate increases with body mass. In other words, there is a metabolic expense to maintaining fat. Excessive fat accumulations may also have a negative effect on an animal’s ability to avoid predators. And, if maintaining a high body temperature is advantageous, animals might be expected to accumulate more energy in the form of a food store than as body fat. On the other hand, stored food may rot over time, may be removed by robbers, or may simply be lost. Many animals must expend energy managing and protecting their food stores. Eating food and converting it to fat avoids these types of losses and the energetic costs of managing stored food. A large accumulation of body fat adds to an animal’s fasting capacity, especially large animals, permitting some animals to enter prolonged dormancy in the relative security of a hibernaculum. Thus, both fat accumulation and food storage have some decided advantages.",
+      "original_summary": null,
+      "word_count": 245,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

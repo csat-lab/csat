@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2025,
+    "month": 10,
+    "grade": "고1",
+    "exam_title": "2025학년도 10월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2025-M10-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "One of the most important aspects of sustaining long-term relationships is communication. It’s easy to connect with someone and then let the relationship get stuck due to a lack of follow-up. To keep the connection alive, make a conscious effort to stay in touch. This doesn’t mean constantly reaching out with requests or updates but rather maintaining a friendly and consistent line of communication. A simple message to check in or share something of value can go a long way in reinforcing your relationship. For example, if you come across an article or resource that you think might interest a connection, share it with them, even if you haven’t spoken in a while. This shows that you’re thinking of them and are invested in maintaining the relationship.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 an urban green space paradox가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Currently, urban regeneration projects in degraded areas have been promoted as improving the wellbeing of residents and solving environmental injustice problems. However, such environmental improvements in ethnic communities and/or low-income households can create an urban green space paradox. The creation of new, high-quality green spaces can increase attractiveness, making these neighbourhood more desirable. By contrast, the cost of housing can rise, and residents may not be able to afford the rent. This results in the exclusion or displacement of the poor neighbourhood’s residents, who were intended to benefit from the ecosystem services provided by the new green space. In turn, the residents may only be able to afford to live in a similar degraded neighbourhood to the one they left, with low access to green infrastructure.",
+      "original_summary": null,
+      "word_count": 126,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "An increasing awareness of our effect on the ocean is slowly seeping into the public agenda, dragging behind it a conversation that is decades overdue. But this conversation faces a massive obstacle. It’s almost impossible to discuss what to do about something changing if you don’t initially know how it works. If a doctor tells a patient that they have a problem with their kidneys, the patient probably already has at least a vague idea about where their kidneys are and what they’re up to. They learned about that part of their own personal life-support system at school. But that’s not the case for the oceans. When we see a news story about the long-term decline in the numbers of krill in the Southern Ocean, it sounds generally like a bad thing. But there’s far more to it than the risk of whales going hungry. Krill are a part of the ocean engine. We need to understand at least some of the context before we can discuss the change and take appropriate action.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Rome was said to have been a melting pot from the very start. The historian Livy claimed the city’s original population was comprised of immigrants flooding in from all directions, attracted by Romulus’s deliberate policy of nondiscrimination. It was this initial openness, Livy asserts, that laid the foundations for the later strength and success of the city. Romans described their city as multicultural in the generations after its foundation. Tradition held that only a minority of the city’s legendary kings were Roman-born, with the others all arriving as immigrants before being chosen for the throne for their virtues and merits. As the empire expanded across three continents, Rome eagerly adopted new cultural influences and absorbed incoming groups ― perhaps a little too eagerly for some, who, like the poet Juvenal, complained about the rapid rate of cultural change.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "The laws and constants of physics and the fundamental forces in our universe have very precise forms and values. This means that, if they were only very slightly different, life would not have been possible. For instance, the precise value of gravity has enabled our universe to arise by permitting the aggregation of dust and gas particles to proto-stars around which planets later came to orbit, including the Earth around the Sun. If the value of the electron had been ever so slightly larger or smaller, chemistry, as we know it, would not have been possible and life, which is based on organic chemistry, could not have started. The universe was not designed for us to evolve, we have no privileged position in the universe; however, the laws and constants of physics allowed advanced life to evolve.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Human beings have evolved to make the most of the resources available to them in ways that are subtle and complicated. When we change our diets, especially when we do so quickly, we are effectively conducting huge experiments in nutrition. We ought to have more humility. Nutritional science is still young and there is so much we do not know. If we have eaten certain foods in certain ways for millennia, we should assume until it is proven otherwise that there is probably a good reason why. Traditional foods that don’t fit neatly on the contemporary dietary food plate should generally be chosen over highly processed ones that do. We should assume that traditionally made fatty blood sausages are preferable to lean, factory-made salamis; that spoonfuls of honey are superior to sprinkles of sweeteners. Witnessing how poorly traditional societies are faring as they undergo a nutrition transition should make those who have already completed it question whether their diets have moved too far.",
+      "original_summary": null,
+      "word_count": 163,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "While convenience and technology are crucial, they are not the only factors driving Gen Z’s financial decisions. This generation is incredibly values-driven, and they want to bank with institutions that match their personal beliefs and values. Transparency is vital. Gen Z is skeptical of large corporations and institutions that lack accountability. They have grown up in a world where information is freely available, and they expect complete transparency from the brands they support. Banks, for example, must clearly communicate fees, terms, and conditions, as well as how they handle customers’ data. Moreover, ethical banking practices are more important than ever. Gen Z cares about the environment, social justice, and the ethical implications of their financial decisions. They are interested in sustainable investing, supporting businesses that match their values, and ensuring that their money is not being used to fund harmful practices. Banks that offer socially responsible investment opportunities and are committed to environmental sustainability will attract Gen Z’s attention.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Myths aren’t only stories. For example, a well-known myth that persists today is the supposed high iron content in spinach. This is a legend that dates back to 1890 and originates from a simple miscalculation by physiologist Gustav von Bunge. He accurately determined that 100 grams of spinach contained 35 milligrams of iron but he was analyzing dried spinach, which held ten times more iron than the same amount of fresh leafy greens. Although the error was swiftly corrected, the correction was just as swiftly forgotten. The myth had taken hold. Popeye, who gained superhuman strength from the leafy greens and defended himself with iron fists, contributed to its endurance  and even today, some nearly 150 years later, parents the world over use this tale to try to persuade their children into eating the healthy vegetable.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The technical term often used to describe animals’ judgement of numbers is the approximate number system. What it does not provide is precision. It shows ― and this is the same in every species tested ― a characteristic pattern of errors, with discrimination becoming less accurate as the quantities get bigger. Rhesus monkeys can tell one from two, two from three, three from four, four from five... but start to fail from five upwards. Rats that learned to press a lever a given number of times, from four up to twenty-four, became markedly less and less precise in their responses as the number increased: by the top end of the range they would merely produce a spread of numbers around the target. It is a common observation that when testing the accuracy of animals’ number sense, the size of the numbers matters.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Despite the cultural trope depicting emotions as the opposite of rational thought, cognition ― what we commonly refer to as thinking ― is actually a key building block of emotion. How we think about our circumstances shapes the emotions we experience; then those emotions echo back to influence how we think. For instance, if you walk into a test thinking you are bad at taking tests, your anxiety will be increased. Then you don’t feel good about your performance on the test, and that becomes evidence for continuing to think that you’re bad at test taking. In this way there’s simply no pulling emotion and cognition apart. This bi-directionality of cognition and emotion allows us to adjust difficult emotions by changing the way we think. By thinking differently ― I get nervous sometimes, but I’m still a good test taker, or that nervous feeling is just excitement and anticipation, it means I’m ready ― you can work those pathways to your advantage.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "What is the Capabilities Approach (CA), and why would lawyers passionate about animal justice care about it? It is easy to say what it is not. The CA does not rank animals by likeness to humans or seek special privileges for those considered most “like us,” as do some other popular theoretical approaches. The CA has concern for the finch and the pig as much as the whale and the elephant. And it argues that the human form of life is simply irrelevant when we think about what each type of animal needs and deserves. What is relevant is their own forms of life. Just as humans seek to be able to enjoy the characteristic goods of a human life, so a finch seeks a finch’s life and the whale a whale’s life. We should extend ourselves and learn, not lazily picture animals as lesser humans, seeking a life sort of like our own. According to the CA, each sentient creature should have the opportunity to flourish in the form of life characteristic for that creature.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Social media serves as an important context to facilitate autobiographical remembering. Personal events posted on social media platforms are better remembered and less forgotten than those not posted, independent of the characteristics of the events. This may be because sharing memories online allows individuals to rehearse and make sense of what happened, thus facilitating long-term memory retention. Online feedback such as comments and likes as well as technological features such as algorithms and periodic reminders can further serve as memory cues for the posted event details. Upward social comparisons on social media are particularly harmful for low self-esteem individuals, who tend to make more frequent comparisons when browsing. As a result, event details shared on social media are likely stabilized and remembered over time, whereas those not shared may become inaccessible or forgotten.",
+      "original_summary": null,
+      "word_count": 133,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Multisensory experiences are a central part of our everyday lives, yet we often take them for granted, especially when our senses function normally or are corrected to normal with aids like glasses. However, closer inspection to any, even the most ordinary experiences, reveals the remarkable multisensory world in which we live. Consider the experience of eating a regular meal. At first, it may seem like an ordinary experience, but it is actually a fusion of the senses. We first eat with our eyes, but we are also exposed to countless sensory signals that influence our eating experience such as food textures, tastes, and smells. And it does not stop there. Even the sounds that come both from the atmospheres in which we eat and our interactions with the food (such as chewing) and the tools we use to eat influence our eating experience.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "As children, the principle of opposites is foreign. Children perceive words and their meanings separately from each other. It is only in later development that we understood that individual words directly connect to one another. For many children, for instance, it is not clear that ‘Right’ is the opposite of ‘Left’. A vivid example of this can be seen when children learn to ride a bicycle. If parents tell their child “Don’t go to the left,” they will often find that the child will continue riding straight ahead and not automatically turn to the right. The same applies to the logical connection between ‘Yes’ and ‘No’ as perceived by parents. When we were children and were told, for example, “No, don’t eat with your hands,” we were confused and didn’t know what our parents expected from us. Our confusion was about whether we should continue eating or not and if so, how? Only later did we recognize the connection and understand that we should continue eating, but not with our hands but with a fork or a spoon.",
+      "original_summary": null,
+      "word_count": 178,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Humans are not the most social animal. Ants, bees, and termites put humanity to shame on many metrics of sociality. A wide variety of relatives live together with perfectly harmonious behavior and collectively care for their young. But while insect colonies are impressively social places, it’s not our kind of social life. Bees always build hexagonal hives, ants march in lines, and termites move in zigzag formations. These patterns recur predictably because they are tightly programmed genetically and propelled pheromonally. We humans are more free, less tightly programmed genetically, so our social patterns can be more diverse and dynamic. Every group dances a slightly different dance, and these choreographies change across generations. We still think and act in ways that are in harmony with others around us, but it is through patterns that are more shaped by nurture, not just nature.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Those who purchase the goods of a company are called customers. Individuals who purchase goods for personal use are called consumers: beings who consume. Therefore, companies have invented multiple ways to ensure that their customers consume the produced items in larger and larger quantities and more and more frequently. Those who sell food have an easy time, for food is literally consumed, so there is always a need to purchase new food. But with more permanent things, companies must invent reasons for their customers to continue to consume them. One approach is to make the stuff that people already have outdated by convincing them that it is no longer fashionable. The entire fashion industry is built to convince people that fashion matters, so they must purchase new clothing, even though the old is still perfectly functionable. Fashion today extends to far more things than clothes: automobiles, mobile phones, computers ― the list is extended indefinitely, limited only by the limits of the creative minds of the marketing divisions of companies.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Kivetz, Urminsky, and Zheng partnered with a café to test the motivating effect of illusory progress in an experiment. Customers received a reward card that offered one free coffee after they’d bought ten. While half of the customers received a card with ten open slots, the other half got a card with twelve open slots. Yet the twelve-slot card had two preexisting “bonus” stamps, so, strictly speaking, these were identical reward programs. Every customer who got a card needed to make ten coffee purchases (and collect ten stamps) to get their free coffee. But the appeal of the free stamps was high. People who thought they’d gotten a head start came back to the café more often, filling in their reward card more quickly than the others. When the card came with two out of twelve slots already filled, it felt to customers like they were already 16 percent finished with the goal before they’d even started. Believing they were closer to the reward, they were more motivated to reach the finish line.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2025-M10-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Creativity is the ability to generate novel and valuable ideas. It involves divergent thinking, imagination, and a willingness to experiment and take risks. While AI can be a powerful tool for creative efforts, it also carries the risk of limiting originality and innovation. AI algorithms are trained on existing datasets, often identifying patterns and trends in past creations. While this can be useful for generating new content in similar styles or formats, it can also lead to derivative works that lack genuine originality. If artists and designers rely too heavily on AI for inspiration and content generation, they may find themselves trapped in a cycle of imitation, unable to break free from the constraints of the AI’s training data. Moreover, the ease with which AI can generate content can discourage the kind of struggle and experimentation that often leads to breakthroughs. The creative process is often messy and repetitive, involving numerous failures and setbacks. It is through these challenges that we refine our skills, develop our unique perspectives, and push the boundaries of what is possible. If AI provides instant solutions, it can skip this essential process of learning through trial and error, ultimately inhibiting the development of true creative talent.",
+      "original_summary": null,
+      "word_count": 201,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

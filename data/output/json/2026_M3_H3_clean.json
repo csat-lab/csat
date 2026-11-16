@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2026,
+    "month": 3,
+    "grade": "고3",
+    "exam_title": "2026학년도 3월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2026-M3-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Some argue that if science is embedded in culture and bound up with art and philosophy, if it is a human activity, then this undermines science’s claims to be genuine knowledge. At best, science is no better than religion, just another practice with its own subjective methodology. But why say this? Just the opposite is true. In order to hit the target with my bow and arrow, I need to do something, to take aim and concentrate. The fact that I am a being with a body, embedded in a culturally rich situation, is no obstacle to my sometimes succeeding. In fact, it is that embedding that supplies me not only with the physical means — the bow and the arrow, and the training — but also with the motivation to hit the target in the first place. Science and perception too are similarly human activities that aim at secure knowledge of the world.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 become “researchers” just like everyone else가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "A brilliant musician can in fact be an innovator without strictly speaking being an inventor. In such cases, those who expect “great discoveries” will be disappointed. Let there be no doubt: the eager need for novelty, so characteristic of the escalating modernist auction, involves the idea that a musical act is a thing, in which case, music is no more than technique, technique alone. And just as technique is the consequence of an indefinite process of perfection — with each automobile or kitchen appliance show introducing what is new and improved in comparison to last year’s — so never-ending progress shall be the law of music. Farther, faster, more powerful! In this arms race, each new music, breaking its predecessor’s records, offers itself as the last thing in modernity; and each musician, forcing predecessors into the category of the unfashionable and outmoded, claims the patent on the invention. In an era where pastiches of “scientific investigation” have become quasi-universal, musicians owe it to themselves to become “researchers” just like everyone else.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We often express problems interrogatively. Instead of commanding you to find my keys, I might ask you where they are. But “Where are my keys?” is a problem hiding in question clothing. To see this, consider some possible answers. “Not on the surface of the sun” truthfully gives the location of my keys, as does, “Wherever your keys are.” Nonetheless, these are bad answers, and they are bad precisely because they do not help me achieve the goal — leaving the house, opening a locked door — to which keylessness constituted an obstacle. Consider the reply “They are in your room.” This is a good reply if you have a small, tidy room, but if your room is large and messy, you might need the location more clearly specified. Whether or not it is a good reply is a function of whether or not it solves the problem. Indeed, “Here, take mine” could be a good reply to “Where are my keys?” if what is needed is to leave the house quickly. A good reply doesn’t need to offer an answer to the question, “Where are my keys?” as long as it resolves the problem of not being able to leave the house.",
+      "original_summary": null,
+      "word_count": 203,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Young employees agree that AI has more positive impact with the dynamics of the workforce, though there are major concerns on job loss and being left behind. While AI has the potential to automate certain jobs, it is also giving rise to new career opportunities and demands. The increasing application of AI technology has led to a sudden increase in the need for professionals who can effectively manage and get the most out of AI systems. Moreover, soft skills such as innovative thinking, problem-solving abilities, and the capability for interdisciplinary collaboration are gaining greater recognition. In the age of AI, continuous learning has become an essential quality for professionals in the workplace. The ever-evolving technological landscape necessitates employees to consistently update their skills, acquire new knowledge, and adapt to the dynamic changes in the work environment. Only reskilling and adaptability can help resolve the workforce of the future. Implanting a culture of ongoing learning by fostering a workplace culture that encourages continuous learning and skill development should be a main priority for each organization.",
+      "original_summary": null,
+      "word_count": 174,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Something too domesticated isn’t actually more accessible or approachable, it evaporates altogether — we just take it for granted until art restores its visibility. And perhaps translation is an art especially well suited for this task: while a great work of literature accumulates imitations and clichés and a body of scholarship and analysis and study guides that may well bury it, translations of that work free it from its stodgy fame and make the stone stony again, precisely by putting it in another language. A bad text is one that, in Berman’s terms, lacks “native strangeness” — and when you translate it, nothing happens. The translation of a true work of art is significant because it reinforces and enhances qualities already inherent in it: “translation is not a makeshift, but the mode of existence by which a work reaches us as étrange” (translated by Heyvaert as “foreign,” but I’m not sure about that). As Wilson put it, translation makes the work “seem more strange, and newly strange.”",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Darwin understood that since inheritance is conservative, it is in the nature of the organism to impose itself on the surroundings, producing many highly similar but variable offspring regardless of the nature of the conditions. He further recognized that these fundamental aspects of the nature of the organism imply reproductive overrun, with organisms routinely producing more offspring than there are resources to support them. The need to survive implies that the capacity for using necessary resources must complement the opportunity to use them. But needs and opportunity do not perfectly match. Inheritance produces the capacities for exploiting the surroundings, but in a way that is indifferent to the surroundings. Offspring cannot anticipate the nature of the conditions in which they find themselves, much less alter themselves in ways that are suitable to any changes in those conditions. While it is true that organisms can express some amount of flexibility in their form and function in response to their immediate surroundings, these adjustments are minor compared to the constraints of inheritance. As a result, not every living thing can live everywhere.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "Every time you conceptualize, categorize, and put a name on something that is not a proper name, you abstract away from its particularities. Picture daisies and clover flowers in a lawn. Those four ordinary nouns leave out their differences. “Flower” cocategorizes the white and yellow types with the beige ones, and all the many other sorts to be found elsewhere. “Lawn” neglects the varieties of grass and all the nongrassy plants that are there. Zoom in, and you will find individuality and uniqueness everywhere. No two daisies, no two clovers, are exactly alike, and yet they present to a quick glance a carpet patterned uniformly enough. For most practical purposes, the differences can be ignored — making a daisy chain, sunbathing, and the like. Not so, however, for the groundskeeper of a sports stadium, where the constituent grasses and their stages of growth really do matter. And to an infinite mind, with infinite memory, each blade of grass, with its own distinct life history, need not be cocategorized with all its fellows. Each could have its own name, as you yourself do.",
+      "original_summary": null,
+      "word_count": 182,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "“Art without commerce is a hobby.” These words, spoken with much authority to senior fine arts majors, are the kind that those who create art are unable to ignore. We worry about this idea that if we are not engaged in commerce, then we are not professional; and if we are not professional, can we even call ourselves artists? Art of any form, by its very nature, cannot or should not be quantified, and yet writers measure pages and words; visual artists measure canvases completed all in an effort to appear “productive,” to perhaps justify this urge to create. The notion of creating for art’s sake is then seen as hopelessly romantic and nearly indefensible. Of course one can engage in art, but it better be for money, for that is the only marker of success. But was that professor’s declaration merely an old talker with a title mindlessly repeating the cultural norms and expectations that had, in fact, labeled him as “successful”? In Western culture, it is almost impossible to separate professional from commercial, and so the artist is legitimized by their ability to earn money. Professional art, then, is inherently capitalist.",
+      "original_summary": null,
+      "word_count": 193,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We cannot make sense of the facts of the past unless they are embedded in stories, and stories, of necessity, are not neutral collections of facts. Stories are necessarily selective, subjective and attractive. The shortest of stories is the result of choices, conscious and unconscious. Stories influence subtly, invest power, make hidden moral judgement and always distort by omission, whether intentionally or not. This is why all educated citizens need not just facts about the past but history as a discipline. For we need to understand why history takes the form that it does in scholarly accounts. Disciplined historical argument is not the same as informal hearing and telling of stories; it requires familiarity with abstract generalizations, familiarity with prior scholarly discourse and an ability to make use of evidence, styles of argument and analytic structures in order to substantiate claims. Such disciplinary knowledge is not the same as ‘everyday’ knowledge and it is not likely to be picked up informally.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "All architectural structures are forms of spatial choreography that guides action; space facilitates or prohibits, encourages or prevents, invites or inhibits. This choreography predetermines patterns of movement and behavior, but it also guides experiential characteristics, perceptions, imageries, emotions and feelings. A sensitive and empathic designer intuits human behavior and desire, and this intuitive architectural scripting resonates with the actual user/occupant’s natural and instinctual needs and intentions. While designing a house, the designer lives, uses and feels the nonexistent house in his imagination on behalf of the future dweller. A correctly placed window is located exactly where the occupant wishes to look out into the garden, or where daylight is needed. The stairway is located where the dweller wishes to enter the floor above or below. Successful architecture does not need manuals or signage for its use, as it reveals its very structure and use in a wordless manner. A profound building is an extension of human bodily and mental actions and capabilities.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Think of the totality of your interactions where behavioral and interactional data is recorded and collected. All of those traces represent a kind of resource. It is accumulated over the long history of your recorded actions and choices, built up from traces left on everything from social media to credit reporting agencies, shopping websites and loyalty programs, courthouses, social welfare agencies, pharmacies, and the content of emails and chats. It incorporates whatever value is in your social network, along with synthetic measures of your trustworthiness or accountability in the world. It is diverse and multidimensional and, of course, it is not all gathered into a single place or condensed down to a single quantity. But in principle it might be. It might take the form of some vector of information that summarizes your situation and value across many features — something that compactly represents your position in the multidimensional space of classification situations. It would, in short, characterize your social location.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Morality has been associated with the rational human beings for more than one reason. First of all, it is human beings who are gifted with the faculty of reasoning; secondly, human beings have free will to choose what is the best for them among many alternatives. To think and reason about things is the primary function of the human mind as has been noted by all philosophers since Descartes. It is because of this capacity to think and weigh the pros and cons of actions that human beings can plan for their future and make sufficient effort to achieve their chosen goals in life. In other words, obsessing over advantages only and fixating on benefits lead human beings to make wrong choices. Besides, human beings make free choices in all given situations, except where they are constrained to act. Thus freedom is a basic feature of human life which distinguishes humans from other animals.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Daniel Dennett argues that one benefit of having moral considerations in our conceptual repertoire is that they can serve as conversation-stoppers: their value is to bring deliberations to a close. We are rational creatures, always able to ask for justification, and this is a trait that has served us well in many contexts. The problem is that upon receiving a perfectly good answer we can always sensibly respond “Okay, but what justifies that?” — and we can potentially do so endlessly, never coming to a decision, forever hesitant and doubting, undone by our own rational capacity. This is potentially as much a problem for our own private deliberations as for our public interpersonal ones. Dennett suggests that it is useful to have “consideration-generator-squelchers”: items that, once introduced, stop any further deliberation in its tracks. “That would be morally wrong!” would appear to work in this manner. Once the claim is accepted then there is no need or room for seeking further justification: the action mustn’t be done, even if it is tempting, and that’s all there is to it.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "When the concept of expansion gets mentioned, it is difficult to resist the urge to picture the Universe with a finite and growing boundary. Our natural instinct is to wonder what the Universe could possibly be expanding into. Unfortunately, the only answer I can give you is the one that I am sure will satisfy you the least, but let me say it anyway: the Universe expands into nothingness. To be more accurate, the Universe does not expand into anything. It simply expands by itself within itself. In contrast to our inflating balloon or, say, a pipe leak that causes gas to spread into a room that exists in its own right, our expanding Universe is not spilling into another separate entity, nor even another dimension. It is the structure of space and time that stretches, a structure that has always existed, at least since the Big Bang. This structure or fabric of space and time is elastic and malleable. Just as it can pull us apart as we fall inside a black hole, it can also expand and cause anything and anyone embedded in it to move farther apart.",
+      "original_summary": null,
+      "word_count": 190,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Scholars have demonstrated that the gestures hearing people produce while they are speaking are systematically made at the same time with speech such that language and gesture must be considered “co-expressive”. This tightly integrated pairing of language and gesture enables speakers to conceptualize and formulate their thoughts in terms of both the “categorical” requirements of language, and the “imagistic” possibilities of gesture. For example, in describing an event, one must decide if the event has been completed or is ongoing if the language being spoken at that moment has a verbal affix for each meaning and one or the other must be chosen. This kind of choice is characteristic of language as a semiotic system. According to McNeil and Duncan, gesture is different from language in that it does not present the speaker with such choices. Instead, it offers a kind of glue, which helps unite linguistic elements in a larger semiotic expression, which, as a whole, shares important characteristics with the represented objects. In this view, speech and gesture are not redundant nor is one a “translation” of the other. Rather, the minimal processing unit for the expression of thought is a combination of the two: it is “imagistic-categorial” in nature.",
+      "original_summary": null,
+      "word_count": 202,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "To acquire expert knowledge, one needs to become a member of the relevant group of knowledge bearers, for which I will use the term “epistemic communities.” A newcomer learns from experts and is socialized into the common practices of the relevant epistemic community. Often there are admittance processes, combined with tests of a candidate’s abilities. In the premodern era, epistemic communities were often kept secret, with strict tests of loyalty for new members, not least because of fears that specialized knowledge would fall into the “wrong hands.” Some traces of these older practices may still be present today, but on the whole, the ideal has shifted to openness among the members of epistemic communities, and also, to some extent, toward outsiders. Nonetheless, for most outsiders even completely transparent practices do not lift the veil behind which such forms of knowledge are hidden — without the relevant training and acquisition of skills, which often take many years, one simply cannot make sense of the information that is being shared. Other, more active strategies are needed to make certain forms of knowledge as “accessible” as is realistically possible.",
+      "original_summary": null,
+      "word_count": 186,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Carstensen’s (1995) socioemotional selectivity theory looks at individuals’ goals as a lifelong process that strengthens and matures with ageing. In relation to his motivational conceptual framework, Higgins (2014) proposes that motivation may even attain its highest levels in the later stages of life, subject to the balance and organisation of one’s goals in relation to life priorities. Building on this foundation, more recent research looks deeply into additional factors influencing wellbeing in later adulthood, particularly emphasising the role of self-worthiness, and the overall positive impact of developing a well-rounded self-view in life course transitions. Together, these studies suggest that both goal alignment and a positive self-perception are crucial for enhancing motivation and overall wellbeing in later life. In fact, third-age learners exhibit a higher degree of selectivity when it comes to determining which goals to pursue and how to allocate their resources towards those specific priorities. Older adults demonstrate a stronger sense of life purpose and self-fulfilment. They do it their way, and their way is an accumulation of winning and personalized combinations in effectively relating motives all together at different degrees according to their life contexts.",
+      "original_summary": null,
+      "word_count": 187,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2026-M3-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Writing of a commentary by Lenin on Leo Tolstoy, the critic Pierre Macherey agrees with Lenin’s claim that Tolstoy’s work holds up a mirror to the Russian revolution of 1905. Yet this mirroring, Macherey argues, is a complex affair, by no means a direct reflection of the world as it stands. If literary works are in some sense mirrors, they are mirrors marked by flaws and blind spots. In fact, they are as significant for what they don’t reflect — for their exclusions and distortions — as for what they do. There are things which do not and cannot figure in the mirror — in the case of Tolstoy, certain contradictions in society of which he could not be conscious. Even so, the mirror makes us aware of these absences, which thus become faintly present. It is as though it allows us to see more clearly what isn’t there. There is also no reason to assume that what we see in the mirror must form a coherent whole. On the contrary, it may be in pieces and discordant. ‘The mirror is doubtless defective; the outlines will sometimes be disturbed; the reflection faint or confused’, remarks George Eliot in Adam Bede, reproaching the kind of naive realism which holds that art (or mirrors) always tell it like it is. A mirror offers us a version of reality, but it does so from a viewpoint which cannot be captured in the mirror itself. And because this viewpoint is invisible to us, we might be tempted to take it as beyond question.",
+      "original_summary": null,
+      "word_count": 259,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}
