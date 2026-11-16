@@ -1,0 +1,73 @@
+name: Repair 9 HTML-as-PDF files (one-time)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download 2025 exam PDFs with the fixed downloader
+        run: |
+          mkdir -p /tmp/repair
+          python downloader.py \
+            --start-year 2025 \
+            --end-year 2025 \
+            --output-dir /tmp/repair
+
+      - name: Download the 2022-04 grade 3 answer PDF from its direct URL
+        run: |
+          curl -fL --retry 2 -o "/tmp/repair/2022년_4월_고3_수능영어_정답.pdf" "https://horaeng.com/wp-content/uploads/2022%EB%85%84-%EA%B3%A03-4%EC%9B%94-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-%EC%98%81%EC%96%B4-%ED%95%B4%EC%84%A4.pdf"
+
+      - name: Verify all 9 files are real PDFs and copy them into data/raw
+        run: |
+          python3 - <<'PYEOF'
+          import os
+          import shutil
+          targets = [
+              "2022년_4월_고3_수능영어_정답.pdf",
+              "2025년_3월_고1_수능영어_정답.pdf",
+              "2025년_3월_고2_수능영어_정답.pdf",
+              "2025년_3월_고3_수능영어_정답.pdf",
+              "2025년_5월_고3_수능영어_정답.pdf",
+              "2025년_6월_고1_수능영어_정답.pdf",
+              "2025년_6월_고2_수능영어_정답.pdf",
+              "2025년_10월_고1_수능영어_정답.pdf",
+              "2025년_10월_고2_수능영어_정답.pdf",
+          ]
+          for name in targets:
+              src = os.path.join("/tmp/repair", name)
+              with open(src, "rb") as f:
+                  head = f.read(5)
+              assert head == b"%PDF-", f"{name} is not a PDF: {head!r}"
+              shutil.copyfile(src, os.path.join("data/raw", name))
+              print("OK", name, os.path.getsize(src))
+          PYEOF
+
+      - name: Commit and push the repaired files
+        run: |
+          git config user.name "csat-lab"
+          git config user.email "deadblue@gmail.com"
+          git add data/raw
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "fix(data): replace 9 HTML files saved as PDFs with real exam PDFs"
+          git push
