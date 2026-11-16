@@ -5,6 +5,9 @@
 # 실행: Actions 탭 -> "Parse exam PDFs with kordoc" -> Run workflow.
 # 출력: data/raw/md/<PDF 파일명>.md (이미 md가 있으면 건너뛰고, force 입력 시 다시 파싱)
 # 주의: 결과물은 원문 파싱본이다. data/output/ 복원본은 별도 파이프라인 결과물.
+#
+# 수정안 (2026-11-16): job에 conclusion 가드 추가. workflow_run은 다운로드 실패 시에도
+# completed로 들어오므로, 성공한 실행 뒤에만 파싱이 돌도록 한다. 수동 실행은 그대로 돈다.
 
 name: Parse exam PDFs with kordoc
 
@@ -35,6 +38,8 @@ concurrency:
 
 jobs:
   parse:
+    # 수동 실행은 항상, workflow_run은 다운로드 성공 시에만 실행
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 360
     steps:
