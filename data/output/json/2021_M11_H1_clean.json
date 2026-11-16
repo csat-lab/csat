@@ -3,7 +3,12 @@
     "year": 2021,
     "month": 11,
     "grade": "고1",
-    "exam_title": "2021학년도 11월 고1 전국연합학력평가"
+    "exam_title": "2021학년도 11월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2021_M11_H1_restored.md",
+      "questions_pdf": "data/raw/2021년_11월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2021년_11월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -317,9 +322,9 @@
       "original_type": "요약문 완성",
       "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "There is often a lot of uncertainty in the realm of science, which the general public finds uncomfortable. They don’t want “informed guesses,” they want certainties that make their lives easier, and science is often unequipped to meet these demands. In particular, the human body is fantastically complex, and some scientific answers can never be provided in black-or-white terms. All this is why the media tends to oversimplify scientific research when presenting it to the public. In their eyes, they’re just “giving people what they want” as opposed to offering more accurate but complex information that very few people will read or understand. A perfect example of this is how people want definitive answers as to which foods are “good” and “bad.” Scientifically speaking, there are no “good” and “bad” foods; rather, food quality exists on a continuum, meaning that some foods are better than others when it comes to general health and well-being. With regard to general health, science, by its nature, does not satisfy the public’s demands for certainty, which leads to the media giving less complicated answers to the public.",
+      "passage": "There is often a lot of uncertainty in the realm of science, which the general public finds uncomfortable. They don’t want “informed guesses,” they want certainties that make their lives easier, and science is often unequipped to meet these demands. In particular, the human body is fantastically complex, and some scientific answers can never be provided in black-or-white terms. All this is why the media tends to oversimplify scientific research when presenting it to the public. In their eyes, they’re just “giving people what they want” as opposed to offering more accurate but complex information that very few people will read or understand. A perfect example of this is how people want definitive answers as to which foods are “good” and “bad.” Scientifically speaking, there are no “good” and “bad” foods; rather, food quality exists on a continuum, meaning that some foods are better than others when it comes to general health and well-being.",
       "original_summary": null,
-      "word_count": 183,
+      "word_count": 154,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,

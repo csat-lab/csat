@@ -3,7 +3,12 @@
     "year": 2022,
     "month": 11,
     "grade": "고1",
-    "exam_title": "2022학년도 11월 고1 전국연합학력평가"
+    "exam_title": "2022학년도 11월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2022_M11_H1_restored.md",
+      "questions_pdf": "data/raw/2022년_11월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2022년_11월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "Mike May lost his sight at the age of three. Because he had spent the majority of his life adapting to being blind — and even cultivating a skiing career in this state — his other senses compensated by growing stronger. However, when his sight was restored through a surgery in his forties, his entire perception of reality was disrupted. Instead of being thrilled that he could see now, as he’d expected, his brain was so overloaded with new visual stimuli that the world became a frightening and overwhelming place. After he’d learned to know his family through touch and smell, he found that he couldn’t recognize his children with his eyes, and this left him puzzled. Skiing also became a lot harder as he struggled to adapt to the visual stimulation. This confusion occurred because his brain hadn’t yet learned to see. Though we often tend to assume our eyes function as video cameras which relay information to our brain, advances in neuroscientific research have proven that this is actually not the case. Instead, sight is a collaborative effort between our eyes and our brains, and the way we process visual reality depends on the way these two communicate. If communication between our eyes and our brains is disturbed, our perception of reality is altered accordingly. And because other areas of May’s brain had adapted to process information primarily through his other senses, the process of learning how to see was easier than he’d anticipated.",
+      "passage": "Mike May lost his sight at the age of three. Because he had spent the majority of his life adapting to being blind — and even cultivating a skiing career in this state — his other senses compensated by growing stronger. However, when his sight was restored through a surgery in his forties, his entire perception of reality was disrupted. Instead of being thrilled that he could see now, as he’d expected, his brain was so overloaded with new visual stimuli that the world became a frightening and overwhelming place. After he’d learned to know his family through touch and smell, he found that he couldn’t recognize his children with his eyes, and this left him puzzled. Skiing also became a lot harder as he struggled to adapt to the visual stimulation. This confusion occurred because his brain hadn’t yet learned to see. Though we often tend to assume our eyes function as video cameras which relay information to our brain, advances in neuroscientific research have proven that this is actually not the case. Instead, sight is a collaborative effort between our eyes and our brains, and the way we process visual reality depends on the way these two communicate. If communication between our eyes and our brains is disturbed, our perception of reality is altered accordingly. And because other areas of May’s brain had adapted to process information primarily through his other senses, the process of learning how to see was more difficult than he’d anticipated.",
       "original_summary": null,
-      "word_count": 246,
+      "word_count": 247,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

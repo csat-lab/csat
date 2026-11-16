@@ -3,7 +3,12 @@
     "year": 2020,
     "month": 9,
     "grade": "고1",
-    "exam_title": "2020학년도 9월 고1 전국연합학력평가"
+    "exam_title": "2020학년도 9월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2020_M9_H1_restored.md",
+      "questions_pdf": "data/raw/2020년_9월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2020년_9월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -317,9 +322,9 @@
       "original_type": "요약문 완성",
       "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "One way that music could express emotion is simply through a learned association. Perhaps there is nothing naturally sad about a piece of music in a minor key, or played slowly with low notes. Maybe we have just come to hear certain kinds of music as sad because we have learned to associate them in our culture with sad events like funerals. If this view is correct, we should have difficulty interpreting the emotions expressed in culturally unfamiliar music. Totally opposed to this view is the position that the link between music and emotion is one of resemblance. For example, when we feel sad we move slowly and speak slowly and in a low-pitched voice. Thus when we hear slow, low music, we hear it as sad. If this view is correct, we should have little difficulty understanding the emotion expressed in culturally unfamiliar music. It is believed that emotion expressed in music can be understood through a(n) culturally learned association or it can be understood due to the similarity between music and emotion.",
+      "passage": "One way that music could express emotion is simply through a learned association. Perhaps there is nothing naturally sad about a piece of music in a minor key, or played slowly with low notes. Maybe we have just come to hear certain kinds of music as sad because we have learned to associate them in our culture with sad events like funerals. If this view is correct, we should have difficulty interpreting the emotions expressed in culturally unfamiliar music. Totally opposed to this view is the position that the link between music and emotion is one of resemblance. For example, when we feel sad we move slowly and speak slowly and in a low-pitched voice. Thus when we hear slow, low music, we hear it as sad. If this view is correct, we should have little difficulty understanding the emotion expressed in culturally unfamiliar music.",
       "original_summary": null,
-      "word_count": 174,
+      "word_count": 145,
       "flags": {
         "incomplete_passage": false,
         "needs_vocab_fix": false,

@@ -3,7 +3,12 @@
     "year": 2021,
     "month": 3,
     "grade": "고3",
-    "exam_title": "2021학년도 3월 고3 전국연합학력평가"
+    "exam_title": "2021학년도 3월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2021_M3_H3_restored.md",
+      "questions_pdf": "data/raw/2021년_3월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2021년_3월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -241,7 +246,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 3,
-      "passage": "A classic positive-sum game in economic life is the trading of surpluses. One infrastructure that allows efficient exchange is transportation, which makes it possible for producers to trade their surpluses even when they are separated by distance. Another is money, interest, and middlemen, which allow producers to exchange many kinds of surpluses with many other producers at many points in time. If a farmer has more grain than he can eat, and a herder has more milk than he can drink, both of them come out ahead if they trade some wheat for some milk. As they say, everybody wins. Of course, an exchange at a single moment in time only pays when there is a division of labor. There would be no point in one farmer giving a bushel of wheat to another farmer and receiving a bushel of wheat in return. A fundamental insight of modern economics is that the key to the creation of wealth is a division of labor, in which specialists learn to produce a commodity with increasing cost-effectiveness and have the means to exchange their specialized products efficiently.",
+      "passage": "A classic positive-sum game in economic life is the trading of surpluses. If a farmer has more grain than he can eat, and a herder has more milk than he can drink, both of them come out ahead if they trade some wheat for some milk. As they say, everybody wins. Of course, an exchange at a single moment in time only pays when there is a division of labor. There would be no point in one farmer giving a bushel of wheat to another farmer and receiving a bushel of wheat in return. A fundamental insight of modern economics is that the key to the creation of wealth is a division of labor, in which specialists learn to produce a commodity with increasing cost-effectiveness and have the means to exchange their specialized products efficiently. One infrastructure that allows efficient exchange is transportation, which makes it possible for producers to trade their surpluses even when they are separated by distance. Another is money, interest, and middlemen, which allow producers to exchange many kinds of surpluses with many other producers at many points in time.",
       "original_summary": null,
       "word_count": 184,
       "flags": {
@@ -260,7 +265,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "Human movement can be affected, either positively or negatively, by the environment within which the movement takes place. Consider an athlete who runs the 100 m wearing training shoes. She is unlikely to achieve as good a time wearing these shoes as she would if she wore specifically designed spiked running shoes. Is she there because she really wants to be, or is she there just because her brother is also a runner and so her parents bring her along as well? Motivation is a key factor in sports training and performance. On the contrary, if she had a tailwind her performance would be enhanced and movement assisted by the wind. Let us also consider other surrounding circumstances, such as what is motivating the athlete to run. During athletic competitions wind speed is always measured as it is recognised as having an impact, either positively or negatively, on performance times. If our runner was running into a headwind, her speed would be reduced, as some of her force would be needed to overcome the additional obstacle of the wind.",
+      "passage": "Human movement can be affected, either positively or negatively, by the environment within which the movement takes place. Consider an athlete who runs the 100 m wearing training shoes. She is unlikely to achieve as good a time wearing these shoes as she would if she wore specifically designed spiked running shoes. During athletic competitions wind speed is always measured as it is recognised as having an impact, either positively or negatively, on performance times. If our runner was running into a headwind, her speed would be reduced, as some of her force would be needed to overcome the additional obstacle of the wind. On the contrary, if she had a tailwind her performance would be enhanced and movement assisted by the wind. Let us also consider other surrounding circumstances, such as what is motivating the athlete to run. Is she there because she really wants to be, or is she there just because her brother is also a runner and so her parents bring her along as well? Motivation is a key factor in sports training and performance.",
       "original_summary": null,
       "word_count": 179,
       "flags": {
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "Surprisingly, consciousness might not be as crucial to creativity as we like to think. There are several different types of creativity ― some of them conscious, some of them unconscious. Creativity can happen when you deliberately try to create something or it can happen in your sleep. In any case, Arne Dietrich, a neuroscientist, believes that the creative brain might work much like software. Neuroscientists suspect that creativity is essentially about discovery rather than anything mystical ― driven by a mechanical process in the brain that generates possible solutions and then eliminates them systematically. He believes our tendency to dismiss computational creativity as inferior to our own comes from an ingrained dualism in human culture. ‘We are overvaluing ourselves and underestimating them,’ he says. As a neuroscientist, Dietrich says he tackles the brain as a machine ― and does not see machine creativity as different. Considered in this way, the idea that the human brain has a unique claim to creative talents seems a proper perspective. Will others accept that idea? The trick is to stop trying to compare computer artists to human ones. If we can embrace computer creativity for what it is and stop trying to make it look human, not only will computers teach us new things about our own creative talents, but they might become creative in ways that we cannot begin to imagine.",
+      "passage": "Surprisingly, consciousness might not be as crucial to creativity as we like to think. There are several different types of creativity ― some of them conscious, some of them unconscious. Creativity can happen when you deliberately try to create something or it can happen in your sleep. In any case, Arne Dietrich, a neuroscientist, believes that the creative brain might work much like software. Neuroscientists suspect that creativity is essentially about discovery rather than anything mystical ― driven by a mechanical process in the brain that generates possible solutions and then eliminates them systematically. He believes our tendency to dismiss computational creativity as inferior to our own comes from an ingrained dualism in human culture. ‘We are overvaluing ourselves and underestimating them,’ he says. As a neuroscientist, Dietrich says he tackles the brain as a machine ― and does not see machine creativity as different. Considered in this way, the idea that the human brain has a unique claim to creative talents seems a limited perspective. Will others accept that idea? The trick is to stop trying to compare computer artists to human ones. If we can embrace computer creativity for what it is and stop trying to make it look human, not only will computers teach us new things about our own creative talents, but they might become creative in ways that we cannot begin to imagine.",
       "original_summary": null,
       "word_count": 228,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

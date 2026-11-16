@@ -3,7 +3,12 @@
     "year": 2020,
     "month": 11,
     "grade": "고1",
-    "exam_title": "2020학년도 11월 고1 전국연합학력평가"
+    "exam_title": "2020학년도 11월 고1 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고1/2020_M11_H1_restored.md",
+      "questions_pdf": "data/raw/2020년_11월_고1_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2020년_11월_고1_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "Like all humans, the first Homo species to begin the long difficult process of constructing a language from scratch almost certainly never said entirely what was on their minds. At the same time, these primitive hominins would not have simply made random sounds or gestures. Instead, they would have used means to communicate that they believed others would understand. And they also thought their hearers could “fill in the gaps”, and connect their knowledge of their culture and the world to interpret what was uttered. These are some of the reasons why the origins of human language cannot be effectively discussed unless conversation is placed at the top of the list of things to understand. Every aspect of human language has evolved, as have components of the human brain and body, to engage in conversation and social life. Language did not fully begin when the first hominid uttered the first word or sentence. It began in earnest only with the first conversation, which is both the source and the goal of language. Indeed, language changes lives. It builds society and expresses our highest aspirations, our basest thoughts, our emotions and our philosophies of life. But all language is ultimately at the service of human interaction. Other components of language ― things like grammar and stories ― are crucial to conversation.",
+      "passage": "Like all humans, the first Homo species to begin the long difficult process of constructing a language from scratch almost certainly never said entirely what was on their minds. At the same time, these primitive hominins would not have simply made random sounds or gestures. Instead, they would have used means to communicate that they believed others would understand. And they also thought their hearers could “fill in the gaps”, and connect their knowledge of their culture and the world to interpret what was uttered. These are some of the reasons why the origins of human language cannot be effectively discussed unless conversation is placed at the top of the list of things to understand. Every aspect of human language has evolved, as have components of the human brain and body, to engage in conversation and social life. Language did not fully begin when the first hominid uttered the first word or sentence. It began in earnest only with the first conversation, which is both the source and the goal of language. Indeed, language changes lives. It builds society and expresses our highest aspirations, our basest thoughts, our emotions and our philosophies of life. But all language is ultimately at the service of human interaction. Other components of language ― things like grammar and stories ― are secondary to conversation.",
       "original_summary": null,
       "word_count": 220,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

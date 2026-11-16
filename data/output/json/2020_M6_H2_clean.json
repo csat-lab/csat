@@ -3,7 +3,12 @@
     "year": 2020,
     "month": 6,
     "grade": "고2",
-    "exam_title": "2020학년도 6월 고2 전국연합학력평가"
+    "exam_title": "2020학년도 6월 고2 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고2/2020_M6_H2_restored.md",
+      "questions_pdf": "data/raw/2020년_6월_고2_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2020년_6월_고2_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -108,7 +113,7 @@
       "original_type": "어법 추론",
       "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
       "original_points": 2,
-      "passage": "Every farmer knows what the hard part is getting the field prepared. Inserting seeds and watching them grow is easy. In the case of science and industry, the community prepares the field, yet society tends to give all the credit to the individual who happens to plant a successful seed. Planting a seed does not necessarily require overwhelming intelligence; creating an environment that allows seeds to prosper does. We need to give more credit to the community in science, politics, business, and daily life. Martin Luther King Jr. was a great man. Perhaps his greatest strength was his ability to inspire people to work together to achieve, against all odds, revolutionary changes in society’s perception of race and in the fairness of the law. But to really understand what he accomplished requires looking beyond the man. Instead of treating him as the manifestation of everything great, we should appreciate his role in allowing America to show that it can be great.",
+      "passage": "Every farmer knows that the hard part is getting the field prepared. Inserting seeds and watching them grow is easy. In the case of science and industry, the community prepares the field, yet society tends to give all the credit to the individual who happens to plant a successful seed. Planting a seed does not necessarily require overwhelming intelligence; creating an environment that allows seeds to prosper does. We need to give more credit to the community in science, politics, business, and daily life. Martin Luther King Jr. was a great man. Perhaps his greatest strength was his ability to inspire people to work together to achieve, against all odds, revolutionary changes in society’s perception of race and in the fairness of the law. But to really understand what he accomplished requires looking beyond the man. Instead of treating him as the manifestation of everything great, we should appreciate his role in allowing America to show that it can be great.",
       "original_summary": null,
       "word_count": 161,
       "flags": {

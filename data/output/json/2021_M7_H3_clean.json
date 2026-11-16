@@ -3,7 +3,12 @@
     "year": 2021,
     "month": 7,
     "grade": "고3",
-    "exam_title": "2021학년도 7월 고3 전국연합학력평가"
+    "exam_title": "2021학년도 7월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2021_M7_H3_restored.md",
+      "questions_pdf": "data/raw/2021년_7월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2021년_7월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -336,12 +341,12 @@
       "original_type": "장문 독해(제목/어휘)",
       "original_stem": "윗글의 제목으로 가장 적절한 것은?",
       "original_points": 2,
-      "passage": "There is something about a printed photograph or newspaper headline that makes the event it describes more real than in any other form of news reporting. Perhaps this is because there is an undeniable reality to the newspaper itself: it is a real material object. That authenticity rubs off on the news. It can be pointed to, underlined, cut out, pinned on notice boards, stuck in a scrap-book, or archived in libraries. The news becomes an artifact, frozen in time; the event may be long gone, but it lives on as an indisputable fact because of its material presence ― even if it is untrue. In contrast, news websites seem short-lived. Although they too are archived, there is no unique physical component to point to as evidence of the information they convey. For this reason, there is a sense in which they can be more easily manipulated, and that history itself could be altered. At the same time, it is precisely this immediacy and rigidity of content that makes the digital media so exciting. The news website is in tune with an age that sees history as much less monolithic than previous eras once did. Digital news websites are potentially much more democratic, too, for while a physical newspaper requires huge printing presses and a distribution network linking trains, planes, trucks, shops, and ultimately newspaper sellers, in the digital world a single person can communicate with the whole world with the aid of a single computer and without requiring a single tree to be cut down.",
+      "passage": "There is something about a printed photograph or newspaper headline that makes the event it describes more real than in any other form of news reporting. Perhaps this is because there is an undeniable reality to the newspaper itself: it is a real material object. That authenticity rubs off on the news. It can be pointed to, underlined, cut out, pinned on notice boards, stuck in a scrap-book, or archived in libraries. The news becomes an artifact, frozen in time; the event may be long gone, but it lives on as an indisputable fact because of its material presence ― even if it is untrue. In contrast, news websites seem short-lived. Although they too are archived, there is no unique physical component to point to as evidence of the information they convey. For this reason, there is a sense in which they can be more easily manipulated, and that history itself could be altered. At the same time, it is precisely this immediacy and variability of content that makes the digital media so exciting. The news website is in tune with an age that sees history as much less monolithic than previous eras once did. Digital news websites are potentially much more democratic, too, for while a physical newspaper requires huge printing presses and a distribution network linking trains, planes, trucks, shops, and ultimately newspaper sellers, in the digital world a single person can communicate with the whole world with the aid of a single computer and without requiring a single tree to be cut down.",
       "original_summary": null,
       "word_count": 256,
       "flags": {
         "incomplete_passage": false,
-        "needs_vocab_fix": true,
+        "needs_vocab_fix": false,
         "allowed_tiers": [
           "기본",
           "중급",

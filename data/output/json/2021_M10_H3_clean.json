@@ -3,7 +3,12 @@
     "year": 2021,
     "month": 10,
     "grade": "고3",
-    "exam_title": "2021학년도 10월 고3 전국연합학력평가"
+    "exam_title": "2021학년도 10월 고3 전국연합학력평가",
+    "source": {
+      "restored_md": "data/output/고3/2021_M10_H3_restored.md",
+      "questions_pdf": "data/raw/2021년_10월_고3_수능영어_문제.pdf",
+      "answers_pdf": "data/raw/2021년_10월_고3_수능영어_정답.pdf"
+    }
   },
   "total_selected_passages": 18,
   "passages": [
@@ -241,7 +246,7 @@
       "original_type": "순서 배열",
       "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
       "original_points": 2,
-      "passage": "In a process called seeding, you need to have a time frame in mind. Start telling your family how you feel about your current job. Tell them how you get frustrated and bored with this job. These stories will make them realise that you are meant to follow your passion. At times they need to be surprised with your small achievements, which could be some additional skills you acquired, or some awards you won in your field of passion. Discuss this almost twice a week. Then start doing work related to your passion on the side and let them see and experience how happy you are while doing this. Find a way to get your family and friends involved in your passion. The more they see you doing your passion, the more they connect with you emotionally. Tell them stories of how you are inspired by the passion and how it makes a difference not only to you but also to others. Give examples of how someone living a similar passion started his or her life and today how he or she is living happily.",
+      "passage": "In a process called seeding, you need to have a time frame in mind. Start telling your family how you feel about your current job. Tell them how you get frustrated and bored with this job. Discuss this almost twice a week. Then start doing work related to your passion on the side and let them see and experience how happy you are while doing this. Find a way to get your family and friends involved in your passion. The more they see you doing your passion, the more they connect with you emotionally. Tell them stories of how you are inspired by the passion and how it makes a difference not only to you but also to others. Give examples of how someone living a similar passion started his or her life and today how he or she is living happily. These stories will make them realise that you are meant to follow your passion. At times they need to be surprised with your small achievements, which could be some additional skills you acquired, or some awards you won in your field of passion.",
       "original_summary": null,
       "word_count": 185,
       "flags": {
