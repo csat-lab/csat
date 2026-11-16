@@ -76,7 +76,7 @@
 
 10. 다음 표를 보면서 대화를 듣고, 남자가 주문할 마사지 도구를 고르시오.
 
-|  | Product | Price | Target Body Part | Material | Free Gift |
+|  | Product | Price | Target-Use Body Part | Material | Free Gift |
 | --- | --- | --- | --- | --- | --- |
 | ① | A | $8 | Head | Metal | Pouch |
 | ② | B | $10 | Face | Ceramic | Aroma oil |

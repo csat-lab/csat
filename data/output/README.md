@@ -136,3 +136,15 @@
 
 - 2020_M6_H2 29번: 무표시 `knows what the hard part` → 원문 `knows that the hard part` (⑤ `that` → `what` 교정 유지).
 - 2024_M6_H2 29번: 무표시 `capacity for smile` → 원문 `capacity for smiling` (⑤ `smiling` → `smile` 교정 유지).
+
+### 13. 기준선 결함 수정 (2026년 11월 16일)
+
+재구축 대조에서 확인된 기준선 결함을 원본 대조로 검증해 수정했다.
+
+- 40번 요약문 잔류 2건 삭제 (2020_M9_H1, 2021_M11_H1). 지문만 남겼다.
+- 10번 표 오류 4건 수정: 2021_M4_H3 `Model` → `Festival`, 2023_M10_H3 열 순서 (`Data (GB)`·`Days` 뒤바뀜), 2024_M5_H3 `Target Body Part` → `Target-Use Body Part`, 2023_M6_H1 `Powersaving` → `Power-saving`.
+- 12번 표 펼침 2건 복원 (2020_M6_H2, 2020_M9_H2). 펼친 목록을 표로 되돌렸다.
+- 빈칸 채움 누락 4건 복원: 2024_M3_H2 31번 `constraints`, 32번 `consumed by audiences of all ages`, 33번 `became less predictable over time`, 2024_M3_H1 32번 `internal protest`. 정답 선지 문구와 대조했다.
+- 2021_M7_H3 9번 표 복원. 펼친 목록을 표로 되돌렸다.
+- 2023_M3_H2 28번 목록 2·3번 복원.
+- 2024_M3_H1 38·39번 삽입 위치 수정. 정답 키(38번 ①, 39번 ②)와 대조했다.

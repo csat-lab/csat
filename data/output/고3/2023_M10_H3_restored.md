@@ -69,7 +69,7 @@
 
 10. 다음 표를 보면서 대화를 듣고, 여자가 구매할 SIM 카드를 고르시오.
 
-|  | Plan | Data (GB) | Days | Free International Calls | Price |
+|  | Plan | Days | Data (GB) | Free International Calls | Price |
 | --- | --- | --- | --- | --- | --- |
 | ① | A | 5 | 10 | ○ | $20 |
 | ② | B | 10 | 15 | × | $25 |

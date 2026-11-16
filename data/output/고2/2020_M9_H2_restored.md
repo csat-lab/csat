@@ -85,11 +85,13 @@
 
 12. 다음 표를 보면서 대화를 듣고, 여자가 구입할 무선 이어폰을 고르시오.
 
-① A $135 5 hours × Silver
-② B $145 8 hours × Silver
-③ C $160 8 hours ○ White
-④ D $180 10 hours ○ Black
-⑤ E $205 10 hours ○ Black
+|  | Model | Price | Play Time (from a single charge) | Noise Canceling | Color |
+| --- | --- | --- | --- | --- | --- |
+| ① | A | $135 | 5 hours | × | Silver |
+| ② | B | $145 | 8 hours | × | Silver |
+| ③ | C | $160 | 8 hours | ○ | White |
+| ④ | D | $180 | 10 hours | ○ | Black |
+| ⑤ | E | $205 | 10 hours | ○ | Black |
 
 13. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 적절한 것을 고르시오. [3점]
 

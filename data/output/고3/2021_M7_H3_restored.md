@@ -61,11 +61,13 @@
 
 9. 다음 표를 보면서 대화를 듣고, 두 사람이 주문할 휴대용 사진 인화기를 고르시오.
 
-① A $139 plug-in ☓ 20
-② B $149 built-in battery ◯ 20
-③ C $169 built-in battery ◯ 40
-④ D $189 built-in battery ☓ 40
-⑤ E $219 plug-in ◯ 30
+|  | Model | Price | Power | Bluetooth Connection | Free Photo Paper (sheets) |
+| --- | --- | --- | --- | --- | --- |
+| ① | A | $139 | plug-in | ☓ | 20 |
+| ② | B | $149 | built-in battery | ◯ | 20 |
+| ③ | C | $169 | built-in battery | ◯ | 40 |
+| ④ | D | $189 | built-in battery | ☓ | 40 |
+| ⑤ | E | $219 | plug-in | ◯ | 30 |
 
 10. 2021 International Violin Making Competition에 관한 다음 내용을 듣고, 일치하지 않는 것을 고르시오.
 

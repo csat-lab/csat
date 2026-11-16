@@ -71,7 +71,7 @@
 
 10. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 음악 축제를 고르시오.
 
-|  | Model | Date | Genre | Place | Pet-friendly |
+|  | Festival | Date | Genre | Place | Pet-friendly |
 | --- | --- | --- | --- | --- | --- |
 | ① | A | April 24 | Rock | Union Square | O |
 | ② | B | May 8 | Jazz | Limestone Island | O |

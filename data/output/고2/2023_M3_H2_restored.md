@@ -197,7 +197,7 @@ Click HERE to Download the App!
 28. 2023 Online Talent Show에 관한 다음 안내문의 내용과 일치하는 것은?
 
 2023 Online Talent Show
-Show off your amazing talents! ∎ Categories: singing, dancing, playing instruments ∎ How to Enter - Record a 3‑minute video of your talent and send it to talent@westhigh.edu. - Submit the entry between March 27 and March 31. ∎ How We Select a Winner 1. All the videos will be uploaded on the school website on April 5. * The winning video will be played at the school festival. For more information, please visit www.westhigh.edu.
+Show off your amazing talents! ∎ Categories: singing, dancing, playing instruments ∎ How to Enter - Record a 3‑minute video of your talent and send it to talent@westhigh.edu. - Submit the entry between March 27 and March 31. ∎ How We Select a Winner 1. All the videos will be uploaded on the school website on April 5. 2. Students and teachers will vote for their favorite video. 3. The video that receives the most votes will win. * The winning video will be played at the school festival. For more information, please visit www.westhigh.edu.
 
 29. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]
 

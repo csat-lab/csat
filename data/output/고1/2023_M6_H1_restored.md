@@ -76,7 +76,7 @@
 
 Water Purifiers
 
-|  | Model | Price | Water Tank Capacity (liters) | Powersaving Mode | Warranty |
+|  | Model | Price | Water Tank Capacity (liters) | Power-saving Mode | Warranty |
 | --- | --- | --- | --- | --- | --- |
 | ① | A | $570 | 4 | × | 1 year |
 | ② | B | $650 | 5 | ○ | 1 year |

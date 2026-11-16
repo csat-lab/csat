@@ -89,11 +89,13 @@
 
 12. 다음 표를 보면서 대화를 듣고, 남자가 구매할 여행 가방을 고르시오.
 
-① A 18 $80 white travel pillow
-② B 24 $100 white umbrella
-③ C 26 $130 black umbrella
-④ D 28 $160 black travel pillow
-⑤ E 30 $210 white umbrella
+|  | Model | Size(inch) | Price | Color | Free Gift |
+| --- | --- | --- | --- | --- | --- |
+| ① | A | 18 | $80 | white | travel pillow |
+| ② | B | 24 | $100 | white | umbrella |
+| ③ | C | 26 | $130 | black | umbrella |
+| ④ | D | 28 | $160 | black | travel pillow |
+| ⑤ | E | 30 | $210 | white | umbrella |
 
 13. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 것을 고르시오. [3점]
 
