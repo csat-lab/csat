@@ -17,9 +17,11 @@ this harness):
 
 - whitespace_only: equal after whitespace normalization.
 - image_only: equal once image references are stripped; only the
-  image refs differ (phase-3 image assignment).
+  image refs differ (phase-3 image assignment prefers the pdfimages
+  directory; remaining diffs are queued).
 - graph_table: a Q25 graph item whose baseline table the rebuild
-  lacks (phase-3 graph tables).
+  lacks (phase 3 emits tables extracted from the problem parse where
+  they validate; the rest are queued).
 - notice_layout: a Q27/28 item with the same words modulo line
   breaks, bullets, dashes, colons, and Hangul spacing.
 - spacing_only: equal once all whitespace is removed (column-break

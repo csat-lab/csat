@@ -1,0 +1,1038 @@
+{
+  "_policy": "Post-assembly safety net. Applied AFTER assembly in build.py. An entry applies only when OLD is present, NEW is absent, and the evidence window matches exactly once; otherwise it is skipped and logged. Entries with apply=false are never applied (queue-held). On conflict with the dictionary, this file wins.",
+  "entries": [
+    {
+      "stem": "2020_M11_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "pleasantly",
+      "new": "pleasant",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2020_M11_H1_Q29",
+      "window": "an odour or how pleasantly it seems for example"
+    },
+    {
+      "stem": "2020_M6_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "arguing",
+      "new": "argues",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2020_M6_H1_Q29",
+      "window": "is a developmental psychologist arguing that three main forces"
+    },
+    {
+      "stem": "2020_M6_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "avoid",
+      "new": "eat",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2020_M6_H1_Q42",
+      "window": "by, you are likely to avoid it. so to improve your"
+    },
+    {
+      "stem": "2020_M6_H2",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "that",
+      "new": "what",
+      "kind": "replace",
+      "grade": "E",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2020_M6_H2_Q29",
+      "window": "but to really understand that he accomplished requires looking"
+    },
+    {
+      "stem": "2020_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "raise",
+      "new": "lower",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2020_M9_H1_Q42",
+      "window": "patients to raise their current"
+    },
+    {
+      "stem": "2021_M10_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "increase",
+      "new": "decrease",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M10_H3_Q30",
+      "window": "such offenders which would increase my incentive to pay"
+    },
+    {
+      "stem": "2021_M10_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "enhance",
+      "new": "limit",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M10_H3_Q42",
+      "window": "and partisan online sources can enhance the audience’s ability to access"
+    },
+    {
+      "stem": "2021_M11_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "occurring",
+      "new": "occur",
+      "kind": "replace",
+      "grade": "E",
+      "apply": false,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2021_M11_H1_Q29",
+      "window": "magnesium levels in soil also occurring with acidic soils and around",
+      "queue_reason": "정답 키 없음으로 차단: 2021_M11_H1 정답 격자가 PUA 글리프(U+E9BE–U+E9C2)로 난독화되어 build가 키를 읽지 못한다. PUA 해독은 2026-11-16에 검증됨(E9BE=1…E9C2=5, 앵커 20건+교차 검증 90/90, 해독 키 4번)이나 build에 연결되지 않아 대기열에 둔다."
+    },
+    {
+      "stem": "2021_M11_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "capturing",
+      "new": "releasing",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M11_H1_Q30",
+      "window": "in protecting eggs and hatchlings, capturing hatchlings once they are better"
+    },
+    {
+      "stem": "2021_M11_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "simplistic",
+      "new": "complex",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M11_H1_Q42",
+      "window": "racially oppressive systems), the more simplistic the story becomes. we are"
+    },
+    {
+      "stem": "2021_M3_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "are",
+      "new": "is",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2021_M3_H1_Q29",
+      "window": "ways to produce sounds are an important stage of"
+    },
+    {
+      "stem": "2021_M3_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "blocks",
+      "new": "strengthens",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M3_H1_Q42",
+      "window": "repetition of an action blocks the connections between the"
+    },
+    {
+      "stem": "2021_M4_H3",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "uniformly",
+      "new": "uniform",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2021_M4_H3_Q29",
+      "window": "beginning and endpoint so uniformly is this expectation indeed"
+    },
+    {
+      "stem": "2021_M4_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "inadequate",
+      "new": "excellent",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M4_H3_Q30",
+      "window": "a fur pelt offers inadequate thermal protection if someone"
+    },
+    {
+      "stem": "2021_M4_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "static",
+      "new": "dynamic",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M4_H3_Q42",
+      "window": "this system is highly static on the molecular level"
+    },
+    {
+      "stem": "2021_M6_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "decreases",
+      "new": "increases",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2021_M6_H1_Q42",
+      "window": "be clear, creating unavoidable large decreases in difficulty from one to"
+    },
+    {
+      "stem": "2021_M7_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "outdated",
+      "new": "dominant",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M7_H3_Q30",
+      "window": "consequently the outdated modes of"
+    },
+    {
+      "stem": "2021_M9_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "high",
+      "new": "low",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M9_H1_Q30",
+      "window": "cannot eat immediately are high because he cannot consume"
+    },
+    {
+      "stem": "2021_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "less",
+      "new": "more",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2021_M9_H1_Q42",
+      "window": "that it would be less costly to try to"
+    },
+    {
+      "stem": "2022_M10_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "rejected",
+      "new": "respected",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M10_H3_Q30",
+      "window": "rarely used recordings broadcasters rejected union demands for employment"
+    },
+    {
+      "stem": "2022_M10_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "exclude",
+      "new": "require",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M10_H3_Q42",
+      "window": "personal importance good decisions exclude an emotional component consequently"
+    },
+    {
+      "stem": "2022_M11_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "are",
+      "new": "do",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2022_M11_H1_Q29",
+      "window": "friends and family members are can you imagine how"
+    },
+    {
+      "stem": "2022_M11_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "faster",
+      "new": "slower",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M11_H1_Q30",
+      "window": "the root will grow faster than the upper side"
+    },
+    {
+      "stem": "2022_M3_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "absence",
+      "new": "presence",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M3_H3_Q42",
+      "window": "should not dismiss the absence of behavioral capacities in"
+    },
+    {
+      "stem": "2022_M4_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "solidify",
+      "new": "counter",
+      "kind": "replace",
+      "grade": "J",
+      "apply": true,
+      "evidence": "해설이 'counter와 같은 낱말'로 지목 (README §6)",
+      "evidence_ref": "grades.json:2022_M4_H3_Q30; README §6",
+      "window": "their investments elsewhere to solidify this purchasing pattern many"
+    },
+    {
+      "stem": "2022_M4_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "abandoning",
+      "new": "acquiring",
+      "kind": "replace",
+      "grade": "J",
+      "apply": true,
+      "evidence": "해설이 'acquiring과 같은 낱말'로 지목, 공유 지문이라 두 문항 모두 적용 (README §6)",
+      "evidence_ref": "grades.json:2022_M4_H3_Q42; README §6",
+      "window": "finer means for faking, by abandoning greater neurological control over the"
+    },
+    {
+      "stem": "2022_M6_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "positive",
+      "new": "negative",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M6_H1_Q42",
+      "window": "disrupt the body clock, with positive consequences for cardiovascular health. he"
+    },
+    {
+      "stem": "2022_M7_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "maintained",
+      "new": "revised",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M7_H3_Q30",
+      "window": "may need to be maintained in economies where services"
+    },
+    {
+      "stem": "2022_M7_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "damaged",
+      "new": "undamaged",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M7_H3_Q42",
+      "window": "simply be bolted onto the damaged base post below it, which"
+    },
+    {
+      "stem": "2022_M9_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "less",
+      "new": "more",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2022_M9_H1_Q30",
+      "window": "mean that herbs are less intelligent than the human"
+    },
+    {
+      "stem": "2023_M6_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "increased",
+      "new": "decreased",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2023_M6_H1_Q30",
+      "window": "consumer demand for yeast increased the producer of fleischmann"
+    },
+    {
+      "stem": "2023_M6_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "limited",
+      "new": "provided",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2023_M6_H1_Q42",
+      "window": "returned to the community and limited support for nonfarmers such as"
+    },
+    {
+      "stem": "2023_M7_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "higher",
+      "new": "smaller",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2023_M7_H3_Q30",
+      "window": "it loosens at much higher forces and breaks up"
+    },
+    {
+      "stem": "2023_M7_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "unlikely",
+      "new": "likely",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2023_M7_H3_Q42",
+      "window": "a face it is unlikely that it looks at"
+    },
+    {
+      "stem": "2023_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "larger",
+      "new": "smaller",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2023_M9_H1_Q42",
+      "window": "in much larger loads for"
+    },
+    {
+      "stem": "2024_M10_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "what",
+      "new": "that",
+      "kind": "replace",
+      "grade": "E",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2024_M10_H1_Q29",
+      "window": "the selling point is what the usefulness of the"
+    },
+    {
+      "stem": "2024_M10_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "less",
+      "new": "more",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M10_H1_Q30",
+      "window": "so instead of holding less information than we have"
+    },
+    {
+      "stem": "2024_M10_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "resistant",
+      "new": "biased",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M10_H1_Q42",
+      "window": "a perceptual system strongly resistant towards anthropomorphism therefore we"
+    },
+    {
+      "stem": "2024_M10_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "extends",
+      "new": "expires",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M10_H3_Q30",
+      "window": "however its puppy license extends behaviors that were lightheartedly"
+    },
+    {
+      "stem": "2024_M10_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "exclude",
+      "new": "have",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M10_H3_Q42",
+      "window": "are not that way. they exclude a semantic content to be"
+    },
+    {
+      "stem": "2024_M3_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "to count",
+      "new": "count",
+      "kind": "replace",
+      "grade": "E",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2024_M3_H1_Q29",
+      "window": "energizing and satisfying and to count their employment as one"
+    },
+    {
+      "stem": "2024_M5_H3",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "are",
+      "new": "is",
+      "kind": "replace",
+      "grade": "R",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 R)",
+      "evidence_ref": "grades.json:2024_M5_H3_Q29",
+      "window": "an organ transplant or are elderly with a weakened"
+    },
+    {
+      "stem": "2024_M5_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "rehire",
+      "new": "exclude",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M5_H3_Q30",
+      "window": "convince the company to rehire the consultant making project"
+    },
+    {
+      "stem": "2024_M5_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "more",
+      "new": "less",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M5_H3_Q42",
+      "window": null
+    },
+    {
+      "stem": "2024_M6_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "disappears",
+      "new": "appears",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M6_H1_Q30",
+      "window": "disappears"
+    },
+    {
+      "stem": "2024_M6_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "joy",
+      "new": "harm",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M6_H1_Q42",
+      "window": "never experience any real joy interestingly seeking pain for"
+    },
+    {
+      "stem": "2024_M6_H2",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "smiling",
+      "new": "smile",
+      "kind": "replace",
+      "grade": "E",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2024_M6_H2_Q29",
+      "window": "better still smiling back at"
+    },
+    {
+      "stem": "2024_M7_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "abandon",
+      "new": "accept",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M7_H3_Q30",
+      "window": "are more likely to abandon immediate benefits wants and"
+    },
+    {
+      "stem": "2024_M7_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "prevent",
+      "new": "create",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M7_H3_Q42",
+      "window": "that displace the product and prevent the illusion of more inside"
+    },
+    {
+      "stem": "2024_M9_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "inefficient",
+      "new": "efficient",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M9_H1_Q30",
+      "window": "is a far more inefficient transporter of goods than"
+    },
+    {
+      "stem": "2024_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "block",
+      "new": "enable",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2024_M9_H1_Q42",
+      "window": "approaches to assessment which block lifelong learning assessment for"
+    },
+    {
+      "stem": "2025_M10_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "beneficial",
+      "new": "harmful",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H1_Q30",
+      "window": "being used to fund beneficial practices banks that offer"
+    },
+    {
+      "stem": "2025_M10_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "enhance",
+      "new": "skip",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H1_Q42",
+      "window": "instant solutions it can enhance this essential process of"
+    },
+    {
+      "stem": "2025_M10_H2",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "rejecting",
+      "new": "tolerating",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H2_Q30",
+      "window": "responsibilities to the family rejecting inequalities stemming from the"
+    },
+    {
+      "stem": "2025_M10_H2",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "exclude",
+      "new": "require",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H2_Q42",
+      "window": "opposites actually exclude each other"
+    },
+    {
+      "stem": "2025_M10_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "forbidden",
+      "new": "required",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H3_Q30",
+      "window": "true and one is forbidden to make public certain"
+    },
+    {
+      "stem": "2025_M10_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "insignificant",
+      "new": "significant",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M10_H3_Q42",
+      "window": "after all we spend insignificant amounts of our time"
+    },
+    {
+      "stem": "2025_M3_H2",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "does",
+      "new": "do",
+      "kind": "replace",
+      "grade": "J",
+      "apply": true,
+      "evidence": "복수 주어, 해설 해석과 일치 (README §6)",
+      "evidence_ref": "grades.json:2025_M3_H2_Q29; README §6",
+      "window": "supply food with its meaning, does not depend on the quality"
+    },
+    {
+      "stem": "2025_M5_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "presence",
+      "new": "absence",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M5_H3_Q30",
+      "window": "a state presupposes the presence of a distinction between"
+    },
+    {
+      "stem": "2025_M6_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "having",
+      "new": "have",
+      "kind": "replace",
+      "grade": "J",
+      "apply": true,
+      "evidence": "병렬 동사 구조상 유일 (README §6)",
+      "evidence_ref": "grades.json:2025_M6_H1_Q29; README §6",
+      "window": "are exceptionally smart. Rather, experts having knowledge in a specific domain"
+    },
+    {
+      "stem": "2025_M6_H2",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "has",
+      "new": "have",
+      "kind": "replace",
+      "grade": "J",
+      "apply": true,
+      "evidence": "복수 주어, 해설 없음 (README §6)",
+      "evidence_ref": "grades.json:2025_M6_H2_Q29; README §6",
+      "window": "on a flat surface actually has depth and dimension in real"
+    },
+    {
+      "stem": "2025_M7_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "decreases",
+      "new": "increases",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M7_H3_Q30",
+      "window": "consciously only decreases its influence"
+    },
+    {
+      "stem": "2025_M9_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "increased",
+      "new": "decreased",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M9_H1_Q30",
+      "window": "more combined with our increased physical interaction with the"
+    },
+    {
+      "stem": "2025_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "rejects",
+      "new": "implies",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2025_M9_H1_Q42",
+      "window": "may i help you rejects that the customer is"
+    },
+    {
+      "stem": "2026_M5_H3",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "old": "chooses",
+      "new": "choose",
+      "kind": "replace",
+      "grade": "E",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 E)",
+      "evidence_ref": "grades.json:2026_M5_H3_Q29",
+      "window": "chooses"
+    },
+    {
+      "stem": "2026_M5_H3",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "old": "accumulate",
+      "new": "expel",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2026_M5_H3_Q30",
+      "window": "that they accumulate pathogenic microbes"
+    },
+    {
+      "stem": "2026_M5_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "old": "restrict",
+      "new": "maximize",
+      "kind": "replace",
+      "grade": "G",
+      "apply": true,
+      "evidence": "전수 감사 확정 교정 (grades.json, 등급 G)",
+      "evidence_ref": "grades.json:2026_M5_H3_Q42",
+      "window": "ensure you were able to restrict your caloric intake at every"
+    }
+  ]
+}

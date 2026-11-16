@@ -1,0 +1,179 @@
+{
+  "_policy": "Static queue definitions: items that must NOT be auto-applied. build.py emits them into the per-run queue report together with targeting failures, image gaps, and graph gaps. candidate_new is never applied.",
+  "entries": [
+    {
+      "stem": "2020_M11_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "crucial",
+      "candidate_new": "secondary/incidental",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2020_M11_H1_Q42"
+    },
+    {
+      "stem": "2021_M3_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "proper",
+      "candidate_new": "limited",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2021_M3_H3_Q42"
+    },
+    {
+      "stem": "2021_M7_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "rigidity",
+      "candidate_new": "variability",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2021_M7_H3_Q42"
+    },
+    {
+      "stem": "2022_M11_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "easier",
+      "candidate_new": "harder",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2022_M11_H1_Q42"
+    },
+    {
+      "stem": "2022_M6_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "ignoring",
+      "candidate_new": "envying",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2022_M6_H1_Q30"
+    },
+    {
+      "stem": "2022_M9_H1",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "encouraged",
+      "candidate_new": "abandoned",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2022_M9_H1_Q42"
+    },
+    {
+      "stem": "2025_M6_H1",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "kind": "correction-image-only",
+      "grade": "IMG",
+      "old": "",
+      "candidate_new": "",
+      "candidate_status": "none",
+      "reason": "답지가 정답표 이미지뿐이라 해설 자체가 없어 교정을 확정할 수 없다. 원문을 유지한다.",
+      "evidence_ref": "grades.json:2025_M6_H1_Q30"
+    },
+    {
+      "stem": "2025_M6_H1",
+      "q": 42,
+      "applies_to": [
+        42
+      ],
+      "kind": "correction-image-only",
+      "grade": "IMG",
+      "old": "",
+      "candidate_new": "",
+      "candidate_status": "none",
+      "reason": "답지가 정답표 이미지뿐이라 해설 자체가 없어 교정을 확정할 수 없다. 원문을 유지한다.",
+      "evidence_ref": "grades.json:2025_M6_H1_Q42"
+    },
+    {
+      "stem": "2025_M6_H2",
+      "q": 30,
+      "applies_to": [
+        30
+      ],
+      "kind": "correction-image-only",
+      "grade": "IMG",
+      "old": "",
+      "candidate_new": "",
+      "candidate_status": "none",
+      "reason": "답지가 정답표 이미지뿐이라 해설 자체가 없어 교정을 확정할 수 없다. 원문을 유지한다.",
+      "evidence_ref": "grades.json:2025_M6_H2_Q30"
+    },
+    {
+      "stem": "2025_M6_H2",
+      "q": 42,
+      "applies_to": [
+        42
+      ],
+      "kind": "correction-image-only",
+      "grade": "IMG",
+      "old": "",
+      "candidate_new": "",
+      "candidate_status": "none",
+      "reason": "답지가 정답표 이미지뿐이라 해설 자체가 없어 교정을 확정할 수 없다. 원문을 유지한다.",
+      "evidence_ref": "grades.json:2025_M6_H2_Q42"
+    },
+    {
+      "stem": "2025_M7_H3",
+      "q": 42,
+      "applies_to": [
+        41,
+        42
+      ],
+      "kind": "correction-uncertain",
+      "grade": "G?",
+      "old": "acceptable",
+      "candidate_new": "incomprehensible",
+      "candidate_status": "unconfirmed",
+      "reason": "감사 등급 G?: 해설에서 대체 낱말을 확정할 수 없어 원문을 유지한다. candidate_new는 추측이 아니라 감사 당시 후보 기록이며 적용하지 않는다.",
+      "evidence_ref": "grades.json:2025_M7_H3_Q42"
+    },
+    {
+      "stem": "2021_M11_H1",
+      "q": 29,
+      "applies_to": [
+        29
+      ],
+      "kind": "correction-key-blocked",
+      "grade": "E",
+      "old": "occurring",
+      "candidate_new": "occur",
+      "candidate_status": "confirmed-but-blocked",
+      "reason": "감사 확정 교정이나 정답 키를 build가 읽지 못해 자동 적용하지 않는다. PUA 격자 해독 검증 완료(E9BE=1…E9C2=5, 2026-11-16, 해독 키 4번): 키 해독 연결 뒤 승격 검토.",
+      "evidence_ref": "grades.json:2021_M11_H1_Q29"
+    }
+  ]
+}

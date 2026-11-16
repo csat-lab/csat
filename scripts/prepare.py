@@ -7,7 +7,14 @@ For each exam stem, produces the work files scripts/build.py consumes:
 - work/<stem>/problem.md, answer.md  (kordoc parses)
 - work/<stem>/problem_cols.txt, answer_cols.txt  (pdftotext two-column splits)
 - work/<stem>/answer_full.txt  (pdftotext -layout full width, arrow source)
-- work/<stem>/images/problem/*.png  (pdfimages extraction, PDF order)
+- work/<stem>/images/problem/*.png  (kordoc-extracted images, kordoc order)
+- work/<stem>/images/pdfimages/*.png  (pdfimages extraction, PDF order)
+
+Phase 3: pdfimages output lives in its own directory. kordoc writes
+images/problem/ when it parses, which used to make the pdfimages step
+skip (directory non-empty) while build.py assumed kordoc order equals
+pdfimages num order for page mapping. build.py now prefers
+images/pdfimages/ (exact order) and falls back to images/problem/.
 
 Ported from workspace parse_all.py, with the image extraction and
 answer_full.txt steps merged in from fast_parse.py, the path actually used
@@ -176,8 +183,10 @@ def parse_one(stem, prob, ans, work_dir, kordoc, force=False):
         run_kordoc(kordoc, prob, workdir / "problem.md", workdir)
     if force or not (workdir / "problem_cols.txt").exists():
         cols_text(prob, workdir / "problem_cols.txt")
-    # images via pdfimages, only if not already present
-    img_dir = workdir / "images" / "problem"
+    # images via pdfimages into their own directory (phase 3: never
+    # share kordoc's images/problem/, whose non-empty state used to
+    # skip this step entirely).
+    img_dir = workdir / "images" / "pdfimages"
     if force or not img_dir.exists() or not any(img_dir.iterdir()):
         extract_images(prob, img_dir)
     # answer: only if PDF

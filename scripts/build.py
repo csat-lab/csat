@@ -22,9 +22,31 @@ overwritten. --dry-run never writes to the output directory.
 This is a faithful port of the workspace pipeline. Format decisions made
 after it was written (Q40 summary removal, Q36/Q37 joining) are NOT yet
 reflected here; they are phase 2 work.
+
+Phase 3 (correction dictionary, corrections.json, queue, graph tables):
+- scripts/correction_dictionary.json entries apply FIRST in the
+  grammar/vocab branch, with strict marked-span targeting only
+  (answer-position span, unique marked span, or evidence window).
+  No first-occurrence or global fallback exists on that path.
+- scripts/corrections.json applies AFTER assembly as a safety net:
+  an entry applies only when OLD is present, NEW is absent (or the
+  evidence window localizes the site), and the site is unique. On
+  conflict with the dictionary, corrections.json wins (it runs last).
+- Items that must not be auto-applied (scripts/correction_queue.json
+  plus targeting failures, image gaps, and graph gaps) are written to
+  correction_queue.json/.md in the work directory (temp + artifacts).
+- Q25 data tables are extracted from the kordoc problem parse by
+  scripts/graph_tables.py (strict validation; no OCR, no invented
+  values). Chart-only items keep image-only output and are queued.
 """
 import os, re, json, glob, subprocess, sys, tempfile
 from pathlib import Path
+
+try:
+    from graph_tables import extract_graph_blocks, split_stem_prose
+except Exception:
+    extract_graph_blocks = None
+    split_stem_prose = None
 
 STEM_RE = re.compile(r"^(\d{4})년_(\d{1,2})월_고([123])_수능영어_문제\.pdf$")
 
@@ -399,6 +421,299 @@ def _replace_at_marked(text, w, c):
         m = ms[0]
         return text[:m.start()] + c + text[m.end():]
     return re.sub(rf"\b{pat}\b", c, text, count=1)
+
+# ---------------------------------------------------------------------------
+# Phase 3: correction dictionary / corrections.json / queue (strict targeting)
+# ---------------------------------------------------------------------------
+
+_HYPHEN_CHARS = "‐‑­‒–"
+_WIN_PUNCT = ",.;:!?\"“”‘’'()[]«»{}"
+
+
+def _fold_hyphens(s):
+    for h in _HYPHEN_CHARS:
+        s = s.replace(h, "-")
+    return s
+
+
+def _cmp_norm(s):
+    return re.sub(r"\s+", " ", _fold_hyphens(s)).strip().lower()
+
+
+def _win_norm(s):
+    s = _cmp_norm(s)
+    return re.sub(r"\s+", " ", "".join(c for c in s if c not in _WIN_PUNCT)).strip()
+
+
+def _marked_spans(text):
+    # Word class includes hyphen variants: the marked word may carry a
+    # U+2010/U+2012 dash (e.g. "hard‒earned") and the span must cover it.
+    cls = r"[A-Za-z\-‐‑­‒–']+"
+    spans = [(m.start(1), m.end(1)) for m in re.finditer(r"[①②③④⑤]\s*(" + cls + r")", text)]
+    if not spans:
+        spans = [(m.start(1), m.end(1)) for m in re.finditer(r"\([a-e]\)\s*(" + cls + r")", text)]
+    return spans
+
+
+def _phrase_regex(old):
+    """Regex for a correction phrase, tolerating a circled or (a)-(e)
+    marker between words and any hyphen variant at hyphen positions.
+    Marker positions are captured (groups m0, m1, ...) so the
+    replacement can re-insert a marker before the same word."""
+    words = _fold_hyphens(old).split()
+    parts = []
+    for w in words:
+        esc = ""
+        for ch in w:
+            if ch == "-":
+                esc += r"[\-‐‑­‒–]"
+            else:
+                esc += re.escape(ch)
+        parts.append(esc)
+    pat = parts[0]
+    for i in range(1, len(parts)):
+        pat += rf"\s*(?:(?P<m{i - 1}>[①②③④⑤]|\([a-e]\))\s*)?" + parts[i]
+    return pat
+
+
+def _phrase_replacement(m, new):
+    """Rebuild the replacement phrase, re-inserting any marker captured
+    inside the matched phrase before the corresponding word."""
+    words = new.split()
+    for name, val in m.groupdict().items():
+        if val:
+            idx = min(int(name[1:]) + 1, len(words) - 1)
+            words[idx] = val + " " + words[idx]
+    return " ".join(words)
+
+
+def _tok_form(tok):
+    """Token comparison form: strip leading markers, fold hyphens/punct."""
+    tok = re.sub(r"^[①②③④⑤]+", "", tok)
+    tok = re.sub(r"^\([a-e]\)", "", tok)
+    return _win_norm(tok)
+
+
+def _trim_span(text, s, e):
+    """Narrow a token span to its word characters (drop surrounding
+    markers and punctuation so a splice never eats a comma or marker)."""
+    while s < e and (text[s] in _WIN_PUNCT or text[s] in "①②③④⑤" or text[s].isspace()):
+        s += 1
+    if text[s:s + 3] in ("(a)", "(b)", "(c)", "(d)", "(e)"):
+        s += 3
+        while s < e and text[s].isspace():
+            s += 1
+    while e > s and (text[e - 1] in _WIN_PUNCT or text[e - 1].isspace()):
+        e -= 1
+    return s, e
+
+
+def _find_window_site(text, window, old):
+    """Locate OLD inside the evidence window in text.
+
+    Token-based and punctuation-tolerant: the window's token sequence
+    must occur exactly once, and OLD's tokens exactly once inside it.
+    Returns the char (start, end) of OLD in the original text, or None.
+    """
+    win_toks = [t for t in _win_norm(window).split(" ") if t and t.strip("―—–-")]
+    if not win_toks or not old:
+        return None
+    toks = [(m.start(), m.end()) for m in re.finditer(r"\S+", text)]
+    forms = [_tok_form(text[s:e]) for (s, e) in toks]
+    # Drop bare marker tokens ("③", "(a)") and standalone dash tokens
+    # ("―"): the window was verified against marker-stripped text, so
+    # markers and dash separators must not break contiguity.
+    kept = [(t, f) for t, f in zip(toks, forms) if f and f.strip("―—–-")]
+    toks = [t for t, _ in kept]
+    forms = [f for _, f in kept]
+    hits = [i for i in range(len(forms) - len(win_toks) + 1)
+            if forms[i:i + len(win_toks)] == win_toks]
+    if len(hits) != 1:
+        return None
+    i = hits[0]
+    old_toks = _win_norm(old).split(" ")
+    inner = forms[i:i + len(win_toks)]
+    sites = [j for j in range(len(inner) - len(old_toks) + 1)
+             if inner[j:j + len(old_toks)] == old_toks]
+    if len(sites) != 1:
+        return None
+    j = sites[0]
+    s, e = toks[i + j][0], toks[i + j + len(old_toks) - 1][1]
+    return _trim_span(text, s, e)
+
+
+def _replace_strict(text, old, new, answer_pos=None, window=None, kind="replace", anchor=None):
+    """Strict correction application. Returns (new_text, method, reason).
+
+    Tried in order: the marked span at the answer position, the unique
+    marked span holding the old word, the evidence window. Insertions
+    splice before the anchor's marked span. There is deliberately NO
+    first-occurrence or global fallback: on failure the text is returned
+    unchanged with a reason, and the caller logs/queues the item.
+    """
+    if kind == "insert":
+        spans = _marked_spans(text)
+        if answer_pos and 1 <= answer_pos <= len(spans):
+            s, e = spans[answer_pos - 1]
+            if _cmp_norm(text[s:e]) == _cmp_norm(anchor):
+                return text[:s] + new + " " + text[s:], "answer-position", ""
+        cands = [(s, e) for (s, e) in spans if _cmp_norm(text[s:e]) == _cmp_norm(anchor)]
+        if len(cands) == 1:
+            s, e = cands[0]
+            return text[:s] + new + " " + text[s:], "unique-marked", ""
+        if window:
+            site = _find_window_site(text, window, anchor)
+            if site:
+                s, e = site
+                return text[:s] + new + " " + text[s:], "evidence-window", ""
+        return text, None, "insert anchor not uniquely targetable"
+    spans = _marked_spans(text)
+    single = len(_fold_hyphens(old).split()) == 1
+    if single and answer_pos and 1 <= answer_pos <= len(spans):
+        s, e = spans[answer_pos - 1]
+        if _cmp_norm(text[s:e]) == _cmp_norm(old):
+            return text[:s] + new + text[e:], "answer-position", ""
+    if single:
+        cands = [(s, e) for (s, e) in spans if _cmp_norm(text[s:e]) == _cmp_norm(old)]
+        if len(cands) == 1:
+            s, e = cands[0]
+            return text[:s] + new + text[e:], "unique-marked", ""
+    else:
+        pat = _phrase_regex(old)
+        ms = list(re.finditer(rf"\b{pat}\b", text))
+        over = [m for m in ms if any(not (m.end() <= s or m.start() >= e) for (s, e) in spans)]
+        if len(over) == 1:
+            m = over[0]
+            return text[:m.start()] + _phrase_replacement(m, new) + text[m.end():], "marked-phrase", ""
+        if len(ms) == 1:
+            m = ms[0]
+            return text[:m.start()] + _phrase_replacement(m, new) + text[m.end():], "unique-phrase", ""
+    if window:
+        site = _find_window_site(text, window, old)
+        if site:
+            s, e = site
+            return text[:s] + new + text[e:], "evidence-window", ""
+    return text, None, "no unique marked span or window match"
+
+
+_CORRECTION_DATA = None
+
+
+def load_correction_data():
+    """Load the phase-3 data files sitting next to this script.
+
+    Missing or unreadable files degrade to empty lists (phase-2
+    behavior) instead of failing the build.
+    """
+    global _CORRECTION_DATA
+    if _CORRECTION_DATA is not None:
+        return _CORRECTION_DATA
+    base = Path(__file__).resolve().parent
+    data = {"dictionary": [], "corrections": [], "queue": []}
+    for key, fname in (("dictionary", "correction_dictionary.json"),
+                       ("corrections", "corrections.json"),
+                       ("queue", "correction_queue.json")):
+        p = base / fname
+        if p.exists():
+            try:
+                data[key] = json.loads(p.read_text(encoding="utf-8"))["entries"]
+            except Exception:
+                data[key] = []
+    _CORRECTION_DATA = data
+    return data
+
+
+def stem_key_of(stem):
+    year, month, grade = stem.split("_")
+    return f"{year}_M{int(month)}_{grade}"
+
+
+def dict_entries_for(stem_key, qnum, data=None):
+    data = data or load_correction_data()
+    return [e for e in data["dictionary"]
+            if e["stem"] == stem_key and qnum in e["applies_to"]]
+
+
+def _word_present(text, word):
+    return re.search(rf"\b{_phrase_regex(word)}\b", text) is not None
+
+
+def apply_corrections_safety_net(text, stem_key, log, exam_id, queue, data=None):
+    """Post-assembly corrections.json pass. corrections.json wins: it
+    runs after assembly, so whatever it applies overrides what the
+    dictionary and extraction left behind.
+
+    An entry applies only when OLD is present and the site is pinned by
+    the evidence window (tried first, even when NEW appears elsewhere)
+    or by a unique occurrence. When NEW is already present and no window
+    pins a site, the entry is skipped: remaining OLD occurrences are
+    legitimate unmarked ones, and touching them is exactly the
+    over-application class (2020_M6_H2 / 2024_M6_H2 Q29). Failures are
+    logged and queued, never guessed.
+    """
+    data = data or load_correction_data()
+    entries = [e for e in data["corrections"]
+               if e["stem"] == stem_key and e.get("apply", True)]
+    if not entries:
+        return text
+    matches = list(re.finditer(r"(?m)^(\d{1,2})\. ", text))
+    acc, exp = [], 1
+    for m in matches:
+        if int(m.group(1)) == exp:
+            acc.append(m)
+            exp += 1
+    if len(acc) != 45:
+        log.append(f"{exam_id}: safety net skipped (item split failed)")
+        return text
+    parts = []
+    for i, m in enumerate(acc):
+        end = acc[i + 1].start() if i + 1 < len(acc) else len(text)
+        parts.append(text[m.start():end])
+    for e in entries:
+        if e["kind"] != "replace":
+            log.append(f"{exam_id}: safety net skips non-replace entry {e['old']!r}")
+            continue
+        old, new = e["old"], e["new"]
+        for q in e["applies_to"]:
+            if not (1 <= q <= 45):
+                continue
+            item = parts[q - 1]
+            nl = item.find("\n")
+            head, rest = (item[:nl + 1], item[nl + 1:]) if nl >= 0 else (item, "")
+            if not _word_present(rest, old):
+                log.append(f"{exam_id} Q{q}: corrections.json {old!r} absent, skipped")
+                continue
+            done = False
+            if e.get("window"):
+                site = _find_window_site(rest, e["window"], old)
+                if site:
+                    s, ee = site
+                    rest = rest[:s] + new + rest[ee:]
+                    log.append(f"{exam_id} Q{q}: corrections.json applied {old!r}->{new!r} (evidence window)")
+                    done = True
+            if not done and _word_present(rest, new):
+                log.append(f"{exam_id} Q{q}: corrections.json {old!r}->{new!r} already applied, skipped")
+                done = True  # skipped deliberately, not a failure
+                parts[q - 1] = head + rest
+                continue
+            if not done:
+                ms = list(re.finditer(rf"\b{_phrase_regex(old)}\b", rest))
+                if len(ms) == 1:
+                    m = ms[0]
+                    rest = rest[:m.start()] + new + rest[m.end():]
+                    log.append(f"{exam_id} Q{q}: corrections.json applied {old!r}->{new!r} (unique occurrence)")
+                    done = True
+            if not done:
+                log.append(f"{exam_id} Q{q}: corrections.json {old!r}->{new!r} targeting failed, queued")
+                if queue is not None:
+                    queue.append({"stem": stem_key, "q": q,
+                                  "kind": "correction-targeting-failed",
+                                  "reason": f"corrections.json 항목({old} → {new})의 적용 위치를 확정하지 못해 원문을 유지한다.",
+                                  "evidence": e.get("evidence", ""),
+                                  "detail": f"grade {e.get('grade')}"})
+            parts[q - 1] = head + rest
+    return "".join(parts)
+
 
 def strip_markers(text):
     """Remove circled numbers and parenthesis segment labels from passage text."""
@@ -1128,7 +1443,7 @@ def split_para_options(paras, allow_tail=True):
                 non.append(p)
     return opts, non
 
-def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, log, exam_id, group_info=None, md_tables=None, appropriate_words=None):
+def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, log, exam_id, group_info=None, md_tables=None, appropriate_words=None, dict_entries=None, queue=None, stem_key=None, graph_block=False):
     """Return (prompt, passage_text, options_or_None_for_1_17)."""
     # Reconstruct first paragraph from header remainder + body lines until blank
     full_lines = []
@@ -1227,6 +1542,20 @@ def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, l
             if not _is_grammar:
                 for (w,c) in gi.get("corrections", []):
                     group_passage_paras = [_replace_at_marked(pp, w, c) for pp in group_passage_paras]
+                # Phase 3: dictionary corrections for the shared passage
+                # (e.g. a Q42 entry applied to the Q41 copy), strict
+                # targeting only; failures are logged for the triage.
+                for (_dent, _ans) in gi.get("dict_corrections", []):
+                    for _i, _pp in enumerate(group_passage_paras):
+                        _np, _method, _reason = _replace_strict(
+                            _pp, _dent["old"], _dent["new"], answer_pos=_ans,
+                            window=_dent.get("window"), kind=_dent["kind"],
+                            anchor=_dent.get("anchor"))
+                        if _method:
+                            group_passage_paras[_i] = _np
+                            log.append(f"{exam_id} Q{qnum}: dictionary (group) {_dent['old']!r}->{_dent['new']!r} via {_method}")
+                        else:
+                            log.append(f"{exam_id} Q{qnum}: dictionary (group) {_dent['old']!r} targeting failed: {_reason}")
     body_paras = non_opt_paras
     # For 1-17: keep options, passage is non-option paras (usually empty, except table/image cases handled by caller)
     if qnum <= 17:
@@ -1295,8 +1624,13 @@ def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, l
     prompt_lower = prompt
     # Graph items (Q25): body text is graph furniture (caption, axis
     # labels). The restored format keeps only the image and the manual
-    # table (phase 3); the caller emits the image refs.
+    # table (phase 3); the caller emits the image refs. When the caller
+    # extracted a data table for this item, the stem prose ("The tables
+    # above show ...") is kept: table-type items keep it in the restored
+    # format, chart-type items do not.
     if "도표" in prompt_lower:
+        if graph_block and split_stem_prose is not None:
+            return prompt, split_stem_prose(passage)[1], None
         return prompt, "", None
     is_order = ("순서" in prompt_lower and ("배열" in prompt_lower or "이어질" in prompt_lower or "다음에 이어질" in prompt_lower))
     is_insertion = "들어가기에 가장 적절한 곳" in prompt_lower or "주어진 문장이 들어가" in prompt_lower
@@ -1425,6 +1759,29 @@ def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, l
         return prompt, passage2, None
     # --- Grammar / vocab correction (per-question arrow pairs if available, else global) ---
     if is_grammar_vocab:
+        # Phase 3: dictionary first, with strict targeting. A dictionary
+        # entry supersedes extraction for its item. When every entry
+        # applies, extraction is skipped; when one fails targeting, the
+        # failure is logged and extraction below still runs (its
+        # answer-position path is equally strict). Unapplied dictionary
+        # entries surface in the triage as QUEUED diffs.
+        if dict_entries:
+            _all_ok = True
+            for _dent in dict_entries:
+                _ans = answer_key.get(_dent["q"]) if answer_key else None
+                _np, _method, _reason = _replace_strict(
+                    passage, _dent["old"], _dent["new"], answer_pos=_ans,
+                    window=_dent.get("window"), kind=_dent["kind"],
+                    anchor=_dent.get("anchor"))
+                if _method:
+                    passage = _np
+                    log.append(f"{exam_id} Q{qnum}: dictionary {_dent['old']!r}->{_dent['new']!r} via {_method} (grade {_dent['grade']})")
+                else:
+                    _all_ok = False
+                    log.append(f"{exam_id} Q{qnum}: dictionary {_dent['old']!r} targeting failed: {_reason}")
+            if _all_ok:
+                passage = strip_markers(passage)
+                return prompt, passage, None
         pairs_to_use = arrow_pairs
         # arrow_pairs may be a dict {qnum: [(w,c),...]} if caller passes per-question, else list
         if isinstance(arrow_pairs, dict):
@@ -1501,12 +1858,22 @@ def apply_restoration(qnum, q, groups, groups_prompt, answer_key, arrow_pairs, l
     return prompt, passage, None
 
 
-def build_exam(stem, log, problem_pdf, work_dir):
+def build_exam(stem, log, problem_pdf, work_dir, queue=None):
     """stem like 2026_03_H3. problem_pdf is the question PDF path (used for
     pdfimages page mapping). Returns (output_text, images_info, exam_log)."""
     year_s, month_s, grade_s = stem.split("_")
     year = int(year_s); month = int(month_s); grade = grade_s  # H1 etc
     out_name = f"{year}_M{month}_{grade}_restored.md"
+    # Phase 3: correction data + queue records for this exam.
+    cdata = load_correction_data()
+    skey = stem_key_of(stem)
+    if queue is not None:
+        for qd in cdata["queue"]:
+            if qd["stem"] == skey:
+                queue.append({"stem": skey, "q": qd["q"], "kind": qd["kind"],
+                              "reason": qd["reason"],
+                              "evidence": qd.get("evidence_ref", ""),
+                              "detail": f"grade {qd['grade']}, old={qd.get('old', '')!r}"})
     workdir = work_dir / stem
     prob_cols_path = workdir / "problem_cols.txt"
     ans_cols_path = workdir / "answer_cols.txt"
@@ -1568,11 +1935,18 @@ def build_exam(stem, log, problem_pdf, work_dir):
     missing_q = [n for n in range(1,46) if n not in questions]
     if missing_q:
         log.append(f"{stem}: missing questions {missing_q}")
-    # Images: kordoc images in workdir/images/problem/
-    img_dir = workdir / "images" / "problem"
+    # Images: prefer the pdfimages directory (true PDF order, so the
+    # pdfimages -list page mapping below is exact). Fall back to the
+    # kordoc directory when pdfimages output is absent (phase-2
+    # behavior: kordoc order is assumed to match pdfimages num order).
+    img_dir = workdir / "images" / "pdfimages"
+    if not img_dir.exists() or not any(img_dir.iterdir()):
+        img_dir = workdir / "images" / "problem"
     img_files = []
     if img_dir.exists():
         img_files = sorted([p for p in img_dir.iterdir() if p.suffix.lower() in (".png",".jpg",".jpeg")])
+        if img_dir.name == "pdfimages":
+            log.append(f"{stem}: using pdfimages image directory ({len(img_files)} files)")
     # Identify picture/graph questions from prompts (before restoration)
     # Use full prompt: first para (header + continuation) - reconstruct from raw block
     def full_prompt(q):
@@ -1687,9 +2061,17 @@ def build_exam(stem, log, problem_pdf, work_dir):
                             target = qn; break
             if target is None:
                 log.append(f"{stem}: content image {src.name} on page {pg} unassigned (qs {qs_page})")
+                if queue is not None:
+                    queue.append({"stem": skey, "q": None, "kind": "image-unassigned",
+                                  "reason": f"내용 이미지 {src.name}(페이지 {pg})을 문항에 배정하지 못했다. 임의로 배정하지 않는다.",
+                                  "evidence": f"page {pg}, questions on page: {qs_page}", "detail": src.name})
                 continue
         else:
             log.append(f"{stem}: content image {src.name} page unknown/unmapped")
+            if queue is not None:
+                queue.append({"stem": skey, "q": None, "kind": "image-unassigned",
+                              "reason": f"내용 이미지 {src.name}의 페이지를 알 수 없어 문항에 배정하지 못했다.",
+                              "evidence": "pdfimages page mapping missing", "detail": src.name})
             continue
         cnt = assigned_counts.get(target, 0) + 1
         assigned_counts[target] = cnt
@@ -1699,6 +2081,10 @@ def build_exam(stem, log, problem_pdf, work_dir):
     for qn in pic_qs + graph_qs:
         if qn not in image_map:
             log.append(f"{stem}: Q{qn} needs image but no content image assigned")
+            if queue is not None:
+                queue.append({"stem": skey, "q": qn, "kind": "image-missing",
+                              "reason": "그림/도표 문항이나 배정된 내용 이미지가 없다.",
+                              "evidence": "image assignment", "detail": ""})
     # Group-level info: order letters and grammar corrections for shared passages
     group_info = {}
     try:
@@ -1738,6 +2124,13 @@ def build_exam(stem, log, problem_pdf, work_dir):
                     for (w,c) in arrow_pairs:
                         if w in marked:
                             gi.setdefault("corrections", []).append((w,c))
+            # Phase 3: dictionary corrections for shared passages (a Q42
+            # entry also applies to the Q41 copy of the passage).
+            for _dent in cdata["dictionary"]:
+                if (_dent["stem"] == skey and _dent["q"] in range(s, e + 1)
+                        and len(_dent["applies_to"]) > 1):
+                    _ans = answer_key.get(_dent["q"]) if answer_key else None
+                    gi.setdefault("dict_corrections", []).append((_dent, _ans))
             if gi:
                 group_info[(s,e)] = gi
     except Exception as ex:
@@ -1745,11 +2138,20 @@ def build_exam(stem, log, problem_pdf, work_dir):
     # Markdown option tables from the kordoc problem parse (Q10/Q12).
     md_tables = {}
     prob_md_path = workdir / "problem.md"
+    prob_md_text = ""
     if prob_md_path.exists():
+        prob_md_text = prob_md_path.read_text(encoding="utf-8", errors="ignore")
         try:
-            md_tables = extract_md_tables(prob_md_path.read_text(encoding="utf-8", errors="ignore"))
+            md_tables = extract_md_tables(prob_md_text)
         except Exception as e:
             log.append(f"{stem}: md table extraction failed {e}")
+    # Phase 3: Q25 data tables from the kordoc problem parse.
+    graph_blocks = {}
+    if extract_graph_blocks is not None and prob_md_text:
+        try:
+            graph_blocks = extract_graph_blocks(prob_md_text)
+        except Exception as e:
+            log.append(f"{stem}: graph table extraction failed {e}")
     # Build output
     out_lines = []
     for n in range(1,46):
@@ -1758,7 +2160,7 @@ def build_exam(stem, log, problem_pdf, work_dir):
             out_lines.append("")
             continue
         q = questions[n]
-        prompt, passage, opts = apply_restoration(n, q, groups, groups_prompt, answer_key, arrow_pairs, log, stem, group_info=group_info, md_tables=md_tables, appropriate_words=appropriate_words)
+        prompt, passage, opts = apply_restoration(n, q, groups, groups_prompt, answer_key, arrow_pairs, log, stem, group_info=group_info, md_tables=md_tables, appropriate_words=appropriate_words, dict_entries=dict_entries_for(skey, n, cdata), queue=queue, stem_key=skey, graph_block=(n in graph_blocks))
         # "[3점]" belongs to the prompt: when it sits in the raw block
         # (e.g. glued to the last passage line under a bare "37."
         # header) but not in the prompt, move it there. The passage
@@ -1809,6 +2211,39 @@ def build_exam(stem, log, problem_pdf, work_dir):
                     out_lines.append("")
         else:
             # 18-45: passage only, plus image/table for graph/picture (picture should not occur in 18-45 except graph)
+            # Phase 3: an extracted data table replaces the flattened
+            # furniture; the stem prose ("The tables above show ...")
+            # is kept after the table. Without a table, the item is
+            # queued as a graph gap (image-only output, values never
+            # invented).
+            _is_table_q = ("표" in prompt or "도표" in prompt or "그래프" in prompt)
+            _gblock = graph_blocks.get(n)
+            if _gblock is not None and _is_table_q:
+                if n in image_map:
+                    for src, new_name in image_map[n]:
+                        out_lines.append(f"![image]({new_name})")
+                        out_lines.append("")
+                for _bl in _gblock.split("\n"):
+                    out_lines.append(_bl)
+                out_lines.append("")
+                _stem = split_stem_prose(passage)[1] if (split_stem_prose is not None and passage) else ""
+                # Option labels (①-⑤) inside the stem prose are stripped:
+                # items 18-45 carry no option markers, and the baseline
+                # keeps the statements as plain prose.
+                _stem = strip_markers(_stem) if _stem else ""
+                if _stem:
+                    out_lines.append(_stem)
+                    out_lines.append("")
+                log.append(f"{stem}: Q{n} graph table emitted from problem parse")
+                continue
+            if n == 25 and _is_table_q and queue is not None:
+                if skey in ("2021_M3_H2", "2022_M3_H2", "2021_M3_H3", "2021_M7_H3"):
+                    _greason = "그래프 표를 만들 수 없는 시험 4개 중 하나이다(README §2: 수치 표시 없음 또는 범례 잘림). 이미지까지만 두고 표는 지어내지 않는다."
+                else:
+                    _greason = "원본 데이터에서 검증된 표를 추출하지 못해 표 없이 이미지까지만 둔다. 수치를 추정해 표를 지어내지 않는다."
+                queue.append({"stem": skey, "q": n, "kind": "graph-table-missing",
+                              "reason": _greason, "evidence": "problem.md table extraction",
+                              "detail": ""})
             if n in image_map:
                 # For graph, include image + OCR table placeholder
                 paras = passage.split("\n\n") if passage else []
@@ -1842,7 +2277,63 @@ def build_exam(stem, log, problem_pdf, work_dir):
     text = "\n".join(out_lines).strip() + "\n"
     # Post-process: remove any remaining dash before circled in output (should not happen)
     text = re.sub(r"(?m)^\s*-\s+([①②③④⑤])", r"\1", text)
+    # Phase 3: corrections.json safety net (corrections.json wins).
+    text = apply_corrections_safety_net(text, skey, log, stem, queue, cdata)
     return text, image_map, log
+
+_QUEUE_HEADINGS = {
+    "correction-uncertain": "### ⚠️ 교정 미확정 (G?)",
+    "correction-image-only": "### ⚠️ 교정 불가 (이미지 전용 답지)",
+    "correction-key-blocked": "### ⚠️ 교정 보류 (정답 키 없음)",
+    "correction-targeting-failed": "### ⚠️ 교정 적용 실패 (위치 미확정)",
+    "image-unassigned": "### 🖼️ 이미지 미배정",
+    "image-missing": "### 🖼️ 이미지 없음 (그림/도표 문항)",
+    "graph-table-missing": "### 📊 그래프 표 없음",
+}
+
+
+def write_queue_report(queue, work_dir):
+    """Write correction_queue.json + correction_queue.md to the work
+    directory (temp files + artifacts, never into data/output/).
+
+    The markdown mirrors the verify workflow's issue-body shape
+    (Korean headings, one table per section) so it can be pasted
+    into an issue unchanged. Duplicate records are collapsed.
+    """
+    seen = set()
+    deduped = []
+    for rec in queue:
+        key = (rec.get("stem"), rec.get("q"), rec.get("kind"), rec.get("reason"))
+        if key not in seen:
+            seen.add(key)
+            deduped.append(rec)
+    (work_dir / "correction_queue.json").write_text(
+        json.dumps({"entries": deduped}, ensure_ascii=False, indent=2), encoding="utf-8")
+    lines = [
+        "복원 파이프라인 검증 중 **자동 적용하지 않은 교정·이미지·그래프 표**가 감지되었습니다. 아래 항목은 원문을 유지합니다.",
+        "",
+        f"- 대기열 항목: {len(deduped)}건",
+        "",
+    ]
+    groups = {}
+    for rec in deduped:
+        groups.setdefault(rec["kind"], []).append(rec)
+    for kind in sorted(groups, key=lambda k: list(_QUEUE_HEADINGS).index(k) if k in _QUEUE_HEADINGS else 99):
+        lines.append(_QUEUE_HEADINGS.get(kind, f"### {kind}"))
+        lines.append("")
+        lines.append("| 파일 | 문항 | 사유 | 증거 |")
+        lines.append("| :--- | :---: | :--- | :--- |")
+        for rec in sorted(groups[kind], key=lambda r: (r["stem"], r["q"] or 0)):
+            fname = f"{rec['stem']}_restored.md"
+            q = rec["q"] if rec["q"] is not None else "-"
+            ev = rec.get("evidence", "") or ""
+            if rec.get("detail"):
+                ev = f"{ev} ({rec['detail']})" if ev else rec["detail"]
+            lines.append(f"| `{fname}` | {q} | {rec['reason']} | {ev} |")
+        lines.append("")
+    (work_dir / "correction_queue.md").write_text("\n".join(lines), encoding="utf-8")
+    return len(deduped)
+
 
 def main():
     import argparse
@@ -1892,6 +2383,7 @@ def main():
     work_dir.mkdir(parents=True, exist_ok=True)
     log = []
     results = {}
+    queue = []
     for stem in stems:
         year_s, month_s, grade_s = stem.split("_")
         grade_num = grade_s[1]  # 1,2,3
@@ -1903,7 +2395,7 @@ def main():
             results[stem] = "skipped_existing"
             log.append(f"{stem}: output exists, skipped (use --force to overwrite)")
             continue
-        text, image_map, log = build_exam(stem, log, stems_map[stem], work_dir)
+        text, image_map, log = build_exam(stem, log, stems_map[stem], work_dir, queue=queue)
         if text is None:
             results[stem] = "failed"
             continue
@@ -1927,9 +2419,11 @@ def main():
                 import shutil; shutil.copy(src, dst)
         results[stem] = "ok"
     (work_dir / "restoration_log.json").write_text(json.dumps({"log": log, "results": results}, ensure_ascii=False, indent=2), encoding="utf-8")
+    n_queued = write_queue_report(queue, work_dir)
     built = sum(1 for v in results.values() if v == "ok")
     skipped = sum(1 for v in results.values() if v == "skipped_existing")
     print(f"Built {built}/{len(stems)}" + (f" (skipped existing: {skipped})" if skipped else ""))
+    print(f"Queue entries: {n_queued} (see {work_dir / 'correction_queue.md'})")
     if args.dry_run:
         print(f"Dry-run output directory: {dry_dir}")
     print(f"Log entries: {len(log)}")
