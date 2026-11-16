@@ -1,0 +1,201 @@
+#!/usr/bin/env python3
+"""
+Prepare step for the csat restoration pipeline (repository port, phase 1).
+
+For each exam stem, produces the work files scripts/build.py consumes:
+
+- work/<stem>/problem.md, answer.md  (kordoc parses)
+- work/<stem>/problem_cols.txt, answer_cols.txt  (pdftotext two-column splits)
+- work/<stem>/answer_full.txt  (pdftotext -layout full width, arrow source)
+- work/<stem>/images/problem/*.png  (pdfimages extraction, PDF order)
+
+Ported from workspace parse_all.py, with the image extraction and
+answer_full.txt steps merged in from fast_parse.py, the path actually used
+for bulk preparation. Restoration behavior is unchanged: existing outputs
+are skipped unless --force is given, and a non-PDF answer file leaves an
+answer_not_pdf.txt marker instead of an answer key.
+
+Stems come from Korean raw filenames (YYYY년_M월_고N_수능영어_문제.pdf),
+not from a static mapping file. kordoc must be on PATH.
+"""
+import argparse
+import json
+import re
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+STEM_RE = re.compile(r"^(\d{4})년_(\d{1,2})월_고([123])_수능영어_(문제|정답)\.pdf$")
+
+
+def default_repo_root():
+    """Repository root: parent of the directory holding this script."""
+    return Path(__file__).resolve().parent.parent
+
+
+def stem_and_kind(name):
+    """Korean raw filename -> (stem like 2026_03_H3, kind), or None."""
+    m = STEM_RE.match(name)
+    if not m:
+        return None
+    year, month, grade, kind = m.group(1), int(m.group(2)), m.group(3), m.group(4)
+    return f"{year}_{month:02d}_H{grade}", kind
+
+
+def discover_pairs(raw_dir):
+    """Map stem -> (problem PDF path, answer PDF path or None)."""
+    found = {}
+    for p in sorted(raw_dir.glob("*_수능영어_*.pdf")):
+        parsed = stem_and_kind(p.name)
+        if parsed is None:
+            continue
+        stem, kind = parsed
+        entry = found.setdefault(stem, [None, None])
+        entry[0 if kind == "문제" else 1] = p
+    return {stem: (prob, ans) for stem, (prob, ans) in found.items() if prob is not None}
+
+
+def cols_text(src, out_path):
+    try:
+        info = subprocess.check_output(["pdfinfo", str(src)], stderr=subprocess.DEVNULL).decode(errors="ignore")
+        pages = int([l for l in info.splitlines() if l.startswith("Pages")][0].split(":")[1])
+        w_total = 841
+        size = [l for l in info.splitlines() if "Page size" in l]
+        if size:
+            try: w_total = int(float(size[0].split(":")[1].split("x")[0]))
+            except Exception: pass
+    except Exception:
+        return False
+    mid = w_total // 2
+    parts = []
+    for p in range(1, pages+1):
+        for x, w in [(0, mid+1), (mid, w_total-mid)]:
+            try:
+                t = subprocess.check_output(["pdftotext","-f",str(p),"-l",str(p),"-x",str(x),"-y","0","-W",str(w),"-H","1190","-layout",str(src),"-"], stderr=subprocess.DEVNULL).decode(errors="ignore")
+            except Exception:
+                t = ""
+            parts.append(t)
+    out_path.write_text("\n".join(parts), encoding="utf-8")
+    return True
+
+
+def is_valid_pdf(path):
+    try:
+        with open(path, "rb") as f:
+            return f.read(5) == b"%PDF-"
+    except Exception:
+        return False
+
+
+def run_kordoc(kordoc, pdf, out_md, cwd):
+    """Run kordoc for one PDF. Returns True if the output file exists after."""
+    result = subprocess.run(
+        [kordoc, str(pdf), "-o", str(out_md)],
+        cwd=str(cwd), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+    )
+    if result.returncode != 0:
+        print(f"WARNING: kordoc exited {result.returncode} for {pdf.name}", file=sys.stderr)
+    return out_md.exists()
+
+
+def extract_images(prob, img_dir):
+    """Extract problem PDF images via pdfimages, in PDF order (from fast_parse.py)."""
+    img_dir.mkdir(parents=True, exist_ok=True)
+    tmp = img_dir.parent / "_pdfimages_tmp"
+    tmp.mkdir(parents=True, exist_ok=True)
+    subprocess.run(["pdfimages", "-png", str(prob), str(tmp / "img")], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    files = sorted(tmp.glob("img-*.png")) + sorted(tmp.glob("img-*.jpg")) + sorted(tmp.glob("img-*.ppm")) + sorted(tmp.glob("img-*.pbm"))
+    # pdfimages names are img-000, img-001... in PDF order, which matches kordoc order
+    for i, f in enumerate(files, start=1):
+        dest = img_dir / f"image_{i:03d}.png"
+        if f.suffix.lower() == ".png":
+            dest.write_bytes(f.read_bytes())
+        else:
+            try:
+                from PIL import Image
+                im = Image.open(f).convert("RGB")
+                im.save(dest)
+            except Exception:
+                dest.write_bytes(f.read_bytes())
+    manifest = [{"name": p.name, "mimeType": "image/png", "bytes": p.stat().st_size} for p in sorted(img_dir.glob("*.png"))]
+    (img_dir / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    for f in tmp.iterdir():
+        f.unlink()
+    tmp.rmdir()
+
+
+def parse_one(stem, prob, ans, work_dir, kordoc, force=False):
+    workdir = work_dir / stem
+    workdir.mkdir(parents=True, exist_ok=True)
+    # kordoc problem
+    if force or not (workdir / "problem.md").exists():
+        run_kordoc(kordoc, prob, workdir / "problem.md", workdir)
+    if force or not (workdir / "problem_cols.txt").exists():
+        cols_text(prob, workdir / "problem_cols.txt")
+    # images via pdfimages, only if not already present
+    img_dir = workdir / "images" / "problem"
+    if force or not img_dir.exists() or not any(img_dir.iterdir()):
+        extract_images(prob, img_dir)
+    # answer: only if PDF
+    is_pdf = ans is not None and is_valid_pdf(ans)
+    if is_pdf:
+        if force or not (workdir / "answer.md").exists():
+            run_kordoc(kordoc, ans, workdir / "answer.md", workdir)
+        if force or not (workdir / "answer_cols.txt").exists():
+            cols_text(ans, workdir / "answer_cols.txt")
+        if force or not (workdir / "answer_full.txt").exists():
+            try:
+                t = subprocess.check_output(["pdftotext","-layout",str(ans),"-"], stderr=subprocess.DEVNULL).decode(errors="ignore")
+                (workdir / "answer_full.txt").write_text(t, encoding="utf-8")
+            except Exception:
+                pass
+    else:
+        (workdir / "answer_not_pdf.txt").write_text("answer file is not a PDF (HTML), no answer key locally\n", encoding="utf-8")
+    print(stem, "done", "answer_pdf" if is_pdf else "answer_HTML")
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Prepare per-exam parse files for scripts/build.py.")
+    ap.add_argument("--repo-root", default=None,
+                    help="repository root (default: parent of scripts/)")
+    ap.add_argument("--raw-dir", default=None,
+                    help="raw PDF directory (default: <repo-root>/data/raw)")
+    ap.add_argument("--work-dir", default=None,
+                    help="work directory (default: <repo-root>/.restore-work)")
+    ap.add_argument("--only", nargs="*", default=None, help="stems to prepare, e.g. 2026_03_H3")
+    ap.add_argument("--list", action="store_true")
+    ap.add_argument("--force", action="store_true",
+                    help="redo all steps even when outputs already exist")
+    args = ap.parse_args()
+
+    repo_root = Path(args.repo_root) if args.repo_root else default_repo_root()
+    raw_dir = Path(args.raw_dir) if args.raw_dir else repo_root / "data" / "raw"
+    work_dir = Path(args.work_dir) if args.work_dir else repo_root / ".restore-work"
+
+    pairs = discover_pairs(raw_dir)
+    stems = sorted(pairs)
+    if args.only:
+        stems = [s for s in stems if s in args.only]
+    if args.list:
+        print("\n".join(stems))
+        return
+
+    kordoc = shutil.which("kordoc")
+    if kordoc is None:
+        print("error: kordoc not found on PATH. Install it first "
+              "(npm install -g kordoc) and make sure it is on PATH.",
+              file=sys.stderr)
+        sys.exit(2)
+
+    work_dir.mkdir(parents=True, exist_ok=True)
+    for s in stems:
+        prob, ans = pairs[s]
+        try:
+            parse_one(s, prob, ans, work_dir, kordoc, force=args.force)
+        except Exception as e:
+            print(s, "ERROR", e)
+
+
+if __name__ == "__main__":
+    main()
