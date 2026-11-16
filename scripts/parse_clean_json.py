@@ -10,6 +10,11 @@
    Q29/30/42 교정 62건이 적용돼, 미해결은 아래 11건만 남았다. 플래그는
    미해결 건에만 True이다. (원본 코드는 30/42번 전부 True였다.)
 3. 단일 파일 실행을 전체 74개 파일 일괄 처리로 확장.
+4. metadata에 원문 출처(source) 추가: 복원 md와 원본 문제지·답지 PDF의
+   저장소 경로를 기록한다. (2026-11-16)
+5. OPEN_VOCAB_CASES 비움: 미해결 11건이 전부 해결돼 needs_vocab_fix는
+   전 파일 False이다. 이미지 답지 4건은 커밋 f8cef486, G? 7건은 커밋
+   a4a6c299에서 복원 파일에 적용됨. (2026-11-16)
 """
 import argparse
 import json
@@ -29,17 +34,8 @@ TARGET_NUMBERS = set(QUESTION_TYPES.keys())
 
 # 아직 교정이 안 된 어휘 문항 (전수 감사 기준: G? 7건 + 이미지 답지 4건)
 # 키: 파일 줄기(YYYY_Mn_Hn), 값: 미해결 문항 번호 집합
-OPEN_VOCAB_CASES = {
-    "2020_M11_H1": {42},
-    "2021_M3_H3": {42},
-    "2021_M7_H3": {42},
-    "2022_M6_H1": {30},
-    "2022_M9_H1": {42},
-    "2022_M11_H1": {42},
-    "2025_M6_H1": {30, 42},
-    "2025_M6_H2": {30, 42},
-    "2025_M7_H3": {42},
-}
+# 2026-11-16: 11건 전부 해결돼 비워 둔다. 새로 생기면 여기에 추가한다.
+OPEN_VOCAB_CASES = {}
 
 
 def parse_filename_meta(filename: str) -> dict:
@@ -60,7 +56,16 @@ def parse_restored_markdown(md_path: str) -> dict:
     path = Path(md_path)
     raw_text = path.read_text(encoding="utf-8")
     meta = parse_filename_meta(path.name)
-    stem = re.match(r"(\d{4}_M\d+_H\d+)", path.name).group(1)
+    stem_match = re.match(r"(\d{4})_M(\d+)_H(\d+)", path.name)
+    year, month, grade_digit = stem_match.groups()
+    stem = stem_match.group(0)
+    # 원문 출처: 복원 md와 원본 문제지·답지 PDF의 저장소 경로
+    # (data/raw 파일명은 "YYYY년_M월_고N_수능영어_문제/정답.pdf"이며 월은 0으로 채우지 않는다)
+    meta["source"] = {
+        "restored_md": f"data/output/고{grade_digit}/{stem}_restored.md",
+        "questions_pdf": f"data/raw/{year}년_{month}월_고{grade_digit}_수능영어_문제.pdf",
+        "answers_pdf": f"data/raw/{year}년_{month}월_고{grade_digit}_수능영어_정답.pdf",
+    }
     open_cases = OPEN_VOCAB_CASES.get(stem, set())
 
     # 문항 번호(1. ~ 45.) 기준으로 블록 분리
