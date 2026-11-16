@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2020,
+    "month": 6,
+    "grade": "고2",
+    "exam_title": "2020학년도 6월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2020-M6-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We all have set patterns in life. We like to label ourselves as this or that and are quite proud of our opinions and beliefs. We all like to read a particular newspaper, watch the same sorts of TV programs or movies, go to the same sort of shops every time, eat the sort of food that suits us, and wear the same type of clothes. And all this is fine. But if we cut ourselves off from all other possibilities, we become boring, rigid, hardened ― and thus likely to get knocked about a bit. You have to see life as a series of adventures. Each adventure is a chance to have fun, learn something, explore the world, expand your circle of friends and experience, and broaden your horizons. Shutting down to adventure means exactly that ― you are shut down.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 constantly wearing masks가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Over the centuries various writers and thinkers, looking at humans from an outside perspective, have been struck by the theatrical quality of social life. The most famous quote expressing this comes from Shakespeare: “All the world’s a stage, / And all the men and women merely players; / They have their exits and their entrances, / And one man in his time plays many parts.” If the theater and actors were traditionally represented by the image of masks, writers such as Shakespeare are implying that all of us are constantly wearing masks. Some people are better actors than others. Evil types such as Iago in the play Othello are able to conceal their hostile intentions behind a friendly smile. Others are able to act with more confidence and bravado — they often become leaders. People with excellent acting skills can better navigate our complex social environments and get ahead.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Personal blind spots are areas that are visible to others but not to you. The developmental challenge of blind spots is that you don’t know what you don’t know. Like that area in the side mirror of your car where you can’t see that truck in the lane next to you, personal blind spots can easily be overlooked because you are completely unaware of their presence. They can be equally dangerous as well. That truck you don’t see? It’s really there! So are your blind spots. Just because you don’t see them, doesn’t mean they can’t run you over. This is where you need to enlist the help of others. You have to develop a crew of special people, people who are willing to hold up that mirror, who not only know you well enough to see that truck, but who also care enough about you to let you know that it’s there.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A child whose behavior is out of control improves when clear limits on their behavior are set and enforced. However, parents must agree on where a limit will be set and how it will be enforced. The limit and the consequence of breaking the limit must be clearly presented to the child. Enforcement of the limit should be consistent and firm. Too many limits are difficult to learn and may spoil the normal development of autonomy. The limit must be reasonable in terms of the child’s age, temperament, and developmental level. To be effective, both parents (and other adults in the home) must enforce limits. Otherwise, children may effectively split the parents and seek to test the limits with the more indulgent parent. In all situations, to be effective, punishment must be brief and linked directly to a behavior.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many inventions were invented thousands of years ago so it can be difficult to know their exact origins. Sometimes scientists discover a model of an early invention and from this model they can accurately tell us how old it is and where it came from. However, there is always the possibility that in the future other scientists will discover an even older model of the same invention in a different part of the world. In fact, we are forever discovering the history of ancient inventions. An example of this is the invention of pottery. For many years archaeologists believed that pottery was first invented in the Near East (around modern Iran) where they had found pots dating back to 9,000 B.C. In the 1960s, however, older pots from 10,000 B.C. were found on Honshu Island, Japan. There is always a possibility that in the future archaeologists will find even older pots somewhere else.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "Every farmer knows what the hard part is getting the field prepared. Inserting seeds and watching them grow is easy. In the case of science and industry, the community prepares the field, yet society tends to give all the credit to the individual who happens to plant a successful seed. Planting a seed does not necessarily require overwhelming intelligence; creating an environment that allows seeds to prosper does. We need to give more credit to the community in science, politics, business, and daily life. Martin Luther King Jr. was a great man. Perhaps his greatest strength was his ability to inspire people to work together to achieve, against all odds, revolutionary changes in society’s perception of race and in the fairness of the law. But to really understand what he accomplished requires looking beyond the man. Instead of treating him as the manifestation of everything great, we should appreciate his role in allowing America to show that it can be great.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Sudden success or winnings can be very dangerous. Neurologically, chemicals are released in the brain that give a powerful burst of excitement and energy, leading to the desire to repeat this experience. It can be the start of any kind of addiction or manic behavior. Also, when gains come quickly we tend to lose sight of the basic wisdom that true success, to really last, must come through hard work. We do not take into account the role that luck plays in such sudden gains. We try again and again to recapture that high from winning so much money or attention. We acquire feelings of superiority. We become especially resistant to anyone who tries to warn us — they don’t understand, we tell ourselves. Because this cannot be sustained, we experience an inevitable fall, which is all the more painful, leading to the depression part of the cycle. Although gamblers are the most prone to this, it equally applies to businesspeople during bubbles and to people who gain sudden attention from the public.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "When is the right time for the predator to consume the fruit? The plant uses the color of the fruit to signal to predators that it is ripe, which means that the seed’s hull has hardened — and therefore the sugar content is at its height. Incredibly, the plant has chosen to manufacture fructose, instead of glucose, as the sugar in the fruit. Glucose raises insulin levels in primates and humans, which initially raises levels of leptin, a hunger‒blocking hormone — but fructose does not. As a result, the predator never receives the normal message that it is full. That makes for a win‒win for predator and prey. The animal obtains more calories, and because it keeps eating more and more fruit and therefore more seeds, the plant has a better chance of distributing more of its babies.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "We are often faced with high‒level decisions, where we are unable to predict the results of those decisions. In such situations, most people end up quitting the option altogether, because the stakes are high and results are very unpredictable. But there is a solution for this. You should use the process of testing the option on a smaller scale. In many situations, it’s wise to dip your toe in the water rather than dive in headfirst. Recently, I was about to enroll in an expensive coaching program. But I was not fully convinced of how the outcome would be. Therefore, I used this process by enrolling in a low‒cost mini course with the same instructor. This helped me understand his methodology, style, and content; and I was able to test it with a lower investment, and less time and effort before committing fully to the expensive program.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Sociologists have proven that people bring their own views and values to the culture they encounter; books, TV programs, movies, and music may affect everyone, but they affect different people in different ways. In a study, Neil Vidmar and Milton Rokeach showed episodes of the sitcom All in the Family to viewers with a range of different views on race. The show centers on a character named Archie Bunker, an intolerant bigot who often gets into fights with his more progressive family members. Vidmar and Rokeach found that viewers who didn’t share Archie Bunker’s views thought the show was very funny in the way it made fun of Archie’s absurd racism ― in fact, this was the producers’ intention. On the other hand, though, viewers who were themselves bigots thought Archie Bunker was the hero of the show and that the producers meant to make fun of his foolish family! This demonstrates why it’s a mistake to assume that a certain cultural product will have the same effect on everyone.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The availability heuristic refers to a common mistake that our brains make by assuming that the instances or examples that come to mind easily are also the most important or prevalent. It shows that we make our decisions based on the recency of events. We often misjudge the frequency and magnitude of the events that have happened recently because of the limitations of our memories. According to Harvard professor, Max Bazerman, managers conducting performance appraisals often fall victim to the availability heuristic. The recency of events highly influences a supervisor’s opinion during performance appraisals. Managers give more weight to performance during the three months prior to the evaluation than to the previous nine months of the evaluation period because the recent instances dominate their memories. The availability heuristic is influenced by the ease of recall or retrievability of information of some event. Ease of recall suggests that if something is more easily recalled in your memory, you think that it will occur with a high probability.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Marketing management is concerned not only with finding and increasing demand but also with changing or even reducing it. For example, Uluru (Ayers Rock) might have too many tourists wanting to climb it, and Daintree National Park in North Queensland can become overcrowded in the tourist season. Power companies sometimes have trouble meeting demand during peak usage periods. In these and other cases of excess demand, the needed marketing task, called demarketing, is to reduce demand temporarily or permanently. Efforts should be made to compensate for the losses caused by the increase in supply. The aim of demarketing is not to completely destroy demand, but only to reduce or shift it to another time, or even another product. Thus, marketing management seeks to affect the level, timing, and nature of demand in a way that helps the organisation achieve its objectives.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The invention of the mechanical clock was influenced by monks who lived in monasteries that were the examples of order and routine. They had to keep accurate time so that monastery bells could be rung at regular intervals to announce the seven hours of the day reserved for prayer. Early clocks were nothing more than a weight tied to a rope wrapped around a revolving drum. Time was determined by watching the length of the weighted rope. The discovery of the pendulum in the seventeenth century led to the widespread use of clocks and enormous public clocks. Eventually, keeping time turned into serving time. People started to follow the mechanical time of clocks rather than their natural body time. They ate at meal time, rather than when they were hungry, and went to bed when it was time, rather than when they were sleepy. Even periodicals and fashions became “yearly.” The world had become orderly.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Since we know we can’t completely eliminate our biases, we need to try to limit the harmful impacts they can have on the objectivity and rationality of our decisions and judgments. It is important that we are aware when one of our cognitive biases is activated and make a conscious choice to overcome that bias. We need to be aware of the impact the bias has on our decision making process and our life. [3점] Then we can choose an appropriate de‒biasing strategy to combat it. After we have implemented a strategy, we should check in again to see if it worked in the way we had hoped. If it did, we can move on and make an objective and informed decision. If it didn’t, we can try the same strategy again or implement a new one until we are ready to make a rational judgment.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "It is important to remember that computers can only carry out instructions that humans give them. Computers can process data accurately at far greater speeds than people can, yet they are limited in many respects ― most importantly, they lack common sense. However, combining the strengths of these machines with human strengths creates synergy. Synergy occurs when combined resources produce output that exceeds the sum of the outputs of the same resources employed separately. A computer works quickly and accurately; humans work relatively slowly and make mistakes. A computer cannot make independent decisions, however, or formulate steps for solving problems, unless programmed to do so by humans. Even with sophisticated artificial intelligence, which enables the computer to learn and then implement what it learns, the initial programming must be done by humans. Thus, a human‒ computer combination allows the results of human thought to be translated into efficient processing of large amounts of data.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "For hundreds of thousands of years our hunter‒gatherer ancestors could survive only by constantly communicating with one another through nonverbal cues. Developed over so much time, before the invention of language, that is how the human face became so expressive, and gestures so elaborate. We have a continual desire to communicate our feelings and yet at the same time the need to conceal them for proper social functioning. With these counterforces battling inside us, we cannot completely control what we communicate. Our real feelings continually leak out in the form of gestures, tones of voice, facial expressions, and posture. We are not trained, however, to pay attention to people’s nonverbal cues. By sheer habit, we fixate on the words people say, while also thinking about what we’ll say next. What this means is that we are using only a small percentage of the potential social skills we all possess.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Why do we help? One widely held view is that self‒interest underlies all human interactions, that our constant goal is to maximize rewards and minimize costs. Accountants call it cost‒benefit analysis. Philosophers call it utilitarianism. Social psychologists call it social exchange theory. If you are considering whether to donate blood, you may weigh the costs of doing so (time, discomfort, and anxiety) against the benefits (reduced guilt, social approval, and good feelings). If the rewards exceed the costs, you will help. Others believe that we help because we have been socialized to do so, through norms that prescribe how we ought to behave. Through socialization, we learn the reciprocity norm: the expectation that we should return help, not harm, to those who have helped us. In our relations with others of similar status, the reciprocity norm compels us to give (in favors, gifts, or social invitations) about as much as we receive.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M6-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "An organization imported new machinery with the capacity to produce quality products at a lesser price. A manager was responsible for large quantities in a relatively short span of time. He started with the full utilization of the new machinery. He operated it 24/7 at maximum capacity. He paid the least attention to downtime, recovery breaks or the general maintenance of the machinery. As the machinery was new, it continued to produce results and, therefore, the organization’s profitability soared and the manager was appreciated for his performance. Now after some time, this manager was promoted and transferred to a different location. A new manager came in his place to be in charge of running the manufacturing location. But this manager realized that with heavy utilization and without any downtime for maintenance, a lot of the parts of the machinery were significantly worn and needed to be replaced or repaired. The new manager had to put significant time and effort into repair and maintenance of the machines, which resulted in lower production and thus a loss of profits. The earlier manager had only taken care of the goal of production and ignored the machinery although he had short‒term good results. But ultimately not giving attention to recovery and maintenance resulted in long-term negative consequences.",
+      "original_summary": null,
+      "word_count": 213,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

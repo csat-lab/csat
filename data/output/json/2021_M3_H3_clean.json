@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 3,
+    "grade": "고3",
+    "exam_title": "2021학년도 3월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M3-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Good teachers know that learning occurs when students compare what they already know with the new ideas presented by the teacher or textbook. It is the students who decide whether or not to reconstruct their conceptions; therefore, teaching should be student centered rather than teacher centered. This means that students should be actively involved in making and interpreting analogies. If we believe that analogy use is an effective way to help students think and learn, then it makes sense to help students generate their own analogies or reconstruct the teacher’s analogies to fit in with their own experiences.",
+      "original_summary": null,
+      "word_count": 98,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 last in, first out이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "While user habits are a boon to companies fortunate enough to generate them, their existence inherently makes success less likely for new innovations and startups trying to disrupt the status quo. The fact is, successfully changing long-term user habits is exceptionally rare. Altering behavior requires not only an understanding of how to persuade people to act but also necessitates getting them to repeat behaviors for long periods, ideally for the rest of their lives. Companies that succeed in building a habit-forming business are often associated with game-changing, wildly successful innovation. But like any discipline, habit design has rules that define and explain why some products change lives while others do not. For one, new behaviors have a short half-life, as our minds tend to return to our old ways of thinking and doing. Experiments show that lab animals habituated to new behaviors tend to regress to their first learned behaviors over time. To borrow a term from accounting, behaviors are LIFO ─ “last in, first out.”",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Despite numerous studies on the influence of mediated agendas on politics, most studies examine text only ⎯ as if media only deliver words. These studies looked at how reporters, analysts, and commentators verbally describe and criticize the candidates. But they often neglect another important source of influence: visuals. As some communication scholars said, “Stories are often complex combinations of visual and verbal content ⎯ all too often the visual information is so powerful that it overwhelms the verbal.” The challenge of tackling visuals to examine their influence is multifaceted. The difficulties of gathering and coding visual data and of attributing impact to specific parts of images have no doubt caused veritable scholars to shy away. But the potential impact of visuals on people’s perceptions is simply too important to ignore. Furthermore, the importance of understanding both visuals and text in tandem cannot be understated.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Despite excellent training, actors inevitably experience the visceral life of their characters, even if it is for brief moments during a performance. Self-perceptions are altered during the course of a performance, and even more so during long performance seasons. For many actors, they experience greater empathy and social cognition for their character, which may intensify identity boundary blurring. As well, actors tend to employ more dissociative processes, which increase potential character boundary blurring. Actors also experience more unresolved mourning for past trauma and loss experiences because they continually draw from these experiences when portraying characters. Adding to this tendency to merge with the creative work, audience members also confuse the character’s personality with the actor’s personality. Audience attribution errors may increase distress in the actor, including fearing that their personality identity is not stable.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "There is a story about F. Yates, a prominent UK statistician. During his student years at St. John’s College, Cambridge, Yates had been keen on a form of sport. It consisted of climbing about the roofs and towers of the college buildings at night. In particular, the chapel of St. John’s College has a massive neo-Gothic tower adorned with statues of saints, and to Yates it appeared obvious that it would be more decorous if these saints were properly attired in surplices. One night he climbed up and did the job; next morning the result was generally much admired. But the College authorities were unappreciative and began to consider means of divesting the saints of their newly acquired garments. This was not easy, since they were well out of reach of any ordinary ladder. An attempt to lift the surplices off from above, using ropes with hooks attached, was unsuccessful. No progress was being made and eventually Yates came forward and volunteered to climb up in the daylight and bring them down. This he did to the admiration of the crowd that assembled.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The formats and frequencies of traditional trade encompass a spectrum. At the simplest level are the occasional trips made by individual !Kung and Dani to visit their individual trading partners in other bands or villages. Suggestive of our open-air markets and flea markets were the occasional markets at which Sio villagers living on the coast of northeast New Guinea met New Guineans from inland villages. Up to a few dozen people from each side sat down in rows facing each other. An inlander pushed forward a net bag containing between 10 and 35 pounds of taro and sweet potatoes, and the Sio villager sitting opposite responded by offering a number of pots and coconuts judged equivalent in value to the bag of food. Trobriand Island canoe traders conducted similar markets on the islands that they visited, exchanging utilitarian goods (food, pots, and bowls) by barter, at the same time as they and their individual trade partners gave each other reciprocated gifts of luxury items (shell necklaces and armbands).",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Those who limit themselves to Western scientific research have virtually ignored anything that cannot be perceived by the five senses and repeatedly measured or quantified. Research is dismissed as superstitious and invalid if it cannot be scientifically explained by cause and effect. Many continue to cling with an almost religious passion to this cultural paradigm about the power of science ⸻ more specifically, the power that science gives them. By dismissing non-Western scientific paradigms as inferior at best and inaccurate at worst, the most rigid members of the conventional medical research community try to counter the threat that alternative therapies and research pose to their work, their well-being, and their worldviews. And yet, biomedical research cannot explain many of the phenomena that concern alternative practitioners regarding caring-healing processes. When therapies such as acupuncture or homeopathy are observed to result in a physiological or clinical response that cannot be explained by the biomedical model, many have tried to deny the results rather than modify the scientific model.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "People unknowingly sabotage their own work when they withhold help or information from others or try to undermine them lest they become more successful or get more credit than “me.” Cooperation is alien to the ego, except when there is a secondary motive. The ego doesn’t know that the more you include others, the more smoothly things flow and the more easily things come to you. When you give little or no help to others or put obstacles in their path, the universe ― in the form of people and circumstances ― gives little or no help to you because you have cut yourself off from the whole. The ego’s unconscious core feeling of “not enough” causes it to react to someone else’s success as if that success had taken something away from “me.” It doesn’t know that your resentment of another person’s success curtails your own chances of success. In order to attract success, you need to welcome it wherever you see it.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Jeffrey A. Rodgers, a vice president of a big company, was once taught the simple idea of pausing to refresh. It began when Jeff realized that as he drove home from work each evening his mind was still focused on work-related projects. We all know this feeling. We may have left the office physically, but we are very much still there mentally, as our minds get caught in the endless loop of replaying the events of today and worrying about all the things we need to get done the following day. So now, as he gets to the door of his house, he applies what he calls “the pause that refreshes.” He stops for just a moment. He closes his eyes. He breathes in and out once: deeply and slowly. As he exhales, he lets the work issues fall away. This allows him to walk through the front door to his family with more singleness of purpose. It supports the sentiment attributed to Lao Tzu: “In work, do what you enjoy. In family life, be completely present.”",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Plants are genius chemists. They rely on their ability to manufacture chemical compounds for every single aspect of their survival. A plant with juicy leaves can’t run away to avoid being eaten. It relies on its own chemical defenses to kill microbes, deter pests, or poison would-be predators. Plants also need to reproduce. They can’t impress a potential mate with a fancy dance, a victory in horn-to-horn combat, or a well-constructed nest like animals do. Since plants need to attract pollinators to accomplish reproduction, they’ve evolved intoxicating scents, sweet nectar, and pheromones that send signals that bees and butterflies can’t resist. When you consider that plants solve almost all of their problems by making chemicals, and that there are nearly 400,000 species of plants on Earth, it’s no wonder that the plant kingdom is a source for a dazzling array of useful substances.",
+      "original_summary": null,
+      "word_count": 143,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The meritocratic emphasis on effort and hard work seeks to vindicate the idea that, under the right conditions, we are responsible for our success and thus capable of freedom. It also seeks to vindicate the faith that, if the competition is truly fair, success will align with virtue; those who work hard and play by the rules will earn the rewards they deserve. We want to believe that success, in sports and in life, is something we earn, not something we inherit. Natural gifts and the advantages they bring embarrass the meritocratic faith. They cast doubt on the conviction that praise and rewards flow from effort alone. In the face of this embarrassment, we inflate the moral significance of effort and striving. This can be seen, for example, in television coverage of the Olympics, which focuses less on the feats the athletes perform than on heartbreaking stories of the hardships and obstacles they have overcome, and the struggles they have gone through to triumph over injury, or a difficult childhood, or political turmoil in their native land.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Cyber attacks on air traffic control systems have become a leading security concern. The federal government released a report in 2009 stating that the nation’s air traffic control system is vulnerable to a cyber attack that could interrupt communication with pilots and alter the flight information used to separate aircraft as they approach an airport. The report found numerous security problems in airline computer systems, including easy-to-crack passwords and unencrypted file folders, issues that could give invaders easy access. A cyber attack on air traffic has the potential to kill many people and could cripple the country’s entire airline industry. Unprecedented declines in consumer demand impacted the profitability of the airline industry, changing the face of aircraft travel for the foreseeable future. Tightening airline computer security could be even more important than conducting security screenings of passengers, because in an increasingly cyber-oriented world, plane hijackers of the future may not even be on board.",
+      "original_summary": null,
+      "word_count": 154,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "A classic positive-sum game in economic life is the trading of surpluses. One infrastructure that allows efficient exchange is transportation, which makes it possible for producers to trade their surpluses even when they are separated by distance. Another is money, interest, and middlemen, which allow producers to exchange many kinds of surpluses with many other producers at many points in time. If a farmer has more grain than he can eat, and a herder has more milk than he can drink, both of them come out ahead if they trade some wheat for some milk. As they say, everybody wins. Of course, an exchange at a single moment in time only pays when there is a division of labor. There would be no point in one farmer giving a bushel of wheat to another farmer and receiving a bushel of wheat in return. A fundamental insight of modern economics is that the key to the creation of wealth is a division of labor, in which specialists learn to produce a commodity with increasing cost-effectiveness and have the means to exchange their specialized products efficiently.",
+      "original_summary": null,
+      "word_count": 184,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Human movement can be affected, either positively or negatively, by the environment within which the movement takes place. Consider an athlete who runs the 100 m wearing training shoes. She is unlikely to achieve as good a time wearing these shoes as she would if she wore specifically designed spiked running shoes. Is she there because she really wants to be, or is she there just because her brother is also a runner and so her parents bring her along as well? Motivation is a key factor in sports training and performance. On the contrary, if she had a tailwind her performance would be enhanced and movement assisted by the wind. Let us also consider other surrounding circumstances, such as what is motivating the athlete to run. During athletic competitions wind speed is always measured as it is recognised as having an impact, either positively or negatively, on performance times. If our runner was running into a headwind, her speed would be reduced, as some of her force would be needed to overcome the additional obstacle of the wind.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Wind direction is usually measured through the use of a simple vane. This is simply a paddle of some sort mounted on a spindle; when it catches the wind, it turns so that the wind passes by without obstruction. The direction is recorded, but if you ever have a chance to watch a wind vane on a breezy day, you will notice that there is a lot of variation in the direction of wind flow ― a lot! Sometimes the wind can blow from virtually every direction within a minute or two. In order to make some sense of this, an average wind direction over an hour is sometimes calculated, or sometimes the direction that the wind blew from the most during the hour is recorded. Either way, it is a generalization, and it’s important to remember that there can be a lot of variation in the data. It’s also important to remember that the data recorded at a weather station give an indication of conditions prevailing in an area but will not be exactly the same as the conditions at a landscape some distance from the weather station.",
+      "original_summary": null,
+      "word_count": 189,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Bundle pricing is packaging together two or more products, usually complementary ones, to be sold for a single price, which is usually considerably less than the sum of the prices of the individual products. Bundle pricing facilitates customer satisfaction and, when slow-moving products are bundled with products with higher turnover, can help a company stimulate sales and increase revenues. Selling products as a package rather than individually also may result in cost savings, so bundle pricing is commonly used for banking and travel services, computers, and automobiles with option packages. Some organizations, however, are unbundling in favor of a more itemized approach sometimes called à la carte pricing. This provides customers with the opportunity to pick and choose the products they want without having to purchase bundles that may not be the right mix for their purposes. Furthermore, with the help of the Internet, comparison shopping has become more convenient than ever, allowing customers to price items and create their own mixes. Nevertheless, bundle pricing continues to appeal to customers who prefer the convenience of a package.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The searchability of online works represents a variation on older navigational aids such as tables of contents, indexes, and concordances. But the effects are different. As with links, the ease and ready availability of searching make it much simpler to jump between digital documents than it ever was to jump between printed ones. Our attachment to any one text becomes more tenuous, more transitory. Searches also lead to the fragmentation of online works. A search engine often draws our attention to a particular snippet of text, a few words or sentences that have strong relevance to whatever we’re searching for at the moment, while providing little incentive for taking in the work as a whole. We don’t see the forest when we search the Web. We don’t even see the trees. We see twigs and leaves.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M3-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Surprisingly, consciousness might not be as crucial to creativity as we like to think. There are several different types of creativity ― some of them conscious, some of them unconscious. Creativity can happen when you deliberately try to create something or it can happen in your sleep. In any case, Arne Dietrich, a neuroscientist, believes that the creative brain might work much like software. Neuroscientists suspect that creativity is essentially about discovery rather than anything mystical ― driven by a mechanical process in the brain that generates possible solutions and then eliminates them systematically. He believes our tendency to dismiss computational creativity as inferior to our own comes from an ingrained dualism in human culture. ‘We are overvaluing ourselves and underestimating them,’ he says. As a neuroscientist, Dietrich says he tackles the brain as a machine ― and does not see machine creativity as different. Considered in this way, the idea that the human brain has a unique claim to creative talents seems a proper perspective. Will others accept that idea? The trick is to stop trying to compare computer artists to human ones. If we can embrace computer creativity for what it is and stop trying to make it look human, not only will computers teach us new things about our own creative talents, but they might become creative in ways that we cannot begin to imagine.",
+      "original_summary": null,
+      "word_count": 228,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": true,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

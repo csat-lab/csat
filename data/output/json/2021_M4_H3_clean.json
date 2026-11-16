@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 4,
+    "grade": "고3",
+    "exam_title": "2021학년도 4월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M4-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "More often than not, modern parents are paralyzed by the fear that they will no longer be liked or even loved by their children if they scold them for any reason. They want their children’s friendship above all, and are willing to sacrifice respect to get it. This is not good. A child will have many friends, but only two parents ― if that ― and parents are more, not less, than friends. Friends have very limited authority to correct. Every parent therefore needs to learn to tolerate the momentary anger or even hatred directed toward them by their children, after necessary corrective action has been taken, as the capacity of children to perceive or care about long-term consequences is very limited. Parents are the judges of society. They teach children how to behave so that other people will be able to interact meaningfully and productively with them.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 the mind’s eye is blind가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "All any neuron in the brain ever “sees” is that some change occurred in the firing patterns of its upstream peers. It cannot tell whether such change is caused by an external disturbance or by the brain’s constant self-organized activity. Thus, neurons located in networks of other neurons do not “know” what the brain’s sensors are sensing; they simply respond to their upstream inputs. In other words, the neurons have no way of relating or comparing their spikes to anything else because they only receive retinal correspondences or processed “representations” of the sensory input. But establishing correspondences without knowing the rules by which those correspondences are constructed is like comparing Mansi words with Khanty words when we understand neither language. Only after we have defined the vocabulary of one language can we understand the corresponding meaning of words in the other. Similarly, without further information, sensory neurons can attach no meaning whatsoever to their spikes. Put simply, the mind’s eye is blind.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The way reduced prices are written during a sale will greatly affect people’s attitude toward the products (and their likelihood of purchasing them). If the sale prices are easy to understand using percentages (for example, “-50%”) or with the new prices already calculated (for example, “now only $20”), shoppers will react in an automatic and positive fashion. However, if it is necessary for them to do complex mental calculations (for example, if a $27.50 product is advertised at 12% off), they will switch to a more analytical style of thinking. This results in more attention spent on the calculation, and subsequently on the merits of the product. No longer feeling spontaneous, shoppers will start questioning whether it is actually a good deal or not, whether they really need another pair of shoes, etc. The more cognitive effort is demanded from shoppers, the more of a negative and suspicious reaction will be evoked, and the chances of making a sale diminish.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Early astronomers saw and learned more from eclipses and other forms of shadow than from direct observation. In Galileo’s time, the empiricist’s insistence on direct observation as the only legitimate way of knowing limited what could be learned about the cosmos, and the medievalist allowance for extraperceptual insights had nothing to contribute to what we would consider scientific inquiry. Galileo’s breakthroughs came in part from his understanding of how to use shadows to extend his powers of observation. At the time he trained his telescope on Venus, it was believed the planet shone with its own light and moved in an orbit independent of the sun. Galileo saw that the planet was in partial shadow as it went through its phases, and thus had to be a dark body. He also realized from the logic of the shadow that Venus orbited the sun, since all phases from new to full could be observed from earth. The end of the Ptolemaic system came quickly thereafter, a shadow thus shedding light on the ordering of the cosmos.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Moral philosophy textbooks often proclaim that we can discern if a claim is ethical by attending to the use of the words “is” and “ought.” On this suggestion, the claim “You ought to keep your promises,” because it uses “ought,” is ethical. “An atom is small,” because it uses “is,” is nonethical. Yet, despite being commonly invoked, this is-ought test is seriously deficient. Some is-statements have ethical content and some ought-statements do not. For example, consider the claims “Murder is wrong” and “Friendship is good.” These claims obviously have ethical content. Whatever the is-ought test is tracking, these claims clearly fall on the ought side of that divide. Yet they both use “is.” Similarly, consider the claim “The train ought to arrive in an hour.” This statement is clearly nonethical, the use of “ought” notwithstanding. There is an important distinction between ethical and nonethical claims. But we can’t simply rely on “is” and “ought” to make it. Instead we need to attend to the substance of the claim.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The world’s first complex writing form, Sumerian cuneiform, followed an evolutionary path, moving around 3500 BCE from pictographic to ideographic representations, from the depiction of objects to that of abstract notions. Sumerian cuneiform was a linear writing system, its symbols usually set in columns, read from top to bottom and from left to right. This regimentation was a form of abstraction: the world is not a linear place, and objects do not organize themselves horizontally or vertically in real life. Early rock paintings, thought to have been created for ritual purposes, were possibly shaped and organized to follow the walls of the cave, or the desires of the painters, who may have organized them symbolically, or artistically, or even randomly. Yet after cuneiform, virtually every form of script that has emerged has been set out in rows with a clear beginning and endpoint. So uniform is this expectation, indeed, that the odd exception is noteworthy, and generally established for a specific purpose.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "It’s likely that for a very long time people managed to survive with draped animal pelts and then began roughly sewing these together. Ultimately, though, the advantages of using woven fabric for clothing would have become obvious. A fur pelt offers excellent thermal protection if someone is sitting still, but once on the move or in strong winds, this is less true, because pelts aren’t shaped close to the body. The more air gets between the body and the clothing, the less effective it is at trapping an insulating layer of air close to the skin. In fact, the insulating properties of clothing decrease very much when walking quickly. Clothing also needs to be breathable, because damp clothes are bad at keeping the wearer warm and become very heavy. Woven fabrics are more breathable than fur and, when specifically tailored to the body, make excellent internal layers, preventing cold air from getting direct access to the skin’s surface. Thus the ability to create woven clothing would have offered material advantages to our early ancestors once they had left Africa for cooler areas.",
+      "original_summary": null,
+      "word_count": 182,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Contrary to popular opinion, woodpeckers don’t restrict themselves to rotten trees, and they often start construction in healthy trees. Just like us, woodpeckers want the place where they bring up their families to be solid and durable. Even though the birds are well equipped to hammer away at healthy wood, it would be too much for them to complete the job all at once. And that’s why they take a months-long break after making a hole that may be only an inch or two deep, hoping fungi will pitch in. As far as the fungi are concerned, this is the invitation they have been waiting for, because usually they can’t get past the bark. In this case, the fungi quickly move into the opening and begin to break down the wood. What the tree sees as a coordinated attack, the woodpecker sees as a(n) division of labor. After a while, the wood fibers are so soft that it’s much easier for the woodpecker to enlarge the hole.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The urban environment is generally designed so as not to make contact with our skin. We do not push through bushes on our way to school or work. Roads and sidewalks are kept clear of obstacles. Only once in a while are we reminded of the materiality of the environment, as when we feel the brush of an unexpected tree branch or nearly fall over a curb. Most of our time is not even spent outside. “Outside” is often just a space we go through to get “inside.” Our time is largely spent indoors, where architecture and design collude to provide an environment as lacking as possible in tactile stimulation. In the modern university or office building, floors and walls are flat and smooth, corridors are clear, the air is still, the temperature is neutral, and elevators carry one effortlessly from one level to another. It is commonly assumed that we are best served by our tactile environment when we scarcely notice its presence.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The ideal sound quality varies a lot in step with technological and cultural changes. Consider, for instance, the development of new digital audio formats such as MP3 and AAC. Various media feed us daily with data-compressed audio, and some people rarely experience CD-quality (that is, technical quality) audio. This tendency could lead to a new generation of listeners with other sound quality preferences. Research by Stanford University professor Jonathan Berger adds fuel to this thesis. Berger tested first-year university students’ preferences for MP3s annually for ten years. He reports that each year more and more students come to prefer MP3s to CD-quality audio. These findings indicate that listeners gradually become accustomed to data-compressed formats and change their listening preferences accordingly. The point is that while technical improvements strive toward increased sound quality in a technical sense (e.g., higher resolution and greater bit rate), listeners’ expectations do not necessarily follow the same path. As a result, “improved” technical digital sound quality may in some cases lead to a(n) decrease in the perceptual worth of the sound.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Science shows that the size of a memory and our perception of time are coupled like gear teeth in a bicycle chain. Rich and novel experiences, like the recollections of the summers of our youth, have lots of new information associated with them. During those hot days, we learned how to swim or traveled to new places or mastered riding a bike without training wheels. The days went by slowly with those adventures. Yet, our adult lives have less novelty and newness, and are full of repeated tasks such as commuting or sending email or doing paperwork. The associated information filed for those chores is smaller, and there is less new footage for the recall part of the brain to draw upon. Our brain interprets these days filled with boring events as shorter, so summers swiftly speed by. Despite our desire for better clocks, our measuring stick of time isn’t fixed. We don’t measure time with seconds, like our clocks, but by our experiences. For us, time can slow down or time can fly.",
+      "original_summary": null,
+      "word_count": 174,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Research has shown that individuals — especially those who have benefited from a particular system — are prone to support and rationalize the status quo, even if there are clear problems. These people justify systemic inequity with familiar phrases like “If you just work hard enough you can pull yourself up by your bootstraps.” A branch of psychology called system justification theory describes how people tend to see social, economic, and political systems as good, fair, and legitimate if they have succeeded as a result of those systems. According to Erin Godfrey, a professor of applied psychology at New York University, “The people who are at the top want to believe in meritocracy because it means that they deserve their successes.” Indeed, it is not suprising that there exists a general consensus across social class about the definition and the results of meritocracy. Those who are in an advantaged position in society are more likely to believe the system is fair and see no reason to change it.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Forget-me-nots can conquer new territory because they have an army of tiny allies: ants. It’s not that ants are particularly fond of flowers ― at least, they are not attracted by their aesthetic qualities. Ants are motivated by their desire to eat them, and their interest is triggered when forget-me-nots form their seeds. The seeds are designed to make an ant’s mouth water, for attached to the outside is a structure called an elaiosome, which looks like a tiny bit of cake. This fat-and sugar-rich treat is like chips and chocolate to an ant. The tiny creatures quickly carry the seeds back to their nest, where the colony is waiting eagerly in the tunnels for the calorie boost. The tasty treat is bitten off and the seed itself is discarded. Along come the trash collectors in the form of worker ants, which dispose of the seeds in the neighborhood ― carrying them up to 200 feet away from home base. Wild strawberries and other plants also benefit from this distribution service: ants are nature’s gardeners, as it were.",
+      "original_summary": null,
+      "word_count": 178,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Birds use many techniques to save energy when they are flying, most of which are tricks to stay aloft without flapping. Riding updrafts to gain altitude is one of the most conspicuous. Bare ground such as fields or parking lots absorbs more heat from the sun, and as air near the ground warms up it rises. This creates a column of rising warm air ― a thermal ― reaching hundreds or even thousands of feet high. A soaring bird can sense the air movement and fly in circles to stay in the column. It simply fans its wings and tail and lets the rising air carry it up like an elevator. When it reaches the top, the bird bends its wings and glides in the direction it wants to travel, searching for the next thermal. All soaring birds take advantage of thermals, but some species, like the Broad-winged Hawk, are specialists and in the right conditions can travel hundreds of miles with almost no flapping.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "In the classical period of European music, much musical material was de facto considered common property. When Antonio Vivaldi presented in Venice his opera Rosmira fedele, the score was actually a pastiche in which, among his own ideas, musicologists later identified ideas by George Frederic Handel, Giovanni Battista Pergolesi and Johann Adolph Hasse, among others. As far as recycling of segments of music initially written for other occasions into new pieces is concerned, it needs to be observed how today composers are discouraged from doing so for a number of reasons. A practical one is that each new piece is sure to remain available, in score or as an audio file. In the 18th century, on the contrary, once the particular occasion for performing a new piece was over, it became almost impossible to ever hear it again. Under such circumstances, recycling previously composed music was the only way to make it more durable. And if new pieces also contained ideas from other composers, that would re-enforce European musical traditions by increasing the circulation of melodies and harmonic patterns people loved to hear.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "The era of unicellular life lasted for about three and half billion years, dominating most of the Earth’s history. But around half a billion years ago, during the Cambrian explosion, a diversity of multicellular life including major animal groups emerged in short period. Similarly, calculus was the Cambrian explosion for mathematics. Once it arrived, an amazing diversity of mathematical fields began to evolve. Their lineage is visible in their calculus-based names, in adjectives like differential and integral and analytic, as in differential geometry, integral equations, and analytic number theory. These advanced branches of mathematics are like the many branches and species of multicellular life. In this analogy, the microbes of mathematics are the earliest topics: numbers, shapes, and word problems. Like unicellular organisms, they dominated the mathematical scene for most of its history. But after the Cambrian explosion of calculus three hundred and fifty years ago, new mathematical life forms began to flourish, and they altered the landscape around them.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "There is a key difference between how humans and other intelligent animals learn. In a very telling experiment done by evolutionary psychologist Mike Tomasello at the Max Planck Institute in Germany, a puzzle box containing a treat is given to a human toddler and a chimpanzee. Neither is able to get the treat out. He then demonstrates a multistep process of pulling and pushing pegs that eventually releases the treat. Among the motions, he includes an obviously nonsensical step ― patting his head three times before the last step. Both the toddler and the chimp are able to copy his actions and get the treat, but only the toddler includes the head-patting step. The chimp, seeing this is not relevant to getting the treat, omits it from the routine. The human, however, unquestioningly copies all the steps. The toddler trusts the human teaching her to have a reason for each step in this situation, and so she overcopies. In fact, the less clear the goal of the procedure, the more carefully and precisely the human child will imitate even irrelevant steps. According to the experiment above, when given multiple steps to get a treat, toddlers complete every step of the procedure unlike chimpanzees, because toddlers do not doubt the relevance of each step.",
+      "original_summary": null,
+      "word_count": 213,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M4-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When we place a given amount of liquid in a container and then close it, we observe that the amount of liquid at first drops slightly but eventually becomes constant. The decrease occurs because there is a transfer of molecules from the liquid to the vapor phase. However, as the number of vapor molecules increases, it becomes more and more likely that some of them will return to the liquid. The process by which vapor molecules form a liquid is called condensation. Eventually, the same number of molecules are leaving the liquid as are returning to it: the rate of condensation equals the rate of evaporation. At this point no further change occurs in the amounts of liquid or vapor, because the two opposite processes exactly balance each other; the system is at equilibrium. Note that this system is highly dynamic on the molecular level. Molecules are constantly escaping from and entering the liquid. However, there is no net change because the two processes just balance each other. As an analogy, consider two island cities connected by a bridge. Suppose the traffic flow on the bridge is the same in both directions. There is motion — we can see the cars traveling across the bridge — but the number of cars in each city is not changing because an equal number enter and leave each one. The result is no net change in the number of autos in each city: an equilibrium exists.",
+      "original_summary": null,
+      "word_count": 243,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

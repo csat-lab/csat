@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 6,
+    "grade": "고1",
+    "exam_title": "2021학년도 6월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M6-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Sometimes, you feel the need to avoid something that will lead to success out of discomfort. Maybe you are avoiding extra work because you are tired. You are actively shutting out success because you want to avoid being uncomfortable. Therefore, overcoming your instinct to avoid uncomfortable things at first is essential. Try doing new things outside of your comfort zone. Change is always uncomfortable, but it is key to doing things differently in order to find that magical formula for success.",
+      "original_summary": null,
+      "word_count": 81,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 want to use a hammer가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "We have a tendency to interpret events selectively. If we want things to be “this way” or “that way” we can most certainly select, stack, or arrange evidence in a way that supports such a viewpoint. Selective perception is based on what seems to us to stand out. However, what seems to us to be standing out may very well be related to our goals, interests, expectations, past experiences, or current demands of the situation — “with a hammer in hand, everything looks like a nail.” This quote highlights the phenomenon of selective perception. If we want to use a hammer, then the world around us may begin to look as though it is full of nails!",
+      "original_summary": null,
+      "word_count": 117,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Rather than attempting to punish students with a low grade or mark in the hope it will encourage them to give greater effort in the future, teachers can better motivate students by considering their work as incomplete and then requiring additional effort. Teachers at Beachwood Middle School in Beachwood, Ohio, record students’ grades as A, B, C, or I (Incomplete). Students who receive an I grade are required to do additional work in order to bring their performance up to an acceptable level. This policy is based on the belief that students perform at a failure level or submit failing work in large part because teachers accept it. The Beachwood teachers reason that if they no longer accept substandard work, students will not submit it. And with appropriate support, they believe students will continue to work until their performance is satisfactory.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Curiosity makes us much more likely to view a tough problem as an interesting challenge to take on. A stressful meeting with our boss becomes an opportunity to learn. A nervous first date becomes an exciting night out with a new person. A colander becomes a hat. In general, curiosity motivates us to view stressful situations as challenges rather than threats, to talk about difficulties more openly, and to try new approaches to solving problems. In fact, curiosity is associated with a less defensive reaction to stress and, as a result, less aggression when we respond to irritation.",
+      "original_summary": null,
+      "word_count": 98,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When people think about the development of cities, rarely do they consider the critical role of vertical transportation. In fact, each day, more than 7 billion elevator journeys are taken in tall buildings all over the world. Efficient vertical transportation can expand our ability to build taller and taller skyscrapers. Antony Wood, a Professor of Architecture at the Illinois Institute of Technology, explains that advances in elevators over the past 20 years are probably the greatest advances we have seen in tall buildings. For example, elevators in the Jeddah Tower in Jeddah, Saudi Arabia, under construction, will reach a height record of 660m.",
+      "original_summary": null,
+      "word_count": 103,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "There have been occasions in which you have observed a smile and you could sense it was not genuine. The most obvious way of identifying a genuine smile from an insincere one is that a fake smile primarily only affects the lower half of the face, mainly with the mouth alone. The eyes don’t really get involved. Take the opportunity to look in the mirror and manufacture a smile using the lower half your face only. When you do this, judge how happy your face really looks ― is it genuine? A genuine smile will impact on the muscles and wrinkles around the eyes and less noticeably, the skin between the eyebrow and upper eyelid is lowered slightly with true enjoyment. The genuine smile can impact on the entire face.",
+      "original_summary": null,
+      "word_count": 130,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Detailed study over the past two or three decades is showing that the complex forms of natural systems are essential to their functioning. The attempt to straighten rivers and give them regular cross-sections is perhaps the most disastrous example of this form-and-function relationship. The natural river has a very irregular form: it curves a lot, spills across floodplains, and leaks into wetlands, giving it an ever-changing and incredibly complex shoreline. This allows the river to accommodate variations in water level and speed. Pushing the river into tidy geometry destroys functional capacity and results in disasters like the Mississippi floods of 1927 and 1993 and, more recently, the unnatural disaster of Hurricane Katrina. A $50 billion plan to “let the river loose” in Louisiana recognizes that the controlled Mississippi is washing away twenty-four square miles of that state annually.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In a culture where there is a belief that you can have anything you truly want, there is no problem in choosing. Many cultures, however, do not maintain this belief. In fact, many people do not believe that life is about getting what you want. Life is about doing what you are supposed to do. The reason they have trouble making choices is they believe that what they may want is not related to what they are supposed to do. The weight of outside considerations is greater than their desires. When this is an issue in a group, we discuss what makes for good decisions. If a person can be unburdened from their cares and duties and, just for a moment, consider what appeals to them, they get the chance to sort out what is important to them. Then they can consider and negotiate with their external pressures.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Research has confirmed that athletes are less likely to participate in unacceptable behavior than are non-athletes. However, moral reasoning and good sporting behavior seem to decline as athletes progress to higher competitive levels, in part because of the increased emphasis on winning. Thus winning can be a double-edged sword in teaching character development. Some athletes may want to win so much that they lie, cheat, and break team rules. They may develop undesirable character traits that can enhance their ability to win in the short term. However, when athletes resist the temptation to win in a dishonest way, they can develop positive character traits that last a lifetime. Character is a learned behavior, and a sense of fair play develops only if coaches plan to teach those lessons systematically.",
+      "original_summary": null,
+      "word_count": 129,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Due to technological innovations, music can now be experienced by more people, for more of the time than ever before. Mass availability has given individuals unheard-of control over their own sound-environment. However, it has also confronted them with the simultaneous availability of countless genres of music, in which they have to orient themselves. People start filtering out and organizing their digital libraries like they used to do with their physical music collections. However, there is the difference that the choice lies in their own hands. Without being restricted to the limited collection of music-distributors, nor being guided by the local radio program as a ‘preselector’ of the latest hits, the individual actively has to choose and determine his or her musical preferences. The search for the right song is thus associated with considerable effort.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "It is common to assume that creativity concerns primarily the relation between actor(creator) and artifact(creation). However, from a sociocultural standpoint, the creative act is never “complete” in the absence of a second position ―that of an audience. While the actor or creator him/herself is the first audience of the artifact being produced, this kind of distantiation can only be achieved by internalizing the perspective of others on one’s work. This means that, in order to be an audience to your own creation, a history of interaction with others is needed. We exist in a social world that constantly confronts us with the “view of the other.” It is the view we include and blend into our own activity, including creative activity. This outside perspective is essential for creativity because it gives new meaning and value to the creative act and its product.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 3,
+      "passage": "Health and the spread of disease are very closely linked to how we live and how our cities operate. The good news is that cities are incredibly resilient. Many cities have experienced epidemics in the past and have not only survived, but advanced. The nineteenth and early-twentieth centuries saw destructive outbreaks of cholera, typhoid, and influenza in European cities. Doctors such as Jon Snow, from England, and Rudolf Virchow, of Germany, saw the connection between poor living conditions, overcrowding, sanitation, and disease. A recognition of this connection led to the replanning and rebuilding of cities to stop the spread of epidemics. In spite of reconstruction efforts, cities declined in many areas and many people started to leave. In the mid-nineteenth century, London’s pioneering sewer system, which still serves it today, was built as a result of understanding the importance of clean water in stopping the spread of cholera.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Starting from birth, babies are immediately attracted to faces. Scientists were able to show this by having babies look at two simple images, one that looks more like a face than the other. By measuring where the babies looked, scientists found that the babies looked at the face-like image more than they looked at the non-face image. Even though babies have poor eyesight, they prefer to look at faces. But why One reason babies might like faces is because of something called evolution. Evolution involves changes to the structures of an organism(such as the brain) that occur over many generations These changes help the organisms to survive, making them alert to enemies. By being able to recognize faces from afar or in the dark, humans were able to know someone was coming and protect themselves from possible danger",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "People spend much of their time interacting with media, but that does not mean that people have the critical skills to analyze and understand it. One well-known study from Stanford University in 2016 demonstrated that youth are easily fooled by misinformation, especially when it comes through social media channels. This weakness is not found only in youth, however. Research from New York University found that people over 65 shared seven times as much misinformation as their younger counterparts. All of this raises a question: What’s the solution to the misinformation problem? Governments and tech platforms certainly have a role to play in blocking misinformation. However, every individual needs to take responsibility for combating this threat by becoming more information literate.",
+      "original_summary": null,
+      "word_count": 120,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Sound and light travel in waves. An analogy often given for sound is that of throwing a small stone onto the surface of a still pond. Waves radiate outwards from the point of impact, just as sound waves radiate from the sound source. This is due to a disturbance in the air around us. If you bang two sticks together, you will get a sound. As the sticks approach each other, the air immediately in front of them is compressed and energy builds up. When the point of impact occurs, this energy is released as sound waves. If you try the same experiment with two heavy stones, exactly the same thing occurs, but you get a different sound due to the density and surface of the stones, and as they have likely displaced more air, a louder sound. And so, a physical disturbance in the atmosphere around us will produce a sound.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Food chain means the transfer of food energy from the source in plants through a series of organisms with the repeated process of eating and being eaten. In a grassland, grass is eaten by rabbits while rabbits in turn are eaten by foxes. This is an example of a simple food chain. This food chain implies the sequence in which food energy is transferred from producer to consumer or higher trophic level. It has been observed that at each level of transfer, a large proportion, 80 - 90 percent, of the potential energy is lost as heat. Hence the number of steps or links in a sequence is restricted, usually to four or five. The shorter the food chain or the nearer the organism is to the beginning of the chain, the greater the available energy intake is.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A woman named Rhonda who attended the University of California at Berkeley had a problem. She was living near campus with several other people ― none of whom knew one another. When the cleaning people came each weekend, they left several rolls of toilet paper in each of the two bathrooms. However, by Monday all the toilet paper would be gone. It was a classic tragedy-of-the-commons situation: because some people took more toilet paper than their fair share, the public resource was destroyed for everyone else. After reading a research paper about behavior change, Rhonda put a note in one of the bathrooms asking people not to remove the toilet paper, as it was a shared item. To her great satisfaction, one roll reappeared in a few hours, and another the next day. In the other note-free bathroom, however, there was no toilet paper until the following weekend, when the cleaning people returned.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M6-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "If you were afraid of standing on balconies, you would start on some lower floors and slowly work your way up to higher ones. It would be easy to face a fear of standing on high balconies in a way that’s totally controlled. Socializing is trickier. People aren’t like inanimate features of a building that you just have to be around to get used to. You have to interact with them, and their responses can be unpredictable. Your feelings toward them are more complex too. Most people’s self-esteem isn’t going to be affected that much if they don’t like balconies, but your confidence can suffer if you can’t socialize effectively. It’s also harder to design a tidy way to gradually face many social fears. The social situations you need to expose yourself to may not be available when you want them, or they may not go well enough for you to sense that things are under control. The progression from one step to the next may not be clear, creating unavoidable large increases in difficulty from one to the next. People around you aren’t robots that you can endlessly experiment with for your own purposes. This is not to say that facing your fears is pointless when socializing. The principles of gradual exposure are still very useful. The process of applying them is just messier, and knowing that before you start is helpful.",
+      "original_summary": null,
+      "word_count": 233,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 10,
+    "grade": "고3",
+    "exam_title": "2021학년도 10월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M10-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "We can’t begin to build a strategy for our lives without first understanding where we are and where we want to go. Since people are different, it’s reasonable to assume their current situations or starting points will be different as well. That’s why books that tout a single formula for success or improvement, without taking into account the different places people are starting from, are worthless. Would you trust a doctor who didn’t ask any questions or run any tests to diagnose what was wrong, yet wrote you a prescription anyway? In medicine, the adage is Prescription without diagnosis equals malpractice. Before we can “prescribe” strategy, we first need to diagnose the situation ─ where we stand, where we are today.",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 we have “confusion at the frontier”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Two independent research groups have discovered that we have “confusion at the frontier” when we search the Internet. Adrian Ward, a psychologist at the University of Texas, found that engaging in Internet searches increased people’s cognitive self-esteem, their sense of their own ability to remember and process information. Moreover, people who searched the Internet for facts they didn’t know and were later asked where they found the information often misremembered and reported that they had known it all along. Many of them completely forgot ever having conducted the search. They gave themselves the credit instead of the Internet. In a different set of studies, researchers found that those who had searched the Internet to answer specific questions rated their ability to answer unrelated questions as higher than those who had not. The act of searching the Internet and finding answers to one set of questions caused the participants to increase their sense that they knew the answers to all questions, including those whose answers they had not researched.",
+      "original_summary": null,
+      "word_count": 168,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A visual scene can set up our emotional response. Suspense is driven by a sense of calm with the anticipation of impending terror. Indeed, anticipation or expectations play a key role in driving our emotions. The Russian silent filmmaker Lev Kuleshov considered such contextual influences. He interspersed shots of an actor exhibiting a neutral expression with shots of a child’s coffin or a plate of soup. This same “neutral” expression was interpreted differently depending on what image preceded it. Thus, the same expression appeared to show sorrow or hunger, depending on the context. Psychological studies of the Kuleshov effect have confirmed the impact of the social context on emotion. For example, if a person smiles at you and then the smile turns into a neutral expression, that person will appear somewhat grumpy or disappointed. Conversely, if a person first looks angry and then the expression turns into a neutral expression, the person looks somewhat pleasant or positive.",
+      "original_summary": null,
+      "word_count": 157,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The most enduring lessons have to be learnt from the seismic response of ground and the built environment in the largest natural laboratory, i.e., the earth, from damage observations in all earthquakes, whether inter- or intra-plate. Complete protection of all life and the entire built environment in all earthquakes is still a distant dream. However, efforts are on to have a built environment in which loss of life is minimized, and lifelines and infrastructure continue to function during and after an earthquake disaster. Construction activities in seismically prone and hazardous areas that are vulnerable to different damaging effects of earthquakes are best avoided. Most of the time such situations are unavoidable; in that case appropriate strengthening measures are required. Structures should be preferably made on firm ground. For construction in soft soil, the ground should be strengthened, and the foundations should be sufficiently deep, wide, and strong. Subsequently, application of appropriate interventions regarding earthquake-resistant design of structures goes a long way in saving human lives.",
+      "original_summary": null,
+      "word_count": 165,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The most innovative teams are those that can restructure themselves in response to unexpected shifts in the environment; they don’t need a strong leader to tell them what to do. Moreover, they tend to form spontaneously; when like-minded people find each other, a group emerges. The improvisational collaboration of the entire group translates moments of individual creativity into group innovation. Allowing the space for this self-organizing emergence to occur is difficult for many managers because the outcome isn’t controlled by the management team’s agenda and is therefore less predictable. Most business executives like to start with the big picture and then work out the details. That’s why so many of the best examples of improvised innovation take place outside of formal organizations. In improvisational innovation, teams start with the details and then work up to the big picture. It’s riskier and less efficient, but when a successful innovation emerges, it’s often very surprising and imaginative.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "According to its dictionary definition, an anthem is both a song of loyalty, often to a country, and a piece of ‘sacred music’, definitions that are both applicable in sporting contexts. This genre is dominated, although not exclusively, by football and has produced a number of examples where popular songs become synonymous with the club and are enthusiastically adopted by the fans. More than this they are often spontaneous expressions of loyalty and identity and, according to Desmond Morris, have ‘reached the level of something approaching a local art form’. A strong element of the appeal of such sports songs is that they feature ‘memorable and easily sung choruses in which fans can participate’. This is a vital part of the team’s performance as it makes the fans’ presence more tangible. This form of popular culture can be said to display pleasure and emotional excess in contrast to the dominant culture which tends to maintain ‘respectable aesthetic distance and control’.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "How people behave often depends on what others do. If other car drivers or subway users leave for work at 8 a.m., it may be to my advantage to leave at 6 a.m., even if that is really too early from my point of view. In equilibrium, flows stabilize so that each person makes the best trade-off between their ideal schedule and the congestion they will suffer on their commute. In making such choices, agents seek to differentiate their behavior from that of others. On other occasions, agents have a problem with coordination. They would like to choose to behave the same way as others. For example, if most of my fellow citizens did not pay their parking tickets, there would be (unfortunately) strong pressure for an amnesty for such offenders, which would decrease my incentive to pay my parking tickets too. There may be multiple equilibria, so that two otherwise identical societies may adopt different behavioral patterns.",
+      "original_summary": null,
+      "word_count": 158,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Writing lyrics means shaping the meaning of something which, if left as instrumental music, would remain undefined; there is a concrete change of the level of expression. That’s one reason why for many songwriters ‘lyric’ seems to be the hardest word. Picture this scene: a songwriter at the piano, or with a guitar, plays with chords and creates an emotion and atmosphere that is creatively inspiring. Our songwriter invents a melody to go with this mood. Then comes the moment where words are required, and that means getting specific. This sad- or happy-sounding chord progression must now direct its general sadness or happiness to a particular human situation. A lyric is the place where the emotional suggestions of pure music are defined as human concerns and events. It’s like a piece of translation, from one medium into another. The general musical mood is focused by a lyric into a context, a voice, a human drama.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In the health area, the concern with use after “purchase” is as critical as and even more critical than the concern with the purchase itself. The person who is sold on and goes through disease screening procedures but does not follow through with medical treatment for a diagnosed condition, is as much of a failure as a person who did not avail himself of the screening program to begin with. The obese individual who has been successfully sold on going on a medically prescribed diet but is lured back to his candy jar and apple pie after one week, is as much of a failure as if he never had been sold on the need to lose and control his weight. The most challenging, most difficult, most perplexing problem is not how to sell people on health-supportive practices, not even how to get them to initiate such practices. We have been fairly successful with these. It is to persuade and help them to stick with new practices.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Like faces, sometimes movement can fool us into thinking that something has a mind. For example, toys that seem to come alive fascinate children. In my day, one of the popular toys was a piece of finely coiled wire called a “Slinky.” It could appear to walk by stretching and lifting up one end over another down an incline, a bit like an acrobatic caterpillar. The attraction of the Slinky on Christmas Day was the lifelike movement it had as it stepped down the stairs before someone trod on it or twisted the spring and ruined it for good. Toys that appear to be alive are curiosities because they challenge how we think inanimate objects and living things should behave. Many toys today exploit this principle to great effect, but be warned: not all babies enjoy objects that suddenly seem lifelike. This anxiety probably reflects their confusion over the question, “Is it alive or what?” Once babies decide that something is alive, they are inclined to see its movements as purposeful.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "If the nature of a thing is such that when removed from the environment in which it naturally occurs it alters radically, you will not glean an accurate account of it by examining it within laboratory conditions. If you are only accustomed to seeing it operate within such an artificial arena, you may not even recognize it when it is functioning in its normal context. Indeed, if you ever spot it in that environment you may think it is something else. Similarly, if you believe that leadership only takes the form of heroic men metaphorically charging in on white horses to save the day, you may neglect the many acts which contribute to their ability to be there. You may fail to see the importance of the grooms who care for the horses, the messengers who bring attention to the crisis or the role played by those cheering from the sidelines. You may miss the fact that without troops supporting them, any claims to leading on the part of these heroes would be rather hollow.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "A group of academics, mainly political scientists, assumed that human rights treaties did not have any effect on the behavior of countries. Indeed, these academics, who typically called themselves “realists,” assumed that international law generally did not affect the behavior of states. They saw the international arena as a security competition among different states, a zero-sum game in which one state’s gain was another state’s loss. International lawyers and human rights advocates assumed that human rights treaties caused countries to improve their treatment of their citizens. In such conditions, states could gain little by cooperating with each other ─ except in temporary military alliances or security agreements that could fall apart at a moment’s notice. International law could play a minimal role or none at all, and was perhaps just an illusion, a sophisticated kind of propaganda ─ a set of rules that would be swept away whenever the balance of power changed.",
+      "original_summary": null,
+      "word_count": 153,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "In a process called seeding, you need to have a time frame in mind. Start telling your family how you feel about your current job. Tell them how you get frustrated and bored with this job. These stories will make them realise that you are meant to follow your passion. At times they need to be surprised with your small achievements, which could be some additional skills you acquired, or some awards you won in your field of passion. Discuss this almost twice a week. Then start doing work related to your passion on the side and let them see and experience how happy you are while doing this. Find a way to get your family and friends involved in your passion. The more they see you doing your passion, the more they connect with you emotionally. Tell them stories of how you are inspired by the passion and how it makes a difference not only to you but also to others. Give examples of how someone living a similar passion started his or her life and today how he or she is living happily.",
+      "original_summary": null,
+      "word_count": 185,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Living in dispersal correlates with a shocking retreat from public life, according to extensive analysis of the Social Capital Community Benchmark Survey of nearly thirty thousand people begun in 2000. It is hard to pinpoint the origin of this retreat. It may be because people in the dispersed city have invested so heavily in private comfort that they feel insulated from the problems of the rest of the world. It may be that sprawl has attracted people who are naturally less interested in engaging with the world, socially or politically. These are both possible, but evidence suggests that the spatial landscape matters. Sociologists point out that the suburbs have done an efficient job of sorting people into communities where they will be surrounded by people of the same socioeconomic status. Meanwhile, the architectures of sprawl inhibit political activity that requires face-to-face interaction. It is not that sprawl makes political activity impossible, but by privatizing gathering space and dispersing human activity, sprawl makes political gathering less likely.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Government warnings and stark statistics about mercury-contaminated fish have become so routine that we barely take note. I have to ask: why have these warnings been aimed at getting people to cease eating fish, rather than at getting the industries to stop putting mercury into our environment? Finally in February 2009, near-global consensus was reached: more than 140 countries convened by the United Nations Environment Programme (UNEP) unanimously agreed to create an international mercury treaty. They also urged immediate action through a voluntary Global Mercury Partnership while the treaty is being finalized. Getting mercury out of our production processes will be hard work and it will cost money, for sure. But investments in eliminating mercury are investments well spent. UNEP estimates that every kilogram of mercury taken out of the environment can lead to up to $12,500 worth of social, environmental, and human health benefits.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "A meaningful level of complexity in our history consists of culture: information stored in nerve and brain cells or in human records of various kinds. The species that has developed this capacity the most is, of course, humankind. In terms of total body weight, our species currently makes up about 0.005 per cent of all planetary biomass. If all life combined were only a paint chip, all human beings today would jointly amount to no more than a tiny colony of bacteria sitting on that flake. Yet through their combined efforts humans have learned to control a considerable portion of the terrestrial biomass, today perhaps as much as between 25 and 40 per cent of it. In other words, thanks to its culture this tiny colony of microorganisms residing on a paint chip has gained control over a considerable portion of that flake. To understand how human societies operate, it is therefore not sufficient to only look at their DNA, their molecular mechanisms and the influences from the outside world. We also need to study the cultural information that humans have been using for shaping their own lives as well as considerable portions of the rest of nature.",
+      "original_summary": null,
+      "word_count": 198,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Perhaps not surprisingly, given how long magicians have been developing their craft, a lot of creativity in magic is of the tweaking variety ─ some of the most skilled and inventive magicians gained fame by refining the execution of tricks that have been known for decades, or sometimes centuries. Nevil Maskelyne, one of magic’s old masters, claimed that “the difficulty of producing a new magical effect is about equivalent to that of inventing a new proposition in Euclid.” Whether it’s because there’s little that’s completely new, or for some other reason, magicians seem to worry less about imitation. They do, however, worry a lot about traitors ─ those magicians who expose the secrets behind a trick to the public. Once a trick is exposed in this way, its value as “magic” is destroyed, and this harms everyone in the industry. For this reason, magicians’ norms are focused mostly on punishing magicians who expose tricks to the public ─ even if the trick is the exposer’s own invention.",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M10-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In many ways, the proliferation of news sources has been a wonderful thing. The public now has multiple ways to check facts and learn about differing points of view. In theory, this access should improve our ability to have meaningful discussions with one another and our ability to form informed opinions. But this isn’t always the case. One of the most significant developments is that media has become like a Las Vegas buffet — we have too many choices. When you consider all of the information options — including niche media and personalized social media networks where developers utilize algorithms to serve up ideal content — there just isn’t enough time to explore them all. In this space it is easy to become trapped in an echo chamber, where your own opinions are reinforced by others without introducing new or conflicting content into the mix, which restricts public discourse and can lead to extremes. This is most evident in the realm of politics. Traditionally, mass media has been a place to tune in and hear nonpartisan reporting of facts about a situation or candidate, giving everyone equal access to the vital information necessary to form opinions and make decisions. Cable news networks and partisan online sources can limit the audience’s ability to access accurate, full-picture information. In some cases, audience members have made the conscious decision to only engage with content that is in line with their ideals.",
+      "original_summary": null,
+      "word_count": 238,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

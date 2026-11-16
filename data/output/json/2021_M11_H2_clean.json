@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 11,
+    "grade": "고2",
+    "exam_title": "2021학년도 11월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M11-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In 2003, British Airways made an announcement that they would no longer be able to operate the London to New York Concorde flight twice a day because it was starting to prove uneconomical. Well, the sales for the flight on this route increased the very next day. There was nothing that changed about the route or the service offered by the airlines. Merely because it became a scarce resource, the demand for it increased. If you are interested in persuading people, then the principle of scarcity can be effectively used. If you are a salesperson trying to increase the sales of a certain product, then you must not merely point out the benefits the customer can derive from the said product, but also point out its uniqueness and what they will miss out on if they don’t purchase the product soon. In selling, you should keep in mind that the more limited something is, the more desirable it becomes.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 a “media diet”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The most dangerous threat to our ability to concentrate is not that we use our smartphone during working hours, but that we use it too irregularly. By checking our emails every now and then on the computer and our text messages here and there on our phone with no particular schedule or rhythm in mind, our brain loses its ability to effectively filter. The solution is to regulate your devices as if you were on a strict diet. When it comes to nutrition, sticking to a fixed time plan for breakfast, lunch, and dinner allows your metabolism to adjust, thereby causing less hunger during the in-between phases. Your belly will start to rumble around 12:30 p.m. each day, but that’s okay because that’s a good time to eat lunch. If something unexpected happens, you can add a snack every now and then to get fresh energy, but your metabolism will remain under control. It’s the same with our brain when you put it on a “media diet.”",
+      "original_summary": null,
+      "word_count": 167,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Who is this person? This is the question all stories ask. It emerges first at the ignition point. When the initial change strikes, the protagonist overreacts or behaves in an otherwise unexpected way. We sit up, suddenly attentive. Who is this person who behaves like this? The question then re-emerges every time the protagonist is challenged by the plot and compelled to make a choice. Everywhere in the narrative that the question is present, the reader or viewer will likely be engaged. Where the question is absent, and the events of drama move out of its narrative beam, they are at risk of becoming detached ― perhaps even bored. If there’s a single secret to storytelling then I believe it’s this. Who is this person? Or, from the perspective of the character, Who am I? It’s the definition of drama. It is its electricity, its heartbeat, its fire.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Shutter speed refers to the speed of a camera shutter. In behavior profiling, it refers to the speed of the eyelid. When we blink, we reveal more than just blink rate. Changes in the speed of the eyelid can indicate important information; shutter speed is a measurement of fear. Think of an animal that has a reputation for being fearful. A Chihuahua might come to mind. In mammals, because of evolution, our eyelids will speed up to minimize the amount of time that we can’t see an approaching predator. The greater the degree of fear an animal is experiencing, the more the animal is concerned with an approaching predator. In an attempt to keep the eyes open as much as possible, the eyelids involuntarily speed up. Speed, when it comes to behavior, almost always equals fear. In humans, if we experience fear about something, our eyelids will do the same thing as the Chihuahua; they will close and open more quickly.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The free market has liberated people in a way that Marxism never could. What is more, as A. O. Hirschman, the Harvard economic historian, showed in his classic study The Passions and the Interests, the market was seen by Enlightenment thinkers Adam Smith, David Hume, and Montesquieu as a powerful solution to one of humanity’s greatest traditional weaknesses: violence. When two nations meet, said Montesquieu, they can do one of two things: they can wage war or they can trade. If they wage war, both are likely to lose in the long run. If they trade, both will gain. That, of course, was the logic behind the establishment of the European Union: to lock together the destinies of its nations, especially France and Germany, in such a way that they would have an overwhelming interest not to wage war again as they had done to such devastating cost in the first half of the twentieth century.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Anchoring bias describes the cognitive error you make when you tend to give more weight to information arriving early in a situation compared to information arriving later ― regardless of the relative quality or relevance of that initial information. Whatever data is presented to you first when you start to look at a situation can form an “anchor” and it becomes significantly more challenging to alter your mental course away from this anchor than it logically should be. A classic example of anchoring bias in emergency medicine is “triage bias,” where whatever the first impression you develop, or are given, about a patient tends to influence all subsequent providers seeing that patient. For example, imagine two patients presenting for emergency care with aching jaw pain that occasionally extends down to their chest. Differences in how the intake providers label the chart — “jaw pain” vs. “chest pain,” for example — create anchors that might result in significant differences in how the patients are treated.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "In order for us to be able to retain valuable pieces of information, our brain has to forget in a manner that is both targeted and controlled. Can you recall, for example, your very first day of school? You most likely have one or two noteworthy images in your head, such as putting your crayons and pencils into your pencil case. But that’s probably the extent of the specifics. Those additional details that are apparently unimportant are actively deleted from your brain the more you go about remembering the situation. The reason for this is that the brain does not consider it valuable to remember all of the details as long as it is able to convey the main message (i.e., your first day of school was great). In fact, studies have shown that the brain actively suppresses regions responsible for insignificant or minor memory content that tends to disturb the main memory. Over time, the minor details vanish more and more, though this in turn serves to sharpen the most important messages of the past.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The elements any particular animal needs are relatively predictable. They are predictable based on the past: what an animal’s ancestors needed is likely to be what that animal also needs. Taste preferences, therefore, can be hardwired. Consider sodium (Na). The bodies of terrestrial vertebrates, including those of mammals, tend to have a concentration of sodium nearly fifty times that of the primary producers on land, plants. This is, in part, because vertebrates evolved in the sea and so evolved cells dependent upon the ingredients that were common in the sea, including sodium. To remedy the difference between their needs for sodium and that available in plants, herbivores can eat fifty times more plant material than they otherwise need (and eliminate the excess). Or they can seek out other sources of sodium. The salt taste receptor rewards animals for doing the latter, seeking out salt in order to satisfy their great need.",
+      "original_summary": null,
+      "word_count": 151,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "We might think that our gut instinct is just an inner feeling — a secret interior voice — but in fact it is shaped by a perception of something visible around us, such as a facial expression or a visual inconsistency so fleeting that often we’re not even aware we’ve noticed it. Psychologists now think of this moment as a ‘visual matching game’. So a stressed, rushed or tired person is more likely to resort to this visual matching. When they see a situation in front of them, they quickly match it to a sea of past experiences stored in a mental knowledge bank and then, based on a match, they assign meaning to the information in front of them. The brain then sends a signal to the gut, which has many hundreds of nerve cells. So the visceral feeling we get in the pit of our stomach and the butterflies we feel are a(n).",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "When it comes to climates in the interior areas of continents, mountains. A great example of this can be seen along the West Coast of the United States. Air moving from the Pacific Ocean toward the land usually has a great deal of moisture in it. When this humid air moves across the land, it encounters the Coast Range Mountains. As the air moves up and over the mountains, it begins to cool, which causes precipitation on the windward side of the mountains. Once the air moves down the opposite side of the mountains (called the leeward side) it has lost a great deal of moisture. The air continues to move and then hits the even higher Sierra Nevada mountain range. This second uplift causes most of the remaining moisture to fall out of the air, so by the time it reaches the leeward side of the Sierras, the air is extremely dry. The result is that much of the state of Nevada is a desert.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One vivid example of how is given by Dan Ariely in his book Predictably Irrational. He tells the story of a day care center in Israel that decided to fine parents who arrived late to pick up their children, in the hope that this would discourage them from doing so. In fact, the exact opposite happened. Before the imposition of fines, parents felt guilty about arriving late, and guilt was effective in ensuring that only a few did so. Once a fine was introduced, it seems that in the minds of the parents the entire scenario was changed from a social contract to a market one. Essentially, they were paying for the center to look after their children after hours. Some parents thought it worth the price, and the rate of late arrivals increased. Significantly, once the center abandoned the fines and went back to the previous arrangement, late arrivals remained at the high level they had reached during the period of the fines.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "There is a pervasive idea in Western culture that humans are essentially rational, skillfully sorting fact from fiction, and, ultimately, arriving at timeless truths about the world. This line of thinking holds that humans follow the rules of logic, calculate probabilities accurately, and make decisions about the world that are perfectly informed by all available information. Conversely, failures to make effective and well-informed decisions are often attributed to failures of human reasoning — resulting, say, from psychological disorders or cognitive biases. In this picture, whether we succeed or fail turns out to be a matter of whether individual humans are rational and intelligent. Our ability to make a reasonable decision has more to do with our social interactions than our individual psychology. And so, if we want to achieve better outcomes — truer beliefs, better decisions — we need to focus on improving individual human reasoning.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Regarding food production, under the British government, there was a different conception of responsibility from that of French government. In France, the responsibility for producing good food lay with the producers. The state would police their activities and, if they should fail, would punish them for neglecting the interests of its citizens. By contrast, the British government — except in extreme cases — placed most of the responsibility with the individual consumers. It would be unfair to interfere with the shopkeeper's right to make money. In the 1840s, a patent was granted for a machine designed for making fake coffee beans out of chicory, using the same technology that went into manufacturing bullets. This machine was clearly designed for the purposes of swindling, and yet the government allowed it. A machine for forging money would never have been licensed, so why this? As one consumer complained, the British system of government was weighted against the consumer in favour of the swindler.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Because we are told that the planet is doomed, we do not register the growing number of scientific studies demonstrating the resilience of other species. For instance, climate-driven disturbances are affecting the world's coastal marine ecosystems more frequently and with greater intensity. This is a global problem that demands urgent action. Yet, as detailed in a 2017 paper in BioScience, there are also instances where marine ecosystems show remarkable resilience to acute climatic events. In a region in Western Australia, for instance, up to 90 percent of live coral was lost when ocean water temperatures rose, causing what scientists call coral bleaching. Yet in some sections of the reef surface, 44 percent of the corals recovered within twelve years. Similarly, kelp forests hammered by intense El Niño water-temperature increases recovered within five years. By studying these “bright spots,” situations where ecosystems persist even in the face of major climatic impacts, we can learn what management strategies help to minimize destructive forces and nurture resilience.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Brightness of sounds means much energy in higher frequencies, which can be calculated from the sounds easily. A violin has many more overtones compared to a flute and sounds brighter. An oboe is brighter than a classical guitar, and a crash cymbal brighter than a double bass. This is obvious, and indeed people like brightness. One reason is that it makes sound subjectively louder, which is part of the loudness war in modern electronic music, and in the classical music of the 19th century. All sound engineers know that if they play back a track to a musician that just has recorded this track and add some higher frequencies, the musician will immediately like the track much better. But this is a short-lived effect, and in the long run, people find such sounds too bright. So it is wise not to play back such a track with too much brightness, as it normally takes quite some time to convince the musician that less brightness serves his music better in the end.",
+      "original_summary": null,
+      "word_count": 171,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "Scientists who have observed plants growing in the dark have found that they are vastly different in appearance, form, and function from those grown in the light. This is true even when the plants in the different light conditions are genetically identical and are grown under identical conditions of temperature, water, and nutrient level. Seedlings grown in the dark limit the amount of energy going to organs that do not function at full capacity in the dark, like cotyledons and roots, and instead initiate elongation of the seedling stem to propel the plant out of darkness. In full light, seedlings reduce the amount of energy they allocate to stem elongation. The energy is directed to expanding their leaves and developing extensive root systems. This is a good example of phenotypic plasticity. The seedling adapts to distinct environmental conditions by modifying its form and the underlying metabolic and biochemical processes.",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In a study, Guy Mayraz, a behavioral economist, showed his experimental subjects graphs of a price rising and falling over time. The graphs were actually of past changes in the stock market, but Mayraz told people that the graphs showed recent changes in the price of wheat. He asked each person to predict where the price would move next ― and offered them a reward if their forecasts came true. But Mayraz had also divided his participants into two categories, “farmers” and “bakers”. Farmers would be paid extra if wheat prices were high. Bakers would earn a bonus if wheat was cheap. So the subjects might earn two separate payments: one for an accurate forecast, and a bonus if the price of wheat moved in their direction. Mayraz found that the prospect of the bonus influenced the forecast itself. The farmers hoped and predicted that the price of wheat would rise. The bakers hoped for ― and predicted ― the opposite. They let their hopes influence their reasoning. When participants were asked to predict the price change of wheat, their wish for where the price would go, which was determined by the group they belonged to, affected their predictions.",
+      "original_summary": null,
+      "word_count": 199,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M11-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Stories populate our lives. If you are not a fan of stories, you might imagine that the best world is a world without them, where we can only see the facts in front of us. But to do this is to deny how our brains work, how they are designed to work. Evolution has given us minds that are alert to stories and suggestion because, through many hundreds of thousands of years of natural selection, minds that can attend to stories have been more successful at passing on their owners’ genes. Think about what happens, for example, when animals face one another in conflict. They rarely plunge into battle right away. No, they first try to signal in all kinds of ways what the outcome of the battle is going to be. They puff up their chests, they roar, and they bare their fangs. Animals evolved to attend to stories and signals because these turn out to be an efficient way to navigate the world. If you and I were a pair of lions on the Serengeti, and we were trying to decide the strongest lion, it would be most foolish — for both of us — to plunge straight into a conflict. It is far better for each of us to make a show of strength, to tell the story of how our victory is inevitable. If one of those stories is much more convincing than the other, we might be able to agree on the outcome without actually having the fight.",
+      "original_summary": null,
+      "word_count": 253,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

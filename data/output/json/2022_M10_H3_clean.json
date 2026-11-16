@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 10,
+    "grade": "고3",
+    "exam_title": "2022학년도 10월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M10-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Bringing incredible creative projects to life demands much hard work down in the trenches of day‑to‑day idea execution. Genius truly is “1 percent inspiration and 99 percent perspiration.” But we cannot forget the flip side of that 99 percent — it’s impossible to solve every problem by sheer force of will. We must also make time for play, relaxation, and exploration, the essential ingredients of the creative insights that help us evolve existing ideas and set new projects in motion. Often this means creating a routine for breaking from your routine, working on exploratory side projects just for the hell of it, or finding new ways to hotwire your brain’s perspective on a problem. To stay creatively fit, we must keep our minds engaged and on the move — because the greatest enemy of creativity is nothing more than standing still.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 do not have the ears to hear it이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Far from a synonym for capitalism, consumerism makes capitalism impossible over the long term, since it makes capital formation all but impossible. A consumer culture isn’t a saving culture, isn’t a thrift culture. It’s too fixated on buying the next toy to ever delay gratification, to ever save and invest for the future. The point is elementary: you can’t have sustainable capitalism without capital; you can’t have capital without savings; and you can’t save if you’re running around spending everything you’ve just earned. But the confusion has grown so deep that many people today do not have the ears to hear it. Indeed, the policies of our nation’s central bank seem to reinforce this habit by driving down interest rates to near zero and thereby denying people a material reward — in the form of interest on their banked savings — for foregoing consumption.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many people say that we should take full advantage of the privileges of the Internet by forever learning more and more. They see no limit to how much information a person ought to consume and never acknowledge the emotional and psychological cost of cramming facts into our brains. If we aren’t using the wealth of available data to make ourselves more productive and useful to society, what’s the point of having it? While access to information is a privilege, it’s also a burden. This is especially true when we treat being well‑read as an obligation that can’t be escaped. Constant exposure to upsetting news can be traumatic. An unending flood of information makes it hard to pause and reflect on anything you’ve learned. At some point, even the most voracious of readers needs to pull the plug and stop the constant drip of facts, figures, and meaningless Internet fights. We’re living in an era of information overload ─ and the solution is not to learn more but to step back and consume a smaller amount of data in a more meaningful way.",
+      "original_summary": null,
+      "word_count": 182,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Most of us make our career choices when we are about eighteen. At eighteen, you have limited experience, very limited skills and most of what you know comes from your parents, your environment and the structured school system you have gone through. You are usually slightly better at some skills because you have spent a bit more time on them. Maybe someone in your environment was good at something and passionate enough to get you interested in spending more time in that area. It is also possible that you might have a specific physical feature — such as being tall — that might make you better at certain activities, such as playing basketball. In any case, most people make a decision regarding their career and direction in life based on their limited experiences and biases in their childhood and teenage years. This decision will come to dominate their life for many years to come. No wonder so many get it wrong! It is easier to get it wrong than to get it right, because statistically, there are more wrong ways than right ways.",
+      "original_summary": null,
+      "word_count": 183,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In making sense of cave art, anthropologists have turned to surviving hunter‑gatherer societies that continue to paint inside caves, particularly the San peoples, who live in communities across a wide region of southern Africa. What began to fascinate anthropologists who studied the San was their detailed imitations of the animals they hunt. The hunters, in some sense, become animals in order to make inferences about how their prey might behave. This spills over into ritual. The San use hyperventilation and rhythmic movement to create states of altered consciousness as part of a shamanistic culture. In the final stage of a trance, Lewis‑Williams writes, ‘people sometimes feel themselves to be turning into animals and undergoing other frightening or exalting transformations’. For anthropologist Kim Hill, identifying and observing animals to eat and those to escape might merge into ‘a single process’ that sees animals as having humanlike intentions that ‘can influence and be influenced’.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The idea that leaders inherently possess certain physical, intellectual, or personality traits that distinguish them from nonleaders was the foundational belief of the trait‑based approach to leadership. This approach dominated leadership research from the late 1800s until the mid‑1940s and has experienced a resurgence of interest in the last couple of decades. Early trait theorists believed that some individuals are born with the traits that allow them to become great leaders. Thus, early research in this area often presented the widely stated argument that “leaders are born, not made.” Also, some of the earliest leadership studies were grounded in what was referred to as the “great man” theory because researchers at the time focused on identifying traits of highly visible leaders in history who were typically male and associated with the aristocracy or political or military leadership. In more recent history, numerous authors have acknowledged that there are many enduring qualities, whether innate or learned, that contribute to leadership potential. These traits include such things as drive, self-confidence, cognitive ability, conscientiousness, determination, intelligence, and integrity.",
+      "original_summary": null,
+      "word_count": 175,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "Musical performers and their labor union did not perceive early recordings as a threat to their livelihoods because the recordings were mostly of poor quality. It was not long before musicians began to wonder whether recordings of popular artists or songs would undermine the demand for live music. For a time, however, recorded music was too scratchy to pose a serious threat, even though it played in commercial places and offered a few performers a way to supplement their income. Additionally, during the early days of recording, radio stations preferred using live musicians on their programs. Sound from live performances was better quality, and stations at this time rarely used recordings. Broadcasters respected union demands for employment and decent wages, because the alterative use of recordings was even less attractive. They made efforts to employ orchestras, bands, and vocalists to perform on radio programs. There was relative balance between live music and technology in the early innovation stages. With increased improvements in electrical recording, however, this balance soon changed.",
+      "original_summary": null,
+      "word_count": 169,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Much of what we call political risk is in fact uncertainty. This applies to all types of political risks, from civil strife to expropriations to regulatory changes. Political risk, unlike credit or market or operational risk, can be unsystematic and therefore more difficult to address in classic statistical terms. What is the probability that terrorists will attack the United States again? Unlike earthquakes or hurricanes, political actors constantly adapt to overcome the barriers created by risk managers. When corporations structure foreign investments to mitigate risks of expropriations, through international guarantees or legal contracts, host governments seek out new forms of obstruction, such as creeping expropriation or regulatory discrimination, that are very hard and legally costly to prove. Observation of a risk changes the risk itself. There are ways to mitigate high‑impact, low‑probability events. But analysis of these risks can be as much art as science.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Ecological health depends on keeping the surface of the earth rich in humus and minerals so that it can provide a foundation for healthy plant and animal life. The situation is disrupted if the soil loses these raw materials or if great quantities of contaminants are introduced into it __. When man goes beneath the surface of the earth and drags out minerals or other compounds that did not evolve as part of this system, then problems follow. The mining of lead and cadmium are examples of this. Petroleum is also a substance that has been dug out of the bowels of the earth and introduced into the surface ecology by man. Though it is formed from plant matter, the highly reduced carbon compounds that result are often toxic to living protoplasm. In some cases this is true of even very tiny amounts, as in the case of “polychlorinated biphenyls,” a petroleum product which can cause cancer.",
+      "original_summary": null,
+      "word_count": 157,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Magical thinking, intellectual insecurity, and confirmation bias are all powerful barriers to scientific discovery; they blocked the eyes of generations of astronomers before Copernicus. But as twenty‑first‑century researchers have discovered, these three barriers can all be destroyed with a simple teaching trick: transporting our brain to an environment outside our own. That environment can be a nature preserve many miles from our home, or a computer‑simulated Mars, or any other space that our ego doesn’t associate directly with our health, social status, and material success. In that environment, our ego will be less inclined to take the failure of its predictions personally. Certainly, our ego may feel a little upset that its guesses about the nature preserve or Mars were wrong, but it was never really that invested in the guesses to begin with. Why should it care too much about things that have no bearing on its own fame or well‑being? So, in that happy state of apathy, our ego is less likely to get data manipulative, mentally threatened, or magically minded, leaving the rest of our brain free to abandon failed hypotheses and venture new ones.",
+      "original_summary": null,
+      "word_count": 188,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "If you are unconvinced that our beliefs influence how we interpret facts _, consider the example of the “flying horse.” Depictions of galloping horses from prehistoric times up until the mid‑1800s typically showed horses’ legs splayed while galloping, that is, the front legs reaching far ahead as the hind legs stretched far behind. People just “knew” that’s how horses galloped, and that is how they “saw” them galloping. Cavemen saw them this way, Aristotle saw them this way, and so did Victorian gentry. But all of that ended when, in 1878, Eadweard Muybridge published a set of twelve pictures he had taken of a galloping horse in the space of less than half a second using twelve cameras hooked to wire triggers. Muybridge’s photos showed clearly that a horse goes completely airborne in the third step of the gallop with its legs collected beneath it, not splayed. It is called the moment of suspension. Now even kids draw horses galloping this way.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Except for grains and sugars, most foods humans eat are perishable. They deteriorate in palatability, spoil, or become unhealthy when stored for long periods. Surplus animal and crop harvests, however, can be saved for future use if appropriate methods of preservation are used. The major ways of preserving foods are canning, freezing, drying, salting, and smoking. With all methods the aim is to kill or restrict the growth of harmful microbes or their toxins and to slow or inactivate enzymes that cause undesirable changes in food palatability. Palatability is not static: it is always changing, based on the state of the individual, especially in regard to the time of food consumption. For further protection during long periods of storage, preserved food is placed either in sterile metal cans or glass jars or frozen in airtight paper or plastic containers.",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Humans are unique in the realm of living beings in knowing there is a future. If people experience worry and hope, it is because they realize the future exists, that it can be better or worse, and that the outcome depends to some extent on them. But having this knowledge does not imply that they know what to do with it. People often repress their awareness of the future because thinking about it distorts the comfort of the now, which tends to be more powerful than the future because it is present and because it is certain. The future, on the other hand, must be imagined in advance and, for that very reason, is always uncertain. Getting along with the future is not an easy task, nor is it one in which instinct prevents us from blunders. That is why we so often have a poor relationship with the future and are either more fearful than we need to be or allow ourselves to hope against all evidence; we worry excessively or not enough; we fail to predict the future or to shape it as much as we are able.",
+      "original_summary": null,
+      "word_count": 190,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Bipedalism, upright walking, started a chain of enormous evolutionary adjustments. It liberated hominin arms for carrying weapons and for taking food to group sites instead of consuming it on the spot. But bipedalism was necessary to trigger hand dexterity and tool use. Hashimoto and co‑workers concluded that adaptations underlying tool use evolved independently of those required for human bipedalism because in both humans and monkeys, each finger is represented separately in the primary sensorimotor cortex, just as the fingers are physically separated in the hand. This creates the ability to use each digit independently in the complex manipulations required for tool use. But without bipedalism it would be impossible to use the trunk for leverage in accelerating the hand during toolmaking and tool use. Bipedalism also freed the mouth and teeth to develop a more complex call system as the prerequisite of language. These developments required larger brains whose energy cost eventually reached three times the level for chimpanzees, accounting for up to one‑sixth of the total basal metabolic rate.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Water molecules circulate through the atmosphere as a result of evaporation. As water molecules rise high up in the atmosphere, they may split up into their constituent chemical elements, hydrogen and oxygen, under the influence of sunlight. Whereas the much heavier oxygen either remains in the atmosphere or is captured on the Earth’s surface, the hydrogen tends to escape into space, because it is so light that Earth’s gravity cannot retain it. As long as there was little or no free oxygen in the atmosphere that could capture hydrogen before it escaped into the cosmos, this process would have continued unhindered. However, after all the available materials on the Earth’s surface, mostly iron, had combined with the free oxygen, it began to appear in the atmosphere in sizable quantities. As soon as this happened, the free oxygen would have captured most of the free hydrogen by forming water molecules again, thus slowing down the loss of hydrogen. Over the course of time, this process would have helped to retain water on Earth, while it also contributed to the emergence of oxygen in the atmosphere.",
+      "original_summary": null,
+      "word_count": 184,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "The evolutionary history of a species or a disease is like any other kind of history. There is no experiment, in the usual sense, that we can do now to decide how long ago our ancestors first started to use fires for cooking or other purposes and what subsequent evolutionary effects that change may have had. History can be investigated only by examining the records it has left. Charred bones or even carbon deposits from an ancient campfire can be informative documents to people who know how to read them. Likewise, the chemical structure of proteins and DNA may be read to reveal relationships among now strikingly different organisms. Until a time machine is invented, we will not be able to go back and watch the evolution of major traits, but we can nonetheless reconstruct prehistoric events by the records they left in fossils, carbon traces, structures, and behavioral tendencies, as well as protein and DNA structures. Even when we cannot reconstruct the history of a trait, we can often still be confident that it was shaped by natural selection.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Put a hamster on a wheel, and it will start running. Give the hamster a treat, and it will run even longer. Stop dispensing the treats, and the hamster will stop running — completely. The original motivation has thereby become extinguished. The school system has been taking advantage of this psychological feature by replacing young children’s natural curiosity and joy of discovery with praise, grades, and other short‑term performance boosters. As the story goes, there once was an old man who enjoyed watching sunsets from his porch. One day, a bunch of kids came over and started playing loudly in front of his house. The man asked the kids to move over, but they ignored him. Next day, the children came again. The man called them over, gave each one a nickel, and asked them to make as much noise as they possibly could — to which they happily obliged. The man kept regularly handing out coins, until one day he told the kids that he was no longer paying them. “Then we aren’t going to make noise for you,” the children announced — and left.",
+      "original_summary": null,
+      "word_count": 186,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M10-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "One basic way of thinking about emotions is as information‑selection devices. As such, they structure and coordinate our perceptual input by arranging and prioritizing relevant information. As selective constraints on input, emotions initially focus our attention on subjects important to our goals, wants, and interests. Then, reinforced by physiological changes, they move us towards action. Despite the habitual discursive distinction between intellect and affect, therefore, emotions can be considered rational in a narrower sense, since they constitute an effective response in a given set of circumstances by supplying information about reasonable action. Claiming that emotions are vital for intelligent action means adopting what Dylan Evans calls ‘the positive view of emotion’. Findings from evolutionary theory further substantiate the idea that ‘the benefits of having emotions outweigh the drawbacks’. The neuroscientist Antonio Damasio, who has studied the role of emotion in decision‑making and other tasks commonly considered ‘purely rational’, goes so far as to conclude that, in matters of social and personal importance, good decisions require an emotional component. Consequently, in addition to adopting rational strategies such as cost‑benefit analyses, people appear to deliberate, narrow down, and choose from a range of behavioural options through an initial emotional assessment of envisioned outcomes as either beneficial or harmful.",
+      "original_summary": null,
+      "word_count": 206,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

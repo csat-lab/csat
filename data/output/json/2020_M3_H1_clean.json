@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2020,
+    "month": 3,
+    "grade": "고1",
+    "exam_title": "2020학년도 3월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2020-M3-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Keeping good ideas floating around in your head is a great way to ensure that they won’t happen. Take a tip from writers, who know that the only good ideas that come to life are the ones that get written down. Take out a piece of paper and record everything you’d love to do someday — aim to hit one hundred dreams. You’ll have a reminder and motivator to get going on those things that are calling you, and you also won’t have the burden of remembering all of them. When you put your dreams into words you begin putting them into action.",
+      "original_summary": null,
+      "word_count": 103,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 “rise to the bait”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "We all know that tempers are one of the first things lost in many arguments. It’s easy to say one should keep cool, but how do you do it? The point to remember is that sometimes in arguments the other person is trying to get you to be angry. They may be saying things that are intentionally designed to annoy you. They know that if they get you to lose your cool you’ll say something that sounds foolish; you’ll simply get angry and then it will be impossible for you to win the argument. So don’t fall for it. A remark may be made to cause your anger, but responding with a cool answer that focuses on the issue raised is likely to be most effective. Indeed, any attentive listener will admire the fact that you didn’t “rise to the bait.”",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Practically anything of value requires that we take a risk of failure or being rejected. This is the price we all must pay for achieving the greater rewards lying ahead of us. To take risks means you will succeed sometime but never to take a risk means that you will never succeed. Life is filled with a lot of risks and challenges and if you want to get away from all these, you will be left behind in the race of life. A person who can never take a risk can’t learn anything. For example, if you never take the risk to drive a car, you can never learn to drive. If you never take the risk of being rejected, you can never have a friend or partner. Similarly, by not taking the risk of attending an interview, you will never get a job.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Although individual preferences vary, touch (both what we touch with our fingers and the way things feel as they come in contact with our skin) is an important aspect of many products. Consumers like some products because of their feel. Some consumers buy skin creams and baby products for their soothing effect on the skin. In fact, consumers who have a high need for touch tend to like products that provide this opportunity. When considering products with material properties, such as clothing or carpeting, consumers like goods they can touch in stores more than products they only see and read about online or in catalogs.",
+      "original_summary": null,
+      "word_count": 105,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In life, they say that too much of anything is not good for you. In fact, too much of certain things in life can kill you. For example, they say that water has no enemy, because water is essential to all life. But if you take in too much water, like one who is drowning, it could kill you. Education is the exception to this rule. You can never have too much education or knowledge. The reality is that most people will never have enough education in their lifetime. I am yet to find that one person who has been hurt in life by too much education. Rather, we see lots of casualties every day, worldwide, resulting from the lack of education. You must keep in mind that education is a long-term investment of time, money, and effort into humans.",
+      "original_summary": null,
+      "word_count": 140,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "“You are what you eat.” That phrase is often used to show the relationship between the foods you eat and your physical health. But do you really know what you are eating when you buy processed foods, canned foods, and packaged goods? Many of the manufactured products made today contain so many chemicals and artificial ingredients that it is sometimes difficult to know exactly what is inside them. Fortunately, now there are food labels. Food labels are a good way to find the information about the foods you eat. Labels on food are like the table of contents found in books. The main purpose of food labels is to inform you what is inside the food you are purchasing.",
+      "original_summary": null,
+      "word_count": 119,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "We often ignore small changes because they don’t seem to matter very much in the moment. If you save a little money now, you’re still not a millionaire. If you study Spanish for an hour tonight, you still haven’t learned the language. We make a few changes, but the results never seem to come quickly and so we slide back into our previous routines. The slow pace of transformation also makes it difficult to break a bad habit. If you eat an unhealthy meal today, the scale doesn’t move much. A single decision is easy to ignore. But when we repeat small errors, day after day, by following poor decisions again and again, our small choices add up to bad results. Many missteps eventually lead to a problem.",
+      "original_summary": null,
+      "word_count": 128,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Remember that patience is always of the essence. If an apology is not accepted, thank the individual for hearing you out and leave the door open for if and when he wishes to reconcile. Be conscious of the fact that just because someone accepts your apology does not mean she has fully forgiven you. It can take time, maybe a long time, before the injured party can completely let go and fully trust you again. There is little you can do to speed this process up. If the person is truly important to you, it is worthwhile to give him or her the time and space needed to heal. Do not expect the person to go right back to acting normally immediately.",
+      "original_summary": null,
+      "word_count": 122,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Although many small businesses have excellent websites, they typically can’t afford aggressive online campaigns. One way to get the word out is through an advertising exchange, in which advertisers place banners on each other’s websites for free. For example, a company selling beauty products could place its banner on a site that sells women’s shoes, and in turn, the shoe company could put a banner on the beauty product site. Neither company charges the other; they simply exchange ad space. Advertising exchanges are gaining in popularity, especially among marketers who do not have much money and who don’t have a large sales team. By trading space, advertisers find new outlets that reach their target audiences that they would not otherwise be able to afford.",
+      "original_summary": null,
+      "word_count": 124,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Motivation may come from several sources. It may be the respect I give every student, the daily greeting I give at my classroom door, the undivided attention when I listen to a student, a pat on the shoulder whether the job was done well or not, an accepting smile, or simply “I love you” when it is most needed. It may simply be asking how things are at home. For one student considering dropping out of school, it was a note from me after one of his frequent absences saying that he made my day when I saw him in school. He came to me with the note with tears in his eyes and thanked me. He will graduate this year. Whatever technique is used, the students must know that you care about them. But the concern must be genuine — the students can’t be fooled.",
+      "original_summary": null,
+      "word_count": 146,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Say you normally go to a park to walk or work out. Maybe today you should choose a different park. Why? Well, who knows? Maybe it’s because you need the connection to the different energy in the other park. Maybe you’ll run into people there that you’ve never met before. You could make a new best friend simply by visiting a different park. You never know what great things will happen to you until you step outside the zone where you feel comfortable. If you’re staying in your comfort zone and you’re not pushing yourself past that same old energy, then you’re not going to move forward on your path. By forcing yourself to do something different, you’re awakening yourself on a spiritual level and you’re forcing yourself to do something that will benefit you in the long run. As they say, variety is the spice of life.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Ideas about how much disclosure is appropriate vary among cultures. Those born in the United States tend to be high disclosers, even showing a willingness to disclose information about themselves to strangers. This may explain why Americans seem particularly easy to meet and are good at cocktail-party conversation. On the other hand, Japanese tend to do little disclosing about themselves to others except to the few people with whom they are very close. In general, Asians do not reach out to strangers. They do, however, show great care for each other, since they view harmony as essential to relationship improvement. They work hard to prevent those they view as outsiders from getting information they believe to be unfavorable.",
+      "original_summary": null,
+      "word_count": 118,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "A god called Moinee was defeated by a rival god called Dromerdeener in a terrible battle up in the stars. Moinee fell out of the stars down to Tasmania to die. Before he died, he wanted to give a last blessing to his final resting place, so he decided to create humans. But he was in such a hurry, knowing he was dying, that he forgot to give them knees; and he absent-mindedly gave them big tails like kangaroos, which meant they couldn’t sit down Then he died. The people hated having kangaroo tails and no knees, and they cried out to the heavens for help. Dromerdeener heard their cry and came down to Tasmania to see what the matter was He took pity on the people, gave them bendable knees and cut off their inconvenient kangaroo tails so they could all sit down at last. Then they lived happily ever after",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "There are some cultures that can be referred to as “people who live outside of time.” The Amondawa tribe, living in Brazil, does not have a concept of time that can be measured or counted. Rather they live in a world of serial events, rather than seeing events as being rooted in time. Researchers also found that no one had an age. Instead, they change their names to reflect their stage of life and position within their society, so a little child will give up their name to a newborn sibling and take on a new one. In the U.S. we have so many metaphors for time and its passing that we think of time as “a thing,” that is “the weekend is almost gone,” or “I haven’t got the time.” We think such statements are objective, but they aren’t. We create these metaphors, but the Amondawa don’t talk or think in metaphors for time.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "The natural world provides a rich source of symbols used in art and literature. Plants and animals are central to mythology, dance, song, poetry, rituals, festivals, and holidays around the world. Different cultures can exhibit opposite attitudes toward a given species. Snakes, for example, are honored by some cultures and hated by others. Rats are considered pests in much of Europe and North America and greatly respected in some parts of India. Of course, within cultures individual attitudes can vary dramatically. For instance, in Britain many people dislike rodents, and yet there are several associations devoted to breeding them, including the National Mouse Club and the National Fancy Rat Club.",
+      "original_summary": null,
+      "word_count": 110,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Paying attention to some people and not others doesn’t mean you’re being dismissive or arrogant. It just reflects a hard fact: there are limits on the number of people we can possibly pay attention to or develop a relationship with. Some scientists even believe that the number of people with whom we can continue stable social relationships might be limited naturally by our brains. The more people you know of different backgrounds, the more colorful your life becomes. Professor Robin Dunbar has explained that our minds are only really capable of forming meaningful relationships with a maximum of about a hundred and fifty people. Whether that’s true or not, it’s safe to assume that we can’t be real friends with everyone.",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "While there are many evolutionary or cultural reasons for cooperation, the eyes are one of the most important means of cooperation, and eye contact may be the most powerful human force we lose in traffic. It is, arguably, the reason why humans, normally a quite cooperative species, can become so noncooperative on the road. Most of the time we are moving too fast — we begin to lose the ability to keep eye contact around 20 miles per hour — or it is not safe to look. Maybe our view is blocked. Often other drivers are wearing sunglasses, or their car may have tinted windows. (And do you really want to make eye contact with those drivers?) Sometimes we make eye contact through the rearview mirror, but it feels weak, not quite believable at first, as it is not “face-to-face.”",
+      "original_summary": null,
+      "word_count": 140,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2020-M3-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many high school students study and learn inefficiently because they insist on doing their homework while watching TV or listening to loud music. These same students also typically interrupt their studying with repeated phone calls, trips to the kitchen, video games, and Internet surfing. Ironically, students with the greatest need to concentrate when studying are often the ones who surround themselves with the most distractions. These teenagers argue that they can study better with the TV or radio playing. Some professionals actually oppose their position. They argue that many teenagers can actually study productively under less-than-ideal conditions because they’ve been exposed repeatedly to “background noise” since early childhood. These educators argue that children have become used to the sounds of the TV, video games, and loud music. They also argue that insisting students turn off the TV or radio when doing homework will not necessarily improve their academic performance. This position is certainly not generally shared, however. Many teachers and learning experts are convinced by their own experiences that students who study in a noisy environment often learn inefficiently.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

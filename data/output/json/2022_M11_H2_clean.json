@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 11,
+    "grade": "고2",
+    "exam_title": "2022학년도 11월 고2 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M11-H2-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Clarity in an organization keeps everyone working in one accord and energizes key leadership components like trust and transparency. No matter who or what is being assessed in your organization, what they are being assessed on must be clear and the people must be aware of it. If individuals in your organization are assessed without knowing what they are being assessed on, it can cause mistrust and move your organization away from clarity. For your organization to be productive, cohesive, and successful, trust is essential. Failure to have trust in your organization will have a negative effect on the results of any assessment. It will also significantly hinder the growth of your organization. To conduct accurate assessments, trust is a must — which comes through clarity. In turn, assessments help you see clearer, which then empowers your organization to reach optimal success.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 “eating my problems for breakfast”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Research in the science of peak performance and motivation points to the fact that different tasks should ideally be matched to our energy level. For example, analytical tasks are best accomplished when our energy is high and we are free from distractions and able to focus. I generally wake up energized. Over the years, I have consistently stuck to the habit of “eating my problems for breakfast.” I’m someone who tends to overthink different scenarios and conversations that haven’t happened yet. When I procrastinate on talking with an unhappy client or dealing with an unpleasant email, I find I waste too much emotional energy during the day. It’s as if the task hangs over my head, and I’ll spend more time worrying about it, talking about it, and avoiding it, than it would actually take to just take care of it. So for me, it’ll always be the first thing I get done. If you know you are not a morning person, be strategic about scheduling your difficult work later in the day.",
+      "original_summary": null,
+      "word_count": 173,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "In one study, when researchers suggested that a date was associated with a new beginning (such as “the first day of spring”), students viewed it as a more attractive time to kick-start goal pursuit than when researchers presented it as an unremarkable day (such as “the third Thursday in March”). Whether it was starting a new gym habit or spending less time on social media, when the date that researchers suggested was associated with a new beginning, more students wanted to begin changes right then. And more recent research by a different team found that similar benefits were achieved by showing goal seekers modified weekly calendars. When calendars depicted the current day (either Monday or Sunday) as the first day of the week, people reported feeling more motivated to make immediate progress on their goals.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Native Americans often sang and danced in preparation for launching an attack. The emotional and neurochemical excitement that resulted from this preparatory singing gave them stamina to carry out their attacks. What may have begun as an unconscious, uncontrolled act — rushing their victims with singing and beating drums in a frenzy — could have become a strategy as the victors saw firsthand the effect their actions had on those they were attacking. Although war dances risk warning an enemy of an upcoming attack, the arousal and synchronizing benefits for the attackers may compensate for the loss of surprise. Humans who sang, danced, and marched may have enjoyed a strong advantage on the battlefield as well as intimidated enemies who witnessed such a spectacle. Nineteenth-and twentieth-century Germans feared no one more than the Scots — the bagpipes and drums were disturbing in their sheer loudness and visual spectacle.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The recent “cycling as a lifestyle” craze has expressed itself in an increase in the number of active cyclists and in growth of cycling club membership in several European, American, Australian and Asian urban areas. It has also been accompanied by a symbolic reinterpretation of the bicycle. After the bicycle had been associated with poverty for many years, expensive recreational bicycles or recreationally-inspired commuting bicycles have suddenly become aspirational products in urban environments. In present times, cycling has become an activity which is also performed for its demonstrative value, its role in identity construction and its effectiveness in impressing others and signaling social status. To a certain extent, cycling has turned into a symbolic marker of the well-off. Obviously, value-laden consumption behavior is by no means limited to cycling. However, the link with identity construction and conspicuous consumption has become particularly manifest in the case of cycling.",
+      "original_summary": null,
+      "word_count": 147,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "Pre-emption means that a strategy is designed to prevent a rival from starting some particular activity. In some case a pre-emptive move may simply be an announcement of some intent that might discourage rivals from doing the same. The idea of pre-emption implies that timing is sometimes very important — a decision or an action at one point in time might be much more rewarding than doing it at a different time point. Pre-emption may involve up-weighting advertising for a period before and during when a new entrant launches into a market. The intent is to make it more difficult for the new entrant’s advertising to make an impression on potential buyers. Product proliferation is another potential pre-emption strategy. The general idea is to launch a large variety of product variants so that there is very little in the way of market demand that is not accommodated. Arguably, if a market is already filled with product variants it is more difficult for competitors to find untapped pockets of market demand.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Countershading is the process of optical flattening that provides camouflage to animals. When sunlight illuminates an object from above, the object will be brightest on top. The color of the object will gradually shade darker toward the bottom. This shading gives the object depth and allows the viewer to distinguish its shape. Thus even if an animal is exactly, but uniformly, the same color as the substrate, it will be easily visible when illuminated. Most animals, however, are darker above than they are below. When they are illuminated from above, the darker back is lightened and the lighter belly is shaded. The animal thus appears to be a single color and easily blends in with the substrate. This pattern of coloration, or countershading, destroys the visual impression of shape in the organism. It allows the animal to blend in with its background.",
+      "original_summary": null,
+      "word_count": 142,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "No learning is possible without an error signal. Organisms only learn when events violate their expectations. In other words, surprise is one of the fundamental drivers of learning. Imagine hearing a series of identical notes, AAAAA. Each note draws out a response in the auditory areas of your brain — but as the notes repeat, those responses progressively decrease. This is called “adaptation,” a deceptively simple phenomenon that shows that your brain is learning to anticipate the next event. Suddenly, the note changes: AAAAA#. Your primary auditory cortex immediately shows a strong surprise reaction: not only does the adaptation fade away, but additional neurons begin to vigorously fire in response to the unexpected sound. And it is not just repetition that leads to adaptation: what matters is whether the notes are predictable. For instance, if you hear an alternating set of notes, such as ABABA, your brain gets used to this alternation, and the activity in your auditory areas again decreases. This time, however, it is an unexpected repetition, such as ABABB, that triggers a surprise response.",
+      "original_summary": null,
+      "word_count": 177,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The connectedness of the global economic market makes it vulnerable to potential “infection.” A financial failure can make its way from borrowers to banks to insurers, spreading like a flu. However, there are unexpected characteristics when it comes to such infection in the market. Infection can occur even without any contact. A bank might become insolvent even without having any of its investments fail. Fear and uncertainty can be damaging to financial markets, just as cascading failures due to bad investments. If we all woke up tomorrow and believed that Bank X would be insolvent, then it would become insolvent. In fact, it would be enough for us to fear that others believed that Bank X was going to fail, or just to fear our collective fear! We might all even know that Bank X was well-managed with healthy investments, but if we expected others to pull their money out, then we would fear being the last to pull our money out. Financial distress can be self-fulfilling and is a particularly troublesome aspect of financial markets.",
+      "original_summary": null,
+      "word_count": 176,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Negative numbers are a lot more abstract than positive numbers — you can’t see negative 4 cookies and you certainly can’t eat them — but you can think about them, and you have to, in all aspects of daily life, from debts to contending with freezing temperatures and parking garages. Still, many of us haven’t quite made peace with negative numbers. People have invented all sorts of funny little mental strategies to sidestep the dreaded negative sign. On mutual fund statements, losses (negative numbers) are printed in red or stuck in parentheses with no negative sign to be found. The history books tell us that Julius Caesar was born in 100 B.C., not -100. The underground levels in a parking garage often have designations like B1 and B2. Temperatures are one of the few exceptions: folks do say, especially here in Ithaca, New York, that it’s -5 degrees outside, though even then, many prefer to say 5 below zero. There’s something about that negative sign that just looks so unpleasant.",
+      "original_summary": null,
+      "word_count": 170,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Observational studies of humans cannot be properly controlled. Humans live different lifestyles and in different environments. Thus, they are insufficiently homogeneous to be suitable experimental subjects. These confounding factors undermine our ability to draw sound causal conclusions from human epidemiological surveys. Confounding factors are variables (known or unknown) that make it difficult for epidemiologists to isolate the effects of the specific variable being studied. For example, Taubes argued that since many people who drink also smoke, researchers have difficulty determining the link between alcohol consumption and cancer. Similarly, researchers in the famous Framingham study identified a significant correlation between coffee drinking and coronary heart disease. However, most of this correlation disappeared once researchers corrected for the fact that many coffee drinkers also smoke. If the confounding factors are known, it is often possible to correct for them. However, if they are unknown, they will undermine the reliability of the causal conclusions we draw from epidemiological surveys.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Of all the human emotions, none is trickier or more elusive than envy. It is very difficult to actually discern the envy that motivates people’s actions. The reason for this elusiveness is simple: we almost never directly express the envy we are feeling. Envy entails the admission to ourselves that we are inferior to another person in something we value. Not only is it painful to admit this inferiority, but it is even worse for others to see that we are feeling this. Envy can cause illness because people with envy can cast the “evil eye” on someone they envy, even unwittingly, or the envious person can become ill from the emotion. And so almost as soon as we experience the initial feelings of envy, we are motivated to disguise it to ourselves — it is not envy we feel but unfairness at the distribution of goods or attention, resentment at this unfairness, even anger.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "The right to be forgotten is a right distinct from but related to a right to privacy. The right to privacy is, among other things, the right for information traditionally regarded as protected or personal not to be revealed. The right to be forgotten, in contrast, can be applied to information that has been in the public domain. The right to be forgotten broadly includes the right of an individual not to be forever defined by information from a specific point in time. One motivation for such a right is to allow individuals to move on with their lives and not be defined by a specific event or period in their lives. For example, it has long been recognized in some countries, such as the UK and France, that even past criminal convictions should eventually be “spent” and not continue to affect a person’s life. Despite the reason for supporting the right to be forgotten, the right to be forgotten can sometimes come into conflict with other rights. For example, formal exceptions are sometimes made for security or public health reasons.",
+      "original_summary": null,
+      "word_count": 181,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "To an economist who succeeds in figuring out a person’s preference structure — understanding whether the satisfaction gained from consuming one good is greater than that of another — explaining behavior in terms of changes in underlying likes and dislikes is usually highly problematic. To argue, for instance, that the baby boom and then the baby bust resulted from an increase and then a decrease in the public’s inherent taste for children, rather than a change in relative prices against a background of stable preferences, places a social scientist in an unsound position. In economics, such an argument about birth rates would be equivalent to saying that a rise and fall in mortality could be attributed to an increase in the inherent desire change for death. For an economist, changes in income and prices, rather than changes in tastes, affect birth rates. When income rises, for example, people want more children (or, as you will see later, more satisfaction derived from children), even if their inherent desire for children stays the same.",
+      "original_summary": null,
+      "word_count": 172,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "In the natural world, if an animal consumes a plant with enough antinutrients to make it feel unwell, it won’t eat that plant again. Intuitively, animals also know to stay away from these plants. Years of evolution and information being passed down created this innate intelligence. This “intuition,” though, is not just seen in animals. Have you ever wondered why most children hate vegetables? Dr. Steven Gundry justifies this as part of our genetic programming, our inner intelligence. Since many vegetables are full of antinutrients, your body tries to keep you away from them while you are still fragile and in development. It does this by making your taste buds perceive these flavors as bad and even disgusting. As you grow and your body becomes stronger enough to tolerate these antinutrients, suddenly they no longer taste as bad as before.",
+      "original_summary": null,
+      "word_count": 140,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "The difference in the Moon’s gravitational pull on different parts of our planet effectively creates a “stretching force.” It makes our planet slightly stretched out along the line of sight to the Moon and slightly compressed along a line perpendicular to that. The tidal stretching caused by the Moon’s gravity affects our entire planet, including both land and water, inside and out. However, the rigidity of rock means that land rises and falls with the tides by a much smaller amount than water, which is why we notice only the ocean tides. The stretching also explains why there are generally two high tides (and two low tides) in the ocean each day. Because Earth is stretched much like a rubber band, the oceans bulge out both on the side facing toward the Moon and on the side facing away from the Moon. As Earth rotates, we are carried through both of these tidal bulges each day, so we have high tide when we are in each of the two bulges and low tide at the midpoints in between.",
+      "original_summary": null,
+      "word_count": 178,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "A study investigated the economic cost of prejudice based on blind assumptions. Researchers gave a group of Danish teenagers the choice of working with one of two people. The teenager had never met either of them. One of the people had a name that suggested they were from a similar ethnic or religious background to the teenager. The other had a name that suggested they were from a different ethnic or religious background. The study showed that the teenagers were prepared to earn an average of 8% less if they could work with someone they thought came from the same ethnic or religious background. And this prejudice was evident among teenagers with ethnic majority names as well as those with ethnic minority names. The teenagers were blindly making assumptions about the race of their potential colleagues. They then applied prejudice to those assumptions, to the point where they actually allowed that prejudice to reduce their own potential income. The job required the two teenagers to work together for just 90 minutes. A study in which teenagers expressed a(n) preference to work with someone of a similar background, even at a financial cost to themselves, suggests that an assumption-based prejudice can outweigh rational economic behavior.",
+      "original_summary": null,
+      "word_count": 204,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M11-H2-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A neuropsychologist, Michael Gazzaniga conducted a study that shows that our brains excel at creating coherent (but not necessarily true) stories that deceive us. In the study, split-brain patients were shown an image such that it was visible to only their left eye and asked to select a related card with their left hand. Left-eye vision and left-side body movement are controlled by the right hemisphere. In a split-brain patient, the connection between the right and left hemispheres has been broken, meaning no information can cross from one hemisphere to the other. Therefore, in this experiment, the right hemisphere was doing all of the work, and the left hemisphere was unaware of what was happening. Gazzaniga then asked participants why they chose the card that they did. Because language is processed and generated in the left hemisphere, the left hemisphere is required to respond. However, because of the experiment’s design, only the right hemisphere knew why the participant selected the card. As a result, Gazzaniga expected the participants to be silent when asked to answer the question. But instead, every subject fabricated a response. The left hemisphere was being asked to provide a rationalization for a behavior done by the right hemisphere. The left hemisphere didn’t know the answer. But that didn’t keep it from fabricating an answer. That answer, however, had no basis in reality. Now if this study had been limited to split-brain patients, it would be interesting but not very relevant to us. It turns out split-brain patients aren’t the only ones who fabricate reasons. We all do it. We all need a coherent story about ourselves, and when information in that story is missing, our brains simply fill in the details.",
+      "original_summary": null,
+      "word_count": 285,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

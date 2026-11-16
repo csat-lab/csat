@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2022,
+    "month": 3,
+    "grade": "고1",
+    "exam_title": "2022학년도 3월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2022-M3-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "When I was in the army, my instructors would show up in my barracks room, and the first thing they would inspect was our bed. It was a simple task, but every morning we were required to make our bed to perfection. It seemed a little ridiculous at the time, but the wisdom of this simple act has been proven to me many times over. If you make your bed every morning, you will have accomplished the first task of the day. It will give you a small sense of pride and it will encourage you to do another task and another. By the end of the day, that one task completed will have turned into many tasks completed. If you can’t do little things right, you will never do the big things right.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 Leave those activities to the rest of the sheep이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "A job search is not a passive task. When you are searching, you are not browsing, nor are you “just looking”. Browsing is not an effective way to reach a goal you claim to want to reach. If you are acting with purpose, if you are serious about anything you chose to do, then you need to be direct, focused and whenever possible, clever. Everyone else searching for a job has the same goal, competing for the same jobs. You must do more than the rest of the herd. Regardless of how long it may take you to find and get the job you want, being proactive will logically get you results faster than if you rely only on browsing online job boards and emailing an occasional resume. Leave those activities to the rest of the sheep.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Many people view sleep as merely a “down time” when their brain shuts off and their body rests. In a rush to meet work, school, family, or household responsibilities, people cut back on their sleep, thinking it won’t be a problem, because all of these other activities seem much more important. But research reveals that a number of vital tasks carried out during sleep help to maintain good health and enable people to function at their best. While you sleep, your brain is hard at work forming the pathways necessary for learning and creating memories and new insights. Without enough sleep, you can’t focus and pay attention or respond quickly. A lack of sleep may even cause mood problems. In addition, growing evidence shows that a continuous lack of sleep increases the risk for developing serious diseases.",
+      "original_summary": null,
+      "word_count": 137,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "The whole of human society operates on knowing the future weather. For example, farmers in India know when the monsoon rains will come next year and so they know when to plant the crops. Farmers in Indonesia know there are two monsoon rains each year, so next year they can have two harvests. This is based on their knowledge of the past, as the monsoons have always come at about the same time each year in living memory. But the need to predict goes deeper than this; it influences every part of our lives. Our houses, roads, railways, airports, offices, and so on are all designed for the local climate. For example, in England all the houses have central heating, as the outside temperature is usually below 20°C, but no air-conditioning, as temperatures rarely go beyond 26°C, while in Australia the opposite is true: most houses have air-conditioning but rarely central heating.",
+      "original_summary": null,
+      "word_count": 152,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Our ability to accurately recognize and label emotions is often referred to as emotional granularity. In the words of Harvard psychologist Susan David, “Learning to label emotions with a more nuanced vocabulary can be absolutely transformative.” David explains that if we don’t have a rich emotional vocabulary, it is difficult to communicate our needs and to get the support that we need from others. But those who are able to distinguish between a range of various emotions “do much, much better at managing the ups and downs of ordinary existence than those who see everything in black and white.” In fact, research shows that the process of labeling emotional experience is related to greater emotion regulation and psychosocial well-being.",
+      "original_summary": null,
+      "word_count": 119,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 2,
+      "passage": "We usually get along best with people who we think are like us. In fact, we seek them out. It’s why places like Little Italy, Chinatown, and Koreatown exist. But I’m not just talking about race, skin color, or religion. I’m talking about people who share our values and look at the world the same way we do. As the saying goes, birds of a feather flock together. This is a very common human tendency that is rooted in how our species developed. Imagine you are walking out in a forest. You would be conditioned to avoid something unfamiliar or foreign because there is a high likelihood that it would be interested in killing you. Similarities make us relate better to other people because we think they’ll understand us on a deeper level than other people.",
+      "original_summary": null,
+      "word_count": 136,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Rejection is an everyday part of our lives, yet most people can’t handle it well. For many, it’s so painful that they’d rather not ask for something at all than ask and risk rejection. Yet, as the old saying goes, if you don’t ask, the answer is always no. Avoiding rejection negatively affects many aspects of your life. All of that happens only because you’re not tough enough to handle it. For this reason, consider rejection therapy. Come up with a request or an activity that usually results in a rejection. Working in sales is one such example. Asking for discounts at the stores will also work. By deliberately getting yourself rejected you’ll grow a thicker skin that will allow you to take on much more in life, thus making you more successful at dealing with unfavorable circumstances.",
+      "original_summary": null,
+      "word_count": 138,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Generalization without specific examples that humanize writing is boring to the listener and to the reader. Who wants to read platitudes all day? Who wants to hear the words great, greater, best, smartest, finest, humanitarian, on and on and on without specific examples? Instead of using these ‘nothing words,’ leave them out completely and just describe the particulars. There is nothing worse than reading a scene in a novel in which a main character is described up front as heroic or brave or tragic or funny, while thereafter, the writer quickly moves on to something else. That’s no good, no good at all. You have to use less one word descriptions and more detailed, engaging descriptions if you want to make something real.",
+      "original_summary": null,
+      "word_count": 123,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Face-to-face interaction is a uniquely powerful ― and sometimes the only ― way to share many kinds of knowledge, from the simplest to the most complex. It is one of the best ways to stimulate new thinking and ideas, too. Most of us would have had difficulty learning how to tie a shoelace only from pictures, or how to do arithmetic from a book. Psychologist Mihàly Csikszentmihàlyi found, while studying high achievers, that a large number of Nobel Prize winners were the students of previous winners: they had access to the same literature as everyone else, but personal contact made a crucial difference to their creativity. Within organisations this makes conversation both a crucial factor for high-level professional skills and the most important way of sharing everyday information.",
+      "original_summary": null,
+      "word_count": 128,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Most times a foreign language is spoken in film, subtitles are used to translate the dialogue for the viewer. However, there are occasions when foreign dialogue is left unsubtitled (and thus incomprehensible to most of the target audience). This is often done if the movie is seen mainly from the viewpoint of a particular character who does not speak the language. Such absence of subtitles allows the audience to feel a similar sense of incomprehension and alienation that the character feels. An example of this is seen in Not Without My Daughter. The Persian language dialogue spoken by the Iranian characters is not subtitled because the main character Betty Mahmoody does not speak Persian and the audience is seeing the film from her viewpoint.",
+      "original_summary": null,
+      "word_count": 124,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "One dynamic that can change dramatically in sport is the concept of the home-field advantage, in which perceived demands and resources seem to play a role. Under normal circumstances, the home ground would appear to provide greater perceived resources (fans, home field, and so on). However, researchers Roy Baumeister and Andrew Steinhilber were among the first to point out that these competitive factors can change; for example, the success percentage for home teams in the final games of a playoff or World Series seems to drop. Fans can become part of the perceived demands rather than resources under those circumstances. This change in perception can also explain why a team that’s struggling at the start of the year will often welcome a road trip to reduce perceived demands and pressures.",
+      "original_summary": null,
+      "word_count": 130,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "Who hasn’t used a cup of coffee to help themselves stay awake while studying? Mild stimulants commonly found in tea, coffee, or sodas possibly make you more attentive and, thus, better able to remember. However, you should know that stimulants are as likely to have negative effects on memory as they are to be beneficial. Even if they could improve performance at some level, the ideal doses are currently unknown. If you are wide awake and well-rested, mild stimulation from caffeine can do little to further improve your memory performance. In contrast, many studies have shown that drinking tea is healthier than drinking coffee. Indeed, if you have too much of a stimulant, you will become nervous, find it difficult to sleep, and your memory performance will suffer.",
+      "original_summary": null,
+      "word_count": 128,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Toward the end of the 19th century, a new architectural attitude emerged. Industrial architecture, the argument went, was ugly and inhuman; past styles had more to do with pretension than what people needed in their homes. Instead of these approaches, why not look at the way ordinary country builders worked in the past? They developed their craft skills over generations, demonstrating mastery of both tools and materials. Those materials were local, and used with simplicity — houses built this way had plain wooden floors and whitewashed walls inside. But they supplied people’s needs perfectly and, at their best, had a beauty that came from the craftsman’s skill and the rootedness of the house in its locality.",
+      "original_summary": null,
+      "word_count": 116,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Robert Schumann once said, “The laws of morals are those of art.” What the great man is saying here is that there is good music and bad music. The greatest music, even if it’s tragic in nature, takes us to a world higher than ours; somehow the beauty uplifts us. Bad music, on the other hand, degrades us. It’s the same with performances: a bad performance isn’t necessarily the result of incompetence. Some of the worst performances occur when the performers, no matter how accomplished, are thinking more of themselves than of the music they’re playing. These doubtful characters aren’t really listening to what the composer is saying — they’re just showing off, hoping that they’ll have a great ‘success’ with the public. The performer’s basic task is to try to understand the meaning of the music, and then to communicate it honestly to others.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 3,
+      "passage": "When an ecosystem is biodiverse, wildlife have more opportunities to obtain food and shelter. Different species react and respond to changes in their environment differently. For example, imagine a forest with only one type of plant in it, which is the only source of food and habitat for the entire forest food web. Now, there is a sudden dry season and this plant dies. Plant-eating animals completely lose their food source and die out, and so do the animals that prey upon them. But, when there is biodiversity, the effects of a sudden change are not so dramatic. Different species of plants respond to the drought differently, and many can survive a dry season. Many animals have a variety of food sources and don’t just rely on one plant; now our forest ecosystem is no longer at the death!",
+      "original_summary": null,
+      "word_count": 139,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "We are connected to the night sky in many ways. It has always inspired people to wonder and to imagine. Since the dawn of civilization, our ancestors created myths and told legendary stories about the night sky. Elements of those narratives became embedded in the social and cultural identities of many generations. On a practical level, the night sky helped past generations to keep track of time and create calendars — essential to developing societies as aids to farming and seasonal gathering. For many centuries, it also provided a useful navigation tool, vital for commerce and for exploring new worlds. Even in modern times, many people in remote areas of the planet observe the night sky for such practical purposes.",
+      "original_summary": null,
+      "word_count": 120,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The common blackberry (Rubus allegheniensis) has an amazing ability to move manganese from one layer of soil to another using its roots. This may seem like a funny talent for a plant to have, but it all becomes clear when you realize the effect it has on nearby plants. Manganese can be very harmful to plants, especially at high concentrations. Common blackberry is unaffected by damaging effects of this metal and has evolved two different ways of using manganese to its advantage. First, it redistributes manganese from deeper soil layers to shallow soil layers using its roots as a small pipe. Second, it absorbs manganese as it grows, concentrating the metal in its leaves. When the leaves drop and decay, their concentrated manganese deposits further poison the soil around the plant. For plants that are not immune to the toxic effects of manganese, this is very bad news. Essentially, the common blackberry eliminates competition by poisoning its neighbors with heavy metals.",
+      "original_summary": null,
+      "word_count": 161,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2022-M3-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The longest journey we will make is the eighteen inches between our head and heart. If we take this journey, it can shorten our misery in the world. Impatience, judgment, frustration, and anger reside in our heads. When we live in that place too long, it makes us unhappy. But when we take the journey from our heads to our hearts, something shifts inside. What if we were able to love everything that gets in our way? What if we tried loving the shopper who unknowingly steps in front of us in line, the driver who cuts us off in traffic, the swimmer who splashes us with water during a belly dive, or the reader who pens a bad online review of our writing? Every person who makes us miserable is like us — a human being, most likely doing the best they can, deeply loved by their parents, a child, or a friend. And how many times have we unknowingly stepped in front of someone in line? Cut someone off in traffic? Splashed someone in a pool? Or made a negative statement about something we’ve read? It helps to remember that a piece of us resides in every person we meet.",
+      "original_summary": null,
+      "word_count": 202,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

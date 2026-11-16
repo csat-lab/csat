@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 9,
+    "grade": "고1",
+    "exam_title": "2021학년도 9월 고1 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M9-H1-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "As you set about to write, it is worth reminding yourself that while you ought to have a point of view, you should avoid telling your readers what to think. Try to hang a question mark over it all. This way you allow your readers to think for themselves about the points and arguments you’re making. As a result, they will feel more involved, finding themselves just as committed to the arguments you’ve made and the insights you’ve exposed as you are. You will have written an essay that not only avoids passivity in the reader, but is interesting and gets people to think.",
+      "original_summary": null,
+      "word_count": 104,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 “matter out of place”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Nothing is trash by nature. Anthropologist Mary Douglas brings back and analyzes the common saying that dirt is “matter out of place.” Dirt is relative, she emphasizes. “Shoes are not dirty in themselves, but it is dirty to place them on the dining-table; food is not dirty in itself, but it is dirty to leave pots and pans in the bedroom, or food all over clothing; similarly, bathroom items in the living room; clothing lying on chairs; outdoor things placed indoors; upstairs things downstairs, and so on.” Sorting the dirty from the clean ― removing the shoes from the table, putting the dirty clothing in the washing machine ― involves systematic ordering and classifying. Eliminating dirt is thus a positive process.",
+      "original_summary": null,
+      "word_count": 121,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "It’s important that you think independently and fight for what you believe in, but there comes a time when it’s wiser to stop fighting for your view and move on to accepting what a trustworthy group of people think is best. This can be extremely difficult. But it’s smarter, and ultimately better for you to be open-minded and have faith that the conclusions of a trustworthy group of people are better than whatever you think. If you can’t understand their view, you’re probably just blind to their way of thinking. If you continue doing what you think is best when all the evidence and trustworthy people are against you, you’re being dangerously confident. The truth is that while most people can become incredibly open-minded, some can’t, even after they have repeatedly encountered lots of pain from betting that they were right when they were not.",
+      "original_summary": null,
+      "word_count": 145,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Vegetarian eating is moving into the mainstream as more and more young adults say no to meat, poultry, and fish. According to the American Dietetic Association, “approximately planned vegetarian diets are healthful, are nutritionally adequate, and provide health benefits in the prevention and treatment of certain diseases.” But health concerns are not the only reason that young adults give for changing their diets. Some make the choice out of concern for animal rights. When faced with the statistics that show the majority of animals raised as food live in confinement, many teens give up meat to protest those conditions. Others turn to vegetarianism to support the environment. Meat production uses vast amounts of water, land, grain, and energy and creates problems with animal waste and resulting pollution.",
+      "original_summary": null,
+      "word_count": 127,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Diversity, challenge, and conflict help us maintain our imagination. Most people assume that conflict is bad and that being in one’s “comfort zone” is good. That is not exactly true. Of course, we don’t want to find ourselves without a job or medical insurance or in a fight with our partner, family, boss, or coworkers. One bad experience can be sufficient to last us a lifetime. But small disagreements with family and friends, trouble with technology or finances, or challenges at work and at home can help us think through our own capabilities. Problems that need solutions force us to use our brains in order to develop creative answers. Navigating landscapes that are varied, that offer trials and occasional conflicts, is more helpful to creativity than hanging out in landscapes that pose no challenge to our senses and our minds. Our two million-year history is packed with challenges and conflicts.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "An economic theory of Say’s Law holds that everything that’s made will get sold. The money from anything that’s produced is used to buy something else. There can never be a situation in which a firm finds that it can’t sell its goods and so has to dismiss workers and close its factories. Therefore, recessions and unemployment are impossible. Picture the level of spending like the level of water in a bath. Say’s Law applies because people use all their earnings to buy things. But what happens if people don’t spend all their money, saving some of it instead? Savings are a ‘leakage’ of spending from the economy. You’re probably imagining the water level now falling, so there’s less spending in the economy. That would mean firms producing less and dismissing some of their workers.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 3,
+      "passage": "Hunting can explain how humans developed reciprocal altruism and social exchange. Humans seem to be unique among primates in showing extensive reciprocal relationships that can last years, decades, or a lifetime. Meat from a large game animal comes in quantities that exceed what a single hunter and his immediate family could possibly consume. Furthermore, hunting success is highly variable; a hunter who is successful one week might fail the next. These conditions encourage food sharing from hunting. The costs to a hunter of giving away meat he cannot eat immediately are low because he cannot consume all the meat himself and leftovers will soon spoil. The benefits can be large, however, when those who are given his food return the generous favor later on when he has failed to get food for himself. In essence, hunters can store extra meat in the bodies of their friends and neighbors.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Sometimes it is the simpler product that gives a business a competitive advantage. Until recently, bicycles had to have many gears, often 15 or 20, for them to be considered high-end. But fixed-gear bikes with minimal features have become more popular, as those who buy them are happy to pay more for much less. The overall profitability of these bikes is much higher than the more complex ones because they do a single thing really well without the cost of added complexity. Companies should be careful of getting into a war over adding more features with their competitors, as this will increase cost and almost certainly reduce profitability because of competitive pressure on price.",
+      "original_summary": null,
+      "word_count": 114,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Many evolutionary biologists argue that humans developed language for economic reasons. We needed to trade, and we needed to establish trust in order to trade. Language is very handy when you are trying to conduct business with someone. Two early humans could not only agree to trade three wooden bowls for six bunches of bananas but establish rules as well. What wood was used for the bowls? Where did you get the bananas? That business deal would have been nearly impossible using only gestures and confusing noises, and carrying it out according to terms agreed upon creates a bond of trust. Language allows us to be specific, and this is where conversation plays a key role.",
+      "original_summary": null,
+      "word_count": 116,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "One big difference between science and stage magic is that while magicians hide their mistakes from the audience, in science you make your mistakes in public. You show them off so that everybody can learn from them. This way, you get the advantage of everybody else’s experience, and not just your own idiosyncratic path through the space of mistakes. This, by the way, is another reason why we humans are so much smarter than every other species. It is not that our brains are bigger or more powerful, or even that we have the ability to reflect on our own past errors, but that we share the benefits that our individual brains have earned from their individual histories of trial and error.",
+      "original_summary": null,
+      "word_count": 122,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The last two decades of research on the science of learning have shown conclusively that we remember things better, and longer, if we discover them ourselves rather than being told them. This is the teaching method practiced by physics professor Eric Mazur. He doesn’t lecture in his classes at Harvard. Instead, he asks students difficult questions, based on their homework reading, that require them to pull together sources of information to solve a problem. Mazur doesn’t give them the answer; instead, he asks the students to break off into small groups and discuss the problem among themselves. Eventually, nearly everyone in the class gets the answer right, and the concepts stick with them because they had to find their own way to the answer.",
+      "original_summary": null,
+      "word_count": 124,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "The Zeigarnik effect is commonly referred to as the tendency of the subconscious mind to remind you of a task that is incomplete until that task is complete. Bluma Zeigarnik was a Lithuanian psychologist who wrote in the 1920s about the effects of leaving tasks incomplete. She noticed the effect while watching waiters serve in a restaurant. The waiters would remember an order, however complicated, until the order was complete, but they would later find it difficult to remember the order. Zeigarnik did further studies giving both adults and children puzzles to complete then interrupting them during some of the tasks. They developed cooperation skills after finishing tasks by putting the puzzles together. The results showed that both adults and children remembered the tasks that hadn’t been completed because of the interruptions better than the ones that had been completed.",
+      "original_summary": null,
+      "word_count": 140,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Understanding how to develop respect for and a knowledge of other cultures begins with reexamining the golden rule: “I treat others in the way I want to be treated.” This rule makes sense on some level; if we treat others as well as we want to be treated, we will be treated well in return. This rule works well in a monocultural setting, where everyone is working within the same cultural framework. In a multicultural setting, however, where words, gestures, beliefs, and views may have different meanings, this rule has an unintended result; it can send a message that my culture is better than yours. It can also create a frustrating situation where we believe we are doing what is right, but what we are doing is not being interpreted in the way in which it was meant. This miscommunication can lead to problems.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "In a study, a researcher pretending to be a volunteer surveyed a California neighborhood, asking residents if they would allow a large sign reading ‘‘Drive Carefully’’ to be displayed on their front lawns. To help them understand what it would look like, the volunteer showed his participants a picture of the large sign blocking the view of a beautiful house. Naturally, most people refused, but in one particular group, an incredible 76 percent actually approved. The reason that they agreed was this: two weeks earlier, these residents had been asked by another volunteer to make a small commitment to display a tiny sign that read ‘‘Be a Safe Driver’’ in their windows. Since it was such a small and simple request, nearly all of them agreed. The astonishing result was that the initial small commitment deeply influenced their willingness to accept the much larger request two weeks later.",
+      "original_summary": null,
+      "word_count": 148,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Studies have consistently shown caffeine to be effective when used together with a pain reliever to treat headaches. The positive correlation between caffeine intake and staying alert throughout the day has also been well established. As little as 60 mg (the amount typically in one cup of tea) can lead to a faster reaction time. However, using caffeine to improve alertness and mental performance doesn’t replace getting a good night’s sleep. One study from 2018 showed that coffee improved reaction times in those with or without poor sleep, but caffeine seemed to increase errors in the group with little sleep. Additionally, this study showed that even with caffeine, the group with little sleep did not score as well as those with adequate sleep. It suggests that caffeine does not fully make up for inadequate sleep.",
+      "original_summary": null,
+      "word_count": 135,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Rewarding business success doesn’t always have to be done in a material way. A software company I once worked for had a great way of recognizing sales success. The sales director kept an air horn outside his office and would come out and blow the horn every time a salesperson settled a deal. The noise, of course, interrupted anything and everything happening in the office because it was unbelievably loud. However, it had an amazingly positive impact on everyone. Sometimes rewarding success can be as easy as that, especially when peer recognition is important. You should have seen the way the rest of the sales team wanted the air horn blown for them.",
+      "original_summary": null,
+      "word_count": 113,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "Nancy Lowry and David Johnson conducted an experiment to study a teaching environment where fifth and sixth graders were assigned to interact on a topic. With one group, the discussion was led in a way that built an agreement. With the second group, the discussion was designed to produce disagreements about the right answer. Students who easily reached an agreement were less interested in the topic, studied less, and were less likely to visit the library to get additional information. The most noticeable difference, though, was revealed when teachers showed a special film about the discussion topic — during lunch time! Only 18 percent of the agreement group missed lunch time to see the film, but 45 percent of the students from the disagreement group stayed for the film. The thirst to fill a knowledge gap — to find out who was right within the group — can be more powerful than the thirst for slides and jungle gyms.",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M9-H1-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The market’s way of telling a firm about its failures is harsh and brief. Not only are complaints less expensive to handle but they also can cause the seller to improve. The seller may learn something as well. I remember a cosmetics company that received complaints about sticky sunblock lotion. At the time, all such lotions were more or less sticky, so the risk of having customers buy products from a rival company was not great. But this was also an opportunity. The company managed to develop a product that was not sticky and captured 20 percent of the market in its first year. Another company had the opposite problem. Its products were not sticky enough. The company was a Royal Post Office in Europe and the product was a stamp. The problem was that the stamp didn’t stick to the envelope. Management contacted the stamp producer who made it clear that if people just moistened the stamps properly, they would stick to any piece of paper. What to do? Management didn’t take long to come to the conclusion that it would be more costly to try to educate its customers to wet each stamp rather than to add more glue. The stamp producer was told to add more glue and the problem didn’t occur again. Since it is better for the firm to have buyers complain rather than go elsewhere, it is important to make it easier for dissatisfied customers to complain.",
+      "original_summary": null,
+      "word_count": 243,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}

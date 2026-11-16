@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "year": 2021,
+    "month": 7,
+    "grade": "고3",
+    "exam_title": "2021학년도 7월 고3 전국연합학력평가"
+  },
+  "total_selected_passages": 18,
+  "passages": [
+    {
+      "source_id": "2021-M7-H3-Q20",
+      "q_num": "20",
+      "original_type": "주장 추론",
+      "original_stem": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Your brain doesn’t recognize don’t. No matter what I say, don’t think of a giraffe with brown spots on it. No matter what I say, don’t think of a clear glass vase with fresh red roses in it. What happens? It’s automatic, isn’t it? Your brain goes ahead and creates the picture all by itself. Your words ― whether you think, say, read, or hear them ― are a direct command to create. The more direct the order, the more diligent the response. Trickily, if you say you don’t want to lose your temper, your brain doesn’t recognize don’t and sees it as a royal command to get you to lose your temper. If say you don’t want to spill your drink, it’s as good as an instruction to tip the contents. Change your words to support you. Create affirmations that suit you. Think and say precisely what you desire rather than what you don’t want.",
+      "original_summary": null,
+      "word_count": 156,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q21",
+      "q_num": "21",
+      "original_type": "함축 의미 추론",
+      "original_stem": "밑줄 친 innovation is a delicate and vulnerable flower, easily crushed underfoot이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Perhaps the most puzzling aspect of innovation is how unpopular it is, for all the lip service we pay to it. Despite the abundant evidence that it has transformed almost everybody’s lives for the better in innumerable ways, the kneejerk reaction of most people to something new is often worry, sometimes even disgust. Unless it is of obvious use to ourselves, we tend to imagine the bad consequences that might occur far more than the good ones. And we throw obstacles in the way of innovators, on behalf of those with a vested interest in the status quo: investors, managers and employees alike. History shows that innovation is a delicate and vulnerable flower, easily crushed underfoot, but quick to regrow if conditions allow.",
+      "original_summary": null,
+      "word_count": 123,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q22",
+      "q_num": "22",
+      "original_type": "요지 추론",
+      "original_stem": "다음 글의 요지로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "The immense improvement in the yield of farming during the twentieth century, as a result of innovations in mechanization, fertilizer, new varieties, pesticides and genetic engineering, has banished famine from the face of the planet almost entirely, and drastically reduced malnutrition, even while the human population has continued to expand. Few predicted this, yet many are concerned that this improvement has come at the expense of nature. In fact the evidence is strong that the opposite is the case. Innovation in food production has spared land and forest from the plough, the cow and the axe on a grand scale by increasing the productivity of the land we do farm. It turns out that this ‘land sparing’ has been much better for biodiversity than land sharing would have been ― by which is meant growing crops at low yields in the hope that abundant wildlife lives in fields alongside crops.",
+      "original_summary": null,
+      "word_count": 150,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q23",
+      "q_num": "23",
+      "original_type": "주제 추론",
+      "original_stem": "다음 글의 주제로 가장 적절한 것은?",
+      "original_points": 3,
+      "passage": "More recently there have been attempts to argue that unpaid work is work because ‘it is an activity that combines labour with raw materials to produce goods and services with enhanced economic value’. Economists such as Duncan Ironmonger have attempted to impute a dollar value on volunteering to enable its ‘economic’ value to be counted. Yet despite this, unpaid work and volunteering still remain outside the defined economic framework of our capitalist system because capitalism has competition and financial reward as its cornerstones and volunteering does not. Having said that, it has been estimated that volunteering contributes about $42 billion a year to the Australian economy. Although attempts to quantify and qualify the financial importance of volunteering in supporting our economic structures and enhancing our social capital continue to be made, it is slow going. And while volunteering remains outside the GDP, its true value and importance is neglected. Governments continue to pay lip service to the importance of volunteering but ultimately deny it official recognition.",
+      "original_summary": null,
+      "word_count": 166,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q24",
+      "q_num": "24",
+      "original_type": "제목 추론",
+      "original_stem": "다음 글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "Amazingly, many businesses evaluate their customer service strategy by the number of complaints they get. ‘We have very few complaints from our customers, so we don’t need customer service training at the moment.’ I am told this regularly when prospecting for new clients. Either that or, ‘The number of complaints has dramatically decreased this year and we are very pleased, it seems our customer service initiatives are working’. Companies using this type of measure are in denial. Although it is tempting to bury your head in the sand and believe no news is good news, trust me, if customers are not complaining to you, then they are complaining to other people or they are just never using your business again. The concerning thing is that customers who don’t complain there and then increasingly post their views on the Internet and through the social networking sites; they are no longer telling nine or so people but are probably telling thousands!",
+      "original_summary": null,
+      "word_count": 159,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q29",
+      "q_num": "29",
+      "original_type": "어법 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "original_points": 3,
+      "passage": "The idea that people selectively expose themselves to news content has been around for a long time, but it is even more important today with the fragmentation of audiences and the proliferation of choices. Selective exposure is a psychological concept that says people seek out information that conforms to their existing belief systems and avoid information that challenges those beliefs. In the past when there were few sources of news, people could either expose themselves to mainstream news — where they would likely see beliefs expressed counter to their own — or they could avoid news altogether. Now with so many types of news constantly available to a full range of niche audiences, people can easily find a source of news that consistently confirms their own personal set of beliefs. This leads to the possibility of creating many different small groups of people with each strongly believing they are correct and everyone else is wrong about how the world works.",
+      "original_summary": null,
+      "word_count": 160,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q30",
+      "q_num": "30",
+      "original_type": "어휘 추론",
+      "original_stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "original_points": 2,
+      "passage": "Prior to the Industrial Revolution, the quantity of freight transported between nations was negligible by contemporary standards. For instance, during the Middle Ages, the totality of French imports via the Saint-Gothard Passage would not fill a freight train. The amount of freight transported by the Venetian fleet, which dominated Mediterranean trade, would not fill a modern container ship. The volume, but not the speed, of trade improved under mercantilism, notably for maritime transportation. In spite of all, distribution capacities were very limited and speeds slow. For example, a stagecoach going through the English countryside in the sixteenth century had an average speed of 2 miles per hour; moving one ton of cargo 30 miles inland in the United States by the late eighteenth century was as costly as moving it across the Atlantic. The inland transportation system was thus very limited. By the late eighteenth century, canal systems started to emerge in Europe. They permitted the large movements of bulk freight inland and expanded regional trade. Maritime and riverine transportation were consequently the dominant modes of the pre-industrial era.",
+      "original_summary": null,
+      "word_count": 179,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q31",
+      "q_num": "31",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Relatively undeveloped languages have no single word for plants. The lack of a term doesn’t mean they don’t perceive differences, and it doesn’t mean they don’t know the difference between spinach and a cactus; they just lack an all-encompassing term with which to refer to plants. We see cases like this in our own language. For example, English lacks a single basic term to refer to edible mushrooms. We also lack a term for all the people you would have to notify if you were going into the hospital for three weeks. These might include close relatives, friends, your employer, the newspaper delivery person, and anyone you had appointments with during that period. The lack of a term doesn’t mean you don’t understand the concept; it simply means that the category isn’t reflected in our language. This could be because a need for it hasn’t been so pressing that a word needed to be coined.",
+      "original_summary": null,
+      "word_count": 155,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q32",
+      "q_num": "32",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "Psychologists and neuroscientists warn that when we rely on technology to perform tasks such as navigation for us, our awareness of our physical environment fades as we become immersed instead in an abstract, computerized world. Studies show that we tend to place too much faith in the accuracy of information from computer monitors, and to ignore or discount information from our own eyes and ears, an effect that has caused pilots to crash planes and GPS-following tourists to drive into the sea. A team led by the British neuroscientist Hugo Spiers found in 2017 that areas of the brain normally involved in navigation just don’t engage when people use GPS. “When we have technology telling us which way to go,” said Spiers, “these parts of the brain simply don’t respond to the street network. In that sense our brain has switched off its interest in the streets around us.”",
+      "original_summary": null,
+      "word_count": 149,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q33",
+      "q_num": "33",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The conventional view of what the state should do to foster innovation is simple: it just needs to get out of the way. At best, governments merely facilitate the economic dynamism of the private sector; at worst, their lumbering, heavy-handed, and bureaucratic institutions actively inhibit it. The fast-moving, risk-loving, and pioneering private sector, by contrast, is what really drives the type of innovation that creates economic growth. According to this view, the secret behind Silicon Valley lies in its entrepreneurs and venture capitalists. The state can intervene in the economy ― but only to fix market failures or level the playing field. It can regulate the private sector in order to account for the external costs companies may impose on the public, such as pollution, and it can invest in public goods, such as basic scientific research or the development of drugs with little market potential. It should not, however, directly attempt to create and shape markets.",
+      "original_summary": null,
+      "word_count": 157,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q34",
+      "q_num": "34",
+      "original_type": "빈칸 추론",
+      "original_stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "The designer in the Age of Algorithms poses a threat to American jurisprudence because the algorithm is only as good as the designer’s understanding of the intended use of the algorithm. The person designing the algorithm may be an excellent software engineer, but without the knowledge of all the factors that need to go into an algorithmic process, the engineer could unknowingly produce an algorithm whose decisions are at best incomplete and at worst discriminatory and unfair. Compounding the problem, an algorithm design firm might be under contract to design algorithms for a wide range of uses, from determining which patients awaiting transplants are chosen to receive organs, to which criminals facing sentencing should be given probation or the maximum sentence. That firm is not going to be staffed with subject matter experts who know what questions each algorithm needs to address, what databases the algorithm should use to collect its data, and what pitfalls the algorithm needs to avoid in churning out decisions.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q35",
+      "q_num": "35",
+      "original_type": "무관한 문장",
+      "original_stem": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "original_points": 2,
+      "passage": "While we believe we hold the power to raise our children, the reality is that our children hold the power to raise us into the parents they need us to become. For this reason, the parenting experience isn’t one of parent versus child but of parent with child. The road to wholeness sits in our children’s lap, and all we need do is take a seat. As our children show us our way back to our own essence, they become our greatest awakeners. This means that how much we pay attention to awakening our children’s minds can make a difference in their lives. If we fail to hold their hand and follow their lead as they guide us through the gateway of increased consciousness, we lose the chance to walk toward our own enlightenment.",
+      "original_summary": null,
+      "word_count": 134,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q36",
+      "q_num": "36",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 2,
+      "passage": "Regression fallacy is a mistake of causal reasoning due to the failure to consider how things fluctuate randomly, typically around some average condition. Intense pain, exceptional sports performance, and high stock prices are likely to be followed by more subdued conditions eventually due to natural fluctuation. Failure to recognize this fact can lead to wrong conclusions about causation. For example, someone might suffer from back pain now and then but nothing seems to solve the problem completely. During a period of very intense pain, the patient decided to try alternative therapy like putting a magnetic patch on his back. He felt less pain afterward and concluded that the patch worked. But this could just be the result of regression. If he sought treatment when the pain was very intense, it is quite possible that the pain has already reached its peak and would lessen in any case as part of the natural cycle. Inferring that the patch was effective ignored a relevant alternative explanation.",
+      "original_summary": null,
+      "word_count": 164,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q37",
+      "q_num": "37",
+      "original_type": "순서 배열",
+      "original_stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "original_points": 3,
+      "passage": "There was a moment in research history when scientists wondered if the measure of choice ― total minutes of sleep ― was the wrong way of looking at the question of why sleep varies so considerably across species. Instead, they suspected that assessing sleep quality, rather than quantity (time), would shed some light on the mystery. That is, species with superior quality of sleep should be able to accomplish all they need in a shorter time, and vice versa. It was a great idea, with the exception that, if anything, we’ve discovered the opposite relationship: those that sleep more have deeper, “higher”-quality sleep. In truth, the way quality is commonly assessed in these investigations (degree of unresponsiveness to the outside world and the continuity of sleep) is probably a poor index of the real biological measure of sleep quality: one that we cannot yet obtain in all these species. When we can, our understanding of the relationship between sleep quantity and quality across the animal kingdom will likely explain what currently appears to be an incomprehensible map of sleep-time differences.",
+      "original_summary": null,
+      "word_count": 180,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q38",
+      "q_num": "38",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Why does the skin on the extremities wrinkle after a bath? And why only the extremities? Despite its appearance, your skin isn’t shrinking after your bath. Actually, it is expanding. The skin on the fingers, palms, toes, and soles wrinkles only after it is soaked with water. The stratum corneum — the thick, dead, rough layer of the skin that protects us from the environment and that makes the skin on our hands and feet tougher and thicker than that on our stomachs or faces — expands when it soaks up water. This expansion causes the wrinkling effect. So why doesn’t the skin on other parts of the body also wrinkle when soaked? Actually, it does, but there is more room for the moisture to be absorbed in these less densely packed areas before it shows. One doctor we contacted said that soldiers whose feet are submerged in wet boots for a long period will exhibit wrinkling all over the covered area.",
+      "original_summary": null,
+      "word_count": 162,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q39",
+      "q_num": "39",
+      "original_type": "문장 삽입",
+      "original_stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "original_points": 2,
+      "passage": "Whenever you perform a specific action (say, throwing a ball) your brain fires off in a very specific pattern. Interestingly, whenever you imagine yourself performing this same action, your brain fires off in almost the same pattern. This is why mental rehearsal is such a prominent technique in sports training: the brain doesn’t draw a strict distinction between the real and the imagined. Here’s the best bit: whenever you hear a story about a person performing this same action (throwing a ball) your brain will fire off in almost the same pattern. This doesn’t happen when you encounter this action in isolation (‘The man threw the ball’). But as soon as it’s embedded within a narrative your brain will respond largely as though you were performing the action. This means we do not simply listen to stories ― we experience stories.",
+      "original_summary": null,
+      "word_count": 141,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q40",
+      "q_num": "40",
+      "original_type": "요약문 완성",
+      "original_stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "A basic principle in economics is that when the supply of something goes up, its price should go down. The puzzle was that in the twentieth century, there were prolonged periods where the reverse appeared to happen in the world of work. In some countries, there was huge growth in the number of high-skilled people pouring out of colleges and universities, yet their wages appeared to rise rather than fall compared to those without this education. How could this be? The supply of high-skilled workers did grow, pushing their wages downward, but new technologies were skill-biased and so caused the demand for high-skilled workers to soar. The latter effect was so great that it overcame the former, so even though there were more educated people looking for work, the demand for them was so strong that the amount they were paid still went up.",
+      "original_summary": null,
+      "word_count": 144,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": false,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    },
+    {
+      "source_id": "2021-M7-H3-Q41-42",
+      "q_num": "41-42",
+      "original_type": "장문 독해(제목/어휘)",
+      "original_stem": "윗글의 제목으로 가장 적절한 것은?",
+      "original_points": 2,
+      "passage": "There is something about a printed photograph or newspaper headline that makes the event it describes more real than in any other form of news reporting. Perhaps this is because there is an undeniable reality to the newspaper itself: it is a real material object. That authenticity rubs off on the news. It can be pointed to, underlined, cut out, pinned on notice boards, stuck in a scrap-book, or archived in libraries. The news becomes an artifact, frozen in time; the event may be long gone, but it lives on as an indisputable fact because of its material presence ― even if it is untrue. In contrast, news websites seem short-lived. Although they too are archived, there is no unique physical component to point to as evidence of the information they convey. For this reason, there is a sense in which they can be more easily manipulated, and that history itself could be altered. At the same time, it is precisely this immediacy and rigidity of content that makes the digital media so exciting. The news website is in tune with an age that sees history as much less monolithic than previous eras once did. Digital news websites are potentially much more democratic, too, for while a physical newspaper requires huge printing presses and a distribution network linking trains, planes, trucks, shops, and ultimately newspaper sellers, in the digital world a single person can communicate with the whole world with the aid of a single computer and without requiring a single tree to be cut down.",
+      "original_summary": null,
+      "word_count": 256,
+      "flags": {
+        "incomplete_passage": false,
+        "needs_vocab_fix": true,
+        "allowed_tiers": [
+          "기본",
+          "중급",
+          "고급"
+        ]
+      }
+    }
+  ]
+}
