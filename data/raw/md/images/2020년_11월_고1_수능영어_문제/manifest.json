@@ -1,0 +1,27 @@
+[
+  {
+    "name": "image_001.png",
+    "mimeType": "image/png",
+    "bytes": 300678
+  },
+  {
+    "name": "image_002.png",
+    "mimeType": "image/png",
+    "bytes": 1437
+  },
+  {
+    "name": "image_003.png",
+    "mimeType": "image/png",
+    "bytes": 3682
+  },
+  {
+    "name": "image_004.png",
+    "mimeType": "image/png",
+    "bytes": 76144
+  },
+  {
+    "name": "image_005.png",
+    "mimeType": "image/png",
+    "bytes": 243023
+  }
+]
