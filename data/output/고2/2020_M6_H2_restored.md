@@ -244,13 +244,7 @@ The invention of the mechanical clock was influenced by monks who lived in monas
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Since we know we can’t completely eliminate our biases, we need to try to limit the harmful impacts they can have on the objectivity and rationality of our decisions and judgments.
-
-It is important that we are aware when one of our cognitive biases is activated and make a conscious choice to overcome that bias. We need to be aware of the impact the bias has on our decision making process and our life. [3점]
-
-Then we can choose an appropriate de‒biasing strategy to combat it. After we have implemented a strategy, we should check in again to see if it worked in the way we had hoped.
-
-If it did, we can move on and make an objective and informed decision. If it didn’t, we can try the same strategy again or implement a new one until we are ready to make a rational judgment.
+Since we know we can’t completely eliminate our biases, we need to try to limit the harmful impacts they can have on the objectivity and rationality of our decisions and judgments. It is important that we are aware when one of our cognitive biases is activated and make a conscious choice to overcome that bias. We need to be aware of the impact the bias has on our decision making process and our life. [3점] Then we can choose an appropriate de‒biasing strategy to combat it. After we have implemented a strategy, we should check in again to see if it worked in the way we had hoped. If it did, we can move on and make an objective and informed decision. If it didn’t, we can try the same strategy again or implement a new one until we are ready to make a rational judgment.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

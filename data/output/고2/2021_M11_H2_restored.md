@@ -236,23 +236,11 @@ There is a pervasive idea in Western culture that humans are essentially rationa
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Regarding food production, under the British government, there was a different conception of responsibility from that of French government. In France, the responsibility for producing good food lay with the producers.
-
-The state would police their activities and, if they should fail, would punish them for neglecting the interests of its citizens. By contrast, the British government — except in extreme cases — placed most of the responsibility with the individual consumers.
-
-It would be unfair to interfere with the shopkeeper's right to make money. In the 1840s, a patent was granted for a machine designed for making fake coffee beans out of chicory, using the same technology that went into manufacturing bullets.
-
-This machine was clearly designed for the purposes of swindling, and yet the government allowed it. A machine for forging money would never have been licensed, so why this? As one consumer complained, the British system of government was weighted against the consumer in favour of the swindler.
+Regarding food production, under the British government, there was a different conception of responsibility from that of French government. In France, the responsibility for producing good food lay with the producers. The state would police their activities and, if they should fail, would punish them for neglecting the interests of its citizens. By contrast, the British government — except in extreme cases — placed most of the responsibility with the individual consumers. It would be unfair to interfere with the shopkeeper's right to make money. In the 1840s, a patent was granted for a machine designed for making fake coffee beans out of chicory, using the same technology that went into manufacturing bullets. This machine was clearly designed for the purposes of swindling, and yet the government allowed it. A machine for forging money would never have been licensed, so why this? As one consumer complained, the British system of government was weighted against the consumer in favour of the swindler.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Because we are told that the planet is doomed, we do not register the growing number of scientific studies demonstrating the resilience of other species. For instance, climate-driven disturbances are affecting the world's coastal marine ecosystems more frequently and with greater intensity.
-
-This is a global problem that demands urgent action. Yet, as detailed in a 2017 paper in BioScience, there are also instances where marine ecosystems show remarkable resilience to acute climatic events.
-
-In a region in Western Australia, for instance, up to 90 percent of live coral was lost when ocean water temperatures rose, causing what scientists call coral bleaching. Yet in some sections of the reef surface, 44 percent of the corals recovered within twelve years.
-
-Similarly, kelp forests hammered by intense El Niño water-temperature increases recovered within five years. By studying these “bright spots,” situations where ecosystems persist even in the face of major climatic impacts, we can learn what management strategies help to minimize destructive forces and nurture resilience.
+Because we are told that the planet is doomed, we do not register the growing number of scientific studies demonstrating the resilience of other species. For instance, climate-driven disturbances are affecting the world's coastal marine ecosystems more frequently and with greater intensity. This is a global problem that demands urgent action. Yet, as detailed in a 2017 paper in BioScience, there are also instances where marine ecosystems show remarkable resilience to acute climatic events. In a region in Western Australia, for instance, up to 90 percent of live coral was lost when ocean water temperatures rose, causing what scientists call coral bleaching. Yet in some sections of the reef surface, 44 percent of the corals recovered within twelve years. Similarly, kelp forests hammered by intense El Niño water-temperature increases recovered within five years. By studying these “bright spots,” situations where ecosystems persist even in the face of major climatic impacts, we can learn what management strategies help to minimize destructive forces and nurture resilience.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오. [3점]
 

@@ -266,13 +266,7 @@ For most animals the struggle to survive takes up all their time. Finding food a
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Think about a time when you were startled. Did you come to a sudden stop, freeze all your movements, and hold your breath as you scanned the environment for a threat?
-
-All these responses maximize our ability to avoid detection, locate the source of possible danger, and prepare to fight or flee. As sophisticated as language has become, it is still the creation of sound that might give away our location to a potential predator.
-
-Because of this, the freeze response results in the inhibition of language in highly stressful and traumatic situations. Natural selection promoted the evolution of language but conserved the freeze rule. When the threat passes, we begin to relax and find our voices again, perhaps even to laugh at our own reactions.
-
-But what if we can never relax? What if our experiences shape our brain to be in a constant state of fear? This interference with the proper development and integration of neural networks can result in chronic stress and even mental illness.
+Think about a time when you were startled. Did you come to a sudden stop, freeze all your movements, and hold your breath as you scanned the environment for a threat? All these responses maximize our ability to avoid detection, locate the source of possible danger, and prepare to fight or flee. As sophisticated as language has become, it is still the creation of sound that might give away our location to a potential predator. Because of this, the freeze response results in the inhibition of language in highly stressful and traumatic situations. Natural selection promoted the evolution of language but conserved the freeze rule. When the threat passes, we begin to relax and find our voices again, perhaps even to laugh at our own reactions. But what if we can never relax? What if our experiences shape our brain to be in a constant state of fear? This interference with the proper development and integration of neural networks can result in chronic stress and even mental illness.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

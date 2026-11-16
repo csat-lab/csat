@@ -250,13 +250,7 @@ Although technology has the potential to increase productivity, it can also have
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Up until about 6,000 years ago, most people were farmers. Many lived in different places throughout the year, hunting for food or moving their livestock to areas with enough food.
-
-There was no need to tell the time because life depended on natural cycles, such as the changing seasons or sunrise and sunset. Gradually more people started to live in larger settlements, and some needed to tell the time
-
-For example, priests wanted to know when to carry out religious ceremonies. This was when people first invented clocks ― devices that show, measure, and keep track of passing time
-
-Clocks have been important ever since. Today, clocks are used for important things such as setting busy airport timetables ― if the time is incorrect, aeroplanes might crash into each other when taking off or landing
+Up until about 6,000 years ago, most people were farmers. Many lived in different places throughout the year, hunting for food or moving their livestock to areas with enough food. There was no need to tell the time because life depended on natural cycles, such as the changing seasons or sunrise and sunset. Gradually more people started to live in larger settlements, and some needed to tell the time For example, priests wanted to know when to carry out religious ceremonies. This was when people first invented clocks ― devices that show, measure, and keep track of passing time Clocks have been important ever since. Today, clocks are used for important things such as setting busy airport timetables ― if the time is incorrect, aeroplanes might crash into each other when taking off or landing
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.

@@ -243,13 +243,7 @@ Health and the spread of disease are very closely linked to how we live and how 
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Starting from birth, babies are immediately attracted to faces. Scientists were able to show this by having babies look at two simple images, one that looks more like a face than the other.
-
-By measuring where the babies looked, scientists found that the babies looked at the face-like image more than they looked at the non-face image. Even though babies have poor eyesight, they prefer to look at faces. But why
-
-One reason babies might like faces is because of something called evolution. Evolution involves changes to the structures of an organism(such as the brain) that occur over many generations
-
-These changes help the organisms to survive, making them alert to enemies. By being able to recognize faces from afar or in the dark, humans were able to know someone was coming and protect themselves from possible danger
+Starting from birth, babies are immediately attracted to faces. Scientists were able to show this by having babies look at two simple images, one that looks more like a face than the other. By measuring where the babies looked, scientists found that the babies looked at the face-like image more than they looked at the non-face image. Even though babies have poor eyesight, they prefer to look at faces. But why One reason babies might like faces is because of something called evolution. Evolution involves changes to the structures of an organism(such as the brain) that occur over many generations These changes help the organisms to survive, making them alert to enemies. By being able to recognize faces from afar or in the dark, humans were able to know someone was coming and protect themselves from possible danger
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.

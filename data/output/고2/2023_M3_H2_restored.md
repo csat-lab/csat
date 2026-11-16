@@ -233,13 +233,7 @@ Like positive habits, bad habits exist on a continuum of easy‑to‑change and 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-A common but incorrect assumption is that we are creatures of reason when, in fact, we are creatures of both reason and emotion. We cannot get by on reason alone since any reason always eventually leads to a feeling. Should I get a wholegrain cereal or a chocolate cereal?
-
-I can list all the reasons I want, but the reasons have to be based on something. For example, if my goal is to eat healthy, I can choose the wholegrain cereal, but what is my reason for wanting to be healthy?
-
-I can list more and more reasons such as wanting to live longer, spending more quality time with loved ones, etc., but what are the reasons for those reasons? You should be able to see by now that reasons are ultimately based on non‑reason such as values, feelings, or emotions. [3점]
-
-These deep‑seated values, feelings, and emotions we have are rarely a result of reasoning, but can certainly be influenced by reasoning. We have values, feelings, and emotions before we begin to reason and long before we begin to reason effectively.
+A common but incorrect assumption is that we are creatures of reason when, in fact, we are creatures of both reason and emotion. We cannot get by on reason alone since any reason always eventually leads to a feeling. Should I get a wholegrain cereal or a chocolate cereal? I can list all the reasons I want, but the reasons have to be based on something. For example, if my goal is to eat healthy, I can choose the wholegrain cereal, but what is my reason for wanting to be healthy? I can list more and more reasons such as wanting to live longer, spending more quality time with loved ones, etc., but what are the reasons for those reasons? You should be able to see by now that reasons are ultimately based on non‑reason such as values, feelings, or emotions. [3점] These deep‑seated values, feelings, and emotions we have are rarely a result of reasoning, but can certainly be influenced by reasoning. We have values, feelings, and emotions before we begin to reason and long before we begin to reason effectively.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

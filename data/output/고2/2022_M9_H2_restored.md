@@ -243,13 +243,7 @@ Taking a stand is important because you become a beacon for those individuals wh
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences.
-
-But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes.
-
-This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required.
-
-So how does the massively complicated brain, with its eighty‐six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.
+If DNA were the only thing that mattered, there would be no particular reason to build meaningful social programs to pour good experiences into children and protect them from bad experiences. But brains require the right kind of environment if they are to correctly develop. When the first draft of the Human Genome Project came to completion at the turn of the millennium, one of the great surprises was that humans have only about twenty thousand genes. This number came as a surprise to biologists: given the complexity of the brain and the body, it had been assumed that hundreds of thousands of genes would be required. So how does the massively complicated brain, with its eighty‐six billion neurons, get built from such a small recipe book? The answer relies on a clever strategy implemented by the genome: build incompletely and let world experience refine.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 

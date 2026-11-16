@@ -263,23 +263,11 @@ As far back as the seventeenth century, hair had a special spiritual significanc
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Mark Granovetter examined the extent to which information about jobs flowed through weak versus strong ties among a group of people.
-
-He found that only a sixth of jobs that came via the network were from strong ties, with the rest coming via medium or weak ties; and with more than a quarter coming via weak ties. Strong ties can be more homophilistic. Our closest friends are often those who are most like us.
-
-This means that they might have information that is most relevant to us, but it also means that it is information to which we may already be exposed. In contrast, our weaker relationships are often with people who are more distant both geographically and demographically.
-
-Their information is more novel. Even though we talk to these people less frequently, we have so many weak ties that they end up being a sizable source of information, especially of information to which we don't otherwise have access.
+Mark Granovetter examined the extent to which information about jobs flowed through weak versus strong ties among a group of people. He found that only a sixth of jobs that came via the network were from strong ties, with the rest coming via medium or weak ties; and with more than a quarter coming via weak ties. Strong ties can be more homophilistic. Our closest friends are often those who are most like us. This means that they might have information that is most relevant to us, but it also means that it is information to which we may already be exposed. In contrast, our weaker relationships are often with people who are more distant both geographically and demographically. Their information is more novel. Even though we talk to these people less frequently, we have so many weak ties that they end up being a sizable source of information, especially of information to which we don't otherwise have access.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-When we think of culture, we first think of human cultures, of our culture. We think of computers, airplanes, fashions, teams, and pop stars. For most of human cultural history, none of those things existed.
-
-For hundreds of thousands of years, no human culture had a tool with moving parts. Well into the twentieth century, various human foraging cultures retained tools of stone, wood, and bone. We might pity human hunter-gatherers for their stuck simplicity, but we would be making a mistake.
-
-They held extensive knowledge, knew deep secrets of their lands and creatures. And they experienced rich and rewarding lives; we know so because when their ways were threatened, they fought to hold on to them, to the death.
-
-Sadly, this remains true as the final tribal peoples get overwhelmed by those who value money above humanity. We are living in their end times and, to varying extents, we’re all contributing to those endings. Ultimately our values may even prove self-defeating.
+When we think of culture, we first think of human cultures, of our culture. We think of computers, airplanes, fashions, teams, and pop stars. For most of human cultural history, none of those things existed. For hundreds of thousands of years, no human culture had a tool with moving parts. Well into the twentieth century, various human foraging cultures retained tools of stone, wood, and bone. We might pity human hunter-gatherers for their stuck simplicity, but we would be making a mistake. They held extensive knowledge, knew deep secrets of their lands and creatures. And they experienced rich and rewarding lives; we know so because when their ways were threatened, they fought to hold on to them, to the death. Sadly, this remains true as the final tribal peoples get overwhelmed by those who value money above humanity. We are living in their end times and, to varying extents, we’re all contributing to those endings. Ultimately our values may even prove self-defeating.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

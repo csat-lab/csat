@@ -264,23 +264,11 @@ As the old joke goes: “Software, free. User manual, $10,000.” But it’s no 
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain.
-
-So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren’t the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago.
-
-By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene.
-
-This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn’t seeing what’s really out there.
+Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. So brains try to operate in the most energy-efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren’t the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn’t seeing what’s really out there.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory.
-
-But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run.
-
-Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. [3점]
-
-The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.
+Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers. [3점] The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

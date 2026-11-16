@@ -232,13 +232,7 @@ When a change in the environment occurs, there is a relative increase or decreas
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-When an important change takes place in your life, observe your response. If you resist accepting the change it is because you are afraid; afraid of losing something.
-
-Perhaps you might lose your position, property, possession, or money. The change might mean that you lose privileges or prestige. Perhaps with the change you lose the closeness of a person or a place.
-
-In life, all these things come and go and then others appear, which will also go. It is like a river in constant movement. If we try to stop the flow, we create a dam; the water stagnates and causes a pressure which accumulates inside us.
-
-To learn to let go, to not cling and allow the flow of the river, is to live without resistances; being the creators of constructive changes that bring about improvements and widen our horizons.
+When an important change takes place in your life, observe your response. If you resist accepting the change it is because you are afraid; afraid of losing something. Perhaps you might lose your position, property, possession, or money. The change might mean that you lose privileges or prestige. Perhaps with the change you lose the closeness of a person or a place. In life, all these things come and go and then others appear, which will also go. It is like a river in constant movement. If we try to stop the flow, we create a dam; the water stagnates and causes a pressure which accumulates inside us. To learn to let go, to not cling and allow the flow of the river, is to live without resistances; being the creators of constructive changes that bring about improvements and widen our horizons.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오. [3점]
 

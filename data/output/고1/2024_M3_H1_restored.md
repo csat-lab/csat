@@ -243,24 +243,12 @@ A group of psychologists studied individuals with severe mental illness who expe
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-In many sports, people realized the difficulties and even impossibilities of young children participating fully in many adult sport environments.
-
-They found the road to success for young children is unlikely if they play on adult fields, courts or arenas with equipment that is too large, too heavy or too fast for them to handle while trying to compete in adult-style competition. Common sense has prevailed: different sports have made adaptations for children
-
-As examples, baseball has T ball, football has flag football and junior soccer uses a smaller and lighter ball and (sometimes) a smaller field. All have junior competitive structures where children play for shorter time periods and often in smaller teams
-
-In a similar way, tennis has adapted the court areas, balls and rackets to make them more appropriate for children under 10. The adaptations are progressive and relate to the age of the child
+In many sports, people realized the difficulties and even impossibilities of young children participating fully in many adult sport environments. They found the road to success for young children is unlikely if they play on adult fields, courts or arenas with equipment that is too large, too heavy or too fast for them to handle while trying to compete in adult-style competition. Common sense has prevailed: different sports have made adaptations for children As examples, baseball has T ball, football has flag football and junior soccer uses a smaller and lighter ball and (sometimes) a smaller field. All have junior competitive structures where children play for shorter time periods and often in smaller teams In a similar way, tennis has adapted the court areas, balls and rackets to make them more appropriate for children under 10. The adaptations are progressive and relate to the age of the child
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-With no horses available, the Inca empire excelled at delivering messages on foot.
-
-The messengers were stationed on the royal roads to deliver the Inca king’s orders and reports coming from his lands. Called Chasquis, they lived in groups of four to six in huts, placed from one to two miles apart along the roads
-
-They were all young men and especially good runners who watched the road in both directions. If they caught sight of another messenger coming, they hurried out to meet them. The Inca built the huts on high ground, in sight of one another
-
-When a messenger neared the next hut, he began to call out and repeated the message three or four times to the one who was running out to meet him. The Inca empire could relay messages 1,000 miles (1,610 km) in three or four days under good conditions
+With no horses available, the Inca empire excelled at delivering messages on foot. The messengers were stationed on the royal roads to deliver the Inca king’s orders and reports coming from his lands. Called Chasquis, they lived in groups of four to six in huts, placed from one to two miles apart along the roads They were all young men and especially good runners who watched the road in both directions. If they caught sight of another messenger coming, they hurried out to meet them. The Inca built the huts on high ground, in sight of one another When a messenger neared the next hut, he began to call out and repeated the message three or four times to the one who was running out to meet him. The Inca empire could relay messages 1,000 miles (1,610 km) in three or four days under good conditions
 
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.

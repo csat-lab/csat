@@ -242,13 +242,7 @@ Inflationary risk refers to uncertainty regarding the future real value of one�
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Touch receptors are spread over all parts of the body, but they are not spread evenly. Most of the touch receptors are found in your fingertips, tongue, and lips.
-
-On the tip of each of your fingers, for example, there are about five thousand separate touch receptors. In other parts of the body there are far fewer. In the skin of your back, the touch receptors may be as much as 2 inches apart.
-
-You can test this for yourself. Have someone poke you in the back with one, two, or three fingers and try to guess how many fingers the person used. If the fingers are close together, you will probably think it was only one.
-
-But if the fingers are spread far apart, you can feel them individually. Yet if the person does the same thing on the back of your hand (with your eyes closed, so that you don’t see how many fingers are being used), you probably will be able to tell easily, even when the fingers are close together.
+Touch receptors are spread over all parts of the body, but they are not spread evenly. Most of the touch receptors are found in your fingertips, tongue, and lips. On the tip of each of your fingers, for example, there are about five thousand separate touch receptors. In other parts of the body there are far fewer. In the skin of your back, the touch receptors may be as much as 2 inches apart. You can test this for yourself. Have someone poke you in the back with one, two, or three fingers and try to guess how many fingers the person used. If the fingers are close together, you will probably think it was only one. But if the fingers are spread far apart, you can feel them individually. Yet if the person does the same thing on the back of your hand (with your eyes closed, so that you don’t see how many fingers are being used), you probably will be able to tell easily, even when the fingers are close together.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 

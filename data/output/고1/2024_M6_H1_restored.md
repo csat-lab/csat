@@ -246,13 +246,7 @@ Simply giving employees a sense of agency ― a feeling that they are in control
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-As businesses shift some core business activities to digital, such as sales, marketing, or archiving, it is assumed that the impact on the environment will be less negative.
-
-However, digital business activities can still threaten the environment. In some cases, the harm of digital businesses can be even more hazardous. A few decades ago, offices used to have much more paper waste since all documents were paper based
-
-When workplaces shifted from paper to digital documents, invoices, and emails, it was a promising step to save trees. However, the cost of the Internet and electricity for the environment is neglected. A recent Wired report declared that most data centers’ energy source is fossil fuels
-
-When we store bigger data on clouds, increased carbon emissions make our green clouds gray. The carbon footprint of an email is smaller than mail sent via a post office, but still, it causes four grams of CO₂, and it can be as much as 50 grams if the attachment is big
+As businesses shift some core business activities to digital, such as sales, marketing, or archiving, it is assumed that the impact on the environment will be less negative. However, digital business activities can still threaten the environment. In some cases, the harm of digital businesses can be even more hazardous. A few decades ago, offices used to have much more paper waste since all documents were paper based When workplaces shifted from paper to digital documents, invoices, and emails, it was a promising step to save trees. However, the cost of the Internet and electricity for the environment is neglected. A recent Wired report declared that most data centers’ energy source is fossil fuels When we store bigger data on clouds, increased carbon emissions make our green clouds gray. The carbon footprint of an email is smaller than mail sent via a post office, but still, it causes four grams of CO₂, and it can be as much as 50 grams if the attachment is big
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.

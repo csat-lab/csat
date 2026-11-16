@@ -268,23 +268,11 @@ Morality has been associated with the rational human beings for more than one re
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Daniel Dennett argues that one benefit of having moral considerations in our conceptual repertoire is that they can serve as conversation-stoppers: their value is to bring deliberations to a close. We are rational creatures, always able to ask for justification, and this is a trait that has served us well in many contexts.
-
-The problem is that upon receiving a perfectly good answer we can always sensibly respond “Okay, but what justifies that?” — and we can potentially do so endlessly, never coming to a decision, forever hesitant and doubting, undone by our own rational capacity.
-
-This is potentially as much a problem for our own private deliberations as for our public interpersonal ones. Dennett suggests that it is useful to have “consideration-generator-squelchers”: items that, once introduced, stop any further deliberation in its tracks.
-
-“That would be morally wrong!” would appear to work in this manner. Once the claim is accepted then there is no need or room for seeking further justification: the action mustn’t be done, even if it is tempting, and that’s all there is to it.
+Daniel Dennett argues that one benefit of having moral considerations in our conceptual repertoire is that they can serve as conversation-stoppers: their value is to bring deliberations to a close. We are rational creatures, always able to ask for justification, and this is a trait that has served us well in many contexts. The problem is that upon receiving a perfectly good answer we can always sensibly respond “Okay, but what justifies that?” — and we can potentially do so endlessly, never coming to a decision, forever hesitant and doubting, undone by our own rational capacity. This is potentially as much a problem for our own private deliberations as for our public interpersonal ones. Dennett suggests that it is useful to have “consideration-generator-squelchers”: items that, once introduced, stop any further deliberation in its tracks. “That would be morally wrong!” would appear to work in this manner. Once the claim is accepted then there is no need or room for seeking further justification: the action mustn’t be done, even if it is tempting, and that’s all there is to it.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-When the concept of expansion gets mentioned, it is difficult to resist the urge to picture the Universe with a finite and growing boundary. Our natural instinct is to wonder what the Universe could possibly be expanding into.
-
-Unfortunately, the only answer I can give you is the one that I am sure will satisfy you the least, but let me say it anyway: the Universe expands into nothingness. To be more accurate, the Universe does not expand into anything. It simply expands by itself within itself.
-
-In contrast to our inflating balloon or, say, a pipe leak that causes gas to spread into a room that exists in its own right, our expanding Universe is not spilling into another separate entity, nor even another dimension. It is the structure of space and time that stretches, a structure that has always existed, at least since the Big Bang.
-
-This structure or fabric of space and time is elastic and malleable. Just as it can pull us apart as we fall inside a black hole, it can also expand and cause anything and anyone embedded in it to move farther apart.
+When the concept of expansion gets mentioned, it is difficult to resist the urge to picture the Universe with a finite and growing boundary. Our natural instinct is to wonder what the Universe could possibly be expanding into. Unfortunately, the only answer I can give you is the one that I am sure will satisfy you the least, but let me say it anyway: the Universe expands into nothingness. To be more accurate, the Universe does not expand into anything. It simply expands by itself within itself. In contrast to our inflating balloon or, say, a pipe leak that causes gas to spread into a room that exists in its own right, our expanding Universe is not spilling into another separate entity, nor even another dimension. It is the structure of space and time that stretches, a structure that has always existed, at least since the Big Bang. This structure or fabric of space and time is elastic and malleable. Just as it can pull us apart as we fall inside a black hole, it can also expand and cause anything and anyone embedded in it to move farther apart.
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.
 

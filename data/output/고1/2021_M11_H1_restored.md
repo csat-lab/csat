@@ -249,24 +249,12 @@ Internet activist Eli Pariser noticed how online search algorithms encourage our
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Roughly twenty years ago, brick-and-mortar stores began to give way to electronic commerce. For good or bad, the shift fundamentally changed consumers’ perception of the shopping experience.
-
-Nowhere was the shift more obvious than with book sales, which is how online bookstores got their start. Physical bookstores simply could not stock as many titles as a virtual bookstore could. There is only so much space available on a shelf
-
-In addition to greater variety, online bookstores were also able to offer aggressive discounts thanks to their lower operating costs. The combination of lower prices and greater selection led to the slow, steady rise of online bookstores
-
-Before long, the e-commerce book market naturally expanded to include additional categories, like CDs and DVDs. E-commerce soon snowballed into the enormous industry it is today, where you can buy everything from toilet paper to cars online
+Roughly twenty years ago, brick-and-mortar stores began to give way to electronic commerce. For good or bad, the shift fundamentally changed consumers’ perception of the shopping experience. Nowhere was the shift more obvious than with book sales, which is how online bookstores got their start. Physical bookstores simply could not stock as many titles as a virtual bookstore could. There is only so much space available on a shelf In addition to greater variety, online bookstores were also able to offer aggressive discounts thanks to their lower operating costs. The combination of lower prices and greater selection led to the slow, steady rise of online bookstores Before long, the e-commerce book market naturally expanded to include additional categories, like CDs and DVDs. E-commerce soon snowballed into the enormous industry it is today, where you can buy everything from toilet paper to cars online
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-Literary works, by their nature, suggest rather than explain; they imply rather than state their claims boldly and directly.
-
-This broad generalization, however, does not mean that works of literature do not include direct statements. Depending on when they were written and by whom, literary works may contain large amounts of direct telling and lesser amounts of suggestion and implication
-
-But whatever the proportion of a work’s showing to telling, there is always something for readers to interpret. Thus we ask the question “What does the text suggest?” as a way to approach literary interpretation, as a way to begin thinking about a text’s implications
-
-What a text implies is often of great interest to us. And our work of figuring out a text’s implications tests our analytical powers. In considering what a text suggests, we gain practice in making sense of texts
+Literary works, by their nature, suggest rather than explain; they imply rather than state their claims boldly and directly. This broad generalization, however, does not mean that works of literature do not include direct statements. Depending on when they were written and by whom, literary works may contain large amounts of direct telling and lesser amounts of suggestion and implication But whatever the proportion of a work’s showing to telling, there is always something for readers to interpret. Thus we ask the question “What does the text suggest?” as a way to approach literary interpretation, as a way to begin thinking about a text’s implications What a text implies is often of great interest to us. And our work of figuring out a text’s implications tests our analytical powers. In considering what a text suggests, we gain practice in making sense of texts
 
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.

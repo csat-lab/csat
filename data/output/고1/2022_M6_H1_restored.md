@@ -241,24 +241,12 @@ According to Marguerite La Caze, fashion contributes to our lives and provides a
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-Mrs. Klein told her first graders to draw a picture of something to be thankful for. She thought that most of the class would draw turkeys or Thanksgiving tables. But Douglas drew something different.
-
-Douglas was a boy who usually spent time alone and stayed around her while his classmates went outside together during break time. What the boy drew was a hand. But whose hand? His image immediately attracted the other students’ interest
-
-So, everyone rushed to talk about whose hand it was. “It must be the hand of God that brings us food,” said one student. “A farmer’s,” said a second student, “because they raise the turkeys.” “It looks more like a police officer’s,” added another, “they protect us
-
-The class was so responsive that Mrs. Klein had almost forgotten about Douglas. After she had the others at work on another project, she asked Douglas whose hand it was. He answered softly, “It’s yours. Thank you, Mrs. Klein
+Mrs. Klein told her first graders to draw a picture of something to be thankful for. She thought that most of the class would draw turkeys or Thanksgiving tables. But Douglas drew something different. Douglas was a boy who usually spent time alone and stayed around her while his classmates went outside together during break time. What the boy drew was a hand. But whose hand? His image immediately attracted the other students’ interest So, everyone rushed to talk about whose hand it was. “It must be the hand of God that brings us food,” said one student. “A farmer’s,” said a second student, “because they raise the turkeys.” “It looks more like a police officer’s,” added another, “they protect us The class was so responsive that Mrs. Klein had almost forgotten about Douglas. After she had the others at work on another project, she asked Douglas whose hand it was. He answered softly, “It’s yours. Thank you, Mrs. Klein
 
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
-According to legend, once a vampire bites a person, that person turns into a vampire who seeks the blood of others. A researcher came up with some simple math, which proves that these highly popular creatures can’t exist.
-
-University of Central Florida physics professor Costas Efthimiou’s work breaks down the myth. Suppose that on January 1st, 1600, the human population was just over five hundred million
-
-If the first vampire came into existence that day and bit one person a month, there would have been two vampires by February 1st, 1600. A month later there would have been four, the next month eight, then sixteen, and so on
-
-In just two-and-a-half years, the original human population would all have become vampires with no humans left. But look around you. Have vampires taken over the world? No, because there’s no such thing
+According to legend, once a vampire bites a person, that person turns into a vampire who seeks the blood of others. A researcher came up with some simple math, which proves that these highly popular creatures can’t exist. University of Central Florida physics professor Costas Efthimiou’s work breaks down the myth. Suppose that on January 1st, 1600, the human population was just over five hundred million If the first vampire came into existence that day and bit one person a month, there would have been two vampires by February 1st, 1600. A month later there would have been four, the next month eight, then sixteen, and so on In just two-and-a-half years, the original human population would all have become vampires with no humans left. But look around you. Have vampires taken over the world? No, because there’s no such thing
 
 
 38. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.

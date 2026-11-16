@@ -248,13 +248,7 @@ The irony of early democracy in Europe is that it thrived and prospered precisel
 
 36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.
 
-If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fastfood restaurants appear all the time.
-
-These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer.
-
-However, this misconception doesn’t account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services.
-
-Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that’s pretty close to our vision of a perfect good — and no other market structure delivers that outcome.
+If you drive down a busy street, you will find many competing businesses, often right next to one another. For example, in most places a consumer in search of a quick meal has many choices, and more fastfood restaurants appear all the time. These competing firms advertise heavily. The temptation is to see advertising as driving up the price of a product without any benefit to the consumer. However, this misconception doesn’t account for why firms advertise. In markets where competitors sell slightly differentiated products, advertising enables firms to inform their customers about new products and services. Yes, costs rise, but consumers also gain information to help make purchasing decisions. Consumers also benefit from added variety, and we all get a product that’s pretty close to our vision of a perfect good — and no other market structure delivers that outcome.
 
 37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오. [3점]
 
