@@ -48,6 +48,11 @@ except Exception:
     extract_graph_blocks = None
     split_stem_prose = None
 
+try:
+    from hyphen_fix import fix_md_hyphens
+except Exception:
+    fix_md_hyphens = None
+
 STEM_RE = re.compile(r"^(\d{4})년_(\d{1,2})월_고([123])_수능영어_문제\.pdf$")
 
 
@@ -2141,6 +2146,25 @@ def build_exam(stem, log, problem_pdf, work_dir, queue=None):
     prob_md_text = ""
     if prob_md_path.exists():
         prob_md_text = prob_md_path.read_text(encoding="utf-8", errors="ignore")
+        # Hyphen fix: kordoc drops hyphens in compound words
+        # ("face-to-face" -> "facetoface", "real-world" -> "real - world").
+        # Repair the kordoc parse from the question PDF's own soft-hyphen
+        # dictionary before the table/graph extractors consume it. The
+        # fix applies to problem.md only: passages come from the
+        # pdftotext column text, whose soft hyphens are already folded
+        # by fix_hyphens(). A missing pdftotext/PDF only skips the fix
+        # (logged); it never fails the build.
+        if fix_md_hyphens is not None:
+            try:
+                prob_md_text, _hf = fix_md_hyphens(prob_md_text, problem_pdf)
+                if _hf.get("applied") and _hf.get("replacement_count"):
+                    log.append(f"{stem}: hyphen fix on problem.md: "
+                               f"{_hf['replacement_count']} replacements "
+                               f"({len(_hf['replacements'])} forms)")
+                elif _hf.get("skipped"):
+                    log.append(f"{stem}: hyphen fix skipped ({_hf.get('reason', '')})")
+            except Exception as e:
+                log.append(f"{stem}: hyphen fix failed ({e}), continuing with unrepaired parse")
         try:
             md_tables = extract_md_tables(prob_md_text)
         except Exception as e:

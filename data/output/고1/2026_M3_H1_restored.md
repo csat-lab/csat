@@ -65,7 +65,7 @@
 
 10. 다음 표를 보면서 대화를 듣고, 여자가 예약할 수업을 고르시오.
 
-Oneday Class
+One-day Class
 
 |  | Class | Level | Class Size | Price |
 | --- | --- | --- | --- | --- |
