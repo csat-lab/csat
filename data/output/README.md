@@ -179,3 +179,7 @@ EBSi 공식 해설은 저장소 답지와 같은 한국어 뜻풀이뿐이라 �
 - 2022_M9_H1 41번·42번: encouraged → abandoned (변형문제 4곳 일치 "abandoned that habit")
 - 2022_M11_H1 41번·42번: easier → more difficult (한줄해석 2곳 일치 "was more difficult than he'd anticipated")
 - 2025_M7_H3 41번·42번: acceptable → unacceptable (한줄해석 "feel unacceptable", 최소 교체 반의어. incomprehensible 가능성도 있으나 unacceptable로 결정)
+
+### 17. kordoc 원문 파싱 한계 (2026년 11월 23일)
+
+원문 파싱본(data/raw/md/)에서 kordoc이 41~45번 블록을 뒤섞어 43~45번 (A) 라벨이 제자리인 시험은 74개 중 12개뿐이고 19개는 파일 끝으로 밀리고 23개는 머리말 줄에 붙고 20개는 라벨이 없으며, 40번 ↓ 아이콘이 63개 파일에 텍스트 줄로 들어가 있으나, 지문 본문은 파싱본에 그대로 있고 복원본 지문은 pdftotext에서 가져와 전수 확인했으므로 복원 결과에는 영향이 없다.
