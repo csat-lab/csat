@@ -2141,8 +2141,16 @@ def build_exam(stem, log, problem_pdf, work_dir, queue=None):
     except Exception as ex:
         log.append(f"{stem}: group_info failed {ex}")
     # Markdown option tables from the kordoc problem parse (Q10/Q12).
+    # Hybrid merge: prefer the Upstage+kordoc merged parse when
+    # prepare.py produced one; it carries the full Q25 chart table,
+    # the fixed Q10 row labels and the correct Q43-45 order. Fall
+    # back to the kordoc parse when there is no merged file.
     md_tables = {}
-    prob_md_path = workdir / "problem.md"
+    prob_md_path = workdir / "merged.md"
+    if not prob_md_path.exists():
+        prob_md_path = workdir / "problem.md"
+    else:
+        log.append(f"{stem}: md tables from merged.md (Upstage+kordoc)")
     prob_md_text = ""
     if prob_md_path.exists():
         prob_md_text = prob_md_path.read_text(encoding="utf-8", errors="ignore")
@@ -2158,7 +2166,7 @@ def build_exam(stem, log, problem_pdf, work_dir, queue=None):
             try:
                 prob_md_text, _hf = fix_md_hyphens(prob_md_text, problem_pdf)
                 if _hf.get("applied") and _hf.get("replacement_count"):
-                    log.append(f"{stem}: hyphen fix on problem.md: "
+                    log.append(f"{stem}: hyphen fix on {prob_md_path.name}: "
                                f"{_hf['replacement_count']} replacements "
                                f"({len(_hf['replacements'])} forms)")
                 elif _hf.get("skipped"):

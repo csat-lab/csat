@@ -9,6 +9,12 @@ For each exam stem, produces the work files scripts/build.py consumes:
 - work/<stem>/answer_full.txt  (pdftotext -layout full width, arrow source)
 - work/<stem>/images/problem/*.png  (kordoc-extracted images, kordoc order)
 - work/<stem>/images/pdfimages/*.png  (pdfimages extraction, PDF order)
+- work/<stem>/upstage.md, upstage.response.json  (Upstage Document
+  Parse, Enhanced -- only when UPSTAGE_API_KEY is set; see
+  run_upstage_merge)
+- work/<stem>/merged.md, merge-report.md  (hybrid merge of the
+  Enhanced parse and the kordoc parse; build.py prefers merged.md
+  for its Q10/Q12 table and Q25 graph extractors when it exists)
 
 Phase 3: pdfimages output lives in its own directory. kordoc writes
 images/problem/ when it parses, which used to make the pdfimages step
@@ -31,6 +37,7 @@ with `kordoc --ocr` so the answer key table can still be recovered.
 """
 import argparse
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -175,12 +182,74 @@ def extract_images(prob, img_dir):
     tmp.rmdir()
 
 
-def parse_one(stem, prob, ans, work_dir, kordoc, force=False):
+def run_upstage_merge(stem, prob, workdir, force=False):
+    """Upstage Enhanced parse + hybrid merge (new exams only).
+
+    When UPSTAGE_API_KEY is set in the environment, parse the problem
+    PDF with Upstage Document Parse (Enhanced, scripts/upstage_parse.py)
+    and merge it with the kordoc parse (scripts/merge.py):
+
+    - work/<stem>/upstage.md            (Enhanced markdown)
+    - work/<stem>/upstage.response.json (full API response)
+    - work/<stem>/merged.md             (hybrid merge; what build.py
+                                          prefers for its table/graph
+                                          extractors)
+    - work/<stem>/merge-report.md       (what was overlaid / flagged)
+
+    Without the key, or when upstage.md is already present, the API
+    call is skipped and a pre-placed upstage.md is merged instead.
+    Any failure here only warns: the kordoc-only path still works and
+    prepare must never fail because of the optional merge.
+    """
+    merged_path = workdir / "merged.md"
+    if merged_path.exists() and not force:
+        return
+    problem_md = workdir / "problem.md"
+    if not problem_md.exists():
+        return
+    scripts_dir = Path(__file__).resolve().parent
+    upstage_md = workdir / "upstage.md"
+    if force or not upstage_md.exists():
+        if not os.environ.get("UPSTAGE_API_KEY"):
+            print(stem, "upstage merge skipped (UPSTAGE_API_KEY not set; "
+                  "kordoc-only path)")
+            return
+        result = subprocess.run(
+            [sys.executable, str(scripts_dir / "upstage_parse.py"),
+             "--file", str(prob),
+             "--out-md", str(upstage_md),
+             "--out-json", str(workdir / "upstage.response.json")],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        if result.returncode != 0 or not upstage_md.exists():
+            err = result.stderr.decode(errors="ignore")[-300:] if result.stderr else ""
+            print(f"WARNING: {stem} upstage parse failed: {err.strip()} "
+                  f"(continuing kordoc-only)", file=sys.stderr)
+            return
+        print(result.stdout.decode(errors="ignore").strip())
+    result = subprocess.run(
+        [sys.executable, str(scripts_dir / "merge.py"),
+         "--enhanced", str(upstage_md),
+         "--kordoc", str(problem_md),
+         "--out", str(merged_path),
+         "--report", str(workdir / "merge-report.md")],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    if result.returncode != 0 or not merged_path.exists():
+        err = result.stderr.decode(errors="ignore")[-300:] if result.stderr else ""
+        print(f"WARNING: {stem} hybrid merge failed: {err.strip()} "
+              f"(continuing kordoc-only)", file=sys.stderr)
+        return
+    print(stem, "upstage merge done ->", merged_path.name)
+
+
+def parse_one(stem, prob, ans, work_dir, kordoc, force=False, upstage=True):
     workdir = work_dir / stem
     workdir.mkdir(parents=True, exist_ok=True)
     # kordoc problem
     if force or not (workdir / "problem.md").exists():
         run_kordoc(kordoc, prob, workdir / "problem.md", workdir)
+    # Upstage Enhanced + hybrid merge (optional, key-gated; see above).
+    if upstage:
+        run_upstage_merge(stem, prob, workdir, force=force)
     if force or not (workdir / "problem_cols.txt").exists():
         cols_text(prob, workdir / "problem_cols.txt")
     # images via pdfimages into their own directory (phase 3: never
@@ -230,6 +299,9 @@ def main():
     ap.add_argument("--list", action="store_true")
     ap.add_argument("--force", action="store_true",
                     help="redo all steps even when outputs already exist")
+    ap.add_argument("--no-upstage", action="store_true",
+                    help="skip the Upstage parse + hybrid merge even when "
+                         "UPSTAGE_API_KEY is set (kordoc-only path)")
     args = ap.parse_args()
 
     repo_root = Path(args.repo_root).resolve() if args.repo_root else default_repo_root()
@@ -255,7 +327,8 @@ def main():
     for s in stems:
         prob, ans = pairs[s]
         try:
-            parse_one(s, prob, ans, work_dir, kordoc, force=args.force)
+            parse_one(s, prob, ans, work_dir, kordoc, force=args.force,
+                      upstage=not args.no_upstage)
         except Exception as e:
             print(s, "ERROR", e)
 
