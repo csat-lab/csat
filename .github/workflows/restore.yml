@@ -91,6 +91,7 @@ jobs:
       - name: Prepare parses
         env:
           INPUT_STEMS: ${{ inputs.stems }}
+          UPSTAGE_API_KEY: ${{ secrets.UPSTAGE_API_KEY }}
         run: |
           mkdir -p "$RESTORE_WORK"
           if [ -n "$INPUT_STEMS" ]; then
