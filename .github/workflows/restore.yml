@@ -43,9 +43,6 @@ jobs:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 360
-    env:
-      RESTORE_WORK: ${{ runner.temp }}/restore-work
-      RESTORE_DRYRUN: ${{ runner.temp }}/restore-dryrun
     steps:
       - uses: actions/checkout@v4
 
@@ -87,6 +84,11 @@ jobs:
         run: |
           echo "error: this workflow is dry-run only in phase 1 (no commit step yet)."
           exit 1
+
+      - name: Set work dirs
+        run: |
+          echo "RESTORE_WORK=$RUNNER_TEMP/restore-work" >> "$GITHUB_ENV"
+          echo "RESTORE_DRYRUN=$RUNNER_TEMP/restore-dryrun" >> "$GITHUB_ENV"
 
       - name: Prepare parses
         env:
