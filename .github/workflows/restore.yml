@@ -61,6 +61,9 @@ jobs:
           (cd "$(npm root -g)/kordoc" && npm install onnxruntime-node@^1.24.0)
           kordoc --version
 
+      - name: Install poppler-utils
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
       - name: Check poppler-utils
         run: |
           missing=0
